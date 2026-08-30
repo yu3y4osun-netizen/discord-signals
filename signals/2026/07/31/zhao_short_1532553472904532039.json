@@ -3,22 +3,24 @@
  "source": "discord",
  "channel_key": "zhao_short",
  "channel_name": "zhao赵哥-股票-短线-p0",
- "source_profile": null,
+ "source_profile": "daily",
  "message_id": "1532553472904532039",
  "author": "美股信息网",
  "ts": "2026-07-31T01:00:21.407000+00:00",
- "captured_at": "2026-08-30T12:37:50+08:00",
- "signal_type": "market_view",
+ "captured_at": "2026-08-30T12:38:52+08:00",
+ "signal_type": "trade",
  "payload": {
-  "subtype": "commentary",
-  "markets": [],
-  "direction": "neutral",
-  "key_levels": [],
-  "sectors_favored": [],
-  "sectors_avoided": [],
-  "risk_notes": [],
-  "summary": "7.3加了三分之一tsll~"
+  "plan_type": "incremental",
+  "ticker": "TSLL",
+  "action": "buy_add",
+  "price": 7.3,
+  "price_note": null,
+  "size_hint": "1/3",
+  "target_price": null,
+  "horizon": null,
+  "exit_rule": null,
+  "rationale": null
  },
  "raw_text": "7.3加了三分之一tsll~",
- "parse_confidence": "medium"
+ "parse_confidence": "high"
 }

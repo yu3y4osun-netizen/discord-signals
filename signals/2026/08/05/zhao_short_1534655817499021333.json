@@ -3,22 +3,24 @@
  "source": "discord",
  "channel_key": "zhao_short",
  "channel_name": "zhao赵哥-股票-短线-p0",
- "source_profile": null,
+ "source_profile": "daily",
  "message_id": "1534655817499021333",
  "author": "美股信息网",
  "ts": "2026-08-05T20:14:19.418000+00:00",
- "captured_at": "2026-08-30T12:37:50+08:00",
- "signal_type": "market_view",
+ "captured_at": "2026-08-30T12:38:52+08:00",
+ "signal_type": "trade",
  "payload": {
-  "subtype": "commentary",
-  "markets": [],
-  "direction": "neutral",
-  "key_levels": [],
-  "sectors_favored": [],
-  "sectors_avoided": [],
-  "risk_notes": [],
-  "summary": "38.15加了6分之一iren~"
+  "plan_type": "incremental",
+  "ticker": "IREN",
+  "action": "buy_add",
+  "price": 38.15,
+  "price_note": null,
+  "size_hint": "1/6",
+  "target_price": null,
+  "horizon": null,
+  "exit_rule": null,
+  "rationale": null
  },
  "raw_text": "38.15加了6分之一iren~",
- "parse_confidence": "medium"
+ "parse_confidence": "high"
 }
