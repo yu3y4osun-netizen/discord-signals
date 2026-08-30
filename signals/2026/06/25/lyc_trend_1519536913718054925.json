@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1519536913718054925",
+ "author": "美股信息网",
+ "ts": "2026-06-25T02:57:11.861000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "daily_review",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "从现在到7月中旬是韩国存储龙头重要的窗口期 1. 首先在今天盘后美光财报发布后，整个存储的逻辑和业绩都大超预期，那么基本封杀韩国存储的调整下限 2. 其次7月10日上市adr后，估值对比mu有明显性价比，整个公司不管是从融资额度还是回购等，都非常呵护股价 3. 最后近期指数调整多日，大的宏观不确定性6月已经基本落地，指数调整空间也有限。"
+ },
+ "raw_text": "从现在到7月中旬是韩国存储龙头重要的窗口期\n1. 首先在今天盘后美光财报发布后，整个存储的逻辑和业绩都大超预期，那么基本封杀韩国存储的调整下限\n2. 其次7月10日上市adr后，估值对比mu有明显性价比，整个公司不管是从融资额度还是回购等，都非常呵护股价\n3. 最后近期指数调整多日，大的宏观不确定性6月已经基本落地，指数调整空间也有限。",
+ "parse_confidence": "medium"
+}

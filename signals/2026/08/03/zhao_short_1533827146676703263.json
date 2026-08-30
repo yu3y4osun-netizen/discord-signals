@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": "daily",
+ "message_id": "1533827146676703263",
+ "author": "美股信息网",
+ "ts": "2026-08-03T13:21:28.898000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "trade",
+ "payload": {
+  "plan_type": "incremental",
+  "ticker": "DRAM",
+  "action": "buy_add",
+  "price": 48.9,
+  "price_note": null,
+  "size_hint": "1/3",
+  "target_price": null,
+  "horizon": null,
+  "exit_rule": null,
+  "rationale": null
+ },
+ "raw_text": "48.9加了三分之一常规仓的dram~",
+ "parse_confidence": "high"
+}

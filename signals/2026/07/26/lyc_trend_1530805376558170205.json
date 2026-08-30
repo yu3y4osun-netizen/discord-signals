@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1530805376558170205",
+ "author": "美股信息网",
+ "ts": "2026-07-26T05:14:02.760000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 郭老师好 1.上周纳指小破，是否看调整周期继续拉长？ 2.我发现最近财报或一些指标明明超预期，也无法兑现，我感觉已不存在符合预期的财报了，那下周等待是否是无意义的？除了财报这些，更应该关注哪些指标？ [答] 1. 是的，目前看调整从半导体ai开始扩散到大科技了 2. 观察财报后市场反馈有没有比较强势反包的标的~"
+ },
+ "raw_text": "[问]\n郭老师好\n1.上周纳指小破，是否看调整周期继续拉长？\n2.我发现最近财报或一些指标明明超预期，也无法兑现，我感觉已不存在符合预期的财报了，那下周等待是否是无意义的？除了财报这些，更应该关注哪些指标？\n[答]\n1. 是的，目前看调整从半导体ai开始扩散到大科技了\n2. 观察财报后市场反馈有没有比较强势反包的标的~",
+ "parse_confidence": "medium"
+}

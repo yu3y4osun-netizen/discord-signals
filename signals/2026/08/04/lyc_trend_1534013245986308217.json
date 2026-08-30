@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1534013245986308217",
+ "author": "美股信息网",
+ "ts": "2026-08-04T01:40:58.431000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "daily_review",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "Palantir 财报与“AI 主权”叙事总结 核心结论 Palantir 的定位正在从“帮助企业使用大模型”，升级为“企业 AI 的控制层和运营系统”。 其核心判断是： 大模型将逐渐商品化，真正稀缺的是企业自己的数据、流程、决策逻辑、行业知识，以及把 AI 转化为经营成果的能力。 Palantir 所强调的“AI 主权”，就是让客户在使用 AI 的同时，仍然掌握数据、模型、权重、行动权限和决策审"
+ },
+ "raw_text": "Palantir 财报与“AI 主权”叙事总结\n\n核心结论\nPalantir 的定位正在从“帮助企业使用大模型”，升级为“企业 AI 的控制层和运营系统”。\n其核心判断是：\n大模型将逐渐商品化，真正稀缺的是企业自己的数据、流程、决策逻辑、行业知识，以及把 AI 转化为经营成果的能力。\nPalantir 所强调的“AI 主权”，就是让客户在使用 AI 的同时，仍然掌握数据、模型、权重、行动权限和决策审计权，而 ...~",
+ "parse_confidence": "medium"
+}

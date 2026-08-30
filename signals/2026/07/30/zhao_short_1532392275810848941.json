@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1532392275810848941",
+ "author": "美股信息网",
+ "ts": "2026-07-30T14:19:49.025000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "急跌都是暂时 没事件影响都会反弹那么多回流资金 中选年最暴力时期还没开启 现在都是回流资金短线试盘 下周8月了开盘会花点时间盯着机器上 期权的iv性价比也出来了 急跌就期权买少点先练习 腰斩的明星股急跌就反复吃短线 不断重来套利~"
+ },
+ "raw_text": "急跌都是暂时 没事件影响都会反弹那么多回流资金 中选年最暴力时期还没开启 现在都是回流资金短线试盘\n\n下周8月了开盘会花点时间盯着机器上 期权的iv性价比也出来了\n\n急跌就期权买少点先练习 腰斩的明星股急跌就反复吃短线 不断重来套利~",
+ "parse_confidence": "medium"
+}

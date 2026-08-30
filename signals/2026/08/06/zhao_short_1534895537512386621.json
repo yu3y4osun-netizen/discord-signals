@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": "daily",
+ "message_id": "1534895537512386621",
+ "author": "美股信息网",
+ "ts": "2026-08-06T12:06:53.123000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "trade",
+ "payload": {
+  "plan_type": "incremental",
+  "ticker": "QQQ",
+  "action": "buy_add",
+  "price": 420.0,
+  "price_note": null,
+  "size_hint": null,
+  "target_price": null,
+  "horizon": null,
+  "exit_rule": null,
+  "rationale": null
+ },
+ "raw_text": "西数数据财报后很多估值给到420-430前面缺口422附近 存储仓位等拉开价差会再加一批 qqq今天注意注意700整数位关口附近的支撑回踩探底看能不能支撑住~",
+ "parse_confidence": "high"
+}

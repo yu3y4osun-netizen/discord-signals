@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1516648426258038824",
+ "author": "美股信息网",
+ "ts": "2026-06-17T03:39:22.785000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 老大，黄jin是不是基本右侧了。 [答] 当然不算右侧，右侧需要均线多头发散，还早呢"
+ },
+ "raw_text": "[问]\n老大，黄jin是不是基本右侧了。\n[答]\n当然不算右侧，右侧需要均线多头发散，还早呢",
+ "parse_confidence": "medium"
+}

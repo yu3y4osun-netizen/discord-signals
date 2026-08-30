@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1524316827398701087",
+ "author": "美股信息网",
+ "ts": "2026-07-08T07:30:52.089000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [
+   "美股"
+  ],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 老大，观察美股多次存在夜盘拉，开盘崩的情况，对小散来说，夜盘做T是否可行？是否有相关的指标可以参考 [答] 夜盘流动性差，具体怎么操作我觉得很难，一般波动性大的品种可以试试看~"
+ },
+ "raw_text": "[问]\n老大，观察美股多次存在夜盘拉，开盘崩的情况，对小散来说，夜盘做T是否可行？是否有相关的指标可以参考\n[答]\n夜盘流动性差，具体怎么操作我觉得很难，一般波动性大的品种可以试试看~",
+ "parse_confidence": "medium"
+}

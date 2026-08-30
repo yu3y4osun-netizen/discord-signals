@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1532482593084412115",
+ "author": "美股信息网",
+ "ts": "2026-07-30T20:18:42.341000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "conl避开了财报的大跌财报二季度是亏损3.5亿 就6分之一仓4.55拿一点~"
+ },
+ "raw_text": "conl避开了财报的大跌财报二季度是亏损3.5亿 就6分之一仓4.55拿一点~",
+ "parse_confidence": "medium"
+}

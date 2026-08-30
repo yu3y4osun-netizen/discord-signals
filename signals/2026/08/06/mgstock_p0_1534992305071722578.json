@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1534992305071722578",
+ "author": "美股信息网",
+ "ts": "2026-08-06T18:31:24.307000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "PTON",
+  "headline": "PTON -11% Peloton全年首度达成盈利，季度营收，利润均优于预期，依靠调价优化毛利率，可硬件销量下滑，付费订阅用户持续流失，来年营收指引不及市场预想，成长根基存隐患，直接引发股价大幅下挫",
+  "sentiment": -1,
+  "summary": "PTON -11% Peloton全年首度达成盈利，季度营收，利润均优于预期，依靠调价优化毛利率，可硬件销量下滑，付费订阅用户持续流失，来年营收指引不及市场预想，成长根基存隐患，直接引发股价大幅下挫。~"
+ },
+ "raw_text": "PTON -11% Peloton全年首度达成盈利，季度营收，利润均优于预期，依靠调价优化毛利率，可硬件销量下滑，付费订阅用户持续流失，来年营收指引不及市场预想，成长根基存隐患，直接引发股价大幅下挫。~",
+ "parse_confidence": "high"
+}

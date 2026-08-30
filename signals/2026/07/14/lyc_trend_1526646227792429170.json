@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1526646227792429170",
+ "author": "美股信息网",
+ "ts": "2026-07-14T17:47:04.421000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 老师 通过哪些指标信息可以看出是主力在做诱空/诱多呢？ [答] 原有趋势通道外加速，增加斜率，同时伴随恐慌性的抛售~"
+ },
+ "raw_text": "[问]\n老师 通过哪些指标信息可以看出是主力在做诱空/诱多呢？\n[答]\n原有趋势通道外加速，增加斜率，同时伴随恐慌性的抛售~",
+ "parse_confidence": "medium"
+}

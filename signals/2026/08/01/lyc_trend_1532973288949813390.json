@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1532973288949813390",
+ "author": "美股信息网",
+ "ts": "2026-08-01T04:48:33.352000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 老大怎么看8月市场？会不会有绝对低点出现？ [答] 由于7月底市场杀出恐慌盘和出清融资盘，我认为8月是震荡修复过程，硬件存储半导体震荡收敛降波做中继，软件云计算震荡上行。指数整体会是震荡上涨，但过程会比较波折，多空都会有机会~"
+ },
+ "raw_text": "[问]\n老大怎么看8月市场？会不会有绝对低点出现？\n[答]\n由于7月底市场杀出恐慌盘和出清融资盘，我认为8月是震荡修复过程，硬件存储半导体震荡收敛降波做中继，软件云计算震荡上行。指数整体会是震荡上涨，但过程会比较波折，多空都会有机会~",
+ "parse_confidence": "medium"
+}

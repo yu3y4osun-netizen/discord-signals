@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": "daily",
+ "message_id": "1535287363939471371",
+ "author": "美股信息网",
+ "ts": "2026-08-07T14:03:51.823000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "trade",
+ "payload": {
+  "plan_type": "incremental",
+  "ticker": "SPCX",
+  "action": "sell_partial",
+  "price": 107.5,
+  "price_note": null,
+  "size_hint": null,
+  "target_price": null,
+  "horizon": null,
+  "exit_rule": null,
+  "rationale": null
+ },
+ "raw_text": "spcx107.5的部分先死拿 等急跌再找机会加 解禁的比例不是很高之前违规解禁很多都出了~",
+ "parse_confidence": "high"
+}

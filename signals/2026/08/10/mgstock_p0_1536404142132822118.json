@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1536404142132822118",
+ "author": "美股信息网",
+ "ts": "2026-08-10T16:01:32.493000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "MRNA",
+  "headline": "MRNA Moderna股价上涨，核心驱动力是自研全球首款mRNA流感疫苗获批FDA上市，这款新品让mRNA技术跳出新冠应急场景，开拓常规疫苗庞大市场，叠加该企业刚披露的二季度营收高于市场预期，基本面",
+  "sentiment": 1,
+  "summary": "MRNA Moderna股价上涨，核心驱动力是自研全球首款mRNA流感疫苗获批FDA上市，这款新品让mRNA技术跳出新冠应急场景，开拓常规疫苗庞大市场，叠加该企业刚披露的二季度营收高于市场预期，基本面双重利好提振资金做多意愿，直接拉动个股行情走高。~"
+ },
+ "raw_text": "MRNA Moderna股价上涨，核心驱动力是自研全球首款mRNA流感疫苗获批FDA上市，这款新品让mRNA技术跳出新冠应急场景，开拓常规疫苗庞大市场，叠加该企业刚披露的二季度营收高于市场预期，基本面双重利好提振资金做多意愿，直接拉动个股行情走高。~",
+ "parse_confidence": "high"
+}

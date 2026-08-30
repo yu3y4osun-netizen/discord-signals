@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1520996338064556154",
+ "author": "美股信息网",
+ "ts": "2026-06-29T03:36:25.740000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "bullish",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 老大，你为什么这么看好美光财报，提前就满仓了。不担心业绩兑现跑路呢。 [答] 全世界的机构都在买存储上游，需求从各个渠道来看都没有任何问题，在连续调整以后，这里财报暴雷在支撑位直接跳空破位的概率很低的"
+ },
+ "raw_text": "[问]\n老大，你为什么这么看好美光财报，提前就满仓了。不担心业绩兑现跑路呢。\n[答]\n全世界的机构都在买存储上游，需求从各个渠道来看都没有任何问题，在连续调整以后，这里财报暴雷在支撑位直接跳空破位的概率很低的",
+ "parse_confidence": "medium"
+}

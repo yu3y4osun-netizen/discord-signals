@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1520996324244324425",
+ "author": "美股信息网",
+ "ts": "2026-06-29T03:36:22.445000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [
+   "美股"
+  ],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 老大，现在如存储和半导体这些赛道已经涨了这么久了，在26年H2是否有大级别调整的预期？主要关心美股这边。感谢。 [答] 5%到7%的震荡肯定会有，我觉得都很合理，大级别反转条件不具备"
+ },
+ "raw_text": "[问]\n老大，现在如存储和半导体这些赛道已经涨了这么久了，在26年H2是否有大级别调整的预期？主要关心美股这边。感谢。\n[答]\n5%到7%的震荡肯定会有，我觉得都很合理，大级别反转条件不具备",
+ "parse_confidence": "medium"
+}

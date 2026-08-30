@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1534576345626181663",
+ "author": "美股信息网",
+ "ts": "2026-08-05T14:58:31.847000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "16:00：Western Digital $WDC 16:05：SanDisk $SNDK 存储 16:00：MercadoLibre $MELI 16:00：Axon Enterprise $AXON 16:00：Duolingo $DUOL 16:00：Expedia $EXPE 16:00：SoundHound AI $SOUN AI语音 16:00：Warner Music Group "
+ },
+ "raw_text": "16:00：Western Digital $WDC\n\n16:05：SanDisk $SNDK\n\n存储\n\n16:00：MercadoLibre $MELI\n\n16:00：Axon Enterprise $AXON\n\n16:00：Duolingo $DUOL\n\n16:00：Expedia $EXPE\n\n16:00：SoundHound AI $SOUN\n\nAI语音\n\n16:00：Warner Music Group $WMG\n\n16:05：AppLovin $APP\n\nAI 应用广告\n\n16:05：e.l.f. Beauty $ELF\n\n16:05：IonQ $IONQ\n\n量子\n\n16:05：Dutch Bros $BROS\n\n16:05：Joby Aviation $JOBY\n\n无人机\n\n16:05：Block $XYZ\n\nAI读卡器\n\n16:05：Figma $FIG\n\nAI软件\n\n16:05：DoorDash $DASH\n\n16:05：Etsy $ETSY\n\n16:05：Zillow $Z\n\n16:05：Zillow Group $ZG\n\n16:05：eBay $EBAY\n\n16:05：HubSpot $HUBS\n\n16:05：Realty Income $O\n\n16:10：Beyond Meat $BYND\n\n16:10：Motorola Solutions $MSI\n\n16:10：McKesson $MCK\n\n16:15：Albemarle $ALB\n\n16:15：NuScale Power $SMR\n\n16:15：MetLife $MET\n\n16:30：Redwire $RDW\n\n17:00：Nutrien $NTR）~",
+ "parse_confidence": "medium"
+}

@@ -1,0 +1,27 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1533826780362702969",
+ "author": "美股信息网",
+ "ts": "2026-08-03T13:20:01.562000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [
+   "A股",
+   "港股"
+  ],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "周五韩国政府账户接收了散户t+3强平的仓位在今天开始慢慢去这批接受的杠杆 A股港股继续开始了减持回流 加上周四有闪迪等存储的财报 这周还是每天拉开价差 分批次低吸~"
+ },
+ "raw_text": "周五韩国政府账户接收了散户t+3强平的仓位在今天开始慢慢去这批接受的杠杆\n\nA股港股继续开始了减持回流 加上周四有闪迪等存储的财报 这周还是每天拉开价差 分批次低吸~",
+ "parse_confidence": "medium"
+}

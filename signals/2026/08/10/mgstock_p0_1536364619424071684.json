@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1536364619424071684",
+ "author": "美股信息网",
+ "ts": "2026-08-10T13:24:29.545000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "SPY",
+  "headline": "SPY 盘前，股指期货小幅下跌",
+  "sentiment": 0,
+  "summary": "SPY 盘前，股指期货小幅下跌。本周美股面临通胀数据与财报双重考验，CPI，PPI等数据会左右美联储降息节奏，NBIS，应用材料等重点企业财报牵动AI板块情绪。叠加霍尔木兹海峡通航僵持，炼油厂遇袭推高油价，地缘抬升避险压力，短期股市大概率震荡博弈。~"
+ },
+ "raw_text": "SPY 盘前，股指期货小幅下跌。本周美股面临通胀数据与财报双重考验，CPI，PPI等数据会左右美联储降息节奏，NBIS，应用材料等重点企业财报牵动AI板块情绪。叠加霍尔木兹海峡通航僵持，炼油厂遇袭推高油价，地缘抬升避险压力，短期股市大概率震荡博弈。~",
+ "parse_confidence": "high"
+}

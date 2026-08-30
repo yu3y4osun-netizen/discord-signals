@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1516648199295860809",
+ "author": "美股信息网",
+ "ts": "2026-06-17T03:38:28.673000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 感觉老大每天熬夜挺辛苦的，请问老大有计划以后换到一个时差友好一点的地方生活吗？ [答] 影响不大，稍微调整一下作息，国内的话可能新疆那边好点？"
+ },
+ "raw_text": "[问]\n感觉老大每天熬夜挺辛苦的，请问老大有计划以后换到一个时差友好一点的地方生活吗？\n[答]\n影响不大，稍微调整一下作息，国内的话可能新疆那边好点？",
+ "parse_confidence": "medium"
+}

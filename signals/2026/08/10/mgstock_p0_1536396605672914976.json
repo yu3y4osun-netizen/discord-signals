@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1536396605672914976",
+ "author": "美股信息网",
+ "ts": "2026-08-10T15:31:35.661000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "META",
+  "headline": "META Meta推出轻量化开源智能体模型，普通个人电脑便可搭载运行，贴合终端本地AI需求，直接助推其股价走高，高管借此呼吁放宽本土AI数据管控，还透露后续会持续上新开源产品，稳固自身在开源AI赛道的",
+  "sentiment": 0,
+  "summary": "META Meta推出轻量化开源智能体模型，普通个人电脑便可搭载运行，贴合终端本地AI需求，直接助推其股价走高，高管借此呼吁放宽本土AI数据管控，还透露后续会持续上新开源产品，稳固自身在开源AI赛道的竞争力。~"
+ },
+ "raw_text": "META Meta推出轻量化开源智能体模型，普通个人电脑便可搭载运行，贴合终端本地AI需求，直接助推其股价走高，高管借此呼吁放宽本土AI数据管控，还透露后续会持续上新开源产品，稳固自身在开源AI赛道的竞争力。~",
+ "parse_confidence": "high"
+}

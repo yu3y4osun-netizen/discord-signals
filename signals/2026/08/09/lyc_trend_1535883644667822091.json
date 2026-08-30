@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1535883644667822091",
+ "author": "美股信息网",
+ "ts": "2026-08-09T05:33:16.227000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 郭老师好，继本周非农数据降低加息预期后，如果下周三CPI进一步利好降息，是否可以继续加大周五文章里提到的降息交易逻辑中相关标的的仓位？谢谢~ [答] 我对cpi并没有那么乐观，等cpi落地再做决定比较好~"
+ },
+ "raw_text": "[问]\n郭老师好，继本周非农数据降低加息预期后，如果下周三CPI进一步利好降息，是否可以继续加大周五文章里提到的降息交易逻辑中相关标的的仓位？谢谢~\n[答]\n我对cpi并没有那么乐观，等cpi落地再做决定比较好~",
+ "parse_confidence": "medium"
+}

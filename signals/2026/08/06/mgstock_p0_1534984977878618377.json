@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1534984977878618377",
+ "author": "美股信息网",
+ "ts": "2026-08-06T18:02:17.368000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "FIG",
+  "headline": "FIG -16% Figma营收增速达标超出指引，依旧没能稳住股价，市场担忧AI工具冲击主业前景，CEO主动放弃大额股权激励安抚投资人，但这份诚意难以打消行业变革顾虑，个股上市后整体走势持续承压",
+  "sentiment": -1,
+  "summary": "FIG -16% Figma营收增速达标超出指引，依旧没能稳住股价，市场担忧AI工具冲击主业前景，CEO主动放弃大额股权激励安抚投资人，但这份诚意难以打消行业变革顾虑，个股上市后整体走势持续承压。~"
+ },
+ "raw_text": "FIG -16% Figma营收增速达标超出指引，依旧没能稳住股价，市场担忧AI工具冲击主业前景，CEO主动放弃大额股权激励安抚投资人，但这份诚意难以打消行业变革顾虑，个股上市后整体走势持续承压。~",
+ "parse_confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1532743091696435241",
+ "author": "美股信息网",
+ "ts": "2026-07-31T13:33:50.050000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "343.5出一半 334的谷歌 因为之前两个半份都是334 出半个就可以~"
+ },
+ "raw_text": "343.5出一半 334的谷歌 因为之前两个半份都是334 出半个就可以~",
+ "parse_confidence": "medium"
+}

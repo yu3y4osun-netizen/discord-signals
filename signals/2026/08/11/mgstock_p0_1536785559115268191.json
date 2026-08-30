@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1536785559115268191",
+ "author": "美股信息网",
+ "ts": "2026-08-11T17:17:09.388000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "CBRS",
+  "headline": "CBRS Cerebras即将发布上市后第二份财报，营收同比大幅提升，但环比增长乏力，增速开始放缓，公司签下OpenAI大额合作订单，却依旧预判本季度亏损，增收不盈利成为市场核心关注点，后续能否依托大",
+  "sentiment": 0,
+  "summary": "CBRS Cerebras即将发布上市后第二份财报，营收同比大幅提升，但环比增长乏力，增速开始放缓，公司签下OpenAI大额合作订单，却依旧预判本季度亏损，增收不盈利成为市场核心关注点，后续能否依托大客户完成规模化盈利，会直接主导该股短期行情走向。~"
+ },
+ "raw_text": "CBRS Cerebras即将发布上市后第二份财报，营收同比大幅提升，但环比增长乏力，增速开始放缓，公司签下OpenAI大额合作订单，却依旧预判本季度亏损，增收不盈利成为市场核心关注点，后续能否依托大客户完成规模化盈利，会直接主导该股短期行情走向。~",
+ "parse_confidence": "high"
+}

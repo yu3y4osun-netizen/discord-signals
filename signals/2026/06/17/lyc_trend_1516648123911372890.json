@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1516648123911372890",
+ "author": "美股信息网",
+ "ts": "2026-06-17T03:38:10.700000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [
+   "美股"
+  ],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 请问大佬，6月美股中下旬回调的话，大概会回调到什么位置呢，强支撑在哪里、还是选铲子股布局吗，谢谢 [答] 看起来比预期的早一点发生，这里标普我看最多5%的回调"
+ },
+ "raw_text": "[问]\n请问大佬，6月美股中下旬回调的话，大概会回调到什么位置呢，强支撑在哪里、还是选铲子股布局吗，谢谢\n[答]\n看起来比预期的早一点发生，这里标普我看最多5%的回调",
+ "parse_confidence": "medium"
+}

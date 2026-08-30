@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1537046147539927121",
+ "author": "美股信息网",
+ "ts": "2026-08-12T10:32:38.510000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 郭老师好，现在日美联手干预日元，怕不怕因此引发yen carry trade拆仓潮导致股市下跌，类似24年7月的那种。 [答] 没有特别明显的迹象，如果流动性出问题市场应该会有比较明显的反应，现在iwm 和 降息收益标的都在修复反弹，没必要做任何提前的交易~"
+ },
+ "raw_text": "[问]\n郭老师好，现在日美联手干预日元，怕不怕因此引发yen carry trade拆仓潮导致股市下跌，类似24年7月的那种。\n[答]\n没有特别明显的迹象，如果流动性出问题市场应该会有比较明显的反应，现在iwm 和 降息收益标的都在修复反弹，没必要做任何提前的交易~",
+ "parse_confidence": "medium"
+}

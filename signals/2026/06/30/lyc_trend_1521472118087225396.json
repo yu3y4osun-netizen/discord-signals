@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1521472118087225396",
+ "author": "美股信息网",
+ "ts": "2026-06-30T11:07:00.537000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 老大，灯塔国某龙头存储自从跟老大抄作业卖飞以来，就没再入，昨天是有跌到20日均线，想问一下可否用sell put atm上车？ 还有就是如果这个票如果您长拿到现在也接近7倍，是否比频繁换股盈利更大？ [答] 没有一个机构可以做到买在最低卖在最高，放平心态，赚认知范围内该赚的钱就够了"
+ },
+ "raw_text": "[问]\n老大，灯塔国某龙头存储自从跟老大抄作业卖飞以来，就没再入，昨天是有跌到20日均线，想问一下可否用sell put atm上车？\n还有就是如果这个票如果您长拿到现在也接近7倍，是否比频繁换股盈利更大？\n[答]\n没有一个机构可以做到买在最低卖在最高，放平心态，赚认知范围内该赚的钱就够了",
+ "parse_confidence": "medium"
+}

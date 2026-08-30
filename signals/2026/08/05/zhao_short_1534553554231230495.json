@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1534553554231230495",
+ "author": "美股信息网",
+ "ts": "2026-08-05T13:27:57.955000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "bullish",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "昨天普涨后 今天开盘先看看动向看有没有兑现的盘 nvdl也是又一次来到了上次的34主要抢了些amd 的单子也可以上次没出的注意34以上出~"
+ },
+ "raw_text": "昨天普涨后 今天开盘先看看动向看有没有兑现的盘 nvdl也是又一次来到了上次的34主要抢了些amd 的单子也可以上次没出的注意34以上出~",
+ "parse_confidence": "medium"
+}

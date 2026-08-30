@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1534657614552764458",
+ "author": "美股信息网",
+ "ts": "2026-08-05T20:21:27.869000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "开盘判断今天回调 盘后财报也会带跌下 看亚洲是不是在跟跌 留一半到亚洲收盘看是不是再加一半6分之一~"
+ },
+ "raw_text": "开盘判断今天回调 盘后财报也会带跌下 看亚洲是不是在跟跌 留一半到亚洲收盘看是不是再加一半6分之一~",
+ "parse_confidence": "medium"
+}

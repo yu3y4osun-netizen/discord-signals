@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1522258623013851147",
+ "author": "美股信息网",
+ "ts": "2026-07-02T15:12:17.924000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "bullish",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 老大，七月份行情怎么看？看好吗 [答] 硬件高位震荡调整，指数分化~"
+ },
+ "raw_text": "[问]\n老大，七月份行情怎么看？看好吗\n[答]\n硬件高位震荡调整，指数分化~",
+ "parse_confidence": "medium"
+}

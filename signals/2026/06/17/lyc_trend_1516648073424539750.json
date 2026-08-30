@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1516648073424539750",
+ "author": "美股信息网",
+ "ts": "2026-06-17T03:37:58.663000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "daily_review",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "算力即权力：为什么现在必须高度重视 Neocloud 的市场行情？ 近期市场的几件大事看似各自独立，但如果把它们拼凑在一起，就会浮现出一条极具爆发力的主线——算力基础设施（Neocloud）正在迎来属于它的“卖方市场”时刻。 作为投资者，如果你还在盯着传统的 SaaS 或者仅仅是芯片硬件，可能会错过下一波极具弹性的红利。以下是我们必须立刻重视 Neocloud（新一代云服务商）行情的六大核心逻辑："
+ },
+ "raw_text": "算力即权力：为什么现在必须高度重视 Neocloud 的市场行情？\n\n近期市场的几件大事看似各自独立，但如果把它们拼凑在一起，就会浮现出一条极具爆发力的主线——算力基础设施（Neocloud）正在迎来属于它的“卖方市场”时刻。 作为投资者，如果你还在盯着传统的 SaaS 或者仅仅是芯片硬件，可能会错过下一波极具弹性的红利。以下是我们必须立刻重视 Neocloud（新一代云服务商）行情的六大核心逻辑：\n1. 巨头的“算力焦虑”与 ...",
+ "parse_confidence": "medium"
+}

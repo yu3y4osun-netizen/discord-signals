@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1524265269709635659",
+ "author": "美股信息网",
+ "ts": "2026-07-08T04:05:59.778000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "daily_review",
+  "markets": [
+   "港股"
+  ],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "最近全球市场的AI硬件都在快速调整，我认为是对4月以来的快速拉升的正常修复，由于上涨太快导致估值担忧，短期连续调整后，不论是技术指标还是散户情绪，在昨晚都到达一定极端，今天白天港股AI标的已经开始快速修复，短期先看一波正常反弹。~"
+ },
+ "raw_text": "最近全球市场的AI硬件都在快速调整，我认为是对4月以来的快速拉升的正常修复，由于上涨太快导致估值担忧，短期连续调整后，不论是技术指标还是散户情绪，在昨晚都到达一定极端，今天白天港股AI标的已经开始快速修复，短期先看一波正常反弹。~",
+ "parse_confidence": "medium"
+}

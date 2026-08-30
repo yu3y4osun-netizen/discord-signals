@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1519536911838875722",
+ "author": "美股信息网",
+ "ts": "2026-06-25T02:57:11.413000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 老大，这次的下跌是回调，可以慢慢捡筹码，还是彻底没得玩了 [答] 高位震荡而已，我觉得市场还是比较健康的"
+ },
+ "raw_text": "[问]\n老大，这次的下跌是回调，可以慢慢捡筹码，还是彻底没得玩了\n[答]\n高位震荡而已，我觉得市场还是比较健康的",
+ "parse_confidence": "medium"
+}

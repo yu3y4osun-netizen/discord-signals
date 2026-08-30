@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1535282592692310087",
+ "author": "美股信息网",
+ "ts": "2026-08-07T13:44:54.269000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "SKHY",
+  "headline": "SKHY SK海力士公布股息方案，还将在三季度敲定股东回报规划，企业现金流充裕，但回馈比例不及同行美光，引发投资者不满，市场就此猜测，管理层并不看好AI存储行业景气行情能够长久延续",
+  "sentiment": 0,
+  "summary": "SKHY SK海力士公布股息方案，还将在三季度敲定股东回报规划，企业现金流充裕，但回馈比例不及同行美光，引发投资者不满，市场就此猜测，管理层并不看好AI存储行业景气行情能够长久延续。~"
+ },
+ "raw_text": "SKHY SK海力士公布股息方案，还将在三季度敲定股东回报规划，企业现金流充裕，但回馈比例不及同行美光，引发投资者不满，市场就此猜测，管理层并不看好AI存储行业景气行情能够长久延续。~",
+ "parse_confidence": "high"
+}

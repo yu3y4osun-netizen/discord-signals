@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1535315065543205005",
+ "author": "美股信息网",
+ "ts": "2026-08-07T15:53:56.400000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "中选阶段都是 价差模式加交给机器识别大单 一个价位有大单就做点 价差拉开有大单买了就在加一批 或者 估值模式机构给买入下限和预估上限了就中线 一半中线一半做T跟机器 双模式同时进行~"
+ },
+ "raw_text": "中选阶段都是 价差模式加交给机器识别大单 一个价位有大单就做点 价差拉开有大单买了就在加一批\n\n或者 估值模式机构给买入下限和预估上限了就中线\n\n一半中线一半做T跟机器 双模式同时进行~",
+ "parse_confidence": "medium"
+}

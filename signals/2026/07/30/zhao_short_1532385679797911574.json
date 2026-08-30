@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1532385679797911574",
+ "author": "美股信息网",
+ "ts": "2026-07-30T13:53:36.413000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "模式内的二次握手的急跌每天复读机讲累了 当然是跌的时候大资金进场 不要每次买了稍微跌点 又天塌了 就是急跌低吸以进攻做防御~"
+ },
+ "raw_text": "模式内的二次握手的急跌每天复读机讲累了 当然是跌的时候大资金进场\n\n不要每次买了稍微跌点 又天塌了\n\n就是急跌低吸以进攻做防御~",
+ "parse_confidence": "medium"
+}

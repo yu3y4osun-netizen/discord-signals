@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1532752520139509944",
+ "author": "美股信息网",
+ "ts": "2026-07-31T14:11:17.966000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "因为韩国原因 回流是有很多天没减持的 特朗普的传声筒的一些助手答记者问知道的 特朗普正式说延迟应该在周末 下一轮qqq650附近和强势股在二次探底时候就可能说回流结束~"
+ },
+ "raw_text": "因为韩国原因 回流是有很多天没减持的 特朗普的传声筒的一些助手答记者问知道的\n\n特朗普正式说延迟应该在周末\n\n下一轮qqq650附近和强势股在二次探底时候就可能说回流结束~",
+ "parse_confidence": "medium"
+}

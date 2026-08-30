@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1532937920669941884",
+ "author": "美股信息网",
+ "ts": "2026-08-01T02:28:00.897000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "daily_review",
+  "markets": [],
+  "direction": "bearish",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "今日复盘： soxx 和mu nqmain 碰到了压力位，都被砸下来了，没有任何反抗 ，QQQ稍微少一些，但是也是中性 下周周一 周二就非常关键了，如果mu 跌破800 ，qqq 守不住680，就要减仓，甚至清仓，可能会对前期低点进行二次测试，不排除创造一个更低的地点~"
+ },
+ "raw_text": "今日复盘：\nsoxx 和mu nqmain 碰到了压力位，都被砸下来了，没有任何反抗 ，QQQ稍微少一些，但是也是中性 下周周一 周二就非常关键了，如果mu 跌破800 ，qqq 守不住680，就要减仓，甚至清仓，可能会对前期低点进行二次测试，不排除创造一个更低的地点~",
+ "parse_confidence": "medium"
+}

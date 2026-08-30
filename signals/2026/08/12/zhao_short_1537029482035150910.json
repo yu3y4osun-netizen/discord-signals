@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": "daily",
+ "message_id": "1537029482035150910",
+ "author": "美股信息网",
+ "ts": "2026-08-12T09:26:25.144000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "trade",
+ "payload": {
+  "plan_type": "incremental",
+  "ticker": "CPI",
+  "action": "sell_partial",
+  "price": 8.0,
+  "price_note": null,
+  "size_hint": null,
+  "target_price": null,
+  "horizon": null,
+  "exit_rule": null,
+  "rationale": null
+ },
+ "raw_text": "上周也是出数据急速拉升在缓慢出货 今天cpi复制上周的概率很大 因为cpi数据正好是特朗普党派控制的数据一方\n\n8点半到盘前再有急速拉升到盘中会继续出点~",
+ "parse_confidence": "high"
+}

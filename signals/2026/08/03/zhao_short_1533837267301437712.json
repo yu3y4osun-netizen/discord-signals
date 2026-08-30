@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1533837267301437712",
+ "author": "美股信息网",
+ "ts": "2026-08-03T14:01:41.843000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "372.2出了334剩下一半谷歌A 快接近之前说的机构下季度的390目标值~"
+ },
+ "raw_text": "372.2出了334剩下一半谷歌A 快接近之前说的机构下季度的390目标值~",
+ "parse_confidence": "medium"
+}

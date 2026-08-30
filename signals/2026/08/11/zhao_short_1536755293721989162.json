@@ -1,0 +1,28 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1536755293721989162",
+ "author": "美股信息网",
+ "ts": "2026-08-11T15:16:53.556000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [
+   "A股",
+   "港股",
+   "美股"
+  ],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "昨天美股收盘是-0.3%微跌的这样触发了 早上A股港股的减持 韩国是涨 说明这几天又有减持回流 横盘等下一次去冲破上面的阻力 今天横盘尾盘也可能微跌继续去触发A股港股的减持回流~"
+ },
+ "raw_text": "昨天美股收盘是-0.3%微跌的这样触发了 早上A股港股的减持 韩国是涨 说明这几天又有减持回流 横盘等下一次去冲破上面的阻力 今天横盘尾盘也可能微跌继续去触发A股港股的减持回流~",
+ "parse_confidence": "medium"
+}

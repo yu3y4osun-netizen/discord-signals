@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1530008545158758502",
+ "author": "美股信息网",
+ "ts": "2026-07-24T00:27:43.350000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "daily_review",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "https://mp.weixin.qq.com/s/1ePg4ye_AW8Ew1wGK8HatQ~"
+ },
+ "raw_text": "https://mp.weixin.qq.com/s/1ePg4ye_AW8Ew1wGK8HatQ~",
+ "parse_confidence": "medium"
+}

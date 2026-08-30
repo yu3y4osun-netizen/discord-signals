@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1535309536376791121",
+ "author": "美股信息网",
+ "ts": "2026-08-07T15:31:58.144000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "oklo今天盘中还是之前一样的合同利好 日内加13% 47.82出掉之前47.3剩下一半 今天盘后财报也是当规避下~"
+ },
+ "raw_text": "oklo今天盘中还是之前一样的合同利好 日内加13%  47.82出掉之前47.3剩下一半  今天盘后财报也是当规避下~",
+ "parse_confidence": "medium"
+}

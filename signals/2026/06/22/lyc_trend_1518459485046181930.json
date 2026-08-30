@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1518459485046181930",
+ "author": "美股信息网",
+ "ts": "2026-06-22T03:35:52.848000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "daily_review",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "站在巨人的肩膀上：Mark Minervini 的交易哲学与体系构建 在当代股票交易的浩瀚星空中，Mark Minervini 无疑是最耀眼、最具传奇色彩的一代宗师之一。在华尔街这个充满博弈、贪婪与恐惧的名利场，无数所谓的“神话”如同流星般陨落，而 Minervini 却凭借其穿越牛熊的非凡业绩，铸就了不朽的丰碑。 作为美国投资锦标赛（U.S. Investing Championship）的常胜"
+ },
+ "raw_text": "站在巨人的肩膀上：Mark Minervini 的交易哲学与体系构建\n\n在当代股票交易的浩瀚星空中，Mark Minervini 无疑是最耀眼、最具传奇色彩的一代宗师之一。在华尔街这个充满博弈、贪婪与恐惧的名利场，无数所谓的“神话”如同流星般陨落，而 Minervini 却凭借其穿越牛熊的非凡业绩，铸就了不朽的丰碑。\n作为美国投资锦标赛（U.S. Investing Championship）的常胜将军，他在 1997 年凭借高 ...",
+ "parse_confidence": "medium"
+}

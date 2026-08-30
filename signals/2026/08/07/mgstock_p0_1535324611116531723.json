@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1535324611116531723",
+ "author": "美股信息网",
+ "ts": "2026-08-07T16:31:52.242000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "TMUS",
+  "headline": "TMUS SpaceX官宣打算落地本土移动通信业务，引发行业竞争猜想，T-Mobile高管公开表态，认为星链带来的行业威胁被过度夸大，质疑其缺少差异化优势，难以挖掘用户刚需，卫星通信覆盖短板明显，很难",
+  "sentiment": 0,
+  "summary": "TMUS SpaceX官宣打算落地本土移动通信业务，引发行业竞争猜想，T-Mobile高管公开表态，认为星链带来的行业威胁被过度夸大，质疑其缺少差异化优势，难以挖掘用户刚需，卫星通信覆盖短板明显，很难撼动传统运营商根基。~"
+ },
+ "raw_text": "TMUS SpaceX官宣打算落地本土移动通信业务，引发行业竞争猜想，T-Mobile高管公开表态，认为星链带来的行业威胁被过度夸大，质疑其缺少差异化优势，难以挖掘用户刚需，卫星通信覆盖短板明显，很难撼动传统运营商根基。~",
+ "parse_confidence": "high"
+}

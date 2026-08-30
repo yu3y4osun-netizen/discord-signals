@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1534940855784312994",
+ "author": "美股信息网",
+ "ts": "2026-08-06T15:06:57.841000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "做期权有做股票就可以窗口多开几个不要一个窗口一直切又慢又看不见刷新~"
+ },
+ "raw_text": "做期权有做股票就可以窗口多开几个不要一个窗口一直切又慢又看不见刷新~",
+ "parse_confidence": "medium"
+}

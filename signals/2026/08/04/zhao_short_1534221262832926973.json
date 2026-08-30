@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1534221262832926973",
+ "author": "美股信息网",
+ "ts": "2026-08-04T15:27:33.512000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "今天只发了个股期权的速度冷门里面中等速度 明天会优先看指数期权（速度快） 先发个股再去看指数期权 速度先手优势就没有了~"
+ },
+ "raw_text": "今天只发了个股期权的速度冷门里面中等速度 明天会优先看指数期权（速度快） 先发个股再去看指数期权 速度先手优势就没有了~",
+ "parse_confidence": "medium"
+}

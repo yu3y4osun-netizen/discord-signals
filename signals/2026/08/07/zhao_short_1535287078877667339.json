@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1535287078877667339",
+ "author": "美股信息网",
+ "ts": "2026-08-07T14:02:43.859000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "今天也是价差拉开加分批 如果尾盘是分时最低的话可以在加一个批次 周末才有伊朗协议是否签署的发言 盘前数据肯定是特朗普政府干预 相差很多就是为了做差价~"
+ },
+ "raw_text": "今天也是价差拉开加分批 如果尾盘是分时最低的话可以在加一个批次 周末才有伊朗协议是否签署的发言 盘前数据肯定是特朗普政府干预 相差很多就是为了做差价~",
+ "parse_confidence": "medium"
+}

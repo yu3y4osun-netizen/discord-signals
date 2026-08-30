@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1524313691288244235",
+ "author": "美股信息网",
+ "ts": "2026-07-08T07:18:24.382000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 老大，截止刚刚，棒子已经跌破牛熊线，这里需要担心棒子会不会冲击到流动性吗 [答] 阶段顶部已经无疑问，短期流动性杀跌尾声了，等韩国存储龙头adr上市会有一定修复。近期我认为会是震荡行情，因为标普还在高位，整体行情宽度没有问题~"
+ },
+ "raw_text": "[问]\n老大，截止刚刚，棒子已经跌破牛熊线，这里需要担心棒子会不会冲击到流动性吗\n[答]\n阶段顶部已经无疑问，短期流动性杀跌尾声了，等韩国存储龙头adr上市会有一定修复。近期我认为会是震荡行情，因为标普还在高位，整体行情宽度没有问题~",
+ "parse_confidence": "medium"
+}

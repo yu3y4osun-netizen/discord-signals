@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1522258624993562855",
+ "author": "美股信息网",
+ "ts": "2026-07-02T15:12:18.396000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 老大，这波怎么杀的这么猛，存储半导体ai的叙事有变吗？似乎听到很多大厂都控制了员工的月token额度，没有以前多了。还有glm等便宜模型的性能似乎也上来了，感觉是不是美国ai鬼故事已经来了？ [答] 核心还是涨太多，无他~"
+ },
+ "raw_text": "[问]\n老大，这波怎么杀的这么猛，存储半导体ai的叙事有变吗？似乎听到很多大厂都控制了员工的月token额度，没有以前多了。还有glm等便宜模型的性能似乎也上来了，感觉是不是美国ai鬼故事已经来了？\n[答]\n核心还是涨太多，无他~",
+ "parse_confidence": "medium"
+}

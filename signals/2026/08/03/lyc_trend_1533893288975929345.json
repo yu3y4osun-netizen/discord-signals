@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1533893288975929345",
+ "author": "美股信息网",
+ "ts": "2026-08-03T17:44:18.451000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 老大对科创50接下来怎么看，深套中 [答] 走wxy调整，目前a浪末端，即将开始复杂中继性质的反弹，如果结构清楚，等周线级别调整结束还有大机会，但是我觉得这两周反弹要先逢高降低头寸~"
+ },
+ "raw_text": "[问]\n老大对科创50接下来怎么看，深套中\n[答]\n走wxy调整，目前a浪末端，即将开始复杂中继性质的反弹，如果结构清楚，等周线级别调整结束还有大机会，但是我觉得这两周反弹要先逢高降低头寸~",
+ "parse_confidence": "medium"
+}

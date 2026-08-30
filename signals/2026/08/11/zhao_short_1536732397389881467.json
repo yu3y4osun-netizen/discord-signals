@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1536732397389881467",
+ "author": "美股信息网",
+ "ts": "2026-08-11T13:45:54.645000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "今天和昨天开盘一样 期权比例很低 昨天尾盘强平的很多说明昨天都在吃横盘磨损 只根据价格有急跌时候吸个股等spx成交放大在期权~"
+ },
+ "raw_text": "今天和昨天开盘一样 期权比例很低 昨天尾盘强平的很多说明昨天都在吃横盘磨损 只根据价格有急跌时候吸个股等spx成交放大在期权~",
+ "parse_confidence": "medium"
+}

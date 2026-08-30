@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": "daily",
+ "message_id": "1532841155258089714",
+ "author": "美股信息网",
+ "ts": "2026-07-31T20:03:30.225000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "trade",
+ "payload": {
+  "plan_type": "incremental",
+  "ticker": "MU",
+  "action": "buy_add",
+  "price": 8.0,
+  "price_note": null,
+  "size_hint": "1/2",
+  "target_price": null,
+  "horizon": null,
+  "exit_rule": null,
+  "rationale": null
+ },
+ "raw_text": "周末就好好休息为主 心态放平常心 下下周的周五就是8月15了一半中选从前期造势到宣传辩论到结束也要2个半月时候就不会再怎么拖延\n\n一个就是热门明星股 最近的云服务器 存储之类的在低点确认二次探低点附近\n\n一个就是qqq每天看转弯spx就辅助 像今天spx幅度很高qqq幅度很窄就是冷门股没怎么回调 我们大多数是热门股就qqq幅度决定热门个股幅度\n\n还是在震荡周期坚持个2周 看qqq在探650附近或者摸时候在吸第二次\n\n可以金字塔加仓 比如mu 844今天6分之一 780-790 三分之一 700-750在2分之一 加\n\n夜盘就看看韩国和A港 韩国跌就盘前在跌点吸 韩国涨就开盘回踩的急跌转弯在吸~",
+ "parse_confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1534946249357262869",
+ "author": "美股信息网",
+ "ts": "2026-08-06T15:28:23.769000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "bullish",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "一个财报跌了 不要老是找纯文字的信息 只看有数字依托的 什么机构 持股多少 评级估值看多少低位 上限后续多少 不是要做科研攻关人员 要赚钱要套利 要卡机制~"
+ },
+ "raw_text": "一个财报跌了 不要老是找纯文字的信息 只看有数字依托的 什么机构 持股多少 评级估值看多少低位 上限后续多少\n\n不是要做科研攻关人员 要赚钱要套利 要卡机制~",
+ "parse_confidence": "medium"
+}

@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": "daily",
+ "message_id": "1535310588358434920",
+ "author": "美股信息网",
+ "ts": "2026-08-07T15:36:08.956000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "trade",
+ "payload": {
+  "plan_type": "incremental",
+  "ticker": "MU",
+  "action": "sell_partial",
+  "price": 876.0,
+  "price_note": null,
+  "size_hint": "1/2",
+  "target_price": null,
+  "horizon": null,
+  "exit_rule": null,
+  "rationale": null
+ },
+ "raw_text": "876出一半 855的mu~",
+ "parse_confidence": "high"
+}

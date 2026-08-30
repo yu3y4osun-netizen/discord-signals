@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1536434535556714638",
+ "author": "美股信息网",
+ "ts": "2026-08-10T18:02:18.850000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "TEM",
+  "headline": "TEM +6% Tempus AI涨幅领跑本轮AI应用软件行情，当下AI从硬件基建逐步转向落地应用阶段，医疗AI赛道需求稳步释放，公司深耕智能医疗数据分析赛道，商业化空间广阔，板块整体行情火热带动资金",
+  "sentiment": 1,
+  "summary": "TEM +6% Tempus AI涨幅领跑本轮AI应用软件行情，当下AI从硬件基建逐步转向落地应用阶段，医疗AI赛道需求稳步释放，公司深耕智能医疗数据分析赛道，商业化空间广阔，板块整体行情火热带动资金扎堆布局，叠加自身业务成长逻辑，共同推动其股价走高。~"
+ },
+ "raw_text": "TEM +6% Tempus AI涨幅领跑本轮AI应用软件行情，当下AI从硬件基建逐步转向落地应用阶段，医疗AI赛道需求稳步释放，公司深耕智能医疗数据分析赛道，商业化空间广阔，板块整体行情火热带动资金扎堆布局，叠加自身业务成长逻辑，共同推动其股价走高。~",
+ "parse_confidence": "high"
+}

@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1518459490834317455",
+ "author": "美股信息网",
+ "ts": "2026-06-22T03:35:54.228000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [
+   "美股"
+  ],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 老师想请教盘中交易的时候会考虑量能够不够吗？一般盘中怎么看够不够呢谢谢🙏🫡 [答] 美股看的蛮少，港a会瞄一下日线成交量，在大a成交量蛮有参考意义。 一般软件都有虚拟成交量，不太准但是可以知道个大概情况"
+ },
+ "raw_text": "[问]\n老师想请教盘中交易的时候会考虑量能够不够吗？一般盘中怎么看够不够呢谢谢🙏🫡\n[答]\n美股看的蛮少，港a会瞄一下日线成交量，在大a成交量蛮有参考意义。\n一般软件都有虚拟成交量，不太准但是可以知道个大概情况",
+ "parse_confidence": "medium"
+}

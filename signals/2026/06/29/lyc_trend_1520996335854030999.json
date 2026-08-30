@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1520996335854030999",
+ "author": "美股信息网",
+ "ts": "2026-06-29T03:36:25.213000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "bullish",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 老大，能请教一下么 其实这次美光财报很多人都觉得会超预期，但是可能不会非常超预期，都担心带崩大盘，你怎么那么坚定看好的呢？ [答] 不要预设要跌或者要崩，日线周线月线都是强多头排列，这里即使要改变趋势，也是需要一个漫长的筑顶过程，而不是因为某个时间点要发财报"
+ },
+ "raw_text": "[问]\n老大，能请教一下么  其实这次美光财报很多人都觉得会超预期，但是可能不会非常超预期，都担心带崩大盘，你怎么那么坚定看好的呢？\n[答]\n不要预设要跌或者要崩，日线周线月线都是强多头排列，这里即使要改变趋势，也是需要一个漫长的筑顶过程，而不是因为某个时间点要发财报",
+ "parse_confidence": "medium"
+}

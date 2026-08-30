@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1519536909574082602",
+ "author": "美股信息网",
+ "ts": "2026-06-25T02:57:10.873000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 老大，可以讲讲美韩港A的半导体行情吗？这几天被震的有点傻逼了，底部割了又追一点。想请教下一般这种行情操作上有什么注意事项，有什么应对建议吗？ [答] 这两天走的都挺好的，我觉得抓住右侧标的，多头排列的耐心持有就行了，均线不走坏就忽略日内震荡"
+ },
+ "raw_text": "[问]\n老大，可以讲讲美韩港A的半导体行情吗？这几天被震的有点傻逼了，底部割了又追一点。想请教下一般这种行情操作上有什么注意事项，有什么应对建议吗？\n[答]\n这两天走的都挺好的，我觉得抓住右侧标的，多头排列的耐心持有就行了，均线不走坏就忽略日内震荡",
+ "parse_confidence": "medium"
+}

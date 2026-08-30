@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1537185224339755102",
+ "author": "美股信息网",
+ "ts": "2026-08-12T19:45:17.003000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "截取了分时的大图 和上次cpi有点类似 整体心电图 开盘点那一瞬间是全天最高点 收盘附近收在最低点附近 横盘微跌微涨~"
+ },
+ "raw_text": "截取了分时的大图\n\n和上次cpi有点类似 整体心电图 开盘点那一瞬间是全天最高点 收盘附近收在最低点附近 横盘微跌微涨~",
+ "parse_confidence": "medium"
+}

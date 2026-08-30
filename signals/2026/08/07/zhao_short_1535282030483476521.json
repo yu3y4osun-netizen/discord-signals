@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1535282030483476521",
+ "author": "美股信息网",
+ "ts": "2026-08-07T13:42:40.228000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "今天数据出来先拉了一波 开盘是多的轮次 等尾盘空的轮次在低吸的时候在吸点最低点出来的和急跌的~"
+ },
+ "raw_text": "今天数据出来先拉了一波 开盘是多的轮次 等尾盘空的轮次在低吸的时候在吸点最低点出来的和急跌的~",
+ "parse_confidence": "medium"
+}

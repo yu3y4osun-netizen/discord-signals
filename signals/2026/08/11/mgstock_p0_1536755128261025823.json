@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1536755128261025823",
+ "author": "美股信息网",
+ "ts": "2026-08-11T15:16:14.107000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "RIOT",
+  "headline": "RIOT +15% AI企业Anthropic与矿企Riot签下91亿美元巨额算力长期合约，Riot依托自有大型电力园区供应算力资源，保障对方AI业务扩容需求，Riot最新财报营收符合预期，亏损却超出",
+  "sentiment": 1,
+  "summary": "RIOT +15% AI企业Anthropic与矿企Riot签下91亿美元巨额算力长期合约，Riot依托自有大型电力园区供应算力资源，保障对方AI业务扩容需求，Riot最新财报营收符合预期，亏损却超出市场预估，但这笔重磅合作大幅提振市场情绪，直接推动其股价大涨。~"
+ },
+ "raw_text": "RIOT +15% AI企业Anthropic与矿企Riot签下91亿美元巨额算力长期合约，Riot依托自有大型电力园区供应算力资源，保障对方AI业务扩容需求，Riot最新财报营收符合预期，亏损却超出市场预估，但这笔重磅合作大幅提振市场情绪，直接推动其股价大涨。~",
+ "parse_confidence": "high"
+}

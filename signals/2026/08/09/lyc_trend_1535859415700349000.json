@@ -1,0 +1,33 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1535859415700349000",
+ "author": "美股信息网",
+ "ts": "2026-08-09T03:56:59.591000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [
+   "黄金"
+  ],
+  "direction": "neutral",
+  "key_levels": [
+   {
+    "index": "黄金",
+    "level": 4400.0,
+    "level_type": "level",
+    "note": "[问] 老大，黄金已到之前说的4400位置了，短期还有上涨的空间吗 "
+   }
+  ],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 老大，黄金已到之前说的4400位置了，短期还有上涨的空间吗 [答] 第一目标位，会有震荡，但我觉得由于前期调整周期长，结构清晰，可以继续观察一下~"
+ },
+ "raw_text": "[问]\n老大，黄金已到之前说的4400位置了，短期还有上涨的空间吗\n[答]\n第一目标位，会有震荡，但我觉得由于前期调整周期长，结构清晰，可以继续观察一下~",
+ "parse_confidence": "medium"
+}

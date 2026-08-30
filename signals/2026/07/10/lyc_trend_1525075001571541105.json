@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1525075001571541105",
+ "author": "美股信息网",
+ "ts": "2026-07-10T09:43:34.898000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 想请教下，meta发布新模型后叙事是否有希望开始扭转，就像去年的Google一样。现在meta在周通道下轨附近，今天在模型宣布后非常强势。而且NVDA好像在虹吸其他半导体，现在有机会要市场主线转移到mags，开始mags的主升浪吗？ [答] 可能会轮动到mags，毕竟硬件叙事过于饱满了~"
+ },
+ "raw_text": "[问]\n想请教下，meta发布新模型后叙事是否有希望开始扭转，就像去年的Google一样。现在meta在周通道下轨附近，今天在模型宣布后非常强势。而且NVDA好像在虹吸其他半导体，现在有机会要市场主线转移到mags，开始mags的主升浪吗？\n[答]\n可能会轮动到mags，毕竟硬件叙事过于饱满了~",
+ "parse_confidence": "medium"
+}
