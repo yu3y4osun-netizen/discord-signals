@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1541454655413026939",
+ "author": "美股信息网",
+ "ts": "2026-08-24T14:30:28.693000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "PLTR",
+  "headline": "PLTR 川谱六月持仓申报文件曝光，整月完成上千笔证券换手，他反复调整Palantir的仓位，布局多只个股头寸，同时大额缩减VIG指数ETF仓位，申报材料仅标注金额区间，没有披露精准数额，如此频繁的仓",
+  "sentiment": 0,
+  "summary": "PLTR 川谱六月持仓申报文件曝光，整月完成上千笔证券换手，他反复调整Palantir的仓位，布局多只个股头寸，同时大额缩减VIG指数ETF仓位，申报材料仅标注金额区间，没有披露精准数额，如此频繁的仓位调整，令市场持续留意持仓动向所引发的情绪传导。~"
+ },
+ "raw_text": "PLTR 川谱六月持仓申报文件曝光，整月完成上千笔证券换手，他反复调整Palantir的仓位，布局多只个股头寸，同时大额缩减VIG指数ETF仓位，申报材料仅标注金额区间，没有披露精准数额，如此频繁的仓位调整，令市场持续留意持仓动向所引发的情绪传导。~",
+ "parse_confidence": "high"
+}

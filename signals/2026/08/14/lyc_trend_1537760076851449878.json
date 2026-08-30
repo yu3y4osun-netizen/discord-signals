@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1537760076851449878",
+ "author": "美股信息网",
+ "ts": "2026-08-14T09:49:32.522000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 郭老师，看了您今天的复盘感觉上是整体向好，但又有点偏高位的意思？所以现在是不建议加仓，也没有必要减仓吗？ [答] 边打边撤，不左侧空，但是逐步降低风偏~"
+ },
+ "raw_text": "[问]\n郭老师，看了您今天的复盘感觉上是整体向好，但又有点偏高位的意思？所以现在是不建议加仓，也没有必要减仓吗？\n[答]\n边打边撤，不左侧空，但是逐步降低风偏~",
+ "parse_confidence": "medium"
+}

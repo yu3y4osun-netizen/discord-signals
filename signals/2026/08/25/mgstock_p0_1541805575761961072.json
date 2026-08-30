@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1541805575761961072",
+ "author": "美股信息网",
+ "ts": "2026-08-25T13:44:54.624000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "META",
+  "headline": "META 企业着手推进消费端AI助手Hatch以及Watermelon新模型的落地进度，Meta计划近几周推出AI助手，10月上线新一代大模型，公司希望借此开辟广告以外的营收渠道，产品设置分级订阅，高",
+  "sentiment": 0,
+  "summary": "META 企业着手推进消费端AI助手Hatch以及Watermelon新模型的落地进度，Meta计划近几周推出AI助手，10月上线新一代大模型，公司希望借此开辟广告以外的营收渠道，产品设置分级订阅，高阶套餐定价较高，能够对接大量第三方平台，但付费模式的用户接受度尚待验证，商业化前景存有变数。~"
+ },
+ "raw_text": "META 企业着手推进消费端AI助手Hatch以及Watermelon新模型的落地进度，Meta计划近几周推出AI助手，10月上线新一代大模型，公司希望借此开辟广告以外的营收渠道，产品设置分级订阅，高阶套餐定价较高，能够对接大量第三方平台，但付费模式的用户接受度尚待验证，商业化前景存有变数。~",
+ "parse_confidence": "high"
+}

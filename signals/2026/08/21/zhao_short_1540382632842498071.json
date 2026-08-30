@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1540382632842498071",
+ "author": "美股信息网",
+ "ts": "2026-08-21T15:30:38.595000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "日内有异动或者大单出逃要有出有买 比如cifr大单出逃检测了都卖了就2个仓换一个苹果的3分之一仓先耗着 在慢慢看哪些急跌的在慢慢调换 不然一直死拿不就日内机会又错过 5-8成是动态的 开盘8成 有些股高了你分批出3成 在分批入急跌的3成~"
+ },
+ "raw_text": "日内有异动或者大单出逃要有出有买 比如cifr大单出逃检测了都卖了就2个仓换一个苹果的3分之一仓先耗着 在慢慢看哪些急跌的在慢慢调换\n\n不然一直死拿不就日内机会又错过\n\n5-8成是动态的 开盘8成 有些股高了你分批出3成 在分批入急跌的3成~",
+ "parse_confidence": "medium"
+}

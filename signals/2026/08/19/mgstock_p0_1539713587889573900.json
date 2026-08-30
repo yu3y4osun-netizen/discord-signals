@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1539713587889573900",
+ "author": "美股信息网",
+ "ts": "2026-08-19T19:12:05.848000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "FCF",
+  "headline": "Uber 去年的自由现金流（FCF）接近 98亿美元，预计到 2027 年将进一步增长至 130亿美元",
+  "sentiment": 0,
+  "summary": "Uber 去年的自由现金流（FCF）接近 98亿美元，预计到 2027 年将进一步增长至 130亿美元。按照目前约 76美元的股价计算，相当于市场给予 Uber 未来自由现金流约 12 倍的估值。而 Uber 目前拥有约 2亿月活跃用户，每天完成约 4000万次出行订单。~"
+ },
+ "raw_text": "Uber 去年的自由现金流（FCF）接近 98亿美元，预计到 2027 年将进一步增长至 130亿美元。按照目前约 76美元的股价计算，相当于市场给予 Uber 未来自由现金流约 12 倍的估值。而 Uber 目前拥有约 2亿月活跃用户，每天完成约 4000万次出行订单。~",
+ "parse_confidence": "high"
+}

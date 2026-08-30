@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1539963509142454287",
+ "author": "美股信息网",
+ "ts": "2026-08-20T11:45:11.718000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [
+   "A股"
+  ],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "A股周一题材股增量的冲高 被周二到周四的三连减持都给吞掉了 周二银行股护盘加速了周三当天的力度 今天盘前到开盘也会和昨天一样小压盘下 回流都有t+2的时差效应 强势股主要看qqq的转弯去低吸~"
+ },
+ "raw_text": "A股周一题材股增量的冲高 被周二到周四的三连减持都给吞掉了 周二银行股护盘加速了周三当天的力度\n\n今天盘前到开盘也会和昨天一样小压盘下 回流都有t+2的时差效应\n\n强势股主要看qqq的转弯去低吸~",
+ "parse_confidence": "medium"
+}

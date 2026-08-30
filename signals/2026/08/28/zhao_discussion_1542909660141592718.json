@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542909660141592718",
+ "author": "halandhaha",
+ "ts": "2026-08-28T14:52:08.853000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "GOOGL"
+  ],
+  "is_following_zhao": false,
+  "summary": "googl 太他妈猛了"
+ },
+ "raw_text": "googl 太他妈猛了",
+ "parse_confidence": "medium"
+}

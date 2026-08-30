@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": "daily",
+ "message_id": "1541478956862283839",
+ "author": "美股信息网",
+ "ts": "2026-08-24T16:07:02.610000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "trade",
+ "payload": {
+  "plan_type": "incremental",
+  "ticker": "SPX",
+  "action": "stop_loss",
+  "price": 1.0,
+  "price_note": null,
+  "size_hint": "1/2",
+  "target_price": null,
+  "horizon": null,
+  "exit_rule": null,
+  "rationale": null
+ },
+ "raw_text": "正循环\n\nA股港股跌了就看盘前1小时和开盘附近有没有回踩\n\n有回踩在spx7640极限位置就 低吸低吸低吸\n\n然后就是轻松看有没有直线异动 直线异动出个一半\n\n负循环\n\n夜盘跌一点就一直吸\n\n开盘回踩 问要不要止损啊\n\n中选是不是不好了\n\n是不是战争加剧了\n\n没资金加了怎么办\n\n反弹上去夜盘买的还没回本怎么办\n\n等等之类的问题~",
+ "parse_confidence": "high"
+}

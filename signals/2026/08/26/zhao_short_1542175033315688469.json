@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": "daily",
+ "message_id": "1542175033315688469",
+ "author": "美股信息网",
+ "ts": "2026-08-26T14:13:00.169000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "trade",
+ "payload": {
+  "plan_type": "incremental",
+  "ticker": "CBRS",
+  "action": "hold",
+  "price": null,
+  "price_note": null,
+  "size_hint": null,
+  "target_price": null,
+  "horizon": null,
+  "exit_rule": null,
+  "rationale": null
+ },
+ "raw_text": "cbrs这周有持续解禁有些解禁的员工也是看英伟达财报后再看卖不卖 等最低点高于前一天有大单进了才再补中间都会跳过不操作~",
+ "parse_confidence": "high"
+}

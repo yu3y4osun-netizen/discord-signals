@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1537872718140022847",
+ "author": "美股信息网",
+ "ts": "2026-08-14T17:17:08.298000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "GOOG",
+  "headline": "GOOG 高盛表示，谷歌发布会推出多款硬件，重点落地新一代Gemini智能功能，尽管硬件营收占比偏小，但公司依靠自研芯片，将AI嵌入各类终端，稳步扩大手机与可穿戴设备份额，终端AI布局有望提升Gemi",
+  "sentiment": 0,
+  "summary": "GOOG 高盛表示，谷歌发布会推出多款硬件，重点落地新一代Gemini智能功能，尽管硬件营收占比偏小，但公司依靠自研芯片，将AI嵌入各类终端，稳步扩大手机与可穿戴设备份额，终端AI布局有望提升Gemini价值，强化谷歌消费互联网竞争力，该行维持买入评级。~"
+ },
+ "raw_text": "GOOG 高盛表示，谷歌发布会推出多款硬件，重点落地新一代Gemini智能功能，尽管硬件营收占比偏小，但公司依靠自研芯片，将AI嵌入各类终端，稳步扩大手机与可穿戴设备份额，终端AI布局有望提升Gemini价值，强化谷歌消费互联网竞争力，该行维持买入评级。~",
+ "parse_confidence": "high"
+}

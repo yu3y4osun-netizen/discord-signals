@@ -1,0 +1,28 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1539616730702155827",
+ "author": "美股信息网",
+ "ts": "2026-08-19T12:47:13.295000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [
+   "A股",
+   "港股",
+   "美股"
+  ],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "今天A股就是前几天说的会把反弹的涨幅给吞掉 反弹是为了更大的减持回流美股 只要A股港股跌了 美股的跌就会有更多后备资金去抄底~"
+ },
+ "raw_text": "今天A股就是前几天说的会把反弹的涨幅给吞掉\n\n反弹是为了更大的减持回流美股 只要A股港股跌了 美股的跌就会有更多后备资金去抄底~",
+ "parse_confidence": "medium"
+}

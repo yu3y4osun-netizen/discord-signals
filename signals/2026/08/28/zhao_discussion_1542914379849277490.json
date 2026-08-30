@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542914379849277490",
+ "author": "jackeysang",
+ "ts": "2026-08-28T15:10:54.119000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "IREN"
+  ],
+  "is_following_zhao": false,
+  "summary": "iren真像路边一条野狗啊"
+ },
+ "raw_text": "iren真像路边一条野狗啊",
+ "parse_confidence": "medium"
+}

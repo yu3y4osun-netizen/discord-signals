@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1542896544804765737",
+ "author": "美股信息网",
+ "ts": "2026-08-28T14:00:01.913000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "META",
+  "headline": "META 扎克伯格公开对AI风险相关叙事提出质疑，Meta依旧保持对Anthropic的模型采购，即便今夏砍掉部分订单，每个月依旧有着大额支出，内部预估年度花销的上限居高不下，Meta一边公开持批评立",
+  "sentiment": 0,
+  "summary": "META 扎克伯格公开对AI风险相关叙事提出质疑，Meta依旧保持对Anthropic的模型采购，即便今夏砍掉部分订单，每个月依旧有着大额支出，内部预估年度花销的上限居高不下，Meta一边公开持批评立场，一边持续采购第三方模型，暴露出自研路线尚不能够完全自给的现状。~"
+ },
+ "raw_text": "META 扎克伯格公开对AI风险相关叙事提出质疑，Meta依旧保持对Anthropic的模型采购，即便今夏砍掉部分订单，每个月依旧有着大额支出，内部预估年度花销的上限居高不下，Meta一边公开持批评立场，一边持续采购第三方模型，暴露出自研路线尚不能够完全自给的现状。~",
+ "parse_confidence": "high"
+}

@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1542557194799685793",
+ "author": "美股信息网",
+ "ts": "2026-08-27T15:31:34.567000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "CRWD",
+  "headline": "CRWD +9% CrowdStrike本季多项核心指标超出预期，同步上调全年营收指引，AI相关安全隐患接连暴露，拉动企业对于AI安防产品的采购意愿，七月份完成拆股之后，亮眼的财报进一步点燃资金的做多",
+  "sentiment": 1,
+  "summary": "CRWD +9% CrowdStrike本季多项核心指标超出预期，同步上调全年营收指引，AI相关安全隐患接连暴露，拉动企业对于AI安防产品的采购意愿，七月份完成拆股之后，亮眼的财报进一步点燃资金的做多情绪，行业需求打开新的增长空间，但赛道竞争逐步加剧仍需要持续留意。~"
+ },
+ "raw_text": "CRWD +9% CrowdStrike本季多项核心指标超出预期，同步上调全年营收指引，AI相关安全隐患接连暴露，拉动企业对于AI安防产品的采购意愿，七月份完成拆股之后，亮眼的财报进一步点燃资金的做多情绪，行业需求打开新的增长空间，但赛道竞争逐步加剧仍需要持续留意。~",
+ "parse_confidence": "high"
+}

@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1537487559280824321",
+ "author": "美股信息网",
+ "ts": "2026-08-13T15:46:39.270000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "BABA",
+  "headline": "BABA 阿里巴巴开源超大规模MoE模型Qwen3.8‑2.4T‑A95B，众智FlagOS社区同步完成多芯片适配，该大模型已在九款AI芯片上依托统一开源技术栈完成适配，精度对齐与部署验证，丰富了可运",
+  "sentiment": 0,
+  "summary": "BABA 阿里巴巴开源超大规模MoE模型Qwen3.8‑2.4T‑A95B，众智FlagOS社区同步完成多芯片适配，该大模型已在九款AI芯片上依托统一开源技术栈完成适配，精度对齐与部署验证，丰富了可运行的硬件选项，助力国产大模型生态进一步拓展落地场景。~"
+ },
+ "raw_text": "BABA 阿里巴巴开源超大规模MoE模型Qwen3.8‑2.4T‑A95B，众智FlagOS社区同步完成多芯片适配，该大模型已在九款AI芯片上依托统一开源技术栈完成适配，精度对齐与部署验证，丰富了可运行的硬件选项，助力国产大模型生态进一步拓展落地场景。~",
+ "parse_confidence": "high"
+}

@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1540312528004059187",
+ "author": "美股信息网",
+ "ts": "2026-08-21T10:52:04.299000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [
+   "A股"
+  ],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "近期的重点就是大仓位7-8成堆好股票 然后再慢慢检测有期权在小仓位慢慢开练习增加收益 在小修小补增加点新的急跌的个股 像今天A股还是被减持在压制回流资金更多就方向更明确 指数跌我们手里股票就有涨幅 指数涨就会更有溢价空间~"
+ },
+ "raw_text": "近期的重点就是大仓位7-8成堆好股票 然后再慢慢检测有期权在小仓位慢慢开练习增加收益 在小修小补增加点新的急跌的个股 像今天A股还是被减持在压制回流资金更多就方向更明确\n\n指数跌我们手里股票就有涨幅 指数涨就会更有溢价空间~",
+ "parse_confidence": "medium"
+}

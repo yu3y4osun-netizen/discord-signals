@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": "daily",
+ "message_id": "1540080175428018299",
+ "author": "美股信息网",
+ "ts": "2026-08-20T19:28:47.128000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "trade",
+ "payload": {
+  "plan_type": "incremental",
+  "ticker": "CIFR",
+  "action": "buy_add",
+  "price": 15.1,
+  "price_note": null,
+  "size_hint": null,
+  "target_price": null,
+  "horizon": null,
+  "exit_rule": null,
+  "rationale": null
+ },
+ "raw_text": "cifr今天也是最低在加仓尾盘冲直线的第二天\n\n每天知道了最低点有大单介入根本不怕\n\n目前有15.1半个仓 15.7 半个 15.8半个 只要后面趋势不是很跌破都拿着~",
+ "parse_confidence": "high"
+}

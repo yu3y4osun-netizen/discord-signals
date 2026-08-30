@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1542209982106304553",
+ "author": "美股信息网",
+ "ts": "2026-08-26T16:31:52.610000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "SPCX",
+  "headline": "SPCX 大摩维持SpaceX超配评级，Cursor带来的企业客户数据助力Grok迭代，模型更新节奏持续加快，短期营收依托算力溢价，长期增长寄托于企业端商业化，AI板块有望打开新的成长空间，但各项业务",
+  "sentiment": 0,
+  "summary": "SPCX 大摩维持SpaceX超配评级，Cursor带来的企业客户数据助力Grok迭代，模型更新节奏持续加快，短期营收依托算力溢价，长期增长寄托于企业端商业化，AI板块有望打开新的成长空间，但各项业务的落地节奏还存在不确定性。~"
+ },
+ "raw_text": "SPCX 大摩维持SpaceX超配评级，Cursor带来的企业客户数据助力Grok迭代，模型更新节奏持续加快，短期营收依托算力溢价，长期增长寄托于企业端商业化，AI板块有望打开新的成长空间，但各项业务的落地节奏还存在不确定性。~",
+ "parse_confidence": "high"
+}

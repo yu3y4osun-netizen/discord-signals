@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1540386660292894822",
+ "author": "美股信息网",
+ "ts": "2026-08-21T15:46:38.814000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "MRVL",
+  "headline": "MRVL 迈威尔科技与谷歌扩大定制芯片合作，覆盖AI推理，存储，网络等TPU全链条业务，在谷歌AI基建中的地位进一步提升，谷歌获得公司认股权证，机构看好订单潜在规模，机构认为拥有芯片定制与IP能力的企",
+  "sentiment": 0,
+  "summary": "MRVL 迈威尔科技与谷歌扩大定制芯片合作，覆盖AI推理，存储，网络等TPU全链条业务，在谷歌AI基建中的地位进一步提升，谷歌获得公司认股权证，机构看好订单潜在规模，机构认为拥有芯片定制与IP能力的企业更占优势，也凸显出MRVL在AI供应链的重要价值。~"
+ },
+ "raw_text": "MRVL 迈威尔科技与谷歌扩大定制芯片合作，覆盖AI推理，存储，网络等TPU全链条业务，在谷歌AI基建中的地位进一步提升，谷歌获得公司认股权证，机构看好订单潜在规模，机构认为拥有芯片定制与IP能力的企业更占优势，也凸显出MRVL在AI供应链的重要价值。~",
+ "parse_confidence": "high"
+}

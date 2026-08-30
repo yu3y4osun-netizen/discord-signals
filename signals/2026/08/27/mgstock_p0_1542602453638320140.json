@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1542602453638320140",
+ "author": "美股信息网",
+ "ts": "2026-08-27T18:31:25.115000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "GOOG",
+  "headline": "GOOG Alphabet自五月高点之后持续承压，市场重新审视它在AI赛道的竞争地位，旗舰大模型的发布进度延后，核心人才流失，叠加大规模AI开支带来回报疑虑，曾经享有的估值溢价逐步消退，尽管基建投入仍",
+  "sentiment": 0,
+  "summary": "GOOG Alphabet自五月高点之后持续承压，市场重新审视它在AI赛道的竞争地位，旗舰大模型的发布进度延后，核心人才流失，叠加大规模AI开支带来回报疑虑，曾经享有的估值溢价逐步消退，尽管基建投入仍在推进，但投资者愈发关切资金能否顺利兑现商业成果。~"
+ },
+ "raw_text": "GOOG Alphabet自五月高点之后持续承压，市场重新审视它在AI赛道的竞争地位，旗舰大模型的发布进度延后，核心人才流失，叠加大规模AI开支带来回报疑虑，曾经享有的估值溢价逐步消退，尽管基建投入仍在推进，但投资者愈发关切资金能否顺利兑现商业成果。~",
+ "parse_confidence": "high"
+}

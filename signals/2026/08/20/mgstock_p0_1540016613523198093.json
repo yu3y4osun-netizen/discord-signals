@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1540016613523198093",
+ "author": "美股信息网",
+ "ts": "2026-08-20T15:16:12.789000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "META",
+  "headline": "META 微软Foundry平台客户规模可观，但AI业务收入高度依赖科技行业客户，Meta作为其中重要买家，每年斥资采购模型服务辅助内部研发，同时Meta大力发展自研AI服务，后续有望直接和微软形成竞",
+  "sentiment": 0,
+  "summary": "META 微软Foundry平台客户规模可观，但AI业务收入高度依赖科技行业客户，Meta作为其中重要买家，每年斥资采购模型服务辅助内部研发，同时Meta大力发展自研AI服务，后续有望直接和微软形成竞争，市场担忧AI需求局限于科技圈内，会制约行业长期成长空间。~"
+ },
+ "raw_text": "META 微软Foundry平台客户规模可观，但AI业务收入高度依赖科技行业客户，Meta作为其中重要买家，每年斥资采购模型服务辅助内部研发，同时Meta大力发展自研AI服务，后续有望直接和微软形成竞争，市场担忧AI需求局限于科技圈内，会制约行业长期成长空间。~",
+ "parse_confidence": "high"
+}

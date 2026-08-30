@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1541443188332564621",
+ "author": "美股信息网",
+ "ts": "2026-08-24T13:44:54.728000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "NVDA",
+  "headline": "NVDA 英伟达计划参与Perplexity新一轮融资，双方最初的谈判方向为技术授权收购，现已调整成股权投资，这家AI初创企业营收依靠AI代理产品实现快速扩张，这笔潜在投资，代表英伟达持续向AI软件赛",
+  "sentiment": 0,
+  "summary": "NVDA 英伟达计划参与Perplexity新一轮融资，双方最初的谈判方向为技术授权收购，现已调整成股权投资，这家AI初创企业营收依靠AI代理产品实现快速扩张，这笔潜在投资，代表英伟达持续向AI软件赛道加码，打通算力与上层应用，不过交易落地尚且存有变数。~"
+ },
+ "raw_text": "NVDA 英伟达计划参与Perplexity新一轮融资，双方最初的谈判方向为技术授权收购，现已调整成股权投资，这家AI初创企业营收依靠AI代理产品实现快速扩张，这笔潜在投资，代表英伟达持续向AI软件赛道加码，打通算力与上层应用，不过交易落地尚且存有变数。~",
+ "parse_confidence": "high"
+}

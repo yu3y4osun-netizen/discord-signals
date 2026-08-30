@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1539713659771691149",
+ "author": "美股信息网",
+ "ts": "2026-08-19T19:12:22.986000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "AAPL",
+  "headline": "AAPL 涨近2%，报311.37美元",
+  "sentiment": 0,
+  "summary": "AAPL 涨近2%，报311.37美元。有消息称，苹果计划在2026年8月底前完成全球各区域iPhone 17系列调价，全机型涨价上限不超过1000元人民币，调价标准参照此前日本市场落地的方案~"
+ },
+ "raw_text": "AAPL 涨近2%，报311.37美元。有消息称，苹果计划在2026年8月底前完成全球各区域iPhone 17系列调价，全机型涨价上限不超过1000元人民币，调价标准参照此前日本市场落地的方案~",
+ "parse_confidence": "high"
+}

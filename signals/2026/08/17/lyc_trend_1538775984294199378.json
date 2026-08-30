@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1538775984294199378",
+ "author": "美股信息网",
+ "ts": "2026-08-17T05:06:23.731000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "daily_review",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "最近存储大厂纷纷抛出回购计划，对整体股价企稳有比较明显的作用，在pe低于10的情况下，如果能回购5%~10%的流通股，同时叠加大笔分红，对长期投资人的信心回归是非常有利的~"
+ },
+ "raw_text": "最近存储大厂纷纷抛出回购计划，对整体股价企稳有比较明显的作用，在pe低于10的情况下，如果能回购5%~10%的流通股，同时叠加大笔分红，对长期投资人的信心回归是非常有利的~",
+ "parse_confidence": "medium"
+}

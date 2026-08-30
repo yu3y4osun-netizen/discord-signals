@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1538952271377862729",
+ "author": "美股信息网",
+ "ts": "2026-08-17T16:46:53.847000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "RKLB",
+  "headline": "RKLB Rocket Lab为MDA Space制造的八颗卫星顺利入轨，完成大额卫星合同的首轮部署，卫星发射后通信正常，供电运行状态符合预期，现阶段正在开展在轨调试，该项目订单落地，体现公司卫星制造",
+  "sentiment": 1,
+  "summary": "RKLB Rocket Lab为MDA Space制造的八颗卫星顺利入轨，完成大额卫星合同的首轮部署，卫星发射后通信正常，供电运行状态符合预期，现阶段正在开展在轨调试，该项目订单落地，体现公司卫星制造业务交付能力，利好订单储备兑现，后续仍要看剩余航天器的推进进度。~"
+ },
+ "raw_text": "RKLB Rocket Lab为MDA Space制造的八颗卫星顺利入轨，完成大额卫星合同的首轮部署，卫星发射后通信正常，供电运行状态符合预期，现阶段正在开展在轨调试，该项目订单落地，体现公司卫星制造业务交付能力，利好订单储备兑现，后续仍要看剩余航天器的推进进度。~",
+ "parse_confidence": "high"
+}

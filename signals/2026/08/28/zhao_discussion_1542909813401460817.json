@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542909813401460817",
+ "author": "jackeysang",
+ "ts": "2026-08-28T14:52:45.393000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "confidence",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "LONG",
+   "CALL"
+  ],
+  "is_following_zhao": false,
+  "summary": "舒服了 谷歌昨天加了8张long call"
+ },
+ "raw_text": "舒服了 谷歌昨天加了8张long call",
+ "parse_confidence": "medium"
+}

@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1537814173990256794",
+ "author": "美股信息网",
+ "ts": "2026-08-14T13:24:30.285000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "SPY",
+  "headline": "SPY 盘前，股指期货小幅上涨",
+  "sentiment": 0,
+  "summary": "SPY 盘前，股指期货小幅上涨。美银将美国中期选举视作AI牛市关键分水岭，选举结果或将决定AI板块行情能否延续至2027年。知名空头则提示OpenAI，Anthropic或是AI交易链条里的薄弱环节。另外AI基建债券大规模募资推高实际收益率，资本趋于稀缺，利率上行成为股市重要风险点。~"
+ },
+ "raw_text": "SPY 盘前，股指期货小幅上涨。美银将美国中期选举视作AI牛市关键分水岭，选举结果或将决定AI板块行情能否延续至2027年。知名空头则提示OpenAI，Anthropic或是AI交易链条里的薄弱环节。另外AI基建债券大规模募资推高实际收益率，资本趋于稀缺，利率上行成为股市重要风险点。~",
+ "parse_confidence": "high"
+}

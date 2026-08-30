@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1542284875036495943",
+ "author": "美股信息网",
+ "ts": "2026-08-26T21:29:28.476000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "226.5出掉203剩下一半nbis 也是英伟达带动下盘后+6%~"
+ },
+ "raw_text": "226.5出掉203剩下一半nbis 也是英伟达带动下盘后+6%~",
+ "parse_confidence": "medium"
+}

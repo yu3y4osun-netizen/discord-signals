@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1541839955595366421",
+ "author": "美股信息网",
+ "ts": "2026-08-25T16:01:31.415000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "INTC",
+  "headline": "INTC 佩洛西新建仓位布局Bloom Energy，同时再度加码英特尔，英特尔亮相新一代服务器芯片，瞄准AI‑Agent算力赛道，依托先进制程扩充核心规格，以此应对同行竞争，管理层留意到智能代理任务",
+  "sentiment": 0,
+  "summary": "INTC 佩洛西新建仓位布局Bloom Energy，同时再度加码英特尔，英特尔亮相新一代服务器芯片，瞄准AI‑Agent算力赛道，依托先进制程扩充核心规格，以此应对同行竞争，管理层留意到智能代理任务对CPU的需求不断攀升，不排除加快新品迭代的节奏，行业竞争态势进一步加剧。~"
+ },
+ "raw_text": "INTC 佩洛西新建仓位布局Bloom Energy，同时再度加码英特尔，英特尔亮相新一代服务器芯片，瞄准AI‑Agent算力赛道，依托先进制程扩充核心规格，以此应对同行竞争，管理层留意到智能代理任务对CPU的需求不断攀升，不排除加快新品迭代的节奏，行业竞争态势进一步加剧。~",
+ "parse_confidence": "high"
+}

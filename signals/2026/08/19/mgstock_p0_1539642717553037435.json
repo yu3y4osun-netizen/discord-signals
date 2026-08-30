@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1539642717553037435",
+ "author": "美股信息网",
+ "ts": "2026-08-19T14:30:29.043000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "MRNA",
+  "headline": "MRNA +85% Moderna联合默沙东的mRNA癌症疫苗三期临床收获积极结果，联合用药能够降低黑色素瘤术后复发与扩散风险，疗效优于现有标准单药方案，这是mRNA技术在抗癌领域重要里程碑，产品有望",
+  "sentiment": 1,
+  "summary": "MRNA +85% Moderna联合默沙东的mRNA癌症疫苗三期临床收获积极结果，联合用药能够降低黑色素瘤术后复发与扩散风险，疗效优于现有标准单药方案，这是mRNA技术在抗癌领域重要里程碑，产品有望在后续递交审批，重大临床突破带动两家企业股价大幅走高，为肿瘤免疫治疗开辟新方向。~"
+ },
+ "raw_text": "MRNA +85% Moderna联合默沙东的mRNA癌症疫苗三期临床收获积极结果，联合用药能够降低黑色素瘤术后复发与扩散风险，疗效优于现有标准单药方案，这是mRNA技术在抗癌领域重要里程碑，产品有望在后续递交审批，重大临床突破带动两家企业股价大幅走高，为肿瘤免疫治疗开辟新方向。~",
+ "parse_confidence": "high"
+}

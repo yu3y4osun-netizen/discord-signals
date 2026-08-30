@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1540028017626193971",
+ "author": "美股信息网",
+ "ts": "2026-08-20T16:01:31.739000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "CRWV",
+  "headline": "CRWV CoreWeave拿下金融机构HRT多年期大额算力协议，客户可优先使用英伟达新一代AI芯片，这笔订单深化双方合作，也体现AI算力加速向交易领域渗透，公司正推进客户多元化，降低对单一客户依赖，",
+  "sentiment": 0,
+  "summary": "CRWV CoreWeave拿下金融机构HRT多年期大额算力协议，客户可优先使用英伟达新一代AI芯片，这笔订单深化双方合作，也体现AI算力加速向交易领域渗透，公司正推进客户多元化，降低对单一客户依赖，金融机构逐步成为重要增量。同业对手同样布局采购其算力资源，行业需求持续释放。~"
+ },
+ "raw_text": "CRWV CoreWeave拿下金融机构HRT多年期大额算力协议，客户可优先使用英伟达新一代AI芯片，这笔订单深化双方合作，也体现AI算力加速向交易领域渗透，公司正推进客户多元化，降低对单一客户依赖，金融机构逐步成为重要增量。同业对手同样布局采购其算力资源，行业需求持续释放。~",
+ "parse_confidence": "high"
+}

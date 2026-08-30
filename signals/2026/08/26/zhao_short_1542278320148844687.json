@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1542278320148844687",
+ "author": "美股信息网",
+ "ts": "2026-08-26T21:03:25.669000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "298.5出掉284.5剩下一半cohr~"
+ },
+ "raw_text": "298.5出掉284.5剩下一半cohr~",
+ "parse_confidence": "medium"
+}

@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1542276872593735723",
+ "author": "美股信息网",
+ "ts": "2026-08-26T20:57:40.545000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "英伟达财报支出 还是在云光存上面会加大投入 我们的西部数据 cohr crwv之类在英伟达业绩后继续有小幅升幅~"
+ },
+ "raw_text": "英伟达财报支出 还是在云光存上面会加大投入 我们的西部数据 cohr crwv之类在英伟达业绩后继续有小幅升幅~",
+ "parse_confidence": "medium"
+}

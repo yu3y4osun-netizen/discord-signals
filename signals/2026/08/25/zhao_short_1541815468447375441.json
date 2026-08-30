@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1541815468447375441",
+ "author": "美股信息网",
+ "ts": "2026-08-25T14:24:13.224000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "现在资金都是回流的资金大部分要开盘回踩才会流入 进的点就盯着spx的转弯往上 往下转弯就减点 低位就有资金可以吸 这样才是正循环~"
+ },
+ "raw_text": "现在资金都是回流的资金大部分要开盘回踩才会流入 进的点就盯着spx的转弯往上 往下转弯就减点 低位就有资金可以吸 这样才是正循环~",
+ "parse_confidence": "medium"
+}

@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1542904207525421108",
+ "author": "美股信息网",
+ "ts": "2026-08-28T14:30:28.848000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "PYPL",
+  "headline": "PYPL -14% 由Advent与Stripe组建的财团正式撤回收购邀约，这笔大型支付并购宣告落空，ayPal董事会此前已经回绝该份报价，认为对价达不到预期，收购预期消散引发资金离场，估值相较疫情鼎",
+  "sentiment": -1,
+  "summary": "PYPL -14% 由Advent与Stripe组建的财团正式撤回收购邀约，这笔大型支付并购宣告落空，ayPal董事会此前已经回绝该份报价，认为对价达不到预期，收购预期消散引发资金离场，估值相较疫情鼎盛阶段大幅收缩，市场需要重新回归审视企业内生业务的成长潜力。~"
+ },
+ "raw_text": "PYPL -14% 由Advent与Stripe组建的财团正式撤回收购邀约，这笔大型支付并购宣告落空，ayPal董事会此前已经回绝该份报价，认为对价达不到预期，收购预期消散引发资金离场，估值相较疫情鼎盛阶段大幅收缩，市场需要重新回归审视企业内生业务的成长潜力。~",
+ "parse_confidence": "high"
+}

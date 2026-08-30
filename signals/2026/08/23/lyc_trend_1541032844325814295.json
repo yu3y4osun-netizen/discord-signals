@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1541032844325814295",
+ "author": "美股信息网",
+ "ts": "2026-08-23T10:34:21.093000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "qa",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "[问] 老师 tempus 现有估值 是低估值吗，前景如何，近期还能继续行情嘛 [答] 估值这个很难说，但我觉得在风口上的标的都是不错的，如果觉得个股难以把握可以多关注etf~"
+ },
+ "raw_text": "[问]\n老师 tempus 现有估值 是低估值吗，前景如何，近期还能继续行情嘛\n[答]\n估值这个很难说，但我觉得在风口上的标的都是不错的，如果觉得个股难以把握可以多关注etf~",
+ "parse_confidence": "medium"
+}

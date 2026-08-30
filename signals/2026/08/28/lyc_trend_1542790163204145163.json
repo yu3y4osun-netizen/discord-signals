@@ -1,0 +1,27 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "lyc_trend",
+ "channel_name": "洛阳铲a港美投资-核心趋势-p0",
+ "source_profile": null,
+ "message_id": "1542790163204145163",
+ "author": "美股信息网",
+ "ts": "2026-08-28T06:57:18.563000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "daily_review",
+  "markets": [
+   "A股",
+   "黄金"
+  ],
+  "direction": "bearish",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "A股市场如果要有比较不错的行情，必须要科技股带领，因为这里是最容易带动人气的板块，但是最近的反弹明显科技股还是偏弱的，早盘冲高基本都是回落，近期还是要以避险的黄金、农业为主。~"
+ },
+ "raw_text": "A股市场如果要有比较不错的行情，必须要科技股带领，因为这里是最容易带动人气的板块，但是最近的反弹明显科技股还是偏弱的，早盘冲高基本都是回落，近期还是要以避险的黄金、农业为主。~",
+ "parse_confidence": "medium"
+}

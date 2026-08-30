@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1537468919613231228",
+ "author": "美股信息网",
+ "ts": "2026-08-13T14:32:35.227000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "trade",
+ "payload": {
+  "plan_type": "full_plan",
+  "ticker": "ULTA",
+  "action": "buy_open",
+  "price": 520.0,
+  "price_note": null,
+  "size_hint": "25%",
+  "target_price": null,
+  "horizon": null,
+  "exit_rule": "到了目标价也必须等通知再賣~",
+  "rationale": null
+ },
+ "raw_text": "【【波段机会提示】】 ULTA 公司，市場價直接買入，價格在 520 美元 範圍，別設限價，不一定買得到， 艙位量 25 %，目標 600 美元，時間 几 周。到了目标价也必须等通知再賣~",
+ "parse_confidence": "medium"
+}

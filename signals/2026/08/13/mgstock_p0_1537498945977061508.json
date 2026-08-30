@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "mgstock_p0",
+ "channel_name": "美股投资网-p0",
+ "source_profile": "swing",
+ "message_id": "1537498945977061508",
+ "author": "美股信息网",
+ "ts": "2026-08-13T16:31:54.070000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "news",
+ "payload": {
+  "ticker": "IBM",
+  "headline": "IBM OpenAI达成新的企业端战略合作，本次合作的另一参与方为IBM，聚焦帮助各大企业在核心业务流程中安全落地AI，同时借助Daybreak项目提升网络防御能力，双方将联合推广，面向金融，政务电信",
+  "sentiment": 0,
+  "summary": "IBM OpenAI达成新的企业端战略合作，本次合作的另一参与方为IBM，聚焦帮助各大企业在核心业务流程中安全落地AI，同时借助Daybreak项目提升网络防御能力，双方将联合推广，面向金融，政务电信等赛道打造行业专属解决方案。~"
+ },
+ "raw_text": "IBM OpenAI达成新的企业端战略合作，本次合作的另一参与方为IBM，聚焦帮助各大企业在核心业务流程中安全落地AI，同时借助Daybreak项目提升网络防御能力，双方将联合推广，面向金融，政务电信等赛道打造行业专属解决方案。~",
+ "parse_confidence": "high"
+}

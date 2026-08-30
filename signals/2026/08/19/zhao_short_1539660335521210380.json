@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": "daily",
+ "message_id": "1539660335521210380",
+ "author": "美股信息网",
+ "ts": "2026-08-19T15:40:29.494000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "trade",
+ "payload": {
+  "plan_type": "incremental",
+  "ticker": "CONL",
+  "action": "sell_partial",
+  "price": 7700.0,
+  "price_note": null,
+  "size_hint": "1/2",
+  "target_price": null,
+  "horizon": null,
+  "exit_rule": null,
+  "rationale": null
+ },
+ "raw_text": "这轮7700抄底的 还是买2卖1  急跌吸 异动出一半 在涨一个异动再出一半\n\n大盘股 \n\n谷歌  苹果 fbl\n\n云\n\niren cifr crwv\n\n光\n\nlite cohr\n\n存\n\ndram wdc\n\n芯片新股\n\ncbrs\n\nbtc\n\nconl~",
+ "parse_confidence": "high"
+}

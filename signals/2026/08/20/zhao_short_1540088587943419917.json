@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": "daily",
+ "message_id": "1540088587943419917",
+ "author": "美股信息网",
+ "ts": "2026-08-20T20:02:12.828000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "trade",
+ "payload": {
+  "plan_type": "incremental",
+  "ticker": "SPX",
+  "action": "hold",
+  "price": 7700.0,
+  "price_note": null,
+  "size_hint": null,
+  "target_price": null,
+  "horizon": null,
+  "exit_rule": null,
+  "rationale": null
+ },
+ "raw_text": "当你手里就只拿着同花顺和王炸时候 基本就是躺平\n\n之前一直防范着7700-60=7640的恐慌波动 实际上却是以不跌反涨去抗压\n\n今天spx也是以冷门股的跌 硬性去卡到7640这个低点~",
+ "parse_confidence": "high"
+}
