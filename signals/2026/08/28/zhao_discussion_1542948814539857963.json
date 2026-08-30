@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542948814539857963",
+ "author": "deepdigger",
+ "ts": "2026-08-28T17:27:43.989000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "fear",
+  "mood_strength": 1,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "噢这个思路就很清晰了，今天先买点，万一星期一不是闷杀也不会踏空，如果闷杀，就再吸一部分，等反弹了出，"
+ },
+ "raw_text": "噢这个思路就很清晰了，今天先买点，万一星期一不是闷杀也不会踏空，如果闷杀，就再吸一部分，等反弹了出，也不怕今天吸的出不掉，反正后面会反弹的",
+ "parse_confidence": "medium"
+}

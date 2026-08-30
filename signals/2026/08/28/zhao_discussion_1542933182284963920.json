@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542933182284963920",
+ "author": "civicagility09",
+ "ts": "2026-08-28T16:25:36.969000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "fear",
+  "mood_strength": 1,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "这种走势肯定要吃掉4500的止损位"
+ },
+ "raw_text": "这种走势肯定要吃掉4500的止损位",
+ "parse_confidence": "medium"
+}

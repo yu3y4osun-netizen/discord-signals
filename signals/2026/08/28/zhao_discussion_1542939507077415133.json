@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542939507077415133",
+ "author": "xiaozhaolucky",
+ "ts": "2026-08-28T16:50:44.917000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "confidence",
+  "mood_strength": 1,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "所以在高点止盈指数"
+ },
+ "raw_text": "所以在高点止盈指数",
+ "parse_confidence": "medium"
+}

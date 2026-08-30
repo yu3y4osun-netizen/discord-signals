@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542949439583428768",
+ "author": "jshp77061",
+ "ts": "2026-08-28T17:30:13.011000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "NV"
+  ],
+  "is_following_zhao": false,
+  "summary": "云厂还有个小利空：nv暂停了一部分给下游牵线的融资项目"
+ },
+ "raw_text": "云厂还有个小利空：nv暂停了一部分给下游牵线的融资项目",
+ "parse_confidence": "medium"
+}

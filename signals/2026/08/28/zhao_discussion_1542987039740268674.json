@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542987039740268674",
+ "author": "halandhaha",
+ "ts": "2026-08-28T19:59:37.587000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "正常情况下会有一个出货靠近盘中的反弹的位置"
+ },
+ "raw_text": "正常情况下会有一个出货靠近盘中的反弹的位置",
+ "parse_confidence": "medium"
+}

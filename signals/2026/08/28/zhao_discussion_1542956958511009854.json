@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542956958511009854",
+ "author": "jshp77061",
+ "ts": "2026-08-28T18:00:05.663000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "对的，我大头仓位基本上都在这类票里面，一个撒5%"
+ },
+ "raw_text": "对的，我大头仓位基本上都在这类票里面，一个撒5%",
+ "parse_confidence": "medium"
+}

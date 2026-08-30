@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542944950109474866",
+ "author": "xiaozhaolucky",
+ "ts": "2026-08-28T17:12:22.637000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "英伟达财报涨 资金就全去大盘股卡短线 沃什就会鹰都下来"
+ },
+ "raw_text": "英伟达财报涨 资金就全去大盘股卡短线  沃什就会鹰都下来",
+ "parse_confidence": "medium"
+}

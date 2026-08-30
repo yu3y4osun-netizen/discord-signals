@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542940824093069383",
+ "author": "soniax",
+ "ts": "2026-08-28T16:55:58.918000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "CONL"
+  ],
+  "is_following_zhao": false,
+  "summary": "conl 还能加吗"
+ },
+ "raw_text": "conl 还能加吗",
+ "parse_confidence": "medium"
+}

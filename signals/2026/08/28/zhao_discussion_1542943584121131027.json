@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542943584121131027",
+ "author": "gladsquash4a",
+ "ts": "2026-08-28T17:06:56.960000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "赵哥这个得意思是收盘时可能小盘股还会拉一下 今天加的那些有机会出就出掉是吧"
+ },
+ "raw_text": "赵哥这个得意思是收盘时可能小盘股还会拉一下 今天加的那些有机会出就出掉是吧",
+ "parse_confidence": "medium"
+}

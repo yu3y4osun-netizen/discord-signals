@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542953792083984475",
+ "author": "civicagility09",
+ "ts": "2026-08-28T17:47:30.728000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "还是要控一下仓位"
+ },
+ "raw_text": "还是要控一下仓位",
+ "parse_confidence": "medium"
+}

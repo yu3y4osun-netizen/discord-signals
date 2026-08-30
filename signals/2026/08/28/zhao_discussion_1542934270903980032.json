@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542934270903980032",
+ "author": "civicagility09",
+ "ts": "2026-08-28T16:29:56.516000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "fear",
+  "mood_strength": 1,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "世上最怕的就是国债跌的太快，它要是跌的慢一点，问题也不是太大"
+ },
+ "raw_text": "世上最怕的就是国债跌的太快，它要是跌的慢一点，问题也不是太大",
+ "parse_confidence": "medium"
+}

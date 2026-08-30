@@ -1,0 +1,25 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542920419340984420",
+ "author": "jshp77061",
+ "ts": "2026-08-28T15:34:54.046000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "DAN",
+   "IREN",
+   "PWC"
+  ],
+  "is_following_zhao": false,
+  "summary": "dan roberts创办iren之前在pwc干审计之类的活"
+ },
+ "raw_text": "dan roberts创办iren之前在pwc干审计之类的活",
+ "parse_confidence": "medium"
+}

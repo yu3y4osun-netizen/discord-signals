@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542946985370189885",
+ "author": "heimao",
+ "ts": "2026-08-28T17:20:27.881000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "金融圈这么小吗 感觉赵哥谁都认识"
+ },
+ "raw_text": "金融圈这么小吗  感觉赵哥谁都认识",
+ "parse_confidence": "medium"
+}

@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542953654481330186",
+ "author": "jshp77061",
+ "ts": "2026-08-28T17:46:57.921000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "FED"
+  ],
+  "is_following_zhao": false,
+  "summary": "等美伊彻底结束、fed真的放鸽，到时候估计就是黄金、巴西市场、加密普涨的行情"
+ },
+ "raw_text": "等美伊彻底结束、fed真的放鸽，到时候估计就是黄金、巴西市场、加密普涨的行情",
+ "parse_confidence": "medium"
+}

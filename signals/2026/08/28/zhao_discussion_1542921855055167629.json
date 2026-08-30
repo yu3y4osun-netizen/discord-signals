@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542921855055167629",
+ "author": "halandhaha",
+ "ts": "2026-08-28T15:40:36.347000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "跌了也无所谓的"
+ },
+ "raw_text": "跌了也无所谓的",
+ "parse_confidence": "medium"
+}

@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": "daily",
+ "message_id": "1542892339435929643",
+ "author": "美股信息网",
+ "ts": "2026-08-28T13:43:19.275000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "trade",
+ "payload": {
+  "plan_type": "incremental",
+  "ticker": "WDC",
+  "action": "sell_partial",
+  "price": 471.5,
+  "price_note": null,
+  "size_hint": "1/2",
+  "target_price": null,
+  "horizon": null,
+  "exit_rule": null,
+  "rationale": null
+ },
+ "raw_text": "471.5出一半460的wdc~",
+ "parse_confidence": "high"
+}

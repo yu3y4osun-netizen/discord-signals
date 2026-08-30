@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542934545299411015",
+ "author": "civicagility09",
+ "ts": "2026-08-28T16:31:01.937000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "按照赵哥说的，9月7号还有节日，再往后一周就是联储会议，不确定性还是多"
+ },
+ "raw_text": "按照赵哥说的，9月7号还有节日，再往后一周就是联储会议，不确定性还是多",
+ "parse_confidence": "medium"
+}

@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542916783852224573",
+ "author": "jshp77061",
+ "ts": "2026-08-28T15:20:27.278000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "IREN"
+  ],
+  "is_following_zhao": false,
+  "summary": "iren主要是管理层太抽象了 一度让人觉得是不是大脑消失了"
+ },
+ "raw_text": "iren主要是管理层太抽象了 一度让人觉得是不是大脑消失了",
+ "parse_confidence": "medium"
+}

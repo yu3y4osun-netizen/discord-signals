@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542986973227262052",
+ "author": "halandhaha",
+ "ts": "2026-08-28T19:59:21.729000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "MU"
+  ],
+  "is_following_zhao": false,
+  "summary": "所以我盘中低点买的mu一般不会马上出完"
+ },
+ "raw_text": "所以我盘中低点买的mu一般不会马上出完",
+ "parse_confidence": "medium"
+}

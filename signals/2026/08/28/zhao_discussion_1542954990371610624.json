@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542954990371610624",
+ "author": "jshp77061",
+ "ts": "2026-08-28T17:52:16.422000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "DE",
+   "CNH"
+  ],
+  "is_following_zhao": false,
+  "summary": "de、cnh，农机"
+ },
+ "raw_text": "de、cnh，农机",
+ "parse_confidence": "medium"
+}

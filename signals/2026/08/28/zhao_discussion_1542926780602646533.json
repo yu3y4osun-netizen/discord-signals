@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542926780602646533",
+ "author": "wuhaha007",
+ "ts": "2026-08-28T16:00:10.689000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "LABOR"
+  ],
+  "is_following_zhao": false,
+  "summary": "labor"
+ },
+ "raw_text": "labor",
+ "parse_confidence": "medium"
+}

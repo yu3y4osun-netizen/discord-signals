@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542919270810259639",
+ "author": "jshp77061",
+ "ts": "2026-08-28T15:30:20.215000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "IREN"
+  ],
+  "is_following_zhao": false,
+  "summary": "iren的管理层给我的感觉就是当年切萨皮克老板的翻版"
+ },
+ "raw_text": "iren的管理层给我的感觉就是当年切萨皮克老板的翻版",
+ "parse_confidence": "medium"
+}

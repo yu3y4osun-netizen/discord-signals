@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542963739521851512",
+ "author": "avocadorable0106",
+ "ts": "2026-08-28T18:27:02.382000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "DATA",
+   "CENTER"
+  ],
+  "is_following_zhao": false,
+  "summary": "这个确实是，我是在AI data center这行的，基本上离职了 都会有猎头找，package也好"
+ },
+ "raw_text": "这个确实是，我是在AI data center这行的，基本上离职了 都会有猎头找，package也好谈。但是做普通硬件行业的，市场就差很多，package 天花板低。",
+ "parse_confidence": "medium"
+}

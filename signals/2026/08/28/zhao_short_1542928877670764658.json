@@ -1,0 +1,26 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": "daily",
+ "message_id": "1542928877670764658",
+ "author": "美股信息网",
+ "ts": "2026-08-28T16:08:30.669000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "trade",
+ "payload": {
+  "plan_type": "incremental",
+  "ticker": "CIFR",
+  "action": "buy_add",
+  "price": 15.35,
+  "price_note": null,
+  "size_hint": "1/6",
+  "target_price": null,
+  "horizon": null,
+  "exit_rule": null,
+  "rationale": null
+ },
+ "raw_text": "15.35加了6分之一常规仓cifr~",
+ "parse_confidence": "high"
+}

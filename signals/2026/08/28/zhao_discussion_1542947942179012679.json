@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542947942179012679",
+ "author": "yingdi9527",
+ "ts": "2026-08-28T17:24:16.002000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "真的 一语中的 我同学混了很多年了 跟他交流起来 跟散户没啥区别 天天就是领导要求写一些无聊的报告 "
+ },
+ "raw_text": "真的 一语中的 我同学混了很多年了 跟他交流起来 跟散户没啥区别  天天就是领导要求写一些无聊的报告 要么就是打电话推销开户",
+ "parse_confidence": "medium"
+}

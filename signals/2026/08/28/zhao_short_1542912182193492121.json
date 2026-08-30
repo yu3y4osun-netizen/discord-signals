@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_short",
+ "channel_name": "zhao赵哥-股票-短线-p0",
+ "source_profile": null,
+ "message_id": "1542912182193492121",
+ "author": "美股信息网",
+ "ts": "2026-08-28T15:02:10.157000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "market_view",
+ "payload": {
+  "subtype": "commentary",
+  "markets": [],
+  "direction": "neutral",
+  "key_levels": [],
+  "sectors_favored": [],
+  "sectors_avoided": [],
+  "risk_notes": [],
+  "summary": "7640的极限点一直是每天反复说极限点位去低吸低吸低吸 因为指数的话7700 7760 7820按60的波动值会往上波动一轮 指数低位的 按轮动都能分批次获利~"
+ },
+ "raw_text": "7640的极限点一直是每天反复说极限点位去低吸低吸低吸 因为指数的话7700 7760 7820按60的波动值会往上波动一轮\n\n指数低位的 按轮动都能分批次获利~",
+ "parse_confidence": "medium"
+}

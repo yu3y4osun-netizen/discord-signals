@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1543034524101779577",
+ "author": "goebbel",
+ "ts": "2026-08-28T23:08:18.741000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "INTW"
+  ],
+  "is_following_zhao": true,
+  "summary": "小仓跟了点赵哥的INTW，周末愉快"
+ },
+ "raw_text": "小仓跟了点赵哥的INTW，周末愉快",
+ "parse_confidence": "medium"
+}

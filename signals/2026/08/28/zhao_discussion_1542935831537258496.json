@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542935831537258496",
+ "author": "yorryskyy",
+ "ts": "2026-08-28T16:36:08.600000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 2,
+  "tickers_mentioned": [
+   "PAUL",
+   "MUU"
+  ],
+  "is_following_zhao": false,
+  "summary": "@pauljoseph_goebbel paul哥muu喊的太及时了！！"
+ },
+ "raw_text": "@pauljoseph_goebbel paul哥muu喊的太及时了！！",
+ "parse_confidence": "medium"
+}

@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542942783965372577",
+ "author": "xiaozhaolucky",
+ "ts": "2026-08-28T17:03:46.188000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "如果刚才都普涨就大盘股和指数不用出 不会回落"
+ },
+ "raw_text": "如果刚才都普涨就大盘股和指数不用出 不会回落",
+ "parse_confidence": "medium"
+}

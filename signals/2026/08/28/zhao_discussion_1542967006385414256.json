@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542967006385414256",
+ "author": "jshp77061",
+ "ts": "2026-08-28T18:40:01.263000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "OAI",
+   "TOKEN"
+  ],
+  "is_following_zhao": false,
+  "summary": "oai这种模型大厂到together ai这种基建和token优化的中小厂，给的都很多"
+ },
+ "raw_text": "oai这种模型大厂到together ai这种基建和token优化的中小厂，给的都很多",
+ "parse_confidence": "medium"
+}

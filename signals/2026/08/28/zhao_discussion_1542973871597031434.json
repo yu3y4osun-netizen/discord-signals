@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542973871597031434",
+ "author": "zqlxr",
+ "ts": "2026-08-28T19:07:18.057000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 2,
+  "tickers_mentioned": [
+   "PCE"
+  ],
+  "is_following_zhao": false,
+  "summary": "强调了2%的PCE通胀目标 意味什么？加息吗？"
+ },
+ "raw_text": "强调了2%的PCE通胀目标      意味什么？加息吗？",
+ "parse_confidence": "medium"
+}

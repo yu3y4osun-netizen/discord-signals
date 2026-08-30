@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542944195168436244",
+ "author": "zengshanmei",
+ "ts": "2026-08-28T17:09:22.645000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "DRAM"
+  ],
+  "is_following_zhao": false,
+  "summary": "赵哥，尾盘可以加仓dram吗？"
+ },
+ "raw_text": "赵哥，尾盘可以加仓dram吗？",
+ "parse_confidence": "medium"
+}

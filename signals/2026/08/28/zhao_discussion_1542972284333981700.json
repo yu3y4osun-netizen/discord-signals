@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542972284333981700",
+ "author": "jshp77061",
+ "ts": "2026-08-28T19:00:59.624000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "FED"
+  ],
+  "is_following_zhao": false,
+  "summary": "这个和上次七月份fed讲话完全不一样"
+ },
+ "raw_text": "这个和上次七月份fed讲话完全不一样",
+ "parse_confidence": "medium"
+}

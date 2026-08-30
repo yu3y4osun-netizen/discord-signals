@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542952430042488972",
+ "author": "civicagility09",
+ "ts": "2026-08-28T17:42:05.992000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "NLP"
+  ],
+  "is_following_zhao": false,
+  "summary": "想起我上学的时候了，到处都是nlp，深度学习，自然语言处理，图像识别。"
+ },
+ "raw_text": "想起我上学的时候了，到处都是nlp，深度学习，自然语言处理，图像识别。",
+ "parse_confidence": "medium"
+}

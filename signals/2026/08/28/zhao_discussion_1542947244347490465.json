@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542947244347490465",
+ "author": "yingdi9527",
+ "ts": "2026-08-28T17:21:29.626000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "赵哥 如果要学 是普通的任何机构都可以么 还是要找大的机构 我们在大陆的如果想要到美国券商学习 是不"
+ },
+ "raw_text": "赵哥 如果要学 是普通的任何机构都可以么 还是要找大的机构  我们在大陆的如果想要到美国券商学习 是不是条件限制的多",
+ "parse_confidence": "medium"
+}

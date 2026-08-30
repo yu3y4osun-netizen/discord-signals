@@ -1,0 +1,24 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542917009279291545",
+ "author": "jshp77061",
+ "ts": "2026-08-28T15:21:21.024000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "PDD",
+   "IREN"
+  ],
+  "is_following_zhao": false,
+  "summary": "和pdd完全不一样，iren是一个还在亏损阶段需要大量举债的公司，增发股票奖励自家cofounder"
+ },
+ "raw_text": "和pdd完全不一样，iren是一个还在亏损阶段需要大量举债的公司，增发股票奖励自家cofounder，还拿增发的钱去赞助球队",
+ "parse_confidence": "medium"
+}

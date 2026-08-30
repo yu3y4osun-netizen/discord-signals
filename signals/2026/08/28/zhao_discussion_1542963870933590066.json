@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542963870933590066",
+ "author": "halandhaha",
+ "ts": "2026-08-28T18:27:33.713000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "MU"
+  ],
+  "is_following_zhao": false,
+  "summary": "mu突破了"
+ },
+ "raw_text": "mu突破了",
+ "parse_confidence": "medium"
+}

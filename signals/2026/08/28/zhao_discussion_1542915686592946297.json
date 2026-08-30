@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542915686592946297",
+ "author": "milleraaa",
+ "ts": "2026-08-28T15:16:05.671000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "Iren一跌就是4天起步"
+ },
+ "raw_text": "Iren一跌就是4天起步",
+ "parse_confidence": "medium"
+}

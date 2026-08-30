@@ -1,0 +1,34 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542973173350404146",
+ "author": "jshp77061",
+ "ts": "2026-08-28T19:04:31.582000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "PCE",
+   "THERE",
+   "SHOULD",
+   "BE",
+   "PRICE",
+   "OF",
+   "AS",
+   "BY",
+   "INDEX",
+   "FIRM",
+   "FIXED",
+   "TARGET"
+  ],
+  "is_following_zhao": false,
+  "summary": "“这次明确强调了2%的PCE通胀目标（而不是什么其他的通胀指标）是不变的（Third, there "
+ },
+ "raw_text": "“这次明确强调了2%的PCE通胀目标（而不是什么其他的通胀指标）是不变的（Third, there should be no misunderstanding: The Fed’s price-stability objective of 2 percent, as measured by the personal consumption expenditures price index, is a firm, fixed target.）。而在7月FOMC中，他似乎有意模糊PCE通胀目标，（不合理地）引用“卢卡斯批判”和“古德哈特定律”为模糊通胀目标辩护，甚至暗示在明年1月的年度框架声明修改文字。”",
+ "parse_confidence": "medium"
+}

@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542947829029408919",
+ "author": "jshp77061",
+ "ts": "2026-08-28T17:23:49.025000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "IREN"
+  ],
+  "is_following_zhao": false,
+  "summary": "不是的，这季度的折旧不是ai设备折旧，是iren低价出清了一部分矿机"
+ },
+ "raw_text": "不是的，这季度的折旧不是ai设备折旧，是iren低价出清了一部分矿机",
+ "parse_confidence": "medium"
+}

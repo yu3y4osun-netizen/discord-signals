@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542919706028286095",
+ "author": "yanged",
+ "ts": "2026-08-28T15:32:03.979000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "LOW"
+  ],
+  "is_following_zhao": false,
+  "summary": "老黄看中的，不至于这么low啊，"
+ },
+ "raw_text": "老黄看中的，不至于这么low啊，",
+ "parse_confidence": "medium"
+}

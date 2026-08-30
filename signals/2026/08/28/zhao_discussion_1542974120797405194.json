@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542974120797405194",
+ "author": "jshp77061",
+ "ts": "2026-08-28T19:08:17.471000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "confidence",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "PCE"
+  ],
+  "is_following_zhao": false,
+  "summary": "说白了就是上个月说通胀没指标、比较模糊，这个月突然说PCE要稳定到2%，市场有点接受不了美联储也搞转"
+ },
+ "raw_text": "说白了就是上个月说通胀没指标、比较模糊，这个月突然说PCE要稳定到2%，市场有点接受不了美联储也搞转弯",
+ "parse_confidence": "medium"
+}

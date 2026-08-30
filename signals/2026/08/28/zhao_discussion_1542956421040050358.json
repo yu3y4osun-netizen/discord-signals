@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542956421040050358",
+ "author": "occde3312",
+ "ts": "2026-08-28T17:57:57.520000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "fear",
+  "mood_strength": 1,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "这个股票看起来不太好做， 财报看起来有点差 就还是看每个人的风险偏好吧 😂 还是在赌 ，凡事做好止损"
+ },
+ "raw_text": "这个股票看起来不太好做， 财报看起来有点差 就还是看每个人的风险偏好吧 😂 还是在赌 ，凡事做好止损最重要",
+ "parse_confidence": "medium"
+}

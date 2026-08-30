@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542987369349644338",
+ "author": "zqlxr",
+ "ts": "2026-08-28T20:00:56.172000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 2,
+  "tickers_mentioned": [],
+  "is_following_zhao": false,
+  "summary": "赵哥周末愉快！幸苦赵哥！"
+ },
+ "raw_text": "赵哥周末愉快！幸苦赵哥！",
+ "parse_confidence": "medium"
+}

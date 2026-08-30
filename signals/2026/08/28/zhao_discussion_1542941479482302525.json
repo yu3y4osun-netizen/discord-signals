@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542941479482302525",
+ "author": "yanged",
+ "ts": "2026-08-28T16:58:35.175000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "IREN"
+  ],
+  "is_following_zhao": false,
+  "summary": "赵哥，iren财报里折旧设备的金额，一次折算到了到了亏损里，导致亏损巨大，是不是管理层有意打压股价？"
+ },
+ "raw_text": "赵哥，iren财报里折旧设备的金额，一次折算到了到了亏损里，导致亏损巨大，是不是管理层有意打压股价？\n我看长桥今天有2笔10万加的大单买入。🙄",
+ "parse_confidence": "medium"
+}

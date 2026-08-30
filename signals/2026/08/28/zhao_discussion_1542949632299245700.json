@@ -1,0 +1,23 @@
+{
+ "schema_version": "0.3",
+ "source": "discord",
+ "channel_key": "zhao_discussion",
+ "channel_name": "赵哥讨论区",
+ "source_profile": null,
+ "message_id": "1542949632299245700",
+ "author": "jshp77061",
+ "ts": "2026-08-28T17:30:58.958000+00:00",
+ "captured_at": "2026-08-30T12:37:50+08:00",
+ "signal_type": "community",
+ "payload": {
+  "mood": "neutral",
+  "mood_strength": 1,
+  "tickers_mentioned": [
+   "SIE"
+  ],
+  "is_following_zhao": false,
+  "summary": "你可以去买教材考个sie"
+ },
+ "raw_text": "你可以去买教材考个sie",
+ "parse_confidence": "medium"
+}
