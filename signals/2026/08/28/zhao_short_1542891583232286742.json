@@ -7,7 +7,7 @@
  "message_id": "1542891583232286742",
  "author": "美股信息网",
  "ts": "2026-08-28T13:40:18.982000+00:00",
- "captured_at": "2026-08-30T12:37:50+08:00",
+ "captured_at": "2026-08-30T12:38:52+08:00",
  "signal_type": "trade",
  "payload": {
   "plan_type": "incremental",
