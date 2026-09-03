@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544632625103245393",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-09-02T08:58:35.711000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "SOXL跌向两位数，杠杆磨损殆尽"
+  },
+  "raw_text": "Soxl要两位数了"
+}
