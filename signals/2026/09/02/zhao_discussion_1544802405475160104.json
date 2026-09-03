@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544802405475160104",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-02T20:13:14.506000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "自告奋勇维护赵哥持仓月度记录（自评98%准确），为赵哥减负"
+  },
+  "raw_text": "以后赵哥仓位问题问我就行了。我记录了差不多一个多月的。不一定100%准。98%准是有的。减轻一下赵哥的压力"
+}
