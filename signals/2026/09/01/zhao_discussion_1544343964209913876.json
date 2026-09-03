@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544343964209913876",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-09-01T13:51:33.591000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MRVL"
+    ],
+    "is_following_zhao": true,
+    "summary": "观察强如赵哥也不敢加仓迈威尔（MRVL）"
+  },
+  "raw_text": "强如赵哥今天也不敢加仓迈威尔啊"
+}
