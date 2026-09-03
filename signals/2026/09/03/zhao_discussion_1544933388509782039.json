@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544933388509782039",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-03T04:53:43.295000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "调侃赵哥反复输出同样基础知识，群友一跌就忘"
+  },
+  "raw_text": "哈哈 赵哥都快变成无情的复读机了"
+}
