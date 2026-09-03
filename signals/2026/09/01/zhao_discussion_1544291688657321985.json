@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544291688657321985",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liuxingyu",
+  "ts": "2026-09-01T10:23:50.128000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "资金少，等赵哥信号、拉开价差再补仓"
+  },
+  "raw_text": "还是等赵哥信号吧，资金少，价格距离拉开在补😂"
+}
