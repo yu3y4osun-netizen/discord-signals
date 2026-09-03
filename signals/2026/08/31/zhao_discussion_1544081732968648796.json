@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544081732968648796",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "miky1111",
+  "ts": "2026-08-31T20:29:32.791000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "MU 940末日call盘尾暴动，被干懵"
+  },
+  "raw_text": "刚才mu 940call 末日 给我干懵逼了"
+}
