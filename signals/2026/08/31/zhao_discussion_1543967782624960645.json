@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1543967782624960645",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chuyi5858",
+  "ts": "2026-08-31T12:56:44.912000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "SOXL被套求教赵哥：等反弹还是直接亏点割肉"
+  },
+  "raw_text": "@xiaozhaolucky 赵哥，我手上还拿了点soxl，应该等他反弹上来还是直接亏点割了算了"
+}
