@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1543980161068695583",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chuyi5858",
+  "ts": "2026-08-31T13:45:56.163000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "SOXL成本120被套，担心反弹后回调，想先出再进"
+  },
+  "raw_text": "120左右的本😂 很尴尬的位置，担心等上来又回调了，想着先出一下再进的"
+}
