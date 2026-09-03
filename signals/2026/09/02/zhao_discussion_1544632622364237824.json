@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544632622364237824",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "civica",
+  "ts": "2026-09-02T08:58:35.058000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "SPX彻底跌破7640关键位，考虑适当减仓"
+  },
+  "raw_text": "SPX彻底破7640了，是不是要适当减仓"
+}
