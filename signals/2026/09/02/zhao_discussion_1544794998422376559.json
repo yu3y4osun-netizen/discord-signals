@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544794998422376559",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "aaalaowang",
+  "ts": "2026-09-02T19:43:48.527000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "持仓从+13%跳水到-3%，心态崩了想摆烂"
+  },
+  "raw_text": "开盘从13%直接大跳水 -3%都想摆烂了🤦"
+}
