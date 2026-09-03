@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544747464769277965",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-02T16:34:55.621000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "IREN持仓计划37拿到48，上半年曾30拿到60"
+  },
+  "raw_text": "上半年Iren从30拿到了60，现在感觉从37拿到48应该问题不大。"
+}
