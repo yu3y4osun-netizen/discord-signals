@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544669720773664789",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-02T11:26:00.008000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "认为没有赵哥的资金回流判断，小散昨晚都割了"
+  },
+  "raw_text": "是的    昨天没有赵哥说资金回流 估计小散都割了"
+}
