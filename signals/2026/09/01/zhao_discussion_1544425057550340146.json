@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544425057550340146",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-09-01T19:13:47.750000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "下杀中无资金可加"
+  },
+  "raw_text": "没钱加了😭"
+}
