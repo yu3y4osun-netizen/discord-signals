@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544746823162536036",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-02T16:32:22.650000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "IREN双倍ETF磨损：正股已盈利但杠杆还差0.15元才回本"
+  },
+  "raw_text": "IREN  的双倍磨损了0.3元。  正股都赚钱了，双倍还差0.15元才到成本😂"
+}
