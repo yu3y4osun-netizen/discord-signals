@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544704118491316284",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-02T13:42:41.063000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "满仓谷歌错过其他板块反弹，悔恨+1"
+  },
+  "raw_text": "恨呐，恨谷歌的时候就满仓了，后续两天没钱加仓分比不赚"
+}
