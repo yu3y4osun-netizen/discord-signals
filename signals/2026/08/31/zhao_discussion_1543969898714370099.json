@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1543969898714370099",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "corrineq",
+  "ts": "2026-08-31T13:05:09.427000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "表示已跟着赵哥做了好几轮SOXL"
+  },
+  "raw_text": "我们都跟着赵哥做了好几轮soxl了"
+}
