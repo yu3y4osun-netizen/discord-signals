@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544765806078853173",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-02T17:47:48.530000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "盛赞IREN为圣杯标的，让人很舒服"
+  },
+  "raw_text": "圣杯iren"
+}
