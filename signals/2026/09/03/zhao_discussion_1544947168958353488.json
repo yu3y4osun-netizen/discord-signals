@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544947168958353488",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-09-03T05:48:28.810000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "DRAM"
+    ],
+    "is_following_zhao": true,
+    "summary": "按赵哥节奏提示DRAM回补买点"
+  },
+  "raw_text": "昨天没买回dram的 现在可以买一点"
+}
