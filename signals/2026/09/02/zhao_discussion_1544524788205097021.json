@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544524788205097021",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-09-02T01:50:05.391000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "扛单重亏后的黑色幽默"
+  },
+  "raw_text": "事到如今，最对不起的是家人"
+}
