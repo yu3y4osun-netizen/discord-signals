@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544788305550254090",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chenxiansheng83",
+  "ts": "2026-09-02T19:17:12.822000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "求证赵哥：9月10日中选造势开始后行情会好转"
+  },
+  "raw_text": "赵哥，请问9月10日进入中选宣传后行情会好转对吗？"
+}
