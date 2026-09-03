@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544713984093986816",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-02T14:21:53.206000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "向赵哥求证劳动节假期与基金被动减持现金流的机制"
+  },
+  "raw_text": "赵哥那三天的假期是30%现金流吗😂"
+}
