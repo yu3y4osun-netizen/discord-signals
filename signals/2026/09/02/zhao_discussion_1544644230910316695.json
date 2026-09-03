@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544644230910316695",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "aaalaowang",
+  "ts": "2026-09-02T09:44:42.751000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "DELL"
+    ],
+    "is_following_zhao": true,
+    "summary": "DELL盈利单被盘前波动吓到，求止盈建议"
+  },
+  "raw_text": "被这盘前搞怕了"
+}
