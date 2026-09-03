@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544570674474131516",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-09-02T04:52:25.530000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": true,
+    "summary": "已满仓，看到外部9月看7200的观点后恐慌求解"
+  },
+  "raw_text": "看到赵哥说7700门槛小跌破下是极限了（现在7640左右波动），意思是不会再有大跌跌很深的意思吗？在别的地方看到，9月看7200+……我已经满仓了😭😭😭😭😭"
+}
