@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544701929664286730",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-02T13:33:59.206000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "解释群里安静：大部分人已满仓在硬抗，抗单的不说话"
+  },
+  "raw_text": "因为大部分都满了在抗"
+}
