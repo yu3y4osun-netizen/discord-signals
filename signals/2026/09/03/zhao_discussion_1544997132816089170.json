@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544997132816089170",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-09-03T09:07:01.122000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "提醒群友开盘后别再问'明天涨跌'式骚扰问题"
+  },
+  "raw_text": "晚点要开盘了，不要像之前几天那样问些骚扰性质的问题，什么过几天会涨会跌或者会涨跌到多少"
+}
