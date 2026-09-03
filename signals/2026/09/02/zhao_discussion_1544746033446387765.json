@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544746033446387765",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-02T16:29:14.367000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "跟赵哥操作做T几个来回摊低成本，很舒服"
+  },
+  "raw_text": "不过昨晚虽然不敢看，但跟赵哥出了几个，很舒服"
+}
