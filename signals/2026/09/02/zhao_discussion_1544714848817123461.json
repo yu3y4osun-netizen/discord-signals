@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544714848817123461",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chaipeelo",
+  "ts": "2026-09-02T14:25:19.372000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "担忧若真加息美国经济承受不住"
+  },
+  "raw_text": "现在这个样子加息美国会死吧？🥲"
+}
