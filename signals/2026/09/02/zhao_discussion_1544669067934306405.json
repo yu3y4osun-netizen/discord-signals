@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544669067934306405",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-09-02T11:23:24.359000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "对比3月底部行情：群内恐慌或是见底信号，有赵哥带着不慌"
+  },
+  "raw_text": "可以这样想，我们有赵哥带着，今天和昨天群里也有人恐慌了，想象外面的散户有多慌，估计快到头了，之前3月30号到底，群里也是慌"
+}
