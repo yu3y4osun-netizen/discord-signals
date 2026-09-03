@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544745317935742996",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-02T16:26:23.776000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "V型反转日：盘前-1.5%拉回+2.17%"
+  },
+  "raw_text": "我盘前-1.5% 现在+2.17%"
+}
