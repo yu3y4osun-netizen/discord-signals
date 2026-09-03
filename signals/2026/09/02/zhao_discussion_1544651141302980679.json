@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544651141302980679",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hhhhuhh",
+  "ts": "2026-09-02T10:12:10.317000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "自嘲满仓踏涨吃跌、涨吃不到跌吃饱"
+  },
+  "raw_text": "总感觉满涨吃不到，满跌吃的饱饱的🤣"
+}
