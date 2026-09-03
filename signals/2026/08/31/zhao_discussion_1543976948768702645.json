@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1543976948768702645",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-08-31T13:33:10.291000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "周五盘尾买入MU，计划开盘走一波（群主小号halandhaha）"
+  },
+  "raw_text": "MU 周五盘尾买的开盘走一波"
+}
