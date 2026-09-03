@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544933573054701640",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunshuaiyan",
+  "ts": "2026-09-03T04:54:27.294000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "担心问太多赵哥停更不带大家玩了"
+  },
+  "raw_text": "就怕那天赵哥烦了不带我们了🙏"
+}
