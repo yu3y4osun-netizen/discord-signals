@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544914104852938923",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-09-03T03:37:05.713000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "策略汇报：小仓跟赵哥做T，大仓位全在老登股"
+  },
+  "raw_text": "不需要老问赵哥 跟着赵哥买就完了 资金不够就选两三个板块就行"
+}
