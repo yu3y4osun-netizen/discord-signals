@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544330049170448515",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "eatmybanana",
+  "ts": "2026-09-01T12:56:15.987000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "观察赵哥迟迟未出手，疑惑是否没跌出价差"
+  },
+  "raw_text": "赵哥还没出手，以前这种时候我记得赵哥都会出手😂"
+}
