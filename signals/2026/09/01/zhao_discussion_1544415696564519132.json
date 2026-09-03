@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544415696564519132",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-01T18:36:35.917000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": true,
+    "summary": "向赵哥询问NVDA财报机构估值范围"
+  },
+  "raw_text": "赵哥，NVDA 这次财报机构给的估值在什么范围呀"
+}
