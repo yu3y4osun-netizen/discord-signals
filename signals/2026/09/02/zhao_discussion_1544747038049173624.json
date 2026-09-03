@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544747038049173624",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-02T16:33:13.883000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "决定IREN拿到年底，感觉50仍有希望"
+  },
+  "raw_text": "Iren我准备一直拿到年底了"
+}
