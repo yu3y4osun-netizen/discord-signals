@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544785028947513434",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-02T19:04:11.619000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "MU从7月30至今整体做T一大波，仍囤大量底仓（halandhaha）"
+  },
+  "raw_text": "7月30号到现在又整体t了一大波"
+}
