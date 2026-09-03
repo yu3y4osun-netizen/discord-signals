@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1543993153571389563",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-08-31T14:37:33.817000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": true,
+    "summary": "赞叹赵哥SPX点位判断精准，大盘拉回"
+  },
+  "raw_text": "赵哥的点位还是这么的吊，SPX 上去了"
+}
