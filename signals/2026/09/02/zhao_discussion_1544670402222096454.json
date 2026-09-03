@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544670402222096454",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-09-02T11:28:42.478000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ",
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "观点：QQQ回撤30%才是上TQQQ的时机"
+  },
+  "raw_text": "qqq回撤30%就可以上tqqq了"
+}
