@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544763699762434251",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-02T17:39:26.345000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "IREN双倍ETF等回本即出，紧跟赵哥提高资金使用率"
+  },
+  "raw_text": "INER 双倍出了，嘻嘻，还好等到了！！"
+}
