@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544359279904034847",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-09-01T14:52:25.137000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "担心AVGO财报把半导体带崩，反弹先跑路"
+  },
+  "raw_text": "主要是avgo要发财报了"
+}
