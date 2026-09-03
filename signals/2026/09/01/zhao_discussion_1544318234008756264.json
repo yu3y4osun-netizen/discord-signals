@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544318234008756264",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-09-01T12:09:19.033000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "困惑所谓资金回流好几天但账户反而缩水"
+  },
+  "raw_text": "情况不妙\n怎么回流好几天账户钱变少了"
+}
