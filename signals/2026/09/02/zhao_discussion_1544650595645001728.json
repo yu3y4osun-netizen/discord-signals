@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544650595645001728",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "aaalaowang",
+  "ts": "2026-09-02T10:10:00.222000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "CRCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "15%仓位买CRCL快翻倍，对冲硬件阴跌"
+  },
+  "raw_text": "然后15%买了两杯crcl"
+}
