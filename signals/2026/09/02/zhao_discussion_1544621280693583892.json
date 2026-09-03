@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544621280693583892",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "trashhpandaa",
+  "ts": "2026-09-02T08:13:30.993000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "情绪化口号式加仓TQQQ猛干"
+  },
+  "raw_text": "那还说啥啦？就干TQ！加仓猛干！"
+}
