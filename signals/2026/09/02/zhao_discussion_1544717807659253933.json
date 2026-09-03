@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544717807659253933",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-02T14:37:04.815000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "MU 950 call分批止盈出（halandhaha）"
+  },
+  "raw_text": "mu c 950 out"
+}
