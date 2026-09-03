@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544270838331736074",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "corrineq",
+  "ts": "2026-09-01T09:00:59.023000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "随便跟一单赵哥信号就满仓了"
+  },
+  "raw_text": "我是随便一跟就满仓了"
+}
