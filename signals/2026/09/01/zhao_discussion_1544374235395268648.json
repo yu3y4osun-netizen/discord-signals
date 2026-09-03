@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544374235395268648",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-09-01T15:51:50.804000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "经历两次大跌心态已练好，跟着赵哥不慌"
+  },
+  "raw_text": "😂😂跟着赵哥一点不慌"
+}
