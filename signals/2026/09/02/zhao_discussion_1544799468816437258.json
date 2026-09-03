@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544799468816437258",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-02T20:01:34.352000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "财报前堵一手AVGO 370 call小赌（halandhaha）"
+  },
+  "raw_text": "堵了一手avgo 370c"
+}
