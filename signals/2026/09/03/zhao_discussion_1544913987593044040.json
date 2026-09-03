@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544913987593044040",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunshuaiyan",
+  "ts": "2026-09-03T03:36:37.756000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "提醒群友多看少问、体谅赵哥被问烦"
+  },
+  "raw_text": "赵哥快被咱们问烦了，后面还是多看少问🤣"
+}
