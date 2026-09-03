@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544358279256342548",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-01T14:48:26.564000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "感谢赵哥SOXL买点时机（halandhaha）"
+  },
+  "raw_text": "感谢赵哥买soxl的时机"
+}
