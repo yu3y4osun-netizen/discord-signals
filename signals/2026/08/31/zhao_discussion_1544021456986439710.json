@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544021456986439710",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-08-31T16:30:01.877000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "吐槽财报季市场脆弱，120分财报才能不跌、99分都挨打"
+  },
+  "raw_text": "我感觉最近啥财报都是跌😂 市场太脆弱了"
+}
