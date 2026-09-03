@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1543797594831069228",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-08-31T01:40:28.980000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "黄金空单4700拿到4500止盈平仓"
+  },
+  "raw_text": "黄金空单平了，4700一路跌到4500，休息下"
+}
