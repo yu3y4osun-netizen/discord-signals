@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544786748952027148",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanyan379",
+  "ts": "2026-09-02T19:11:01.700000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": true,
+    "summary": "TSM期权买入后大跌被套，求教赵哥"
+  },
+  "raw_text": "赵哥可以问一下台积电吗，买了期权跌了很多了"
+}
