@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544435547680935937",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-01T19:55:28.792000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "INTC",
+      "SPCX",
+      "TSM",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "观察INTC/SPCX/TSM/IREN在黑天鹅夜抗跌硬气"
+  },
+  "raw_text": "Intel spcx TSM iren今晚都挺硬的"
+}
