@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544425539287130235",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-01T19:15:42.605000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "满仓浮亏4-5个点来回跳动，没招了"
+  },
+  "raw_text": "满仓亏4、5个点来回跳动 没招了"
+}
