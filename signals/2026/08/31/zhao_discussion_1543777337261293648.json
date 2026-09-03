@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1543777337261293648",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-08-31T00:19:59.199000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "吐槽群里把SOXL跌1.5%就叫大跌，见惯风浪"
+  },
+  "raw_text": "soxl 才跌 1.5 叫大跌吗😂"
+}
