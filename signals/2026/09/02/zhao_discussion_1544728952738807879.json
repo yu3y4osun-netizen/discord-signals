@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544728952738807879",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-02T15:21:22.009000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": true,
+    "summary": "CIFR割肉离场，发誓以后不碰小盘股"
+  },
+  "raw_text": "CIFR 割肉了拿着太难受了"
+}
