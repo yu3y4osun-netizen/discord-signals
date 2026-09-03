@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544358000721137786",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-01T14:47:20.156000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SPY"
+    ],
+    "is_following_zhao": true,
+    "summary": "盛赞赵哥SPY最低点入场"
+  },
+  "raw_text": "义父赵哥 哈哈 spy最低点入场"
+}
