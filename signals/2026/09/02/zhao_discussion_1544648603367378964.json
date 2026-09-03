@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544648603367378964",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-09-02T10:02:05.226000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "全仓浮亏扩大，一周回撤十几个点，无语"
+  },
+  "raw_text": "现在已经全仓两个点了 我真有点无语了"
+}
