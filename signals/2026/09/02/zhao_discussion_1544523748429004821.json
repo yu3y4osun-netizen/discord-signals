@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1544523748429004821",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-09-02T01:45:57.489000+00:00",
+  "captured_at": "2026-09-03T21:14:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "半仓TQQQ扛隔夜大跌，悔恨落泪"
+  },
+  "raw_text": "早上起床 半仓tqqq的我流下了悔恨的泪水"
+}
