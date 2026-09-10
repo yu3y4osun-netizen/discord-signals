@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545435097463918703",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bankflower",
+  "ts": "2026-09-04T14:07:20.031000+00:00",
+  "captured_at": "2026-09-10T21:10:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥是不是出完了"
+  },
+  "raw_text": "赵哥是不是出完了"
+}
