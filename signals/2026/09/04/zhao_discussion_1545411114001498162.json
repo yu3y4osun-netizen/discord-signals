@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545411114001498162",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-09-04T12:32:01.928000+00:00",
+  "captured_at": "2026-09-10T21:08:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跟着赵哥 卡卡一顿卖 太爽了"
+  },
+  "raw_text": "跟着赵哥 卡卡一顿卖 太爽了"
+}
