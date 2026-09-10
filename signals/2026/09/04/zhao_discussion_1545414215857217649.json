@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545414215857217649",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haojue",
+  "ts": "2026-09-04T12:44:21.468000+00:00",
+  "captured_at": "2026-09-10T21:08:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥就是早上五点不到起来清的"
+  },
+  "raw_text": "赵哥就是早上五点不到起来清的"
+}
