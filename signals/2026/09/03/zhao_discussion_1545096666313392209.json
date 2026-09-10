@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545096666313392209",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "toolplanka9",
+  "ts": "2026-09-03T15:42:31.757000+00:00",
+  "captured_at": "2026-09-10T21:05:47+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥能说说nok的看法吧 看您底仓好像拿了一段时间了也没做t"
+  },
+  "raw_text": "赵哥能说说nok的看法吧 看您底仓好像拿了一段时间了也没做t"
+}
