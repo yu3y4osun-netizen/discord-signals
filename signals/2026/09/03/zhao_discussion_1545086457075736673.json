@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545086457075736673",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bankflower",
+  "ts": "2026-09-03T15:01:57.685000+00:00",
+  "captured_at": "2026-09-10T21:03:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "都起飞了，还要不要再减点仓"
+  },
+  "raw_text": "都起飞了，还要不要再减点仓"
+}
