@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545130806425555104",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky2026",
+  "ts": "2026-09-03T17:58:11.394000+00:00",
+  "captured_at": "2026-09-10T21:06:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 那节前 光和存拉升不多的情况下 就可以先不走是吗 节后资金会高切低过来？"
+  },
+  "raw_text": "赵哥 那节前 光和存拉升不多的情况下 就可以先不走是吗 节后资金会高切低过来？"
+}
