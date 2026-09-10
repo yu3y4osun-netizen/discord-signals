@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545420449402454126",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaiagoldin",
+  "ts": "2026-09-04T13:09:07.661000+00:00",
+  "captured_at": "2026-09-10T21:08:55+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥看的➕60 -60 是按前一天收盘价算的吗请问"
+  },
+  "raw_text": "赵哥看的➕60 -60 是按前一天收盘价算的吗请问"
+}
