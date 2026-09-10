@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545091893644238858",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-09-03T15:23:33.864000+00:00",
+  "captured_at": "2026-09-10T21:05:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "等赵哥"
+  },
+  "raw_text": "等赵哥"
+}
