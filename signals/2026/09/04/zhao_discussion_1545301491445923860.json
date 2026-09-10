@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545301491445923860",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-09-04T05:16:25.874000+00:00",
+  "captured_at": "2026-09-10T21:07:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "希望今天光和存储起飞 lite就差一个点回本了"
+  },
+  "raw_text": "希望今天光和存储起飞 lite就差一个点回本了"
+}
