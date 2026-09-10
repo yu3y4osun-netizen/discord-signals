@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545094877375762543",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-03T15:35:25.241000+00:00",
+  "captured_at": "2026-09-10T21:05:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他期权不止损的"
+  },
+  "raw_text": "他期权不止损的"
+}
