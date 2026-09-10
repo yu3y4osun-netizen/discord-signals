@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545081098428612690",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-03T14:40:40.084000+00:00",
+  "captured_at": "2026-09-10T21:02:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "想知道仓位情况的  就关注一下M哥，就不用在问赵哥了。"
+  },
+  "raw_text": "想知道仓位情况的  就关注一下M哥，就不用在问赵哥了。"
+}
