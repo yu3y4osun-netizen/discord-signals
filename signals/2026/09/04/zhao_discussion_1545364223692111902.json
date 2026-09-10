@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545364223692111902",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-04T09:25:42.407000+00:00",
+  "captured_at": "2026-09-10T21:08:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥牛逼啊 卖完就跌了"
+  },
+  "raw_text": "赵哥牛逼啊 卖完就跌了"
+}
