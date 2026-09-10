@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545130211404939435",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "stefanwang",
+  "ts": "2026-09-03T17:55:49.530000+00:00",
+  "captured_at": "2026-09-10T21:06:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那赵哥节后第一天，也就是周二，股市就会开始跌吗"
+  },
+  "raw_text": "那赵哥节后第一天，也就是周二，股市就会开始跌吗"
+}
