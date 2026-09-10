@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545079929983467580",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiekai",
+  "ts": "2026-09-03T14:36:01.505000+00:00",
+  "captured_at": "2026-09-10T21:02:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "在两个币股我卖了才起飞的"
+  },
+  "raw_text": "在两个币股我卖了才起飞的"
+}
