@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545086605453168690",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-09-03T15:02:33.061000+00:00",
+  "captured_at": "2026-09-10T21:03:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "全部起飞✈️(︶^︶)"
+  },
+  "raw_text": "全部起飞✈️(︶^︶)"
+}
