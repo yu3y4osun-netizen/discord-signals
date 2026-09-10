@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545142911153340517",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-09-03T18:46:17.386000+00:00",
+  "captured_at": "2026-09-10T21:07:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，如果spx中选看8000，那qqq大概看多少"
+  },
+  "raw_text": "赵哥，如果spx中选看8000，那qqq大概看多少"
+}
