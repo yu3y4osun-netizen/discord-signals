@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545132024325480648",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "stefanwang",
+  "ts": "2026-09-03T18:03:01.764000+00:00",
+  "captured_at": "2026-09-10T21:06:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那赵哥，特朗普不会突然taco和伊朗签协议了吗"
+  },
+  "raw_text": "那赵哥，特朗普不会突然taco和伊朗签协议了吗"
+}
