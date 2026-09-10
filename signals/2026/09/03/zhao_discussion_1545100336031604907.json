@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545100336031604907",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "toolplanka9",
+  "ts": "2026-09-03T15:57:06.686000+00:00",
+  "captured_at": "2026-09-10T21:06:06+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "谢谢赵哥  我新人，还需要多消化，不过逻辑大概是学到了，非常感谢🙏🏻"
+  },
+  "raw_text": "谢谢赵哥  我新人，还需要多消化，不过逻辑大概是学到了，非常感谢🙏🏻"
+}
