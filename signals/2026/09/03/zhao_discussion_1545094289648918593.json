@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545094289648918593",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "frankyin",
+  "ts": "2026-09-03T15:33:05.116000+00:00",
+  "captured_at": "2026-09-10T21:05:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "@xiaozhaolucky 赵哥 intc 还在等等嘛"
+  },
+  "raw_text": "@xiaozhaolucky 赵哥 intc 还在等等嘛"
+}
