@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545091804871794788",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-09-03T15:23:12.699000+00:00",
+  "captured_at": "2026-09-10T21:05:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥博通进货吗"
+  },
+  "raw_text": "赵哥博通进货吗"
+}
