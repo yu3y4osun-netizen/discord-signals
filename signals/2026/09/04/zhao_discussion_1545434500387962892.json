@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545434500387962892",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-09-04T14:04:57.677000+00:00",
+  "captured_at": "2026-09-10T21:10:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥买买买的时候记得买  卖卖卖的时候记得卖"
+  },
+  "raw_text": "赵哥买买买的时候记得买  卖卖卖的时候记得卖"
+}
