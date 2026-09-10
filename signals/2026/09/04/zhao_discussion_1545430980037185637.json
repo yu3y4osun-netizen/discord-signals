@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545430980037185637",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lateonrush77",
+  "ts": "2026-09-04T13:50:58.360000+00:00",
+  "captured_at": "2026-09-10T21:09:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥一卖就转弯 太神了"
+  },
+  "raw_text": "赵哥一卖就转弯 太神了"
+}
