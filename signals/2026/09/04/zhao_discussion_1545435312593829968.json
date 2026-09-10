@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545435312593829968",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bankflower",
+  "ts": "2026-09-04T14:08:11.322000+00:00",
+  "captured_at": "2026-09-10T21:10:46+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "很少见赵哥这么出"
+  },
+  "raw_text": "很少见赵哥这么出"
+}
