@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545097286265086002",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "toolplanka9",
+  "ts": "2026-09-03T15:44:59.565000+00:00",
+  "captured_at": "2026-09-10T21:05:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "下周8.9号急跌是吸筹机会么？赵哥打算什么时候躺平不做t呢"
+  },
+  "raw_text": "下周8.9号急跌是吸筹机会么？赵哥打算什么时候躺平不做t呢"
+}
