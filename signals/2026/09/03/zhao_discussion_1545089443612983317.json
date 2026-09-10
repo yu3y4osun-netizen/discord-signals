@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545089443612983317",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-09-03T15:13:49.731000+00:00",
+  "captured_at": "2026-09-10T21:04:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥etf叫CARD吧"
+  },
+  "raw_text": "赵哥etf叫CARD吧"
+}
