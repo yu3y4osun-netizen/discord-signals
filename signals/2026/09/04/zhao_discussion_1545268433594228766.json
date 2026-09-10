@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545268433594228766",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-09-04T03:05:04.268000+00:00",
+  "captured_at": "2026-09-10T21:07:46+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "特斯拉夜盘什么情况有知道的吗"
+  },
+  "raw_text": "特斯拉夜盘什么情况有知道的吗"
+}
