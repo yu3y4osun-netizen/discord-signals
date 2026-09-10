@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545118592213721098",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-03T17:09:39.299000+00:00",
+  "captured_at": "2026-09-10T21:06:10+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "知不知那个同学有赵哥发言的总结？"
+  },
+  "raw_text": "知不知那个同学有赵哥发言的总结？"
+}
