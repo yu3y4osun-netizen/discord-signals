@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545433553079247018",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-04T14:01:11.821000+00:00",
+  "captured_at": "2026-09-10T21:09:25+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥清仓了？"
+  },
+  "raw_text": "赵哥清仓了？"
+}
