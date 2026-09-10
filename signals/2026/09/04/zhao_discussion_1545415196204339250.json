@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545415196204339250",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-09-04T12:48:15.201000+00:00",
+  "captured_at": "2026-09-10T21:08:47+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥前几天就发了"
+  },
+  "raw_text": "赵哥前几天就发了"
+}
