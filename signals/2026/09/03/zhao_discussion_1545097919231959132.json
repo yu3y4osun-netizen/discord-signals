@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545097919231959132",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "toolplanka9",
+  "ts": "2026-09-03T15:47:30.476000+00:00",
+  "captured_at": "2026-09-10T21:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "好的 非常感谢赵哥 我是新来的  您的节奏跟起来有点吃力 所以想知道赵哥对9-10月份看法  看下有没有机会躺平一段时候..."
+  },
+  "raw_text": "好的 非常感谢赵哥 我是新来的  您的节奏跟起来有点吃力 所以想知道赵哥对9-10月份看法  看下有没有机会躺平一段时候，非常感谢赵哥解惑"
+}
