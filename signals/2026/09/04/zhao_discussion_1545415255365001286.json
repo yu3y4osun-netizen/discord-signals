@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545415255365001286",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-09-04T12:48:29.306000+00:00",
+  "captured_at": "2026-09-10T21:08:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "记住赵哥说的啊"
+  },
+  "raw_text": "记住赵哥说的啊"
+}
