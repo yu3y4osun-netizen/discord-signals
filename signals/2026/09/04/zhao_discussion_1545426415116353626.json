@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545426415116353626",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-04T13:32:49.998000+00:00",
+  "captured_at": "2026-09-10T21:08:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "直接起飞了"
+  },
+  "raw_text": "直接起飞了"
+}
