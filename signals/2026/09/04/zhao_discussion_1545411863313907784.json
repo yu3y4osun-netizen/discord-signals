@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545411863313907784",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-04T12:35:00.578000+00:00",
+  "captured_at": "2026-09-10T21:08:34+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥不是说下周二三"
+  },
+  "raw_text": "赵哥不是说下周二三"
+}
