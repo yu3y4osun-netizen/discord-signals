@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545434118014369933",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sofia888",
+  "ts": "2026-09-04T14:03:26.512000+00:00",
+  "captured_at": "2026-09-10T21:09:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哇塞赵哥一直在卖"
+  },
+  "raw_text": "哇塞赵哥一直在卖"
+}
