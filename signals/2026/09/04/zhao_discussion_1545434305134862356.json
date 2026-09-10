@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545434305134862356",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xprimes",
+  "ts": "2026-09-04T14:04:11.125000+00:00",
+  "captured_at": "2026-09-10T21:09:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥是要干一票大的"
+  },
+  "raw_text": "赵哥是要干一票大的"
+}
