@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545134243829780521",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-03T18:11:50.935000+00:00",
+  "captured_at": "2026-09-10T21:07:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "嗯嗯 相信赵哥所以满融了"
+  },
+  "raw_text": "嗯嗯 相信赵哥所以满融了"
+}
