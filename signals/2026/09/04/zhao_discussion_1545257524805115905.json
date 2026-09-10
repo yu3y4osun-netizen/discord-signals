@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545257524805115905",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-09-04T02:21:43.410000+00:00",
+  "captured_at": "2026-09-10T21:07:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "感觉跟不上赵哥的信号😂"
+  },
+  "raw_text": "感觉跟不上赵哥的信号😂"
+}
