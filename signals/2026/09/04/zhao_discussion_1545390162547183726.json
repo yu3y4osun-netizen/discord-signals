@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545390162547183726",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bankflower",
+  "ts": "2026-09-04T11:08:46.712000+00:00",
+  "captured_at": "2026-09-10T21:08:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "请问谁知道赵哥的仓位现在是多少？"
+  },
+  "raw_text": "请问谁知道赵哥的仓位现在是多少？"
+}
