@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545086970701680742",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-09-03T15:04:00.143000+00:00",
+  "captured_at": "2026-09-10T21:03:31+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跟赵哥出完了"
+  },
+  "raw_text": "跟赵哥出完了"
+}
