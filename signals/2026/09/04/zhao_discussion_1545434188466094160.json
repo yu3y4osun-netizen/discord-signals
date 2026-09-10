@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545434188466094160",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-04T14:03:43.309000+00:00",
+  "captured_at": "2026-09-10T21:09:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "选好公司的股票跟着赵哥节奏就行"
+  },
+  "raw_text": "选好公司的股票跟着赵哥节奏就行"
+}
