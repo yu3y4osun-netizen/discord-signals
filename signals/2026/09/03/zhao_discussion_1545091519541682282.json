@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545091519541682282",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bankflower",
+  "ts": "2026-09-03T15:22:04.671000+00:00",
+  "captured_at": "2026-09-10T21:04:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，现在多少仓位合适啊？明天节前最后一天，还没到普涨的时候吧？是不是还有一波跌的行情"
+  },
+  "raw_text": "赵哥，现在多少仓位合适啊？明天节前最后一天，还没到普涨的时候吧？是不是还有一波跌的行情"
+}
