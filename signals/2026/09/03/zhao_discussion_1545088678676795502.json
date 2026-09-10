@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545088678676795502",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-03T15:10:47.356000+00:00",
+  "captured_at": "2026-09-10T21:03:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥买很多股票"
+  },
+  "raw_text": "赵哥买很多股票"
+}
