@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545144733788151910",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-09-03T18:53:31.936000+00:00",
+  "captured_at": "2026-09-10T21:07:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "其实我是认为qqq的波动比spx要大，觉得他的涨幅可能比spx大，所以才有此一问，原来他俩到中选前涨幅差不多，感谢赵哥解..."
+  },
+  "raw_text": "其实我是认为qqq的波动比spx要大，觉得他的涨幅可能比spx大，所以才有此一问，原来他俩到中选前涨幅差不多，感谢赵哥解惑"
+}
