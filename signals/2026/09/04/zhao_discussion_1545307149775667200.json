@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545307149775667200",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "1020063575",
+  "ts": "2026-09-04T05:38:54.925000+00:00",
+  "captured_at": "2026-09-10T21:07:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "师兄 赵哥的仓位详细出了吗"
+  },
+  "raw_text": "师兄 赵哥的仓位详细出了吗"
+}
