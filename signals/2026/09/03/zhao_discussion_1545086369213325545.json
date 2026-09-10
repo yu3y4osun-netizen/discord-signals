@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545086369213325545",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-03T15:01:36.737000+00:00",
+  "captured_at": "2026-09-10T21:03:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "感谢赵哥，感谢义父"
+  },
+  "raw_text": "感谢赵哥，感谢义父"
+}
