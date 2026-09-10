@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545091293665824768",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yingdi9527",
+  "ts": "2026-09-03T15:21:10.818000+00:00",
+  "captured_at": "2026-09-10T21:04:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不行啊 赵哥 大陆周边 都是炒缅a的 没氛围 我最大的氛围就是这个群里兄弟姐妹了  请你们给点力 不要恐慌"
+  },
+  "raw_text": "不行啊 赵哥 大陆周边 都是炒缅a的 没氛围 我最大的氛围就是这个群里兄弟姐妹了  请你们给点力 不要恐慌"
+}
