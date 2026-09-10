@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545080364530143232",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meter123",
+  "ts": "2026-09-03T14:37:45.109000+00:00",
+  "captured_at": "2026-09-10T21:02:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "M哥做的赵哥持仓"
+  },
+  "raw_text": "M哥做的赵哥持仓"
+}
