@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545125433593569433",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-09-03T17:36:50.411000+00:00",
+  "captured_at": "2026-09-10T21:06:15+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥特斯拉和spcx已经超过那个波段价位了 就是已经缴费了？"
+  },
+  "raw_text": "赵哥特斯拉和spcx已经超过那个波段价位了 就是已经缴费了？"
+}
