@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545434115266969701",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-09-04T14:03:25.857000+00:00",
+  "captured_at": "2026-09-10T21:09:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 一直再卖"
+  },
+  "raw_text": "赵哥 一直再卖"
+}
