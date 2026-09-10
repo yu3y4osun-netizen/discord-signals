@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545125663286100071",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jasonic",
+  "ts": "2026-09-03T17:37:45.174000+00:00",
+  "captured_at": "2026-09-10T21:06:17+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，这次conl回到5.5以内怎么没有布局，以前5.多看您也是会操作的"
+  },
+  "raw_text": "赵哥，这次conl回到5.5以内怎么没有布局，以前5.多看您也是会操作的"
+}
