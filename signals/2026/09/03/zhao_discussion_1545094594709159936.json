@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545094594709159936",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-03T15:34:17.848000+00:00",
+  "captured_at": "2026-09-10T21:05:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥牛逼！提前说了这么多次周三周四会反弹"
+  },
+  "raw_text": "赵哥牛逼！提前说了这么多次周三周四会反弹"
+}
