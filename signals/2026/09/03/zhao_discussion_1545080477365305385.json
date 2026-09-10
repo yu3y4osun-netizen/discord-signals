@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545080477365305385",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-09-03T14:38:12.011000+00:00",
+  "captured_at": "2026-09-10T21:02:55+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "😂 不然赵哥 觉得饭都喂嘴里面，还吃不下"
+  },
+  "raw_text": "😂 不然赵哥 觉得饭都喂嘴里面，还吃不下"
+}
