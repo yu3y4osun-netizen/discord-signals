@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545088791151247431",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-03T15:11:14.172000+00:00",
+  "captured_at": "2026-09-10T21:03:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "选择性跟选择性抄赵哥底"
+  },
+  "raw_text": "选择性跟选择性抄赵哥底"
+}
