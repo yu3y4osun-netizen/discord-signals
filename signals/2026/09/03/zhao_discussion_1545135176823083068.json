@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545135176823083068",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-03T18:15:33.378000+00:00",
+  "captured_at": "2026-09-10T21:07:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "把我吓得割肉 后面只看赵哥的消息就行"
+  },
+  "raw_text": "把我吓得割肉 后面只看赵哥的消息就行"
+}
