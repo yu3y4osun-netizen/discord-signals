@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545130510672596992",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunshuaiyan",
+  "ts": "2026-09-03T17:57:00.881000+00:00",
+  "captured_at": "2026-09-10T21:06:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥请问博通的合理估值在多少啊"
+  },
+  "raw_text": "赵哥请问博通的合理估值在多少啊"
+}
