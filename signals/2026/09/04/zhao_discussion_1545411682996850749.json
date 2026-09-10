@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545411682996850749",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-04T12:34:17.587000+00:00",
+  "captured_at": "2026-09-10T21:08:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跟赵哥很多轮了"
+  },
+  "raw_text": "跟赵哥很多轮了"
+}
