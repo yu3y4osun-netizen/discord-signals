@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545366331585470535",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-09-04T09:34:04.968000+00:00",
+  "captured_at": "2026-09-10T21:08:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥出了好多 是监测到有大单出货了么"
+  },
+  "raw_text": "赵哥出了好多 是监测到有大单出货了么"
+}
