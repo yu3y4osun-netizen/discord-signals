@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545126537722986556",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jasonic",
+  "ts": "2026-09-03T17:41:13.656000+00:00",
+  "captured_at": "2026-09-10T21:06:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，节假日被动减多数是不是都是下跌的，这次是受到事件的影响才补涨"
+  },
+  "raw_text": "赵哥，节假日被动减多数是不是都是下跌的，这次是受到事件的影响才补涨"
+}
