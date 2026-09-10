@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545094511808610449",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sofia888",
+  "ts": "2026-09-03T15:33:58.083000+00:00",
+  "captured_at": "2026-09-10T21:05:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "遇见赵哥之前 我简直就是在瞎买😂"
+  },
+  "raw_text": "遇见赵哥之前 我简直就是在瞎买😂"
+}
