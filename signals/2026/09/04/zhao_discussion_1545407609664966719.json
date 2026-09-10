@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545407609664966719",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaywinner",
+  "ts": "2026-09-04T12:18:06.429000+00:00",
+  "captured_at": "2026-09-10T21:08:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "预期拉满了吧"
+  },
+  "raw_text": "预期拉满了吧"
+}
