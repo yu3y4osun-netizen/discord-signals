@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545415454883971172",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "corrineq",
+  "ts": "2026-09-04T12:49:16.875000+00:00",
+  "captured_at": "2026-09-10T21:08:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跟住赵哥"
+  },
+  "raw_text": "跟住赵哥"
+}
