@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547608180597461123",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wenwater",
+  "ts": "2026-09-10T14:02:23.424000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "iren加了马上直线"
+  },
+  "raw_text": "iren加了马上直线"
+}
