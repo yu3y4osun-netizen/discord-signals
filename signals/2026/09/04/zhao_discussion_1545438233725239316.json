@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545438233725239316",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-04T14:19:47.774000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "讨论赵哥操作 / 恐慌: 下周能不能狠狠下跌把追高的套到割肉"
+  },
+  "raw_text": "下周能不能狠狠下跌把追高的套到割肉"
+}
