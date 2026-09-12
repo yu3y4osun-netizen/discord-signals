@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545329334846496788",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-09-04T07:07:04.258000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "S"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及S: https://x.com/NiaoShen988/status/2095480739638952313/video/1?s=46"
+  },
+  "raw_text": "https://x.com/NiaoShen988/status/2095480739638952313/video/1?s=46"
+}
