@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545134890314502214",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-09-03T18:14:25.069000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "讨论赵哥操作 / 恐慌: 别国的 就拿评论区举例  是不是一跌就看新闻看是不是继续打 看什么是不是技术是不是跌破了 都恐慌会心理发生羊群效应跟着慌了"
+  },
+  "raw_text": "别国的 就拿评论区举例\n\n是不是一跌就看新闻看是不是继续打 看什么是不是技术是不是跌破了 都恐慌会心理发生羊群效应跟着慌了"
+}
