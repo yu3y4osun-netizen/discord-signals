@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547410674458566657",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-09-10T00:57:34.291000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "9 月 9 日，CoreWeave 首席执行官 Mike Intrator 在 Goldman Sachs Communacopia + Technology Conference 上表示，AI..."
+  },
+  "raw_text": "9 月 9 日，CoreWeave 首席执行官 Mike Intrator 在 Goldman Sachs Communacopia + Technology Conference 上表示，AI 行业在解释数据中心对社区的好处方面做得不够好，公众的恐惧本质上是对 “变化太快” 的焦虑。这一言论引发市场对公司未来发展的担忧，导致股价下跌。"
+}
