@@ -5,13 +5,13 @@
   "channel_name": "赵哥讨论区",
   "author": "oddclan",
   "ts": "2026-09-03T18:56:54.148000+00:00",
-  "captured_at": "2026-09-10T21:07:28+08:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
   "signal_type": "community",
   "payload": {
-    "mood": "neutral",
+    "mood": "fear",
     "tickers_mentioned": [],
-    "is_following_zhao": false,
-    "summary": "哈哈哈，刚被闹钟吵醒，起来看看行情，今年除了中选外，后面还有一次大跌，到时候继续跟着赵哥做，感谢赵哥一路领航，orz"
+    "is_following_zhao": true,
+    "summary": "讨论赵哥操作 / 恐慌: 哈哈哈，刚被闹钟吵醒，起来看看行情，今年除了中选外，后面还有一次大跌，到时候继续跟着赵哥做，感谢赵哥一路领航，orz"
   },
   "raw_text": "哈哈哈，刚被闹钟吵醒，起来看看行情，今年除了中选外，后面还有一次大跌，到时候继续跟着赵哥做，感谢赵哥一路领航，orz"
 }
