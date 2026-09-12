@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545284915552329771",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-04T04:10:33.873000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及BE: 可惜我选股在迈威尔和BE中间选择了BE"
+  },
+  "raw_text": "可惜我选股在迈威尔和BE中间选择了BE"
+}
