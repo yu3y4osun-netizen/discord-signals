@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547972014873120778",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-09-11T14:08:08.275000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "基本上赵哥8层我就满仓满融了"
+  },
+  "raw_text": "基本上赵哥8层我就满仓满融了"
+}
