@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547990976491163772",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-09-11T15:23:29.077000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥我想问下去年coinbase这种，比特币震荡他腰斩然后拉起来怎么吃，也是买二卖一金字塔式积累仓位吗"
+  },
+  "raw_text": "赵哥我想问下去年coinbase这种，比特币震荡他腰斩然后拉起来怎么吃，也是买二卖一金字塔式积累仓位吗"
+}
