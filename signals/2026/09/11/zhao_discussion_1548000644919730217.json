@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548000644919730217",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-11T16:01:54.210000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "如果大行情开启谷歌回去那个位置很轻松"
+  },
+  "raw_text": "如果大行情开启谷歌回去那个位置很轻松"
+}
