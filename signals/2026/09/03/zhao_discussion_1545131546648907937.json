@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545131546648907937",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "channinglucky",
+  "ts": "2026-09-03T18:01:07.877000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "特斯拉"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及特斯拉: 之前记得说特斯拉和X翘翘板，现在一起涨，是暂时不合了吗🤔"
+  },
+  "raw_text": "之前记得说特斯拉和X翘翘板，现在一起涨，是暂时不合了吗🤔"
+}
