@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547598970618912788",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-10T13:25:47.594000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还是那句话，做好仓位管理，不要去预测和焦虑，见招拆招"
+  },
+  "raw_text": "还是那句话，做好仓位管理，不要去预测和焦虑，见招拆招"
+}
