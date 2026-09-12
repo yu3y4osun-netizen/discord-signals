@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548000696337567875",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "frankyin",
+  "ts": "2026-09-11T16:02:06.469000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "RKLB"
+    ],
+    "is_following_zhao": false,
+    "summary": "@xiaozhaolucky 赵哥RKLB 是因为SPCX竞争的吗？"
+  },
+  "raw_text": "@xiaozhaolucky  赵哥RKLB 是因为SPCX竞争的吗？"
+}
