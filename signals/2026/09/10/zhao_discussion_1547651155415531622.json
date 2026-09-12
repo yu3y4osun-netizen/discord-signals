@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547651155415531622",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-10T16:53:09.419000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "要是选果子就血赚了，NVDA这个票短线真的做不了"
+  },
+  "raw_text": "要是选果子就血赚了，NVDA这个票短线真的做不了"
+}
