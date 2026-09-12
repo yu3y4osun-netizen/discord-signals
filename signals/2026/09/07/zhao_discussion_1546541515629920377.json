@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1546541515629920377",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-09-07T15:23:50.678000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "A",
+      "APP"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及A: WTI原油期货日内涨幅达2.00%，现报93.05美元/桶。 (来自金十数据APP)"
+  },
+  "raw_text": "WTI原油期货日内涨幅达2.00%，现报93.05美元/桶。\n(来自金十数据APP)"
+}
