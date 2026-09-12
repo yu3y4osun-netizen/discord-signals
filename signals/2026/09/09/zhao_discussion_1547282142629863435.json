@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547282142629863435",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-09T16:26:49.915000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥几千万刀吧资产"
+  },
+  "raw_text": "赵哥几千万刀吧资产"
+}
