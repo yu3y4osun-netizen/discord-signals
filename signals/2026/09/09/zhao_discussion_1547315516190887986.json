@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547315516190887986",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-09T18:39:26.792000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "苹果公布iPhone新品系列国行价格：iPhone 18 Pro国行9999元起，iPhone 18 Pro Max国行10999元起。将于9月12日开启预售，9月18日发布。"
+  },
+  "raw_text": "苹果公布iPhone新品系列国行价格：iPhone 18 Pro国行9999元起，iPhone 18 Pro Max国行10999元起。将于9月12日开启预售，9月18日发布。"
+}
