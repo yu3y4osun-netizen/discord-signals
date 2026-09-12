@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545135603539124317",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-09-03T18:17:15.115000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "A"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及A: 无论做A股还是美股   把自己身段摆在最低的人民群众（老百姓）出发  在怎么压迫关键日子不会压"
+  },
+  "raw_text": "无论做A股还是美股 \n\n把自己身段摆在最低的人民群众（老百姓）出发\n\n在怎么压迫关键日子不会压"
+}
