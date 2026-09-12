@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547319940745269350",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-09T18:57:01.688000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "转弯之王赵哥"
+  },
+  "raw_text": "转弯之王赵哥"
+}
