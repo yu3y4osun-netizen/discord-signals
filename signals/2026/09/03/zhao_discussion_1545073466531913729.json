@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545073466531913729",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-03T14:10:20.498000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "C",
+      "CIFR",
+      "F"
+    ],
+    "is_following_zhao": true,
+    "summary": "提及C / 讨论赵哥操作 / 恐慌: CIFR 昨天我心态不好全割肉了"
+  },
+  "raw_text": "CIFR 昨天我心态不好全割肉了"
+}
