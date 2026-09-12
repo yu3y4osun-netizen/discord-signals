@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545085241725681694",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-09-03T14:57:07.923000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "谷歌"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及谷歌: 谷歌感觉要和云一起涨才行，上次爆拉也是云厂商属性"
+  },
+  "raw_text": "谷歌感觉要和云一起涨才行，上次爆拉也是云厂商属性"
+}
