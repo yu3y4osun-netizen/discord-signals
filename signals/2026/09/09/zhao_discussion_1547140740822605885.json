@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547140740822605885",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-09T07:04:57.097000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "A",
+      "AMD",
+      "英伟达"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及A: 有英伟达还买AMD intel吗"
+  },
+  "raw_text": "有英伟达还买AMD intel吗"
+}
