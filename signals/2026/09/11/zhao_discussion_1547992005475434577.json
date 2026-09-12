@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547992005475434577",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-11T15:27:34.406000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今晚账户新高了 感谢赵哥"
+  },
+  "raw_text": "今晚账户新高了 感谢赵哥"
+}
