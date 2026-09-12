@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547660341016793138",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-09-10T17:29:39.437000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ORCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 盘后的甲骨文财报影响大么 还是说以cpi为主"
+  },
+  "raw_text": "赵哥 盘后的甲骨文财报影响大么 还是说以cpi为主"
+}
