@@ -1,29 +1,15 @@
 {
-  "updated_at": "2026-09-03T21:14:48+08:00",
+  "schema_version": "0.2",
+  "updated_at": "2026-09-12T21:14:14+08:00",
   "channels": {
-    "zhao_short": {
-      "channel_id": "1460592890525913201",
-      "channel_name": "zhao赵哥-股票-短线-p0",
-      "last_message_id": "1542938711291985941",
-      "last_fetch_at": "2026-08-30T13:37:48+08:00"
-    },
-    "mgstock_p0": {
-      "channel_id": "1461005584064184503",
-      "channel_name": "美股投资网-p0",
-      "last_message_id": "1542964849640870017",
-      "last_fetch_at": "2026-08-30T13:37:48+08:00"
-    },
-    "lyc_trend": {
-      "channel_id": "1516647144935784602",
-      "channel_name": "洛阳铲a港美投资-核心趋势-p0",
-      "last_message_id": "1542836334589120543",
-      "last_fetch_at": "2026-08-30T13:37:48+08:00"
-    },
     "zhao_discussion": {
       "channel_id": "1529062583364223008",
       "channel_name": "赵哥讨论区",
-      "last_message_id": "1545055814048550926",
-      "last_fetch_at": "2026-09-03T21:14:48+08:00"
+      "last_message_id": "1548302165326700577",
+      "last_fetch_at": "2026-09-12T21:14:14+08:00",
+      "last_run_total_new_msgs": 1330,
+      "last_run_signals_pushed": 312,
+      "last_run_signals_failed": 0
     }
   }
 }
