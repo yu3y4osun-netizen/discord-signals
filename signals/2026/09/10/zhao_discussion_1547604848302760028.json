@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547604848302760028",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-09-10T13:49:08.943000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥消息发出来的时候已经延迟了 这个没办法"
+  },
+  "raw_text": "赵哥消息发出来的时候已经延迟了 这个没办法"
+}
