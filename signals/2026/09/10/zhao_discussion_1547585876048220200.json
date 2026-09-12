@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547585876048220200",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-09-10T12:33:45.605000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "起飞了"
+  },
+  "raw_text": "起飞了"
+}
