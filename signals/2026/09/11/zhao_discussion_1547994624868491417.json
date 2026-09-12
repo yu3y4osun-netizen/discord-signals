@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547994624868491417",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-11T15:37:58.918000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 sco这种中选时期迟早会涨上去的 现在也是转弯出一半吗 还是说拿到川普taco"
+  },
+  "raw_text": "赵哥 sco这种中选时期迟早会涨上去的 现在也是转弯出一半吗 还是说拿到川普taco"
+}
