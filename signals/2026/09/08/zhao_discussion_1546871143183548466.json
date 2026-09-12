@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1546871143183548466",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-09-08T13:13:40.011000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "A"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及A: 韩股:永远缺存储。  美股:永远缺算力。  A股:前天缺生猪，昨天缺猴子，今天缺粮食，明天缺种子，后天缺化肥。"
+  },
+  "raw_text": "韩股:永远缺存储。\n\n美股:永远缺算力。\n\nA股:前天缺生猪，昨天缺猴子，今天缺粮食，明天缺种子，后天缺化肥。"
+}
