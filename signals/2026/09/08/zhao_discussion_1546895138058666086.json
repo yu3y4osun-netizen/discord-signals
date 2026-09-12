@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1546895138058666086",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-09-08T14:49:00.835000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "苹果"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及苹果 / 信心看多: 加了点苹果 看好新iphone😂"
+  },
+  "raw_text": "加了点苹果 看好新iphone😂"
+}
