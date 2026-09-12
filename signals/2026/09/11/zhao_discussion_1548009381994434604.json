@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548009381994434604",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-09-11T16:36:37.291000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我记得spacex出来的时候。赵哥就回复过一个同学。说不买rklb。大概意思是资金会去spacex"
+  },
+  "raw_text": "我记得spacex出来的时候。赵哥就回复过一个同学。说不买rklb。大概意思是资金会去spacex"
+}
