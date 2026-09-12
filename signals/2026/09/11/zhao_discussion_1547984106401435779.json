@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547984106401435779",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuuumii",
+  "ts": "2026-09-11T14:56:11.120000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥我帮我朋友问问rklb这个价格是不是也差不多了，他被套在里面感觉好久了，是不是就是时间快慢问题"
+  },
+  "raw_text": "赵哥我帮我朋友问问rklb这个价格是不是也差不多了，他被套在里面感觉好久了，是不是就是时间快慢问题"
+}
