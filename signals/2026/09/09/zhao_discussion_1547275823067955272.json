@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547275823067955272",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dongreng",
+  "ts": "2026-09-09T16:01:43.214000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大佬们闪迪我从上个星期都是盘前急跌吸，盘中拉上去我就卖，我跟了几天了。这种规律是不是也不稳定。"
+  },
+  "raw_text": "大佬们闪迪我从上个星期都是盘前急跌吸，盘中拉上去我就卖，我跟了几天了。这种规律是不是也不稳定。"
+}
