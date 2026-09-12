@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545070377758228572",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-09-03T13:58:04.077000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "讨论赵哥操作 / 困惑求助: 自己认知不足，跟着赵哥强大认知的大佬，摸着赵哥过河"
+  },
+  "raw_text": "自己认知不足，跟着赵哥强大认知的大佬，摸着赵哥过河"
+}
