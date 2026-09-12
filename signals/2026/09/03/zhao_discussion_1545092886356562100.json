@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545092886356562100",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-09-03T15:27:30.545000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "信心看多: 云里面  nbis先发债 先稳定  iren发了财报后董事增持了也是再看急跌再加一笔 上面压力在45  crwv有后发债提议会慢点  cifr和iren都有bt..."
+  },
+  "raw_text": "云里面\n\nnbis先发债 先稳定\n\niren发了财报后董事增持了也是再看急跌再加一笔 上面压力在45\n\ncrwv有后发债提议会慢点\n\ncifr和iren都有btc的属性也是每次只要跌前面低点就会+10%的反弹 也是急跌无限做的品种"
+}
