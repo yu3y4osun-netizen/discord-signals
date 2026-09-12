@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547996682052968489",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnkdki",
+  "ts": "2026-09-11T15:46:09.389000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "反而是华为的到目前目前为止都没坏过，苹果返修两次，小米1次"
+  },
+  "raw_text": "反而是华为的到目前目前为止都没坏过，苹果返修两次，小米1次"
+}
