@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547597888610377771",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-10T13:21:29.623000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "对，你们看国内 场内的纳指溢价那么高为什么不杀溢价，如果未来看跌 那些机构为什么不抛售呢，所以我怀疑他们也看好特朗普的中期选举行情"
+  },
+  "raw_text": "对，你们看国内   场内的纳指溢价那么高为什么不杀溢价，如果未来看跌  那些机构为什么不抛售呢，所以我怀疑他们也看好特朗普的中期选举行情"
+}
