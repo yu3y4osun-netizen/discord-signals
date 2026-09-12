@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545500403511070913",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-04T18:26:50.206000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "RKLB"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及RKLB: 赵哥，这波RKLB还推荐抄底吗？还是铺满强势股？"
+  },
+  "raw_text": "赵哥，这波RKLB还推荐抄底吗？还是铺满强势股？"
+}
