@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547604199716421633",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-09-10T13:46:34.308000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "上一批的还没卖。赵哥都买回来了😂"
+  },
+  "raw_text": "上一批的还没卖。赵哥都买回来了😂"
+}
