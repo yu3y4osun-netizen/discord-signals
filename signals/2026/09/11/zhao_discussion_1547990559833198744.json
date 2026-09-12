@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547990559833198744",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-09-11T15:21:49.738000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，如果加息，市场是不是已经将加息0.25 price in了"
+  },
+  "raw_text": "赵哥，如果加息，市场是不是已经将加息0.25 price  in了"
+}
