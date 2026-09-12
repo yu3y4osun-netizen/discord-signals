@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547599595658412094",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-10T13:28:16.615000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "对，赵哥经常说的不预测只应对 仓位管理好 不用太焦虑😁"
+  },
+  "raw_text": "对，赵哥经常说的不预测只应对  仓位管理好  不用太焦虑😁"
+}
