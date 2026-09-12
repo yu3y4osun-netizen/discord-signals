@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547948091188187177",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xprimes",
+  "ts": "2026-09-11T12:33:04.424000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "APP"
+    ],
+    "is_following_zhao": false,
+    "summary": "市场预计下周美联储加息的概率约为90%。(来自金十数据APP)"
+  },
+  "raw_text": "市场预计下周美联储加息的概率约为90%。(来自金十数据APP)"
+}
