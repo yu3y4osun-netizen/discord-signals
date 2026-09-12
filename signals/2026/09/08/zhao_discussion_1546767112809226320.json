@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1546767112809226320",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-09-08T06:20:17.237000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "苹果"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及苹果: 长鑫不要的苹果订单 被铠侠捡破烂l q"
+  },
+  "raw_text": "长鑫不要的苹果订单 被铠侠捡破烂l q"
+}
