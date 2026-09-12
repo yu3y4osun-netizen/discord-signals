@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547632913523277865",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dasheng9527",
+  "ts": "2026-09-10T15:40:40.213000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌果子二选一，我选了果子，call翻倍"
+  },
+  "raw_text": "谷歌果子二选一，我选了果子，call翻倍"
+}
