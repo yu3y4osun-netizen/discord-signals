@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1546904264889073694",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-09-08T15:25:16.841000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "谷歌"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及谷歌 / 恐慌: yh是真大佬，确实手里现在拿着谷歌是不慌，没什么压力。"
+  },
+  "raw_text": "yh是真大佬，确实手里现在拿着谷歌是不慌，没什么压力。"
+}
