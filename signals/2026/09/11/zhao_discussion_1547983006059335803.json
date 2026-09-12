@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547983006059335803",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-09-11T14:51:48.778000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ORCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "甲骨文写走势把期权多空都给干死了吗"
+  },
+  "raw_text": "甲骨文写走势把期权多空都给干死了吗"
+}
