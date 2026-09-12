@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547318532650565716",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-09T18:51:25.972000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "起飞了"
+  },
+  "raw_text": "起飞了"
+}
