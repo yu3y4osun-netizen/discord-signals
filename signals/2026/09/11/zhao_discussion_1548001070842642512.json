@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548001070842642512",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-09-11T16:03:35.758000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "可以翻一下聊天记录，rklb赵哥已经详细解析为什么不买了"
+  },
+  "raw_text": "可以翻一下聊天记录，rklb赵哥已经详细解析为什么不买了"
+}
