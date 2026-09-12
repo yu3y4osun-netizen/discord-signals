@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547957388131180701",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-09-11T13:10:00.988000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "OKLO"
+    ],
+    "is_following_zhao": false,
+    "summary": "OKLO 4月7月"
+  },
+  "raw_text": "OKLO 4月7月"
+}
