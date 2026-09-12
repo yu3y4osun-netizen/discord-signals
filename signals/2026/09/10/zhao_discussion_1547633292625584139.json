@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547633292625584139",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dasheng9527",
+  "ts": "2026-09-10T15:42:10.598000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "谷子下面有个323的缺口，我等这个缺口补了"
+  },
+  "raw_text": "谷子下面有个323的缺口，我等这个缺口补了"
+}
