@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547142240923680779",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-09-09T07:10:54.749000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "英伟达"
+    ],
+    "is_following_zhao": true,
+    "summary": "提及英伟达 / 讨论赵哥操作: amd不买，intel会买，跟英伟达逻辑不一样"
+  },
+  "raw_text": "amd不买，intel会买，跟英伟达逻辑不一样"
+}
