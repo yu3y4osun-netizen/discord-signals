@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547997908488687647",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-11T15:51:01.794000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "YH 哥，你说GOOGL 300是什么意思 ，看不懂"
+  },
+  "raw_text": "YH 哥，你说GOOGL  300是什么意思 ，看不懂"
+}
