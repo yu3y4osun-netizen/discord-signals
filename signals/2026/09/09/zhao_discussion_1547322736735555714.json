@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547322736735555714",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "linlin7",
+  "ts": "2026-09-09T19:08:08.304000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "好嘞 16.93入了 可以睡啦 赵哥 晚安🌙"
+  },
+  "raw_text": "好嘞  16.93入了 可以睡啦 赵哥 晚安🌙"
+}
