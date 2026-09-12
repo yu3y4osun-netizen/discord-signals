@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547874848401924167",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-09-11T07:42:01.983000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "加上赵哥的体系，感觉能理解视频10分钟那里的回顾黄金 原油 日元汇率走势"
+  },
+  "raw_text": "加上赵哥的体系，感觉能理解视频10分钟那里的回顾黄金 原油 日元汇率走势"
+}
