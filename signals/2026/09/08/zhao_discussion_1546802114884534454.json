@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1546802114884534454",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-09-08T08:39:22.382000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "讨论赵哥操作 / FOMO情绪: 我感觉这两天存储起飞 跟gpt6有原因"
+  },
+  "raw_text": "我感觉这两天存储起飞 跟gpt6有原因"
+}
