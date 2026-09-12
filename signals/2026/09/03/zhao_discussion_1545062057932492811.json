@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545062057932492811",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-03T13:25:00.476000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "半导体"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及半导体: 赵哥，都在涨，除了半导体，半导体是因为韩国关税利空压制么"
+  },
+  "raw_text": "赵哥，都在涨，除了半导体，半导体是因为韩国关税利空压制么"
+}
