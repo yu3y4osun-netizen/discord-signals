@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545838513659060346",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-09-05T16:50:21.947000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "A",
+      "H",
+      "S",
+      "U"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及A: https://weixin.qq.com/sph/A4Szy1UmKH"
+  },
+  "raw_text": "https://weixin.qq.com/sph/A4Szy1UmKH"
+}
