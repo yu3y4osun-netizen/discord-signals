@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545438803550928936",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lateonrush77",
+  "ts": "2026-09-04T14:22:03.631000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "特斯拉"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及特斯拉: 跳水之王 特斯拉，赵哥昨天出的点位无敌了"
+  },
+  "raw_text": "跳水之王 特斯拉，赵哥昨天出的点位无敌了"
+}
