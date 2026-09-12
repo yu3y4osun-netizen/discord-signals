@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545094509090836520",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-09-03T15:33:57.435000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "半导体"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及半导体: 半导体代工还没轮动到 有异动多了再出"
+  },
+  "raw_text": "半导体代工还没轮动到 有异动多了再出"
+}
