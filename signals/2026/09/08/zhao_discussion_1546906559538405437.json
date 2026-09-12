@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1546906559538405437",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jelepeno",
+  "ts": "2026-09-08T15:34:23.928000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "苹果"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及苹果 / 困惑求助: 哈兰哥 苹果短call的iv不都在发布会上么，为啥我们不买末日和远期呢"
+  },
+  "raw_text": "哈兰哥 苹果短call的iv不都在发布会上么，为啥我们不买末日和远期呢"
+}
