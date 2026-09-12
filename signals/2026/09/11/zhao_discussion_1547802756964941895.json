@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547802756964941895",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-09-11T02:55:34.045000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "印象中赵哥第一次买sco 我在想是不是川普要taco了 但是看氛围感觉又不太可能🤔"
+  },
+  "raw_text": "印象中赵哥第一次买sco 我在想是不是川普要taco了 但是看氛围感觉又不太可能🤔"
+}
