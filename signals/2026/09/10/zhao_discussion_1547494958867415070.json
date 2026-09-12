@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547494958867415070",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-10T06:32:29.260000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "统计是不是有问题，赵哥最低是1/6仓买入吧，1/12查询记录没见过"
+  },
+  "raw_text": "统计是不是有问题，赵哥最低是1/6仓买入吧，1/12查询记录没见过"
+}
