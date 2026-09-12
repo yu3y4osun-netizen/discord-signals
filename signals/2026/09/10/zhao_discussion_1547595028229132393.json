@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547595028229132393",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-10T13:10:07.655000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "懂王中选又要崩了吧"
+  },
+  "raw_text": "懂王中选又要崩了吧"
+}
