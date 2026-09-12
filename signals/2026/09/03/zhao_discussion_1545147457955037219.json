@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545147457955037219",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-03T19:04:21.428000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "A",
+      "AVGO",
+      "V"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及A: AVGO的财报真会选时间，不然今天可能-10个点"
+  },
+  "raw_text": "AVGO的财报真会选时间，不然今天可能-10个点"
+}
