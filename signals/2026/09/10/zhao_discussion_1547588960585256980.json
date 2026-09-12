@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547588960585256980",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "civica",
+  "ts": "2026-09-10T12:46:01.016000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "躺平不动了 不然前面加仓的部分回撤也多 资金不多我就多等等再加"
+  },
+  "raw_text": "躺平不动了 不然前面加仓的部分回撤也多 资金不多我就多等等再加"
+}
