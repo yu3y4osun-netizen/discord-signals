@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545486414630748280",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-09-04T17:31:14.997000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "A"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及A: 主要节日三天在弄点动静 A股还开市会让A股多跌一天"
+  },
+  "raw_text": "主要节日三天在弄点动静 A股还开市会让A股多跌一天"
+}
