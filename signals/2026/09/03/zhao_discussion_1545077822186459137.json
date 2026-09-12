@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545077822186459137",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "frankyin",
+  "ts": "2026-09-03T14:27:38.967000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "V"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及V: 赵哥那意思 是明天开始 V起来了嘛？"
+  },
+  "raw_text": "赵哥那意思 是明天开始 V起来了嘛？"
+}
