@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545089903467958323",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-03T15:15:39.369000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "A",
+      "AAPL",
+      "MU",
+      "PL",
+      "U"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及A: 居然能同时吃到 MU 和 AAPL"
+  },
+  "raw_text": "居然能同时吃到 MU 和 AAPL"
+}
