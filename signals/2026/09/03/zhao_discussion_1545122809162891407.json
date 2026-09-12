@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545122809162891407",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-09-03T17:26:24.698000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "特斯拉"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及特斯拉: 其他都会被他吸的  特斯拉和spcx突破那个合并上限基本就是缴费了"
+  },
+  "raw_text": "其他都会被他吸的  特斯拉和spcx突破那个合并上限基本就是缴费了"
+}
