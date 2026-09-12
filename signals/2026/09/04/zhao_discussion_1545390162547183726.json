@@ -5,13 +5,13 @@
   "channel_name": "赵哥讨论区",
   "author": "bankflower",
   "ts": "2026-09-04T11:08:46.712000+00:00",
-  "captured_at": "2026-09-10T21:08:14+08:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
   "signal_type": "community",
   "payload": {
-    "mood": "neutral",
+    "mood": "confusion",
     "tickers_mentioned": [],
-    "is_following_zhao": false,
-    "summary": "请问谁知道赵哥的仓位现在是多少？"
+    "is_following_zhao": true,
+    "summary": "讨论赵哥操作 / 困惑求助: 请问谁知道赵哥的仓位现在是多少？"
   },
   "raw_text": "请问谁知道赵哥的仓位现在是多少？"
 }
