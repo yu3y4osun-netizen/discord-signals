@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547613405215457341",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-09-10T14:23:09.070000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "只能用 重庆话 牛逼2字形容 赵哥"
+  },
+  "raw_text": "只能用 重庆话 牛逼2字形容 赵哥"
+}
