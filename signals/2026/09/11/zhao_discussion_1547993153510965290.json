@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547993153510965290",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-09-11T15:32:08.119000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "在国内被坑怕了，都是逮着老百姓割韭菜的，跟老百姓情绪反着来"
+  },
+  "raw_text": "在国内被坑怕了，都是逮着老百姓割韭菜的，跟老百姓情绪反着来"
+}
