@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547972372743594088",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-11T14:09:33.598000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我是7800没跟上赵哥节奏 硬扛到上周5减仓到"
+  },
+  "raw_text": "我是7800没跟上赵哥节奏 硬扛到上周5减仓到"
+}
