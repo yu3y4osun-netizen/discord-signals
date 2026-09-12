@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545077449782591650",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-09-03T14:26:10.179000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "C"
+    ],
+    "is_following_zhao": true,
+    "summary": "提及C / 讨论赵哥操作: 是的 我现在在系统跟着Claude学习"
+  },
+  "raw_text": "是的 我现在在系统跟着Claude学习"
+}
