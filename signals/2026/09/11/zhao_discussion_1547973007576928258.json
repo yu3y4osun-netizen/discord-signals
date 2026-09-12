@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547973007576928258",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "melonegg",
+  "ts": "2026-09-11T14:12:04.954000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "每一笔都比赵哥买得多吗"
+  },
+  "raw_text": "每一笔都比赵哥买得多吗"
+}
