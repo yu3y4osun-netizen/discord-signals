@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1546805855570235403",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-09-08T08:54:14.231000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "A",
+      "C",
+      "DQ",
+      "U"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及A: https://mp.weixin.qq.com/s/oNDQoKuCqtig4bUodmo1jA"
+  },
+  "raw_text": "https://mp.weixin.qq.com/s/oNDQoKuCqtig4bUodmo1jA"
+}
