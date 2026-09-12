@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547596294552555560",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "civicagility09",
+  "ts": "2026-09-10T13:15:09.570000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "我在想，标普真要回踩到7500或者7400，还能短期涨那么高吗"
+  },
+  "raw_text": "我在想，标普真要回踩到7500或者7400，还能短期涨那么高吗"
+}
