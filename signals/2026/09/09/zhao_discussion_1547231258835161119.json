@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547231258835161119",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-09-09T13:04:38.273000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "C"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及C: 特朗普：今天美国时间 9 月 9 日晚上会讲话。他将在达拉斯举行的共和党中期选举大会（RNC Midterm Convention）发表讲话。白宫公开日程显示预..."
+  },
+  "raw_text": "特朗普：今天美国时间 9 月 9 日晚上会讲话。他将在达拉斯举行的共和党中期选举大会（RNC Midterm Convention）发表讲话。白宫公开日程显示预计 美东时间 21:15 / 达拉斯中部时间 20:15 开始。\n换算成北京时间/日本时间：\n\n 北京时间：9 月 10 日 09:15"
+}
