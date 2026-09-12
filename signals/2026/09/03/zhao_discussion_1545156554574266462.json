@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545156554574266462",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "felix-trader",
+  "ts": "2026-09-03T19:40:30.231000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "A",
+      "APP"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及A: 网页端长的和长桥差不多，但是APP和客户端就很不好用了"
+  },
+  "raw_text": "网页端长的和长桥差不多，但是APP和客户端就很不好用了"
+}
