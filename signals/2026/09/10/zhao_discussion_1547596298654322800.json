@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547596298654322800",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-10T13:15:10.548000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但是我记得赵哥说过"
+  },
+  "raw_text": "但是我记得赵哥说过"
+}
