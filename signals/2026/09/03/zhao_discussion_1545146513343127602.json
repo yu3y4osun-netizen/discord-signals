@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545146513343127602",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-09-03T19:00:36.215000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "讨论赵哥操作 / 困惑求助: 那你挑个不容易套的，单跟一个吧，资金太小了，那的确没办法🤣，我的意思是，赚了就出，没啥舍不得的，手里有现金，市场永远有机会给你买入"
+  },
+  "raw_text": "那你挑个不容易套的，单跟一个吧，资金太小了，那的确没办法🤣，我的意思是，赚了就出，没啥舍不得的，手里有现金，市场永远有机会给你买入"
+}
