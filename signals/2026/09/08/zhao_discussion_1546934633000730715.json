@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1546934633000730715",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-09-08T17:25:57.163000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "讨论赵哥操作 / 贪婪加仓: 昨晚把动量股加到满仓了，今天账户+9%"
+  },
+  "raw_text": "昨晚把动量股加到满仓了，今天账户+9%"
+}
