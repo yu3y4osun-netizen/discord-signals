@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547801767515914241",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-09-11T02:51:38.142000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大A还是太稳了"
+  },
+  "raw_text": "大A还是太稳了"
+}
