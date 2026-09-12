@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547993624497885219",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-09-11T15:34:00.411000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "比如说英伟达，当年他搞cuda和用卡挖矿，除了diy臭打游戏的和币圈的这牌子都没几个金融的瞧得起"
+  },
+  "raw_text": "比如说英伟达，当年他搞cuda和用卡挖矿，除了diy臭打游戏的和币圈的这牌子都没几个金融的瞧得起"
+}
