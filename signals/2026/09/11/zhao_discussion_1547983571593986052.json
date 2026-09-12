@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547983571593986052",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-09-11T14:54:03.612000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跌到400梭哈"
+  },
+  "raw_text": "跌到400梭哈"
+}
