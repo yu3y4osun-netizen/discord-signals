@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545511137204900004",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "civicagility09",
+  "ts": "2026-09-04T19:09:29.318000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "A"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及A: 赵哥，是不是资金回流结束，大a就可以稍微涨一涨了？最近的A股好弱啊，感觉都快走熊了"
+  },
+  "raw_text": "赵哥，是不是资金回流结束，大a就可以稍微涨一涨了？最近的A股好弱啊，感觉都快走熊了"
+}
