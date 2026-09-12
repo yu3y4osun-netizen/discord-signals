@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547614766816825465",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-10T14:28:33.701000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "胆小的我，在7580只加了标普"
+  },
+  "raw_text": "胆小的我，在7580只加了标普"
+}
