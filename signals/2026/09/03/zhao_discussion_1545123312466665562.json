@@ -5,13 +5,15 @@
   "channel_name": "赵哥讨论区",
   "author": "camo2024",
   "ts": "2026-09-03T17:28:24.695000+00:00",
-  "captured_at": "2026-09-10T21:06:13+08:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
   "signal_type": "community",
   "payload": {
     "mood": "neutral",
-    "tickers_mentioned": [],
+    "tickers_mentioned": [
+      "PL"
+    ],
     "is_following_zhao": false,
-    "summary": "赵哥，PL 不做了吗？之前你说减持的差不多了，最近没看你关注了"
+    "summary": "提及PL: 赵哥，PL 不做了吗？之前你说减持的差不多了，最近没看你关注了"
   },
   "raw_text": "赵哥，PL 不做了吗？之前你说减持的差不多了，最近没看你关注了"
 }
