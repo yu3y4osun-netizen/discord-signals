@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547952111512199169",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-11T12:49:02.944000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "所以保持这种要崩不崩的状态是对各方面都好"
+  },
+  "raw_text": "所以保持这种要崩不崩的状态是对各方面都好"
+}
