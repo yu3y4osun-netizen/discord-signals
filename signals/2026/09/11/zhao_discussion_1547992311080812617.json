@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547992311080812617",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "idrinkwine",
+  "ts": "2026-09-11T15:28:47.268000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我也新高了，感谢赵哥！"
+  },
+  "raw_text": "我也新高了，感谢赵哥！"
+}
