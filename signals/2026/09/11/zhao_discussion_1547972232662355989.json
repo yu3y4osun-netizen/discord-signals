@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547972232662355989",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepblue1",
+  "ts": "2026-09-11T14:09:00.200000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "- -你们都好厉害，我今年跑输纳斯达克8个点"
+  },
+  "raw_text": "- -你们都好厉害，我今年跑输纳斯达克8个点"
+}
