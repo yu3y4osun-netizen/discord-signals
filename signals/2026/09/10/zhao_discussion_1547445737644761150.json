@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547445737644761150",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "banalaorta",
+  "ts": "2026-09-10T03:16:54.006000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "请教一下赵哥的底仓是多少呀 1/6常规仓么"
+  },
+  "raw_text": "请教一下赵哥的底仓是多少呀 1/6常规仓么"
+}
