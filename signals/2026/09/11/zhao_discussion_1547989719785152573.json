@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547989719785152573",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky2026",
+  "ts": "2026-09-11T15:18:29.455000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "rklb我也是被套牢了 给个机会拉高我就跑路"
+  },
+  "raw_text": "rklb我也是被套牢了 给个机会拉高我就跑路"
+}
