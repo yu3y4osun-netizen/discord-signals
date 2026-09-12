@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547993436672761986",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "idrinkwine",
+  "ts": "2026-09-11T15:33:15.630000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我的新高长这样哈哈，4月底入群5月中开始跟的，中途自己瞎加仓新低了，后来严格跟赵哥的仓位才回来，虽然比起翻倍的各位来说还是不够看，不过比我自己瞎买好多了哈哈"
+  },
+  "raw_text": "我的新高长这样哈哈，4月底入群5月中开始跟的，中途自己瞎加仓新低了，后来严格跟赵哥的仓位才回来，虽然比起翻倍的各位来说还是不够看，不过比我自己瞎买好多了哈哈"
+}
