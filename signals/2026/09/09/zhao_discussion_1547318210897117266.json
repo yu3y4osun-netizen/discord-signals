@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547318210897117266",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-09-09T18:50:09.260000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "苹果转灯了"
+  },
+  "raw_text": "苹果转灯了"
+}
