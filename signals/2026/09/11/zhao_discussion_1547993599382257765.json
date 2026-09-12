@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547993599382257765",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-09-11T15:33:54.423000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "关键那些分析根本看不懂在说什么，云山雾绕，跟耍猴一样。赵哥言简意赅，学好语数英，点位全给你，纯靠你手速。"
+  },
+  "raw_text": "关键那些分析根本看不懂在说什么，云山雾绕，跟耍猴一样。赵哥言简意赅，学好语数英，点位全给你，纯靠你手速。"
+}
