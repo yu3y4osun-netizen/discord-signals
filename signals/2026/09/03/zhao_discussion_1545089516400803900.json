@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545089516400803900",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-03T15:14:07.085000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [
+      "C",
+      "CIFR",
+      "F"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及C / FOMO情绪: 今天操作成功，可惜了 CIFR 10个点的利润错过了"
+  },
+  "raw_text": "今天操作成功，可惜了 CIFR 10个点的利润错过了"
+}
