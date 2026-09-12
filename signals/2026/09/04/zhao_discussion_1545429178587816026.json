@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545429178587816026",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xprimes",
+  "ts": "2026-09-04T13:43:48.861000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "A",
+      "APP"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及A: 美国总统特朗普：刚刚公布的就业数据太棒了，打破了所有预期（除了我的！）(来自金十数据APP)"
+  },
+  "raw_text": "美国总统特朗普：刚刚公布的就业数据太棒了，打破了所有预期（除了我的！）(来自金十数据APP)"
+}
