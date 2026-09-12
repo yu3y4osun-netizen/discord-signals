@@ -5,13 +5,15 @@
   "channel_name": "赵哥讨论区",
   "author": "xiaowanglucky2026",
   "ts": "2026-09-03T17:08:51.584000+00:00",
-  "captured_at": "2026-09-10T21:06:08+08:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
   "signal_type": "community",
   "payload": {
-    "mood": "neutral",
-    "tickers_mentioned": [],
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "RKLB"
+    ],
     "is_following_zhao": false,
-    "summary": "赵哥 请问今天RKLB价格如果没有新低了是不是说明会开始反弹了？"
+    "summary": "提及RKLB / 困惑求助: 赵哥 请问今天RKLB价格如果没有新低了是不是说明会开始反弹了？"
   },
   "raw_text": "赵哥 请问今天RKLB价格如果没有新低了是不是说明会开始反弹了？"
 }
