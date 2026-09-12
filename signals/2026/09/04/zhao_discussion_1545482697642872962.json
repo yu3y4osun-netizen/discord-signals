@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545482697642872962",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dae666",
+  "ts": "2026-09-04T17:16:28.798000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "特斯拉"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及特斯拉: @xiaozhaolucky 赵哥，特斯拉回350还能接吗"
+  },
+  "raw_text": "@xiaozhaolucky 赵哥，特斯拉回350还能接吗"
+}
