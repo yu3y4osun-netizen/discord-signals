@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547597042229059675",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-10T13:18:07.830000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是的 一旦涨起来 加仓都来不急 哈哈哈。比如今年的伊朗战争 直接往上面冲 都不回踩"
+  },
+  "raw_text": "是的  一旦涨起来  加仓都来不急  哈哈哈。比如今年的伊朗战争  直接往上面冲  都不回踩"
+}
