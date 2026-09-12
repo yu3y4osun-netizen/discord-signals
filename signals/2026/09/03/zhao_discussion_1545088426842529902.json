@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545088426842529902",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-03T15:09:47.314000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "苹果",
+      "谷歌"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及苹果: 云光存电btc还有谷歌苹果四倍标普"
+  },
+  "raw_text": "云光存电btc还有谷歌苹果四倍标普"
+}
