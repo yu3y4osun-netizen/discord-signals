@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1546872015460237403",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "frankyin",
+  "ts": "2026-09-08T13:17:07.978000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "谷歌"
+    ],
+    "is_following_zhao": true,
+    "summary": "提及谷歌 / 讨论赵哥操作: 赵哥还有这么多仓位呢？ 我这就谷歌了啊"
+  },
+  "raw_text": "赵哥还有这么多仓位呢？ 我这就谷歌了啊"
+}
