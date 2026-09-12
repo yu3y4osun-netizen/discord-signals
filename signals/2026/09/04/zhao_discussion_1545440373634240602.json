@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1545440373634240602",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-04T14:28:17.968000+00:00",
+  "captured_at": "2026-09-12T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [
+      "特斯拉"
+    ],
+    "is_following_zhao": false,
+    "summary": "提及特斯拉 / FOMO情绪: 特斯拉真牛逼 可惜我空单没拿住 365就卖飞了"
+  },
+  "raw_text": "特斯拉真牛逼 可惜我空单没拿住 365就卖飞了"
+}
