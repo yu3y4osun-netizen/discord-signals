@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1547593933142630592",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-09-10T13:05:46.566000+00:00",
+  "captured_at": "2026-09-12T21:04:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "其实想问问赵哥，为啥每次都分批，不稍微等等后面多加点"
+  },
+  "raw_text": "其实想问问赵哥，为啥每次都分批，不稍微等等后面多加点"
+}
