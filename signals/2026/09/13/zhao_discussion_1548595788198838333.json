@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548595788198838333",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-09-13T07:26:47.425000+00:00",
+  "captured_at": "2026-09-13T21:01:06+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "问题不大 跟着赵哥这段成本降了不少 等中选主升浪了"
+  },
+  "raw_text": "问题不大 跟着赵哥这段成本降了不少 等中选主升浪了"
+}
