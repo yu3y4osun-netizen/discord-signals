@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548655583194775683",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yangkobe",
+  "ts": "2026-09-13T11:24:23.663000+00:00",
+  "captured_at": "2026-09-13T21:01:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥说了，今年最后一次回调"
+  },
+  "raw_text": "赵哥说了，今年最后一次回调"
+}
