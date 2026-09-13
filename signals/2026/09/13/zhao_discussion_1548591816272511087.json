@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548591816272511087",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnkdki",
+  "ts": "2026-09-13T07:11:00.444000+00:00",
+  "captured_at": "2026-09-13T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "沙特这个输油管没了，感觉油价要控制不住的起飞了"
+  },
+  "raw_text": "沙特这个输油管没了，感觉油价要控制不住的起飞了"
+}
