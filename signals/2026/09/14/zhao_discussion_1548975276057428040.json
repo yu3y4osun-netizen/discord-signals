@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548975276057428040",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-14T08:34:44.381000+00:00",
+  "captured_at": "2026-09-17T09:05:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥敢重仓，不怕"
+  },
+  "raw_text": "赵哥敢重仓，不怕"
+}
