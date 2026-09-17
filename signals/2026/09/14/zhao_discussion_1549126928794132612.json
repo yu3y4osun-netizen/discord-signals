@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549126928794132612",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-14T18:37:21.211000+00:00",
+  "captured_at": "2026-09-17T09:11:06+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "为什么不用WISE"
+  },
+  "raw_text": "为什么不用WISE"
+}
