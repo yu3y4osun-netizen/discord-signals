@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548975190719864893",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaiagoldin",
+  "ts": "2026-09-14T08:34:24.035000+00:00",
+  "captured_at": "2026-09-17T09:05:40+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "发现赵哥不怎么买软件？ 上周跌蛮多今天硬件不行软件猛的狠"
+  },
+  "raw_text": "发现赵哥不怎么买软件？ 上周跌蛮多今天硬件不行软件猛的狠"
+}
