@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549072256641142856",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-14T15:00:06.354000+00:00",
+  "captured_at": "2026-09-17T09:06:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥说出一半的时候我就出一支"
+  },
+  "raw_text": "赵哥说出一半的时候我就出一支"
+}
