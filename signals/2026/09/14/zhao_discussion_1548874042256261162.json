@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548874042256261162",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-09-14T01:52:28.362000+00:00",
+  "captured_at": "2026-09-17T09:04:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥接近满仓了啊"
+  },
+  "raw_text": "赵哥接近满仓了啊"
+}
