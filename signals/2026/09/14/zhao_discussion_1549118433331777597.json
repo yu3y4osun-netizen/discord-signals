@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549118433331777597",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-09-14T18:03:35.735000+00:00",
+  "captured_at": "2026-09-17T09:10:41+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我已经满仓满融 等拉了"
+  },
+  "raw_text": "我已经满仓满融 等拉了"
+}
