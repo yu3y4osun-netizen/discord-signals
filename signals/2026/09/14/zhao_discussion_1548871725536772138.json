@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548871725536772138",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-09-14T01:43:16.013000+00:00",
+  "captured_at": "2026-09-17T09:04:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥之前说过指数低点可能是7460，今天到了的话， 这周即使加息是不是也不会低于这个点位了"
+  },
+  "raw_text": "赵哥之前说过指数低点可能是7460，今天到了的话， 这周即使加息是不是也不会低于这个点位了"
+}
