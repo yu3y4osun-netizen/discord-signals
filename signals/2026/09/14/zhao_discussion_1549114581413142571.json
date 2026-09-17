@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549114581413142571",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zyttt",
+  "ts": "2026-09-14T17:48:17.366000+00:00",
+  "captured_at": "2026-09-17T09:07:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 回流资金上次记得说回流了75%以上了 现在等于最后的回流阶段吗"
+  },
+  "raw_text": "赵哥 回流资金上次记得说回流了75%以上了 现在等于最后的回流阶段吗"
+}
