@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548878865064140801",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "corrineq",
+  "ts": "2026-09-14T02:11:38.209000+00:00",
+  "captured_at": "2026-09-17T09:05:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "太快了赵哥很快就出掉了"
+  },
+  "raw_text": "太快了赵哥很快就出掉了"
+}
