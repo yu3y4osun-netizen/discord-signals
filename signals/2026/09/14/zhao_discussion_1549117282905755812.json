@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549117282905755812",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bkaaa",
+  "ts": "2026-09-14T17:59:01.452000+00:00",
+  "captured_at": "2026-09-17T09:10:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥一直在买就是信号啊 不敢买他也不能摁着你的头买啊"
+  },
+  "raw_text": "赵哥一直在买就是信号啊 不敢买他也不能摁着你的头买啊"
+}
