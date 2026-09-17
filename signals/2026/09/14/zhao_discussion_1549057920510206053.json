@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549057920510206053",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-14T14:03:08.354000+00:00",
+  "captured_at": "2026-09-17T09:06:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥喊中选行情也有几个月了现在是关键时刻了"
+  },
+  "raw_text": "赵哥喊中选行情也有几个月了现在是关键时刻了"
+}
