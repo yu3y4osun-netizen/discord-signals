@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548988233205940236",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "civica",
+  "ts": "2026-09-14T09:26:13.606000+00:00",
+  "captured_at": "2026-09-17T09:05:47+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "还好我没加那么多仓位，这个跟单的账户只加到了4成仓"
+  },
+  "raw_text": "还好我没加那么多仓位，这个跟单的账户只加到了4成仓"
+}
