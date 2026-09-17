@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549426098415206482",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "seeseeif",
+  "ts": "2026-09-15T14:26:08.807000+00:00",
+  "captured_at": "2026-09-17T09:11:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今晚赵哥都没怎么操作"
+  },
+  "raw_text": "今晚赵哥都没怎么操作"
+}
