@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549055043313995897",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yingdi9527",
+  "ts": "2026-09-14T13:51:42.377000+00:00",
+  "captured_at": "2026-09-17T09:06:17+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "看来赵哥今天检测到大量买入大单了"
+  },
+  "raw_text": "看来赵哥今天检测到大量买入大单了"
+}
