@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549078221352476764",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-14T15:23:48.452000+00:00",
+  "captured_at": "2026-09-17T09:07:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，我出去了一段时间，现在的王炸组合怎么分配，稳妥点的是搞云存嘛？还是咋说"
+  },
+  "raw_text": "赵哥，我出去了一段时间，现在的王炸组合怎么分配，稳妥点的是搞云存嘛？还是咋说"
+}
