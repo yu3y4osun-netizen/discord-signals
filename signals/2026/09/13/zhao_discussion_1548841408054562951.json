@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548841408054562951",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-13T23:42:47.762000+00:00",
+  "captured_at": "2026-09-17T09:04:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "知道的，戏谑说法。这种跌幅，赵哥应该会关注行动了"
+  },
+  "raw_text": "知道的，戏谑说法。这种跌幅，赵哥应该会关注行动了"
+}
