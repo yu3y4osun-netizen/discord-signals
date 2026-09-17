@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549070600700428289",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-14T14:53:31.547000+00:00",
+  "captured_at": "2026-09-17T09:06:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "并不是说转弯就不能加了，我又不买赵哥那么多股票我就盯着这几个买"
+  },
+  "raw_text": "并不是说转弯就不能加了，我又不买赵哥那么多股票我就盯着这几个买"
+}
