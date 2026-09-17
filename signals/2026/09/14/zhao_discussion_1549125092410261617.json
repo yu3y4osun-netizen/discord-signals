@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549125092410261617",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-14T18:30:03.383000+00:00",
+  "captured_at": "2026-09-17T09:11:02+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你就只做弹性大的跟着赵哥做不就好了"
+  },
+  "raw_text": "你就只做弹性大的跟着赵哥做不就好了"
+}
