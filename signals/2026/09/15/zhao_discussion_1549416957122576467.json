@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549416957122576467",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-09-15T13:49:49.353000+00:00",
+  "captured_at": "2026-09-17T09:11:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "104才开始买 带杠杆 会慢赵哥的一格买"
+  },
+  "raw_text": "104才开始买 带杠杆 会慢赵哥的一格买"
+}
