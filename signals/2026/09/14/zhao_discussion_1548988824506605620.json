@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548988824506605620",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-14T09:28:34.583000+00:00",
+  "captured_at": "2026-09-17T09:05:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我周五都差不多满仓了"
+  },
+  "raw_text": "我周五都差不多满仓了"
+}
