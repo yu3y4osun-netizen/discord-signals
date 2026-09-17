@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549212426958807142",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-09-15T00:17:05.562000+00:00",
+  "captured_at": "2026-09-17T09:11:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "基本满仓，希望今天回点血"
+  },
+  "raw_text": "基本满仓，希望今天回点血"
+}
