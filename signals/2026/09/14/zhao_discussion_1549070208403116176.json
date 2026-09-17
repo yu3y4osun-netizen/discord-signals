@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549070208403116176",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-14T14:51:58.016000+00:00",
+  "captured_at": "2026-09-17T09:06:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "因为我自己买的比赵哥还早"
+  },
+  "raw_text": "因为我自己买的比赵哥还早"
+}
