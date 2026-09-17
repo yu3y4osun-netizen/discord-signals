@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549423278442020995",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-15T14:14:56.473000+00:00",
+  "captured_at": "2026-09-17T09:11:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大盘跌 持仓没怎么跌怎么回事"
+  },
+  "raw_text": "大盘跌 持仓没怎么跌怎么回事"
+}
