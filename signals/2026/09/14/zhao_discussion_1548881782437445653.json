@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548881782437445653",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-09-14T02:23:13.765000+00:00",
+  "captured_at": "2026-09-17T09:05:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥开始卖一半的时候就不要买了🤦"
+  },
+  "raw_text": "赵哥开始卖一半的时候就不要买了🤦"
+}
