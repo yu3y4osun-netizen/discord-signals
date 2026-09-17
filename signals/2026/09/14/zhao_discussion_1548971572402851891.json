@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548971572402851891",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "civica",
+  "ts": "2026-09-14T08:20:01.361000+00:00",
+  "captured_at": "2026-09-17T09:05:34+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我自己管理的账户还是赚的，这边加仓的一直在回本路上"
+  },
+  "raw_text": "我自己管理的账户还是赚的，这边加仓的一直在回本路上"
+}
