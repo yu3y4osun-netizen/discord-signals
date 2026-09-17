@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549124592914669641",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-14T18:28:04.294000+00:00",
+  "captured_at": "2026-09-17T09:10:59+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，有一个不理解地方，现在行情是优先做云光存嘛，M7是啥时候做？"
+  },
+  "raw_text": "赵哥，有一个不理解地方，现在行情是优先做云光存嘛，M7是啥时候做？"
+}
