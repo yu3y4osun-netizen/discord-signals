@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548840163340325047",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-13T23:37:50.999000+00:00",
+  "captured_at": "2026-09-17T09:04:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "😉这个跌幅，赵哥床板要震了吧"
+  },
+  "raw_text": "😉这个跌幅，赵哥床板要震了吧"
+}
