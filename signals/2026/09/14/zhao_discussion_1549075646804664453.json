@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549075646804664453",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-09-14T15:13:34.632000+00:00",
+  "captured_at": "2026-09-17T09:06:59+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥  利率落地之前是不是大概率要维持震荡走势给资金入场"
+  },
+  "raw_text": "赵哥  利率落地之前是不是大概率要维持震荡走势给资金入场"
+}
