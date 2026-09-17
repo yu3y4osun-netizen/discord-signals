@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549449174192226356",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "starboyz",
+  "ts": "2026-09-15T15:57:50.501000+00:00",
+  "captured_at": "2026-09-17T09:12:03+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这种行情只有赵哥在游龙……"
+  },
+  "raw_text": "这种行情只有赵哥在游龙……"
+}
