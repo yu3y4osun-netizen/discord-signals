@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549240591794307205",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jugeg",
+  "ts": "2026-09-15T02:09:00.582000+00:00",
+  "captured_at": "2026-09-17T09:11:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "所以，应该满仓了吗"
+  },
+  "raw_text": "所以，应该满仓了吗"
+}
