@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549054065416347689",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wenwater",
+  "ts": "2026-09-14T13:47:49.228000+00:00",
+  "captured_at": "2026-09-17T09:06:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥战法太稳了"
+  },
+  "raw_text": "赵哥战法太稳了"
+}
