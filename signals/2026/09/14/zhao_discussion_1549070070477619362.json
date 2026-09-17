@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549070070477619362",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-14T14:51:25.132000+00:00",
+  "captured_at": "2026-09-17T09:06:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "怎么手速这样快的，我跟赵哥的都跟不上，大哥你居然除了赵哥的，还可以做MU 又做SPX  等等"
+  },
+  "raw_text": "怎么手速这样快的，我跟赵哥的都跟不上，大哥你居然除了赵哥的，还可以做MU 又做SPX  等等"
+}
