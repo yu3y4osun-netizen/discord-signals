@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548872923664613457",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hhui888",
+  "ts": "2026-09-14T01:48:01.669000+00:00",
+  "captured_at": "2026-09-17T09:04:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "直接spx call了，看到赵哥进货"
+  },
+  "raw_text": "直接spx call了，看到赵哥进货"
+}
