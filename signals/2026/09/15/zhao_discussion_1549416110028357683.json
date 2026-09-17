@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549416110028357683",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-15T13:46:27.390000+00:00",
+  "captured_at": "2026-09-17T09:11:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥可能2点半之前就出了"
+  },
+  "raw_text": "赵哥可能2点半之前就出了"
+}
