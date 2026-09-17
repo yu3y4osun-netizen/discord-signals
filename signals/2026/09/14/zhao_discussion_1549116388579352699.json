@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549116388579352699",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-14T17:55:28.228000+00:00",
+  "captured_at": "2026-09-17T09:07:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我今天看到赵哥仓位都加到了9成  就知道稳了"
+  },
+  "raw_text": "我今天看到赵哥仓位都加到了9成  就知道稳了"
+}
