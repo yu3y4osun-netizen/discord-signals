@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549114800720838818",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-14T17:49:09.653000+00:00",
+  "captured_at": "2026-09-17T09:07:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，现在没仓位的话，能不能等周五再低吸？"
+  },
+  "raw_text": "赵哥，现在没仓位的话，能不能等周五再低吸？"
+}
