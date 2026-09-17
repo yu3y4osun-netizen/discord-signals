@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549059839236243619",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-14T14:10:45.814000+00:00",
+  "captured_at": "2026-09-17T09:06:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "满仓半融待涨"
+  },
+  "raw_text": "满仓半融待涨"
+}
