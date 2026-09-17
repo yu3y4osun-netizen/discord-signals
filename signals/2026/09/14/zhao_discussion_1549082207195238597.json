@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549082207195238597",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-14T15:39:38.751000+00:00",
+  "captured_at": "2026-09-17T09:07:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跟着赵哥无需恐惧"
+  },
+  "raw_text": "跟着赵哥无需恐惧"
+}
