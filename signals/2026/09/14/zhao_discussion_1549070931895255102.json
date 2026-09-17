@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549070931895255102",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-14T14:54:50.510000+00:00",
+  "captured_at": "2026-09-17T09:06:46+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥虽然没加新的dram，但是我做日内买mu还是一样的"
+  },
+  "raw_text": "赵哥虽然没加新的dram，但是我做日内买mu还是一样的"
+}
