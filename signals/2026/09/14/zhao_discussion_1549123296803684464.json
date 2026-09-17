@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549123296803684464",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bkaaa",
+  "ts": "2026-09-14T18:22:55.277000+00:00",
+  "captured_at": "2026-09-17T09:10:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥以前一笔特斯拉put就挣350w刀😂"
+  },
+  "raw_text": "赵哥以前一笔特斯拉put就挣350w刀😂"
+}
