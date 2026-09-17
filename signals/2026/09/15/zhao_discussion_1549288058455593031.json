@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549288058455593031",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-09-15T05:17:37.516000+00:00",
+  "captured_at": "2026-09-17T09:11:15+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "猫哥又是满仓tqqq吗"
+  },
+  "raw_text": "猫哥又是满仓tqqq吗"
+}
