@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549211348880195646",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-15T00:12:48.528000+00:00",
+  "captured_at": "2026-09-17T09:11:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "川子喊话石油降价，加仓做空石油"
+  },
+  "raw_text": "川子喊话石油降价，加仓做空石油"
+}
