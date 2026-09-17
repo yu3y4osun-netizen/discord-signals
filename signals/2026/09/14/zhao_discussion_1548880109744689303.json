@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548880109744689303",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-09-14T02:16:34.964000+00:00",
+  "captured_at": "2026-09-17T09:05:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那肯定啊，赵哥都是精准转弯价格，跟不上的"
+  },
+  "raw_text": "那肯定啊，赵哥都是精准转弯价格，跟不上的"
+}
