@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549416710115819622",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meter123",
+  "ts": "2026-09-15T13:48:50.462000+00:00",
+  "captured_at": "2026-09-17T09:11:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "都比赵哥加的高点"
+  },
+  "raw_text": "都比赵哥加的高点"
+}
