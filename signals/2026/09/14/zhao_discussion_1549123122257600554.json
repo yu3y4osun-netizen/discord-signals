@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549123122257600554",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-14T18:22:13.662000+00:00",
+  "captured_at": "2026-09-17T09:10:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥以前有没有特别热衷于买期权的时候"
+  },
+  "raw_text": "赵哥以前有没有特别热衷于买期权的时候"
+}
