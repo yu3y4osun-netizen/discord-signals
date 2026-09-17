@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548873649572806717",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-09-14T01:50:54.739000+00:00",
+  "captured_at": "2026-09-17T09:04:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥买完 要8成9成这样了吧"
+  },
+  "raw_text": "赵哥买完 要8成9成这样了吧"
+}
