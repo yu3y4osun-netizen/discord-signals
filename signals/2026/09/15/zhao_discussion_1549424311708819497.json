@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549424311708819497",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-09-15T14:19:02.823000+00:00",
+  "captured_at": "2026-09-17T09:11:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我的心愿很简单，就是赵叔满仓满融的时候伊朗能不能宣布一下投降"
+  },
+  "raw_text": "我的心愿很简单，就是赵叔满仓满融的时候伊朗能不能宣布一下投降"
+}
