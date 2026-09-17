@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549441405716398100",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hhhhuhh",
+  "ts": "2026-09-15T15:26:58.352000+00:00",
+  "captured_at": "2026-09-17T09:11:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "问题不大，赵哥持仓可以，今天才亏3%这个行情不错了"
+  },
+  "raw_text": "问题不大，赵哥持仓可以，今天才亏3%这个行情不错了"
+}
