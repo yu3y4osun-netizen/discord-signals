@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549071212225892433",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-14T14:55:57.346000+00:00",
+  "captured_at": "2026-09-17T09:06:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "止损自己控制好就行"
+  },
+  "raw_text": "止损自己控制好就行"
+}
