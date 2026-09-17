@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549077281434107936",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-14T15:20:04.358000+00:00",
+  "captured_at": "2026-09-17T09:07:05+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，我现在基本全仓现金，是周四周五再买吗？"
+  },
+  "raw_text": "赵哥，我现在基本全仓现金，是周四周五再买吗？"
+}
