@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549125506216235113",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-14T18:31:42.042000+00:00",
+  "captured_at": "2026-09-17T09:11:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "WDC我看赵哥已经有三分之二仓位了，我现在要不要一次性买够三分之二"
+  },
+  "raw_text": "WDC我看赵哥已经有三分之二仓位了，我现在要不要一次性买够三分之二"
+}
