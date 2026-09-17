@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549414289578655806",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-09-15T13:39:13.361000+00:00",
+  "captured_at": "2026-09-17T09:11:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "记得赵哥说过美元之后会升值 加息是不是正好对应"
+  },
+  "raw_text": "记得赵哥说过美元之后会升值 加息是不是正好对应"
+}
