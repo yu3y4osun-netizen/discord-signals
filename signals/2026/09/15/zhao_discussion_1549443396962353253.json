@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549443396962353253",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-09-15T15:34:53.102000+00:00",
+  "captured_at": "2026-09-17T09:11:59+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "按照赵哥分析，明天最多就是7520 spy￼"
+  },
+  "raw_text": "按照赵哥分析，明天最多就是7520 spy￼"
+}
