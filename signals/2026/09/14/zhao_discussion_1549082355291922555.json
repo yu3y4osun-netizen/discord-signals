@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549082355291922555",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-14T15:40:14.060000+00:00",
+  "captured_at": "2026-09-17T09:07:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "希望明天爆拉 让割肉盘后悔"
+  },
+  "raw_text": "希望明天爆拉 让割肉盘后悔"
+}
