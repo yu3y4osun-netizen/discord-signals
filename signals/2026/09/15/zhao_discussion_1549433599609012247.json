@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549433599609012247",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wenwater",
+  "ts": "2026-09-15T14:55:57.231000+00:00",
+  "captured_at": "2026-09-17T09:11:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "怪不得赵哥今晚还没动手"
+  },
+  "raw_text": "怪不得赵哥今晚还没动手"
+}
