@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549063833744711801",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-14T14:26:38.179000+00:00",
+  "captured_at": "2026-09-17T09:06:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跳就跳吧 我刚才已经把融资出完了"
+  },
+  "raw_text": "跳就跳吧 我刚才已经把融资出完了"
+}
