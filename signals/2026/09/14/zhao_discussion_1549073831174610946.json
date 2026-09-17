@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549073831174610946",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-14T15:06:21.752000+00:00",
+  "captured_at": "2026-09-17T09:06:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "原油起飞了"
+  },
+  "raw_text": "原油起飞了"
+}
