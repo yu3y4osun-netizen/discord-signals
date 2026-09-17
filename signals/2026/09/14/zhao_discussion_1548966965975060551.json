@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1548966965975060551",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-09-14T08:01:43.103000+00:00",
+  "captured_at": "2026-09-17T09:05:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "崩了 盘前跌的有点多"
+  },
+  "raw_text": "崩了 盘前跌的有点多"
+}
