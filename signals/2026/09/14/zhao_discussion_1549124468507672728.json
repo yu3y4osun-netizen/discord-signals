@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549124468507672728",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-09-14T18:27:34.633000+00:00",
+  "captured_at": "2026-09-17T09:10:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在赵哥不买期权 就跟哈兰德和猪脚饭 两个大哥买期权😁"
+  },
+  "raw_text": "现在赵哥不买期权 就跟哈兰德和猪脚饭 两个大哥买期权😁"
+}
