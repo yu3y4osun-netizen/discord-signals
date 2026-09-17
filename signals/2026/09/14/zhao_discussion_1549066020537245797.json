@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549066020537245797",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-14T14:35:19.551000+00:00",
+  "captured_at": "2026-09-17T09:06:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哦我想起来了 赵哥当时出33那笔的时候 我把33.7那笔出了"
+  },
+  "raw_text": "哦我想起来了 赵哥当时出33那笔的时候 我把33.7那笔出了"
+}
