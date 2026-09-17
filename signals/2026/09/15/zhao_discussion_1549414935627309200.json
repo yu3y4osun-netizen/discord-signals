@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549414935627309200",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-09-15T13:41:47.391000+00:00",
+  "captured_at": "2026-09-17T09:11:22+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，请问您觉得今晚清新法案通过几率大吗？￼"
+  },
+  "raw_text": "赵哥，请问您觉得今晚清新法案通过几率大吗？￼"
+}
