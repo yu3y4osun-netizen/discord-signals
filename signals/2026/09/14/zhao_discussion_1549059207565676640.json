@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549059207565676640",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dongreng",
+  "ts": "2026-09-14T14:08:15.212000+00:00",
+  "captured_at": "2026-09-17T09:06:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "跟了上午赵哥一波，现在起来了。这个行情都能嫌钱😄开心"
+  },
+  "raw_text": "跟了上午赵哥一波，现在起来了。这个行情都能嫌钱😄开心"
+}
