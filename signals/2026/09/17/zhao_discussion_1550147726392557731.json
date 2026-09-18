@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550147726392557731",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bkaaa",
+  "ts": "2026-09-17T14:13:38.324000+00:00",
+  "captured_at": "2026-09-18T09:12:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你问了赵哥好几次空仓买啥 结果买了个麦当劳？？"
+  },
+  "raw_text": "你问了赵哥好几次空仓买啥 结果买了个麦当劳？？"
+}
