@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550116418803073096",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "issacli",
+  "ts": "2026-09-17T12:09:14.013000+00:00",
+  "captured_at": "2026-09-18T09:20:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl还在猛攻"
+  },
+  "raw_text": "soxl还在猛攻"
+}
