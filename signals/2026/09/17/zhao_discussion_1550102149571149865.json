@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550102149571149865",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-17T11:12:31.963000+00:00",
+  "captured_at": "2026-09-18T09:11:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我记得赵哥说过发债等三天"
+  },
+  "raw_text": "我记得赵哥说过发债等三天"
+}
