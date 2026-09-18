@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550170311364710452",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-17T15:43:23.001000+00:00",
+  "captured_at": "2026-09-18T09:24:15+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "OKLL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我的okll从9.25-11.2"
+  },
+  "raw_text": "我的okll从9.25-11.2"
+}
