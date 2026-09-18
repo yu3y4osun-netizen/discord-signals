@@ -5,11 +5,13 @@
   "channel_name": "赵哥讨论区",
   "author": "heimao",
   "ts": "2026-09-17T14:06:23.718000+00:00",
-  "captured_at": "2026-09-18T09:12:20+08:00",
+  "captured_at": "2026-09-18T09:22:05+08:00",
   "signal_type": "community",
   "payload": {
     "mood": "fear",
-    "tickers_mentioned": [],
+    "tickers_mentioned": [
+      "SOXL"
+    ],
     "is_following_zhao": false,
     "summary": "这soxl应该出完了吧"
   },
