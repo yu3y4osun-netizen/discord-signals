@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550127971489157231",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-17T12:55:08.388000+00:00",
+  "captured_at": "2026-09-18T09:21:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl还有凌晨买回来的"
+  },
+  "raw_text": "soxl还有凌晨买回来的"
+}
