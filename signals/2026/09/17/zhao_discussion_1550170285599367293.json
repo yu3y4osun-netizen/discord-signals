@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550170285599367293",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-17T15:43:16.858000+00:00",
+  "captured_at": "2026-09-18T09:24:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "OKLO"
+    ],
+    "is_following_zhao": false,
+    "summary": "你昨晚没买oklo吗"
+  },
+  "raw_text": "你昨晚没买oklo吗"
+}
