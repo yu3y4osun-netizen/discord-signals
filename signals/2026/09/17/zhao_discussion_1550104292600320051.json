@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550104292600320051",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meter123",
+  "ts": "2026-09-17T11:21:02.901000+00:00",
+  "captured_at": "2026-09-18T09:19:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "我挂了crwv 90。。。。。 他么的"
+  },
+  "raw_text": "我挂了crwv 90。。。。。\n他么的"
+}
