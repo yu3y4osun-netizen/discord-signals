@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550180195095281818",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-09-17T16:22:39.466000+00:00",
+  "captured_at": "2026-09-18T09:24:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GE"
+    ],
+    "is_following_zhao": false,
+    "summary": "ge现在的价位 感觉有长期吸引力了"
+  },
+  "raw_text": "ge现在的价位 感觉有长期吸引力了"
+}
