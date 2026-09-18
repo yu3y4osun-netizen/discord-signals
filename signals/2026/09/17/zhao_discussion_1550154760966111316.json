@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550154760966111316",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-17T14:41:35.497000+00:00",
+  "captured_at": "2026-09-18T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "前面有个兄弟提到的sion我今天看了一眼，从最低点翻倍了，这是个思路，和赵哥的市值理论100跌50能对上，笑死"
+  },
+  "raw_text": "前面有个兄弟提到的sion我今天看了一眼，从最低点翻倍了，这是个思路，和赵哥的市值理论100跌50能对上，笑死"
+}
