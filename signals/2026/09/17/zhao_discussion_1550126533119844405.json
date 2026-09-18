@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550126533119844405",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-17T12:49:25.454000+00:00",
+  "captured_at": "2026-09-18T09:20:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "云里面的小辣鸡crwv"
+  },
+  "raw_text": "云里面的小辣鸡crwv"
+}
