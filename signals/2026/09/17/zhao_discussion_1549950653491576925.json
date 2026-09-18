@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549950653491576925",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "netman525",
+  "ts": "2026-09-17T01:10:32.483000+00:00",
+  "captured_at": "2026-09-18T09:17:55+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "[美股] iren冲高到44附近时候把周五几笔 43.6 43.7 43.63的都出掉 仅保留低位的41.55  42...."
+  },
+  "raw_text": "[美股]\niren冲高到44附近时候把周五几笔 43.6 43.7 43.63的都出掉 仅保留低位的41.55  42.2的"
+}
