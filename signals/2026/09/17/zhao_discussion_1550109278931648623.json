@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550109278931648623",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-17T11:40:51.735000+00:00",
+  "captured_at": "2026-09-18T09:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "smci曾经一堆人亏麻了，我赔了出来了"
+  },
+  "raw_text": "smci曾经一堆人亏麻了，我赔了出来了"
+}
