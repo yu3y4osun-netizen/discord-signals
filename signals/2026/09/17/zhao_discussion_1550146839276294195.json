@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550146839276294195",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "melonegg",
+  "ts": "2026-09-17T14:10:06.819000+00:00",
+  "captured_at": "2026-09-18T09:22:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IONQ",
+      "OKLO"
+    ],
+    "is_following_zhao": false,
+    "summary": "oklo和ionq是不是还有仓位啊"
+  },
+  "raw_text": "oklo和ionq是不是还有仓位啊"
+}
