@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550058169655492639",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckfunzhao",
+  "ts": "2026-09-17T08:17:46.334000+00:00",
+  "captured_at": "2026-09-18T09:18:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "lite每次都是800多到1000多"
+  },
+  "raw_text": "lite每次都是800多到1000多"
+}
