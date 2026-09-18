@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550157554980487290",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-17T14:52:41.642000+00:00",
+  "captured_at": "2026-09-18T09:13:03+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "长桥手续费太贵了，像赵哥这种T，太贵了"
+  },
+  "raw_text": "长桥手续费太贵了，像赵哥这种T，太贵了"
+}
