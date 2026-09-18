@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550168798760411257",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-09-17T15:37:22.368000+00:00",
+  "captured_at": "2026-09-18T09:13:22+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "TEM. 直接起飞了 也是被MRNA 带飞的吧"
+  },
+  "raw_text": "TEM. 直接起飞了 也是被MRNA 带飞的吧"
+}
