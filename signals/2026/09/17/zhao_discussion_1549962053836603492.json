@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1549962053836603492",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-09-17T01:55:50.537000+00:00",
+  "captured_at": "2026-09-18T09:10:06+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我这统计的都已经满仓+融资了"
+  },
+  "raw_text": "我这统计的都已经满仓+融资了"
+}
