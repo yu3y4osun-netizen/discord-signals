@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550160244322209843",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dasheng9527",
+  "ts": "2026-09-17T15:03:22.831000+00:00",
+  "captured_at": "2026-09-18T09:23:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "可惜我INTC卖飞了"
+  },
+  "raw_text": "可惜我INTC卖飞了"
+}
