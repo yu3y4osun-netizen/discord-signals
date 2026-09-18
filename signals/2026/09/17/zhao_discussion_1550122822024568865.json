@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550122822024568865",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "issacli",
+  "ts": "2026-09-17T12:34:40.660000+00:00",
+  "captured_at": "2026-09-18T09:20:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl杀疯了"
+  },
+  "raw_text": "soxl杀疯了"
+}
