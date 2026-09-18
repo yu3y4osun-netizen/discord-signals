@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550076889861988474",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-09-17T09:32:09.579000+00:00",
+  "captured_at": "2026-09-18T09:10:40+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥： 资金三过麦当劳而不入"
+  },
+  "raw_text": "赵哥： 资金三过麦当劳而不入"
+}
