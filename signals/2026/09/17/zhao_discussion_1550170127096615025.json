@@ -5,11 +5,13 @@
   "channel_name": "赵哥讨论区",
   "author": "corrineq",
   "ts": "2026-09-17T15:42:39.068000+00:00",
-  "captured_at": "2026-09-18T09:13:32+08:00",
+  "captured_at": "2026-09-18T09:24:10+08:00",
   "signal_type": "community",
   "payload": {
     "mood": "confusion",
-    "tickers_mentioned": [],
+    "tickers_mentioned": [
+      "OKLO"
+    ],
     "is_following_zhao": false,
     "summary": "为什么我的oklo是略亏的呢"
   },
