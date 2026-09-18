@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550195236406304881",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fionayjx",
+  "ts": "2026-09-17T17:22:25.594000+00:00",
+  "captured_at": "2026-09-18T09:24:41+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "想问一下 crwv"
+  },
+  "raw_text": "想问一下 crwv"
+}
