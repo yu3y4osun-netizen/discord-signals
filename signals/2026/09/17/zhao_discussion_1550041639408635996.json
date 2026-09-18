@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550041639408635996",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-17T07:12:05.216000+00:00",
+  "captured_at": "2026-09-18T09:10:17+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个是赵哥的梦女"
+  },
+  "raw_text": "这个是赵哥的梦女"
+}
