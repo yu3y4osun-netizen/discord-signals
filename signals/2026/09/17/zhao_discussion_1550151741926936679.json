@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550151741926936679",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jasonic",
+  "ts": "2026-09-17T14:29:35.702000+00:00",
+  "captured_at": "2026-09-18T09:12:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "兄弟们，赵哥crwv还有仓位吗"
+  },
+  "raw_text": "兄弟们，赵哥crwv还有仓位吗"
+}
