@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550146430809800738",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepblue1",
+  "ts": "2026-09-17T14:08:29.433000+00:00",
+  "captured_at": "2026-09-18T09:22:18+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "tsla站起来了"
+  },
+  "raw_text": "tsla站起来了"
+}
