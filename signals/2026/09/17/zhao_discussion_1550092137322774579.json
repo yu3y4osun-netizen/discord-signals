@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550092137322774579",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-09-17T10:32:44.857000+00:00",
+  "captured_at": "2026-09-18T09:10:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "可能赵哥没打算卖￼"
+  },
+  "raw_text": "可能赵哥没打算卖￼"
+}
