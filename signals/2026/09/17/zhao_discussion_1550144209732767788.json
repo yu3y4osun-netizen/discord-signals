@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550144209732767788",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-09-17T13:59:39.887000+00:00",
+  "captured_at": "2026-09-18T09:12:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥这机器是真厉害，我现在20刀写出来的工作台比起来太糙了"
+  },
+  "raw_text": "赵哥这机器是真厉害，我现在20刀写出来的工作台比起来太糙了"
+}
