@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550105476849606697",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-17T11:25:45.248000+00:00",
+  "captured_at": "2026-09-18T09:19:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "KORU"
+    ],
+    "is_following_zhao": true,
+    "summary": "koru走了，赚了1%多点，白天棒子不给力"
+  },
+  "raw_text": "koru走了，赚了1%多点，白天棒子不给力"
+}
