@@ -5,11 +5,13 @@
   "channel_name": "赵哥讨论区",
   "author": "zdhhhh",
   "ts": "2026-09-17T15:43:47.620000+00:00",
-  "captured_at": "2026-09-18T09:13:34+08:00",
+  "captured_at": "2026-09-18T09:24:17+08:00",
   "signal_type": "community",
   "payload": {
     "mood": "neutral",
-    "tickers_mentioned": [],
+    "tickers_mentioned": [
+      "OKLO"
+    ],
     "is_following_zhao": false,
     "summary": "我还抄底了赵哥的oklo"
   },
