@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550158917034582137",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepblue1",
+  "ts": "2026-09-17T14:58:06.381000+00:00",
+  "captured_at": "2026-09-18T09:23:31+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "OKLO"
+    ],
+    "is_following_zhao": false,
+    "summary": "oklo也直线了"
+  },
+  "raw_text": "oklo也直线了"
+}
