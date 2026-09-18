@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550150727031201898",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-17T14:25:33.732000+00:00",
+  "captured_at": "2026-09-18T09:22:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intc在尝试突破110，冲过去大概会落在112到116之间"
+  },
+  "raw_text": "intc在尝试突破110，冲过去大概会落在112到116之间"
+}
