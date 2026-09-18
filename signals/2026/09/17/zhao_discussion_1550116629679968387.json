@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550116629679968387",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hhhhuhh",
+  "ts": "2026-09-17T12:10:04.290000+00:00",
+  "captured_at": "2026-09-18T09:20:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv有毒，上升趋势就发债"
+  },
+  "raw_text": "crwv有毒，上升趋势就发债"
+}
