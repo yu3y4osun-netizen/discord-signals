@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550156116774752448",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-17T14:46:58.747000+00:00",
+  "captured_at": "2026-09-18T09:23:18+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr没有加吧？我没看到"
+  },
+  "raw_text": "cifr没有加吧？我没看到"
+}
