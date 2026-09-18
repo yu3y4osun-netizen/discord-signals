@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550146900827832422",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "issacli",
+  "ts": "2026-09-17T14:10:21.494000+00:00",
+  "captured_at": "2026-09-18T09:12:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "大佬们的wdc成本都多少了☹️"
+  },
+  "raw_text": "大佬们的wdc成本都多少了☹️"
+}
