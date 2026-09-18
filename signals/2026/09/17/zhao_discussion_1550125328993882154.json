@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550125328993882154",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-17T12:44:38.368000+00:00",
+  "captured_at": "2026-09-18T09:11:31+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "昨晚买的亚马逊call也起飞了"
+  },
+  "raw_text": "昨晚买的亚马逊call也起飞了"
+}
