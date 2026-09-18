@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550155880928907325",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-17T14:46:02.517000+00:00",
+  "captured_at": "2026-09-18T09:23:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr也来了"
+  },
+  "raw_text": "cifr也来了"
+}
