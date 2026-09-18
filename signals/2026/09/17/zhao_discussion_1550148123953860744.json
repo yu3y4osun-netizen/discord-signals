@@ -5,11 +5,13 @@
   "channel_name": "赵哥讨论区",
   "author": "felix-trader",
   "ts": "2026-09-17T14:15:13.110000+00:00",
-  "captured_at": "2026-09-18T09:12:44+08:00",
+  "captured_at": "2026-09-18T09:22:33+08:00",
   "signal_type": "community",
   "payload": {
     "mood": "neutral",
-    "tickers_mentioned": [],
+    "tickers_mentioned": [
+      "IREN"
+    ],
     "is_following_zhao": false,
     "summary": "哥们，赵哥刚刚卖了iren，你怎么不加呢，不行也可以先少加点"
   },
