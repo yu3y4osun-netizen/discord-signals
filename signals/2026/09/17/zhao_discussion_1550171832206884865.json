@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550171832206884865",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-17T15:49:25.598000+00:00",
+  "captured_at": "2026-09-18T09:13:40+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "🤣下次还是严格跟着赵哥买"
+  },
+  "raw_text": "🤣下次还是严格跟着赵哥买"
+}
