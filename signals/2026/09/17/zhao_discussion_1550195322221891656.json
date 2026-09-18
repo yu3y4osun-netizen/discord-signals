@@ -5,11 +5,13 @@
   "channel_name": "赵哥讨论区",
   "author": "fionayjx",
   "ts": "2026-09-17T17:22:46.054000+00:00",
-  "captured_at": "2026-09-18T09:13:47+08:00",
+  "captured_at": "2026-09-18T09:24:43+08:00",
   "signal_type": "community",
   "payload": {
     "mood": "neutral",
-    "tickers_mentioned": [],
+    "tickers_mentioned": [
+      "CRWV"
+    ],
     "is_following_zhao": false,
     "summary": "crwv 赵哥卖的的时候我还在梦里， 我现在的策略就是拿着吗？"
   },
