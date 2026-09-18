@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550092161930756271",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-17T10:32:50.724000+00:00",
+  "captured_at": "2026-09-18T09:10:55+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥每天都睡在机房吗"
+  },
+  "raw_text": "赵哥每天都睡在机房吗"
+}
