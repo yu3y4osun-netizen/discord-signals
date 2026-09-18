@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550160009764012033",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-17T15:02:26.908000+00:00",
+  "captured_at": "2026-09-18T09:23:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "INTC牛哇，突破110了"
+  },
+  "raw_text": "INTC牛哇，突破110了"
+}
