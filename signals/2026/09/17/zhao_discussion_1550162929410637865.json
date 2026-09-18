@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550162929410637865",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-17T15:14:03.006000+00:00",
+  "captured_at": "2026-09-18T09:23:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "请教“GOOGL  20261018  375C 成本5.5元   只有一张   是继续等还是今天出，听你的"
+  },
+  "raw_text": "请教“GOOGL  20261018  375C 成本5.5元   只有一张   是继续等还是今天出，听你的"
+}
