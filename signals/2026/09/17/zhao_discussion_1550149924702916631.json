@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550149924702916631",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-09-17T14:22:22.442000+00:00",
+  "captured_at": "2026-09-18T09:12:46+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "啥意思啊。严查吗 兄弟"
+  },
+  "raw_text": "啥意思啊。严查吗 兄弟"
+}
