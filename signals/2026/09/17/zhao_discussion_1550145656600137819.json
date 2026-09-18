@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550145656600137819",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jasonic",
+  "ts": "2026-09-17T14:05:24.847000+00:00",
+  "captured_at": "2026-09-18T09:22:03+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv没出掉真难受"
+  },
+  "raw_text": "crwv没出掉真难受"
+}
