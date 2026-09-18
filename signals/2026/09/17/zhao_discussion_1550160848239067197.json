@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550160848239067197",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-09-17T15:05:46.816000+00:00",
+  "captured_at": "2026-09-18T09:13:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "自从我仓位管理好 严格跟着赵哥执行之后 心态明显好很多"
+  },
+  "raw_text": "自从我仓位管理好 严格跟着赵哥执行之后 心态明显好很多"
+}
