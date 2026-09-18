@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550144851528523777",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-17T14:02:12.903000+00:00",
+  "captured_at": "2026-09-18T09:12:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "最开心的是明天还有机会加仓"
+  },
+  "raw_text": "最开心的是明天还有机会加仓"
+}
