@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550104054863241220",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-17T11:20:06.220000+00:00",
+  "captured_at": "2026-09-18T09:11:06+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥都被这个东西弄醒了"
+  },
+  "raw_text": "赵哥都被这个东西弄醒了"
+}
