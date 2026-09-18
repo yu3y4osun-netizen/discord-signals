@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550100391398609028",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-09-17T11:05:32.782000+00:00",
+  "captured_at": "2026-09-18T09:19:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "OKLO",
+      "SCO",
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "Oklo sco wdc就你们还在水下"
+  },
+  "raw_text": "Oklo sco wdc就你们还在水下"
+}
