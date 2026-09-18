@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550142352289435800",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-17T13:52:17.038000+00:00",
+  "captured_at": "2026-09-18T09:21:46+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "Crwv死啦死啦"
+  },
+  "raw_text": "Crwv死啦死啦"
+}
