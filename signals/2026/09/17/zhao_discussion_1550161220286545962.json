@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550161220286545962",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-17T15:07:15.519000+00:00",
+  "captured_at": "2026-09-18T09:13:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "oklo赵哥出完了没"
+  },
+  "raw_text": "oklo赵哥出完了没"
+}
