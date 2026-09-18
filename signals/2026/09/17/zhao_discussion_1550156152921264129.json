@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550156152921264129",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-17T14:47:07.365000+00:00",
+  "captured_at": "2026-09-18T09:12:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥开盘那波信息太密集了"
+  },
+  "raw_text": "赵哥开盘那波信息太密集了"
+}
