@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550090714799546441",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-17T10:27:05.701000+00:00",
+  "captured_at": "2026-09-18T09:10:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥为什么今天不起来卖票呢？？盘前异动拉的好猛啊"
+  },
+  "raw_text": "赵哥为什么今天不起来卖票呢？？盘前异动拉的好猛啊"
+}
