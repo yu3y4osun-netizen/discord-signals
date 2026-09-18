@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550168839566794873",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-09-17T15:37:32.097000+00:00",
+  "captured_at": "2026-09-18T09:13:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "去年那会赵哥也玩这个波段"
+  },
+  "raw_text": "去年那会赵哥也玩这个波段"
+}
