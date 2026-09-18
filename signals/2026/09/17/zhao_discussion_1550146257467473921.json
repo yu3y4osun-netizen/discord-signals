@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550146257467473921",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-17T14:07:48.105000+00:00",
+  "captured_at": "2026-09-18T09:12:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "生怕错过赵哥指令"
+  },
+  "raw_text": "生怕错过赵哥指令"
+}
