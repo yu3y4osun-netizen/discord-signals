@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550228499808256011",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangwang888",
+  "ts": "2026-09-17T19:34:36.207000+00:00",
+  "captured_at": "2026-09-18T09:24:47+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "Lite跌了"
+  },
+  "raw_text": "Lite跌了"
+}
