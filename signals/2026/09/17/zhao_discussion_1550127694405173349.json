@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550127694405173349",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-17T12:54:02.326000+00:00",
+  "captured_at": "2026-09-18T09:11:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "cifr应该出完了"
+  },
+  "raw_text": "cifr应该出完了"
+}
