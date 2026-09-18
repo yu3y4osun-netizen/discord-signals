@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550141643011788861",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-09-17T13:49:27.933000+00:00",
+  "captured_at": "2026-09-18T09:12:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "晚点问问赵哥仓位多少😂"
+  },
+  "raw_text": "晚点问问赵哥仓位多少😂"
+}
