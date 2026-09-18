@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550076493885997059",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-09-17T09:30:35.171000+00:00",
+  "captured_at": "2026-09-18T09:18:40+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MCD"
+    ],
+    "is_following_zhao": false,
+    "summary": "花旗：将麦当劳(MCD.N)目标价从345美元下调至310美元。 (来自金十数据APP)"
+  },
+  "raw_text": "花旗：将麦当劳(MCD.N)目标价从345美元下调至310美元。\n(来自金十数据APP)"
+}
