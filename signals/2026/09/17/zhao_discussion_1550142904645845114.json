@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550142904645845114",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-17T13:54:28.730000+00:00",
+  "captured_at": "2026-09-18T09:21:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "INTC疯啦疯啦"
+  },
+  "raw_text": "INTC疯啦疯啦"
+}
