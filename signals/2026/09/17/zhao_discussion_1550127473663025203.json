@@ -5,11 +5,13 @@
   "channel_name": "赵哥讨论区",
   "author": "wyyy1888666",
   "ts": "2026-09-17T12:53:09.697000+00:00",
-  "captured_at": "2026-09-18T09:11:38+08:00",
+  "captured_at": "2026-09-18T09:20:52+08:00",
   "signal_type": "community",
   "payload": {
     "mood": "fear",
-    "tickers_mentioned": [],
+    "tickers_mentioned": [
+      "CRWV"
+    ],
     "is_following_zhao": false,
     "summary": "卧槽Crwv没卖掉"
   },
