@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550143313427046503",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-17T13:56:06.191000+00:00",
+  "captured_at": "2026-09-18T09:21:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTW"
+    ],
+    "is_following_zhao": false,
+    "summary": "intw可以再走一次了"
+  },
+  "raw_text": "intw可以再走一次了"
+}
