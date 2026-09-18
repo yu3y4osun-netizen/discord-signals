@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550104318676312179",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-17T11:21:09.118000+00:00",
+  "captured_at": "2026-09-18T09:19:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv也放进黑名单了，耐克也在里面😅"
+  },
+  "raw_text": "crwv也放进黑名单了，耐克也在里面😅"
+}
