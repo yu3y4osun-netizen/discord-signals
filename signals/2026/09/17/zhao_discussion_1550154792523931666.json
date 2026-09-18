@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550154792523931666",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-09-17T14:41:43.021000+00:00",
+  "captured_at": "2026-09-18T09:23:05+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAOI"
+    ],
+    "is_following_zhao": false,
+    "summary": "aaoi一年发两次"
+  },
+  "raw_text": "aaoi一年发两次"
+}
