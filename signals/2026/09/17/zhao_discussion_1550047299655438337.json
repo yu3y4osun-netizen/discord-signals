@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550047299655438337",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-17T07:34:34.724000+00:00",
+  "captured_at": "2026-09-18T09:10:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "长桥的可乐哥，都扛不住他的光环"
+  },
+  "raw_text": "长桥的可乐哥，都扛不住他的光环"
+}
