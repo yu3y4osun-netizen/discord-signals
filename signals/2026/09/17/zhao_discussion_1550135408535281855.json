@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550135408535281855",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jasonic",
+  "ts": "2026-09-17T13:24:41.518000+00:00",
+  "captured_at": "2026-09-18T09:11:59+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "虽然卖飞n次，赵哥yyds"
+  },
+  "raw_text": "虽然卖飞n次，赵哥yyds"
+}
