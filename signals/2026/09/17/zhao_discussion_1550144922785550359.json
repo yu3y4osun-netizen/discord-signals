@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550144922785550359",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepblue1",
+  "ts": "2026-09-17T14:02:29.892000+00:00",
+  "captured_at": "2026-09-18T09:21:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "这个CRWV 又发生甚么事了"
+  },
+  "raw_text": "这个CRWV 又发生甚么事了"
+}
