@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550108551148732518",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-09-17T11:37:58.218000+00:00",
+  "captured_at": "2026-09-18T09:11:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥前段时间就说了他们轮流发债，iren和nbis发完就等crwv"
+  },
+  "raw_text": "赵哥前段时间就说了他们轮流发债，iren和nbis发完就等crwv"
+}
