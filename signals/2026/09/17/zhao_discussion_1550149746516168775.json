@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550149746516168775",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-17T14:21:39.959000+00:00",
+  "captured_at": "2026-09-18T09:22:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "空仓的兄弟，这会马上买点iren，快涨了"
+  },
+  "raw_text": "空仓的兄弟，这会马上买点iren，快涨了"
+}
