@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550147394572656761",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-09-17T14:12:19.212000+00:00",
+  "captured_at": "2026-09-18T09:12:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "cifr 简直了  直线跳水  赵哥yyds"
+  },
+  "raw_text": "cifr 简直了  直线跳水  赵哥yyds"
+}
