@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550075551434285107",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-17T09:26:50.473000+00:00",
+  "captured_at": "2026-09-18T09:18:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "OKLO"
+    ],
+    "is_following_zhao": false,
+    "summary": "oklo，crwv我最想卖掉"
+  },
+  "raw_text": "oklo，crwv我最想卖掉"
+}
