@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550171737654820876",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-17T15:49:03.055000+00:00",
+  "captured_at": "2026-09-18T09:24:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "OKLL"
+    ],
+    "is_following_zhao": false,
+    "summary": "上次自作主张加多了一份，这次一共搞了四份okll"
+  },
+  "raw_text": "上次自作主张加多了一份，这次一共搞了四份okll"
+}
