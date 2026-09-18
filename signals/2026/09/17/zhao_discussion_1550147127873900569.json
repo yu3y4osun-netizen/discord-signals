@@ -5,11 +5,13 @@
   "channel_name": "赵哥讨论区",
   "author": "qwerbjd",
   "ts": "2026-09-17T14:11:15.626000+00:00",
-  "captured_at": "2026-09-18T09:12:35+08:00",
+  "captured_at": "2026-09-18T09:22:25+08:00",
   "signal_type": "community",
   "payload": {
     "mood": "fear",
-    "tickers_mentioned": [],
+    "tickers_mentioned": [
+      "WDC"
+    ],
     "is_following_zhao": false,
     "summary": "wdc崩了"
   },
