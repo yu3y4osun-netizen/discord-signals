@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550169122921517089",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-17T15:38:39.654000+00:00",
+  "captured_at": "2026-09-18T09:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥：钱就是大风刮来的"
+  },
+  "raw_text": "赵哥：钱就是大风刮来的"
+}
