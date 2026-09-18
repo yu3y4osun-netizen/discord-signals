@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550124291385983032",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-09-17T12:40:30.983000+00:00",
+  "captured_at": "2026-09-18T09:20:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "英伟达(NVDA.O)盘前上涨2.2%，黄仁勋称明年芯片销量将达到今年的两倍。 (来自金十数据APP)"
+  },
+  "raw_text": "英伟达(NVDA.O)盘前上涨2.2%，黄仁勋称明年芯片销量将达到今年的两倍。\n(来自金十数据APP)"
+}
