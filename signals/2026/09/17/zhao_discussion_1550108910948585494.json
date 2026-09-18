@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550108910948585494",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-09-17T11:39:24.001000+00:00",
+  "captured_at": "2026-09-18T09:19:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SMCI"
+    ],
+    "is_following_zhao": false,
+    "summary": "smci这票梁见后这老东西和高盛勾搭到一起了，恶心的一逼"
+  },
+  "raw_text": "smci这票梁见后这老东西和高盛勾搭到一起了，恶心的一逼"
+}
