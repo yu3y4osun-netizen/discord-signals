@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550234815607869583",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-09-17T19:59:42.011000+00:00",
+  "captured_at": "2026-09-18T09:24:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intc跌一下吧"
+  },
+  "raw_text": "intc跌一下吧"
+}
