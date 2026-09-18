@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550117731922346024",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-17T12:14:27.085000+00:00",
+  "captured_at": "2026-09-18T09:20:15+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "KORU"
+    ],
+    "is_following_zhao": false,
+    "summary": "koru卖早了啊，没坚持下🥶"
+  },
+  "raw_text": "koru卖早了啊，没坚持下🥶"
+}
