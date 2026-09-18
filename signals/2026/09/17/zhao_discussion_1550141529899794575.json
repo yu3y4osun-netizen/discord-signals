@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550141529899794575",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-17T13:49:00.965000+00:00",
+  "captured_at": "2026-09-18T09:21:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "没来得及  操作搞不赢 哈哈 就加了nbis"
+  },
+  "raw_text": "没来得及  操作搞不赢 哈哈 就加了nbis"
+}
