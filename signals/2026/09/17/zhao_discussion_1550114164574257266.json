@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550114164574257266",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-17T12:00:16.563000+00:00",
+  "captured_at": "2026-09-18T09:20:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "舒服 我把tqqq也卖了点 换个股"
+  },
+  "raw_text": "舒服 我把tqqq也卖了点 换个股"
+}
