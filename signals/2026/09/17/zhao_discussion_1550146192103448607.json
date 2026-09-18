@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550146192103448607",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-09-17T14:07:32.521000+00:00",
+  "captured_at": "2026-09-18T09:12:25+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这周仓位要拉满了啊"
+  },
+  "raw_text": "这周仓位要拉满了啊"
+}
