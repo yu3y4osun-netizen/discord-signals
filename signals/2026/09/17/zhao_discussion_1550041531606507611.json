@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550041531606507611",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-17T07:11:39.514000+00:00",
+  "captured_at": "2026-09-18T09:10:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这人是赵哥粉丝吗？每一条动态都圈赵哥，哈哈哈"
+  },
+  "raw_text": "这人是赵哥粉丝吗？每一条动态都圈赵哥，哈哈哈"
+}
