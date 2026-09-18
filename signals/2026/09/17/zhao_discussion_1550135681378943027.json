@@ -5,11 +5,13 @@
   "channel_name": "赵哥讨论区",
   "author": "shusen",
   "ts": "2026-09-17T13:25:46.569000+00:00",
-  "captured_at": "2026-09-18T09:12:04+08:00",
+  "captured_at": "2026-09-18T09:21:27+08:00",
   "signal_type": "community",
   "payload": {
     "mood": "fear",
-    "tickers_mentioned": [],
+    "tickers_mentioned": [
+      "CIFR"
+    ],
     "is_following_zhao": false,
     "summary": "兄弟们，Cifr是不是出完了"
   },
