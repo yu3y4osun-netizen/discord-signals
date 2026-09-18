@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550129116722765835",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-17T12:59:41.433000+00:00",
+  "captured_at": "2026-09-18T09:11:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "昨晚尾盘杀散户止损 今天夜盘盘前猛涨 散户追进去再杀一遍"
+  },
+  "raw_text": "昨晚尾盘杀散户止损 今天夜盘盘前猛涨 散户追进去再杀一遍"
+}
