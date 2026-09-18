@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550091083248177195",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-17T10:28:33.546000+00:00",
+  "captured_at": "2026-09-18T09:10:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥的每次抄底都好准啊"
+  },
+  "raw_text": "赵哥的每次抄底都好准啊"
+}
