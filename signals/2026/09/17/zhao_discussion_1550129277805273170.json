@@ -5,11 +5,13 @@
   "channel_name": "赵哥讨论区",
   "author": "zdhhhh",
   "ts": "2026-09-17T13:00:19.838000+00:00",
-  "captured_at": "2026-09-18T09:11:52+08:00",
+  "captured_at": "2026-09-18T09:21:11+08:00",
   "signal_type": "community",
   "payload": {
     "mood": "neutral",
-    "tickers_mentioned": [],
+    "tickers_mentioned": [
+      "VST"
+    ],
     "is_following_zhao": false,
     "summary": "赵哥是不是还有一点vst"
   },
