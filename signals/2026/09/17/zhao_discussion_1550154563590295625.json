@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550154563590295625",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-17T14:40:48.439000+00:00",
+  "captured_at": "2026-09-18T09:22:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAOI"
+    ],
+    "is_following_zhao": false,
+    "summary": "aaoi这厮也爱干这事"
+  },
+  "raw_text": "aaoi这厮也爱干这事"
+}
