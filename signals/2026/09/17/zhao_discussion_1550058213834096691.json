@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550058213834096691",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckfunzhao",
+  "ts": "2026-09-17T08:17:56.867000+00:00",
+  "captured_at": "2026-09-18T09:10:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "下次我800多梭哈了"
+  },
+  "raw_text": "下次我800多梭哈了"
+}
