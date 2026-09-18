@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550123205035819089",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-09-17T12:36:11.977000+00:00",
+  "captured_at": "2026-09-18T09:11:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天起飞了"
+  },
+  "raw_text": "今天起飞了"
+}
