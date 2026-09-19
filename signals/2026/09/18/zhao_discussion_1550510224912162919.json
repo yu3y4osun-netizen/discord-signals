@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550510224912162919",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jasonic",
+  "ts": "2026-09-18T14:14:04.706000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "iren没出掉"
+  },
+  "raw_text": "iren没出掉"
+}
