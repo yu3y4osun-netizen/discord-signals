@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550515296312238241",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaywinner",
+  "ts": "2026-09-18T14:34:13.822000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "210 的时候想买的，想等赵哥出手再出手，结果就晚了点😂"
+  },
+  "raw_text": "210 的时候想买的，想等赵哥出手再出手，结果就晚了点😂"
+}
