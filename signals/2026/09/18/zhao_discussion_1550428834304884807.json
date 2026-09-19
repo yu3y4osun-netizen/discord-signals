@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550428834304884807",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-09-18T08:50:39.673000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SCO"
+    ],
+    "is_following_zhao": false,
+    "summary": "sco这个有点坑，油跌的时候他没什么反应"
+  },
+  "raw_text": "sco这个有点坑，油跌的时候他没什么反应"
+}
