@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550538725413355541",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-18T16:07:19.755000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "LITE",
+      "NBIS",
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "以后云就只做 nbis 光就只做lite 存就闪迪 挖矿就cifr 绝对最稳"
+  },
+  "raw_text": "以后云就只做 nbis  光就只做lite   存就闪迪   挖矿就cifr  绝对最稳"
+}
