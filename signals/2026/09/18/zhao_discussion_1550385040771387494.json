@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550385040771387494",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-09-18T05:56:38.481000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥会在这个群解答一些问题，还有思路，正股就看你说的那个"
+  },
+  "raw_text": "赵哥会在这个群解答一些问题，还有思路，正股就看你说的那个"
+}
