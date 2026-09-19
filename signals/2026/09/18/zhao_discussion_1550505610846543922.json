@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550505610846543922",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-09-18T13:55:44.627000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥速度那么快，完全跟不上😂 虽然有些我都没仓位"
+  },
+  "raw_text": "赵哥速度那么快，完全跟不上😂 虽然有些我都没仓位"
+}
