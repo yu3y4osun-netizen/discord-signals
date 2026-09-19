@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550506353922023465",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mxy45",
+  "ts": "2026-09-18T13:58:41.790000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": true,
+    "summary": "我买的闪迪，15.5出完了卖飞了"
+  },
+  "raw_text": "我买的闪迪，15.5出完了卖飞了"
+}
