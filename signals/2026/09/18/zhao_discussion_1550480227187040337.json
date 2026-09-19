@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550480227187040337",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-09-18T12:14:52.691000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "为什么是亚韭被套啊😂"
+  },
+  "raw_text": "为什么是亚韭被套啊😂"
+}
