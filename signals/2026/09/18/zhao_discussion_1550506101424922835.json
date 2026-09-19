@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550506101424922835",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-18T13:57:41.590000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU",
+      "SNDK",
+      "STX",
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "你看西部的技术线都不如希捷，趋势是往下探。闪迪和美光从技术线上看都是在往上进攻。我估计赵哥以后可能会把西部拉黑，不强的票不做。"
+  },
+  "raw_text": "你看西部的技术线都不如希捷，趋势是往下探。闪迪和美光从技术线上看都是在往上进攻。我估计赵哥以后可能会把西部拉黑，不强的票不做。"
+}
