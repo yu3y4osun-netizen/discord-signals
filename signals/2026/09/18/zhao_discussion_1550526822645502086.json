@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550526822645502086",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-18T15:20:01.914000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "SNDK",
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "今天特斯拉CALL和苹果的末日call双双卖飞，闪迪的双倍盘前做T接不回来，哈哈哈哈"
+  },
+  "raw_text": "今天特斯拉CALL和苹果的末日call双双卖飞，闪迪的双倍盘前做T接不回来，哈哈哈哈"
+}
