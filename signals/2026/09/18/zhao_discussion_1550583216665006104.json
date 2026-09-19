@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550583216665006104",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-18T19:04:07.296000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ARKK",
+      "CRWV"
+    ],
+    "is_following_zhao": true,
+    "summary": "9月17号木头姐买了1900万左右crwv"
+  },
+  "raw_text": "9月17号木头姐买了1900万左右crwv"
+}
