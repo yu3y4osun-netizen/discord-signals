@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550595659512418385",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-18T19:53:33.902000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSTR"
+    ],
+    "is_following_zhao": false,
+    "summary": "mstr爽飞了"
+  },
+  "raw_text": "mstr爽飞了"
+}
