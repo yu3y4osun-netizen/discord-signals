@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550594923017932861",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bkaaa",
+  "ts": "2026-09-18T19:50:38.308000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COHR"
+    ],
+    "is_following_zhao": false,
+    "summary": "刚刚把cohr卖了 赵哥6.30起来卖经常跟不上🤣"
+  },
+  "raw_text": "刚刚把cohr卖了 赵哥6.30起来卖经常跟不上🤣"
+}
