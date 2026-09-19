@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550505439668478046",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-09-18T13:55:03.815000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥牛逼"
+  },
+  "raw_text": "赵哥牛逼"
+}
