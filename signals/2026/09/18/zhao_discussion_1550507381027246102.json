@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550507381027246102",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liuxingyu",
+  "ts": "2026-09-18T14:02:46.671000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "NBIs瀑布下来了"
+  },
+  "raw_text": "NBIs瀑布下来了"
+}
