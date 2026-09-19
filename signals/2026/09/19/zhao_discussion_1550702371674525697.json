@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550702371674525697",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-19T02:57:36.064000+00:00",
+  "captured_at": "2026-09-19T21:01:25+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "四五层仓位为什么要踏空呢"
+  },
+  "raw_text": "四五层仓位为什么要踏空呢"
+}
