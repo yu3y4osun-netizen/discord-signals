@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550507220406378507",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaywinner",
+  "ts": "2026-09-18T14:02:08.376000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "WDC 有一次想加 10 股的，加成 100 股，还好最后 V 了😂"
+  },
+  "raw_text": "WDC 有一次想加 10 股的，加成 100 股，还好最后 V 了😂"
+}
