@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550586270781145179",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-18T19:16:15.454000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "BE"
+  },
+  "raw_text": "BE"
+}
