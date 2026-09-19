@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550465714757042309",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-18T11:17:12.658000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "就跟 MU 和 GOOGL 一样"
+  },
+  "raw_text": "就跟 MU 和 GOOGL 一样"
+}
