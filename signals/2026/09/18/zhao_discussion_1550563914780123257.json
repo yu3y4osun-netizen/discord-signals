@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550563914780123257",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bkaaa",
+  "ts": "2026-09-18T17:47:25.368000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": true,
+    "summary": "我觉得crwv 周一不破79 就是企稳了 它套人快起来也快"
+  },
+  "raw_text": "我觉得crwv 周一不破79 就是企稳了 它套人快起来也快"
+}
