@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550540603295793273",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gladsquash4a",
+  "ts": "2026-09-18T16:14:47.477000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN"
+    ],
+    "is_following_zhao": true,
+    "summary": "coin受政策和法案波动更大一点 套牢盘也更多"
+  },
+  "raw_text": "coin受政策和法案波动更大一点 套牢盘也更多"
+}
