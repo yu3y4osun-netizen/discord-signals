@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550538703267430411",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-09-18T16:07:14.475000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "sndk起飞"
+  },
+  "raw_text": "sndk起飞"
+}
