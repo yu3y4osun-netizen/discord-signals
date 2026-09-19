@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550503033069371584",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaywinner",
+  "ts": "2026-09-18T13:45:30.037000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "大佬们，请问下这是把 iren 出掉的意思吗？ 45.2出掉43.1剩下一半iren"
+  },
+  "raw_text": "大佬们，请问下这是把 iren 出掉的意思吗？\n\n45.2出掉43.1剩下一半iren"
+}
