@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550542049114325075",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chenxiansheng83",
+  "ts": "2026-09-18T16:20:32.187000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "发债了一般等三天，赵哥会发的"
+  },
+  "raw_text": "发债了一般等三天，赵哥会发的"
+}
