@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550524859480805439",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-18T15:12:13.859000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "之前iren和nbis发债 最近几天轮到crwv发债"
+  },
+  "raw_text": "之前iren和nbis发债 最近几天轮到crwv发债"
+}
