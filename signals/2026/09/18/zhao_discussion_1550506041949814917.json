@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550506041949814917",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-09-18T13:57:27.410000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "订闹钟了3点半起来跟赵哥"
+  },
+  "raw_text": "订闹钟了3点半起来跟赵哥"
+}
