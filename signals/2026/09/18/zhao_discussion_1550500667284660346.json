@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550500667284660346",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-18T13:36:05.990000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "🤣赵哥都在出了 别想了"
+  },
+  "raw_text": "🤣赵哥都在出了   别想了"
+}
