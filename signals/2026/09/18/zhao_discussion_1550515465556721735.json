@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550515465556721735",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xprimes",
+  "ts": "2026-09-18T14:34:54.173000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN",
+      "HOOD"
+    ],
+    "is_following_zhao": false,
+    "summary": "coin比 hood强很多哦"
+  },
+  "raw_text": "coin比 hood强很多哦"
+}
