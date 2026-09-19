@@ -1,12 +1,12 @@
 {
   "schema_version": "0.2",
-  "updated_at": "2026-09-19T09:22:01+08:00",
+  "updated_at": "2026-09-19T21:01:39+08:00",
   "channels": {
     "zhao_discussion": {
       "channel_id": "1529062583364223008",
       "channel_name": "赵哥讨论区",
-      "last_message_id": "1550666943319507086",
-      "last_fetch_at": "2026-09-19T09:22:01+08:00",
+      "last_message_id": "1550808022677323827",
+      "last_fetch_at": "2026-09-19T21:01:39+08:00",
       "last_run_total_new_msgs": 583,
       "last_run_signals_pushed": 191,
       "last_run_signals_failed": 0,
