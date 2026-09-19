@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550382317023928382",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-09-18T05:45:49.089000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "明天开始跟着赵哥发布 云光存等急跌低吸"
+  },
+  "raw_text": "明天开始跟着赵哥发布 云光存等急跌低吸"
+}
