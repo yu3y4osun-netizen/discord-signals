@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550539948975726733",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-09-18T16:12:11.475000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥的nbis还有多少啊"
+  },
+  "raw_text": "赵哥的nbis还有多少啊"
+}
