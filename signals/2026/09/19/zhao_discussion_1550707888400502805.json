@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550707888400502805",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "pan888",
+  "ts": "2026-09-19T03:19:31.354000+00:00",
+  "captured_at": "2026-09-19T21:04:17+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "利空半导体？"
+  },
+  "raw_text": "利空半导体？"
+}
