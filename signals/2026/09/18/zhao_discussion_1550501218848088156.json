@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550501218848088156",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "leogibbs",
+  "ts": "2026-09-18T13:38:17.493000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "之前哪个师兄发过赵哥仓位的网站，再发一遍可以吗蟹蟹"
+  },
+  "raw_text": "之前哪个师兄发过赵哥仓位的网站，再发一遍可以吗蟹蟹"
+}
