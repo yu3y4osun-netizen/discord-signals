@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550465983108354131",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-18T11:18:16.638000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "你只需要找准事件的节点（赵哥抄底），低点勇敢的买就行了"
+  },
+  "raw_text": "你只需要找准事件的节点（赵哥抄底），低点勇敢的买就行了"
+}
