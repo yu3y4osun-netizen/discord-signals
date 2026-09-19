@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550515962401521745",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-09-18T14:36:52.630000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "特斯拉期权 已经磨没了"
+  },
+  "raw_text": "特斯拉期权 已经磨没了"
+}
