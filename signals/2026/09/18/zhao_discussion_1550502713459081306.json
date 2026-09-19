@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550502713459081306",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-18T13:44:13.836000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跟着赵哥云光爽吃"
+  },
+  "raw_text": "跟着赵哥云光爽吃"
+}
