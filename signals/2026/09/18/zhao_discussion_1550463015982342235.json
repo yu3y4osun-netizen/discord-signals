@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550463015982342235",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-18T11:06:29.220000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "拿住 GOOGL c 不会坑你的😁"
+  },
+  "raw_text": "拿住 GOOGL c 不会坑你的😁"
+}
