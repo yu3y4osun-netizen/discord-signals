@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550532431319146549",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-18T15:42:19.126000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "啥玩意起飞了？带带我啊"
+  },
+  "raw_text": "啥玩意起飞了？带带我啊"
+}
