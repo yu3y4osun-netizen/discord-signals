@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550503363051917483",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-18T13:46:48.711000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU",
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "存储里面 闪迪和美光才是最猛的，后面存储里面就买这两就行"
+  },
+  "raw_text": "存储里面   闪迪和美光才是最猛的，后面存储里面就买这两就行"
+}
