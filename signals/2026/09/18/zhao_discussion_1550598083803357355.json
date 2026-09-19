@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550598083803357355",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "felix-trader",
+  "ts": "2026-09-18T20:03:11.898000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥周末愉快"
+  },
+  "raw_text": "赵哥周末愉快"
+}
