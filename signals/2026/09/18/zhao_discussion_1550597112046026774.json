@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550597112046026774",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hubinchen",
+  "ts": "2026-09-18T19:59:20.213000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "最后几分钟怎么跟吃药了一样起飞来了"
+  },
+  "raw_text": "最后几分钟怎么跟吃药了一样起飞来了"
+}
