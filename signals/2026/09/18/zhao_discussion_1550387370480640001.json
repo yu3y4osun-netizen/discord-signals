@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550387370480640001",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-09-18T06:05:53.927000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我看赵哥最近的期权是4月和8月好像"
+  },
+  "raw_text": "我看赵哥最近的期权是4月和8月好像"
+}
