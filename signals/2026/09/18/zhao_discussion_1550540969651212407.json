@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550540969651212407",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-09-18T16:16:14.823000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "那我先加crwv乐"
+  },
+  "raw_text": "那我先加crwv乐"
+}
