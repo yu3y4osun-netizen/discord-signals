@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550385133247275009",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-09-18T05:57:00.529000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "期权也是，只不过赵哥目前暂时没做"
+  },
+  "raw_text": "期权也是，只不过赵哥目前暂时没做"
+}
