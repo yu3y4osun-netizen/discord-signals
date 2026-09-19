@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550575028788265001",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-18T18:31:35.154000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "如果后面赵哥加仓我就上双倍"
+  },
+  "raw_text": "如果后面赵哥加仓我就上双倍"
+}
