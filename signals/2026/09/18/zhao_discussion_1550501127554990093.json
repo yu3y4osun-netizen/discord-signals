@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550501127554990093",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jugeg",
+  "ts": "2026-09-18T13:37:55.727000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我都只剩下底仓了 赵哥还有"
+  },
+  "raw_text": "我都只剩下底仓了 赵哥还有"
+}
