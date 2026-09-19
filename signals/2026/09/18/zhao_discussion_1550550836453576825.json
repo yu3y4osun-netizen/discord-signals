@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550550836453576825",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuuumii",
+  "ts": "2026-09-18T16:55:27.252000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "现在就等尾盘跟赵哥捡漏了"
+  },
+  "raw_text": "现在就等尾盘跟赵哥捡漏了"
+}
