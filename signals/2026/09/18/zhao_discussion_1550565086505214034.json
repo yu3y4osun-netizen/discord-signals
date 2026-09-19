@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550565086505214034",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-18T17:52:04.729000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "wdc已经开始盈利了"
+  },
+  "raw_text": "wdc已经开始盈利了"
+}
