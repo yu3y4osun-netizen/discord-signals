@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550469957228429395",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ciciwangyao",
+  "ts": "2026-09-18T11:34:04.142000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NOK",
+      "QCOM"
+    ],
+    "is_following_zhao": true,
+    "summary": "这位同修开发的工具非常实用，感谢感谢！ 想核实一下，目前图表显示的仓位是42%， 但是数据是从8月11日开始统计的，此前的仓位没有包含，一些其他版本的持仓包含N..."
+  },
+  "raw_text": "这位同修开发的工具非常实用，感谢感谢！ 想核实一下，目前图表显示的仓位是42%， 但是数据是从8月11日开始统计的，此前的仓位没有包含，一些其他版本的持仓包含NOK，QCOM等，这些历史持仓是否也可以核实后录入后台？"
+}
