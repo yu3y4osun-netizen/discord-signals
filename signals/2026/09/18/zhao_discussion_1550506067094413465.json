@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550506067094413465",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-09-18T13:57:33.405000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": true,
+    "summary": "西部数据我也是亏的"
+  },
+  "raw_text": "西部数据我也是亏的"
+}
