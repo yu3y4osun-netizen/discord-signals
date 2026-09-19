@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550532481688543323",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-18T15:42:31.135000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis c 啊"
+  },
+  "raw_text": "nbis c 啊"
+}
