@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550507125799919698",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-09-18T14:01:45.820000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "睡觉去了 等尾盘看赵哥消息😂"
+  },
+  "raw_text": "睡觉去了 等尾盘看赵哥消息😂"
+}
