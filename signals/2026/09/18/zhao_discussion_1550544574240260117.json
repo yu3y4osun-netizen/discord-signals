@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550544574240260117",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "netman525",
+  "ts": "2026-09-18T16:30:34.224000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "CRWV：持有 5/12 仓，共3笔，94.8(9月10日，1/6仓)、90.8(9月10日，1/12仓)、90.2(9月11日，1/6仓)"
+  },
+  "raw_text": "CRWV：持有 5/12 仓，共3笔，94.8(9月10日，1/6仓)、90.8(9月10日，1/12仓)、90.2(9月11日，1/6仓)"
+}
