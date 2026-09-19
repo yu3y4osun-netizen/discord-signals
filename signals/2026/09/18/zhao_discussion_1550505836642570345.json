@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550505836642570345",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-09-18T13:56:38.461000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "RKLB"
+    ],
+    "is_following_zhao": false,
+    "summary": "rklb兄弟们感觉怎么样"
+  },
+  "raw_text": "rklb兄弟们感觉怎么样"
+}
