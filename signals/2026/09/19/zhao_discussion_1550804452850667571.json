@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550804452850667571",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-19T09:43:14.113000+00:00",
+  "captured_at": "2026-09-19T21:01:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "感谢赵哥指引，周末快乐"
+  },
+  "raw_text": "感谢赵哥指引，周末快乐"
+}
