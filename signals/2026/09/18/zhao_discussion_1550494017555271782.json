@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550494017555271782",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gallagherg",
+  "ts": "2026-09-18T13:09:40.571000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "总仓位自己加一加，赵哥名言，学好小学数学就好了"
+  },
+  "raw_text": "总仓位自己加一加，赵哥名言，学好小学数学就好了"
+}
