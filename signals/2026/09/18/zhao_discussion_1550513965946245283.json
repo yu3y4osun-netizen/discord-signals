@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550513965946245283",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-09-18T14:28:56.638000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis都没来得出 就要买的新的了"
+  },
+  "raw_text": "nbis都没来得出 就要买的新的了"
+}
