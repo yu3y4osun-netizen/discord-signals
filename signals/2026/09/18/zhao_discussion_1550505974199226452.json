@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550505974199226452",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-09-18T13:57:11.257000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我们看好没啥用，赵哥不看好"
+  },
+  "raw_text": "我们看好没啥用，赵哥不看好"
+}
