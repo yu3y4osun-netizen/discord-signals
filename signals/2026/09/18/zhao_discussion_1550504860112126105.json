@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550504860112126105",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-09-18T13:52:45.638000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "大饼80k了 怎么回事"
+  },
+  "raw_text": "大饼80k了 怎么回事"
+}
