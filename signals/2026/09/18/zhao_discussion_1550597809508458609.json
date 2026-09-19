@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550597809508458609",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "felix-trader",
+  "ts": "2026-09-18T20:02:06.501000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COHR"
+    ],
+    "is_following_zhao": false,
+    "summary": "大哥们，这笔COHR卖掉是不是就没有"
+  },
+  "raw_text": "大哥们，这笔COHR卖掉是不是就没有"
+}
