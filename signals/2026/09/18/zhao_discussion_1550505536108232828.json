@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550505536108232828",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-09-18T13:55:26.808000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "这波闪迪涨了10个点了"
+  },
+  "raw_text": "这波闪迪涨了10个点了"
+}
