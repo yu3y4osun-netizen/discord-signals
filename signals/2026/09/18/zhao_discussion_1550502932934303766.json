@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550502932934303766",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-09-18T13:45:06.163000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌的直线都是往下 是把"
+  },
+  "raw_text": "谷歌的直线都是往下 是把"
+}
