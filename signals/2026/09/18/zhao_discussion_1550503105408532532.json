@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550503105408532532",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-18T13:45:47.284000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不是 昨天加仓的出一半"
+  },
+  "raw_text": "不是  昨天加仓的出一半"
+}
