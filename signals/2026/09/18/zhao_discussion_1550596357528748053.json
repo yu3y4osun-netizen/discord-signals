@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550596357528748053",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-18T19:56:20.322000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "QQQ吃了药？"
+  },
+  "raw_text": "QQQ吃了药？"
+}
