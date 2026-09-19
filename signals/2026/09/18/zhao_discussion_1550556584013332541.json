@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550556584013332541",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "leokin",
+  "ts": "2026-09-18T17:18:17.577000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥90多的也有，现在可以入一点了😆"
+  },
+  "raw_text": "赵哥90多的也有，现在可以入一点了😆"
+}
