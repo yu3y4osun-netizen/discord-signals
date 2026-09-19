@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550553604908126280",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-18T17:06:27.303000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "WDC 直线涨"
+  },
+  "raw_text": "WDC  直线涨"
+}
