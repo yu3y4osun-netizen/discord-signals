@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550505587043999785",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-18T13:55:38.952000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "NFLX"
+    ],
+    "is_following_zhao": false,
+    "summary": "奈飞好像是科技股 几个月之前的奈飞之前反弹我割完了"
+  },
+  "raw_text": "奈飞好像是科技股 几个月之前的奈飞之前反弹我割完了"
+}
