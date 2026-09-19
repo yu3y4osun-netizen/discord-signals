@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550599083796865206",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-18T20:07:10.315000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "今天没有吃到闪迪的双倍涨幅太难受了，盘前做个T，太贪了，想再低一点入手"
+  },
+  "raw_text": "今天没有吃到闪迪的双倍涨幅太难受了，盘前做个T，太贪了，想再低一点入手"
+}
