@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550503295213375560",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaywinner",
+  "ts": "2026-09-18T13:46:32.537000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "好嘞，感谢大佬们"
+  },
+  "raw_text": "好嘞，感谢大佬们"
+}
