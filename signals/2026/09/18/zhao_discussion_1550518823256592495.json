@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550518823256592495",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-09-18T14:48:14.711000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "只是说西部没有另外两个反弹的多"
+  },
+  "raw_text": "只是说西部没有另外两个反弹的多"
+}
