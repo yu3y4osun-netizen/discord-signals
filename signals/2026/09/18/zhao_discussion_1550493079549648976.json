@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550493079549648976",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-18T13:05:56.933000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "只要赵哥像周一周二猛猛进货 大胆进就行了"
+  },
+  "raw_text": "只要赵哥像周一周二猛猛进货  大胆进就行了"
+}
