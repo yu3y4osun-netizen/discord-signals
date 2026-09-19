@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550598747631788053",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-18T20:05:50.167000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我都看涨"
+  },
+  "raw_text": "我都看涨"
+}
