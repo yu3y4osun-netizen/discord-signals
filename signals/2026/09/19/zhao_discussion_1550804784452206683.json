@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550804784452206683",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-19T09:44:33.173000+00:00",
+  "captured_at": "2026-09-19T21:01:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "周末跟朋友聊天，被A收割得没脾气，赵哥带我们混迹美股赢多输少，感恩"
+  },
+  "raw_text": "周末跟朋友聊天，被A收割得没脾气，赵哥带我们混迹美股赢多输少，感恩"
+}
