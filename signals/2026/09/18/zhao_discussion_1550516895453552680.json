@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550516895453552680",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-09-18T14:40:35.087000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "怎么都在骂西部 不是还可以吗？"
+  },
+  "raw_text": "怎么都在骂西部 不是还可以吗？"
+}
