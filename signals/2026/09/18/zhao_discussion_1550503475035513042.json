@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550503475035513042",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-09-18T13:47:15.410000+00:00",
+  "captured_at": "2026-09-19T09:12:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis为什么今天这么萎靡"
+  },
+  "raw_text": "nbis为什么今天这么萎靡"
+}
