@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1550895921783509033",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-09-19T15:46:42.006000+00:00",
+  "captured_at": "2026-09-20T09:12:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "Btc 快82000了"
+  },
+  "raw_text": "Btc 快82000了"
+}
