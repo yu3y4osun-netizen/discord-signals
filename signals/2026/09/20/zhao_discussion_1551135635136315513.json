@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551135635136315513",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "toolplanka9",
+  "ts": "2026-09-20T07:39:14.123000+00:00",
+  "captured_at": "2026-09-21T09:05:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "80300这样了 btc"
+  },
+  "raw_text": "80300这样了 btc"
+}
