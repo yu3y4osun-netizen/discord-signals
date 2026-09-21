@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551528189312892970",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-09-21T09:39:06.332000+00:00",
+  "captured_at": "2026-09-21T21:02:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "btc疯了？"
+  },
+  "raw_text": "btc疯了？"
+}
