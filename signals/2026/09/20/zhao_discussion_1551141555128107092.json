@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551141555128107092",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-20T08:02:45.559000+00:00",
+  "captured_at": "2026-09-21T09:05:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "我看到链上合约，NBIS跌到220了"
+  },
+  "raw_text": "我看到链上合约，NBIS跌到220了"
+}
