@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551183352785150043",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-20T10:48:50.897000+00:00",
+  "captured_at": "2026-09-21T09:05:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "每次一暴跌都会使咱们变得更加强大"
+  },
+  "raw_text": "每次一暴跌都会使咱们变得更加强大"
+}
