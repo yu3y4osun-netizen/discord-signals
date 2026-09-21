@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551450841003720788",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-21T04:31:45.058000+00:00",
+  "captured_at": "2026-09-21T21:04:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这几天，估计赵哥不怎么看盘，说话了"
+  },
+  "raw_text": "这几天，估计赵哥不怎么看盘，说话了"
+}
