@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551566498768621599",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-21T12:11:20.018000+00:00",
+  "captured_at": "2026-09-21T21:02:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "感觉踏空了 55"
+  },
+  "raw_text": "感觉踏空了 55"
+}
