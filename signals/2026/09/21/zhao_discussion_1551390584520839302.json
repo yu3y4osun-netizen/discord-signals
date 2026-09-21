@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551390584520839302",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-09-21T00:32:18.793000+00:00",
+  "captured_at": "2026-09-21T09:09:03+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "dram还没出掉"
+  },
+  "raw_text": "dram还没出掉"
+}
