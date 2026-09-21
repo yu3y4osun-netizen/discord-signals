@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551568905623965820",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yangkobe",
+  "ts": "2026-09-21T12:20:53.857000+00:00",
+  "captured_at": "2026-09-21T21:02:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "恐慌式上涨"
+  },
+  "raw_text": "恐慌式上涨"
+}
