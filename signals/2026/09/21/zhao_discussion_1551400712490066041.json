@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551400712490066041",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-21T01:12:33.489000+00:00",
+  "captured_at": "2026-09-21T21:04:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "🧐crwv是不是可以买了，过了三天"
+  },
+  "raw_text": "🧐crwv是不是可以买了，过了三天"
+}
