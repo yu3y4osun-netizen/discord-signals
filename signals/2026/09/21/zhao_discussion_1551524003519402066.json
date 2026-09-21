@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551524003519402066",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-21T09:22:28.361000+00:00",
+  "captured_at": "2026-09-21T21:01:46+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "不过持仓还是跑赢qqq"
+  },
+  "raw_text": "不过持仓还是跑赢qqq"
+}
