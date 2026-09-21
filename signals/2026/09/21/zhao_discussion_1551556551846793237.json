@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551556551846793237",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hubinchen",
+  "ts": "2026-09-21T11:31:48.487000+00:00",
+  "captured_at": "2026-09-21T21:02:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "饼这波起飞的原因是啥有兄弟们知道吗"
+  },
+  "raw_text": "饼这波起飞的原因是啥有兄弟们知道吗"
+}
