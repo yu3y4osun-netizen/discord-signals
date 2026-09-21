@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551514160058212375",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-09-21T08:43:21.497000+00:00",
+  "captured_at": "2026-09-21T21:01:34+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "btc爆拉"
+  },
+  "raw_text": "btc爆拉"
+}
