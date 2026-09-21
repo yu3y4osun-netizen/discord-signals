@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551513811952082966",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-21T08:41:58.502000+00:00",
+  "captured_at": "2026-09-21T21:01:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "存储彻底起飞了"
+  },
+  "raw_text": "存储彻底起飞了"
+}
