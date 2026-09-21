@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551484720783695953",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-09-21T06:46:22.627000+00:00",
+  "captured_at": "2026-09-21T21:04:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "据我所知，赵哥肯定是订阅数据源的，有些数据源可以看到期权的每笔详细的统计￼"
+  },
+  "raw_text": "据我所知，赵哥肯定是订阅数据源的，有些数据源可以看到期权的每笔详细的统计￼"
+}
