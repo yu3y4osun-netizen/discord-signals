@@ -1,9 +1,11 @@
 {
-  "zhao_discussion": {
-    "channel_id": "1529062583364223008",
-    "channel_name": "赵哥讨论区",
-    "last_message_id": "1550895921783509033",
-    "last_fetch_at": "2026-09-20T09:41:12+08:00"
-  },
-  "updated_at": "2026-09-20T09:41:12+08:00"
+  "updated_at": "2026-09-21T09:07:00+08:00",
+  "channels": {
+    "zhao_discussion": {
+      "channel_id": "1529062583364223008",
+      "channel_name": "赵哥讨论区",
+      "last_message_id": "1551393349074812970",
+      "last_fetch_at": "2026-09-21T09:07:00+08:00"
+    }
+  }
 }
