@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551392808001081477",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-21T00:41:08.912000+00:00",
+  "captured_at": "2026-09-21T09:09:03+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "Intel发生了什么"
+  },
+  "raw_text": "Intel发生了什么"
+}
