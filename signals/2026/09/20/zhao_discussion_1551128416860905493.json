@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551128416860905493",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-09-20T07:10:33.152000+00:00",
+  "captured_at": "2026-09-21T09:05:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "周一又可以满仓了"
+  },
+  "raw_text": "周一又可以满仓了"
+}
