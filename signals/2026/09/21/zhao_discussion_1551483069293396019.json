@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551483069293396019",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-21T06:39:48.881000+00:00",
+  "captured_at": "2026-09-21T21:04:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "想学学赵哥说的看大单"
+  },
+  "raw_text": "想学学赵哥说的看大单"
+}
