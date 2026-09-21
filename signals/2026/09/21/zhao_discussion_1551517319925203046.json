@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551517319925203046",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-21T08:55:54.868000+00:00",
+  "captured_at": "2026-09-21T21:01:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis 还能下来一点点吗？周五210没有跟上"
+  },
+  "raw_text": "nbis 还能下来一点点吗？周五210没有跟上"
+}
