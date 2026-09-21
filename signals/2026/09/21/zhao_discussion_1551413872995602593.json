@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551413872995602593",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "toolplanka9",
+  "ts": "2026-09-21T02:04:51.198000+00:00",
+  "captured_at": "2026-09-21T21:04:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "CRWV不如nbis"
+  },
+  "raw_text": "CRWV不如nbis"
+}
