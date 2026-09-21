@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551561954420596768",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hubinchen",
+  "ts": "2026-09-21T11:53:16.561000+00:00",
+  "captured_at": "2026-09-21T21:02:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "坐等赵哥指示"
+  },
+  "raw_text": "坐等赵哥指示"
+}
