@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551099861661786133",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-20T05:17:05.062000+00:00",
+  "captured_at": "2026-09-21T09:05:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "油价起飞了 中东那边又打起来了"
+  },
+  "raw_text": "油价起飞了  中东那边又打起来了"
+}
