@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551525182332600394",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-21T09:27:09.412000+00:00",
+  "captured_at": "2026-09-21T21:02:15+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv利空消化三天，今天到了吧"
+  },
+  "raw_text": "crwv利空消化三天，今天到了吧"
+}
