@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551611517978288270",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-21T15:10:13.434000+00:00",
+  "captured_at": "2026-09-22T21:05:17+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "IREN 稍微弱一点"
+  },
+  "raw_text": "IREN 稍微弱一点"
+}
