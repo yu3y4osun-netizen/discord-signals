@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551618567945068655",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-21T15:38:14.277000+00:00",
+  "captured_at": "2026-09-22T21:06:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "币股在重新起飞"
+  },
+  "raw_text": "币股在重新起飞"
+}
