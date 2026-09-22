@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551601747578060874",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hao88",
+  "ts": "2026-09-21T14:31:23.989000+00:00",
+  "captured_at": "2026-09-22T21:04:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "@xiaozhaolucky 赵哥，我有amd 仓位的，收益有百分之50以上了了，需不需要减一部分出来"
+  },
+  "raw_text": "@xiaozhaolucky 赵哥，我有amd 仓位的，收益有百分之50以上了了，需不需要减一部分出来"
+}
