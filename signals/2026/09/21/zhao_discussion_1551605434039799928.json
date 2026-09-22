@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551605434039799928",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meter123",
+  "ts": "2026-09-21T14:46:02.910000+00:00",
+  "captured_at": "2026-09-22T21:04:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SCO"
+    ],
+    "is_following_zhao": false,
+    "summary": "sco这个是在做空什么。。。。。"
+  },
+  "raw_text": "sco这个是在做空什么。。。。。"
+}
