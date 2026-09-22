@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551804244665958452",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-09-22T03:56:03.057000+00:00",
+  "captured_at": "2026-09-22T21:15:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌盈利走了 就剩下tsm"
+  },
+  "raw_text": "谷歌盈利走了 就剩下tsm"
+}
