@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551618340743815229",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-21T15:37:20.108000+00:00",
+  "captured_at": "2026-09-22T21:06:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMAT"
+    ],
+    "is_following_zhao": true,
+    "summary": "半导体，迄今为止我把群友踹沟里的，貌似只有amat翻车了，有人可能挂在500附近了"
+  },
+  "raw_text": "半导体，迄今为止我把群友踹沟里的，貌似只有amat翻车了，有人可能挂在500附近了"
+}
