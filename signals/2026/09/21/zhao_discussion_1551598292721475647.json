@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551598292721475647",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-21T14:17:40.287000+00:00",
+  "captured_at": "2026-09-22T21:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "lite飞得真高"
+  },
+  "raw_text": "lite飞得真高"
+}
