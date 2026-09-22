@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551656725256478720",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-09-21T18:09:51.689000+00:00",
+  "captured_at": "2026-09-22T21:12:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "mu还能冲感觉"
+  },
+  "raw_text": "mu还能冲感觉"
+}
