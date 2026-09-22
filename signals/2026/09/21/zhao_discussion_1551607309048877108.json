@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551607309048877108",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-09-21T14:53:29.947000+00:00",
+  "captured_at": "2026-09-22T21:05:02+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，这一次的中美见面会会像之前那样是短期的最高点吗？"
+  },
+  "raw_text": "赵哥，这一次的中美见面会会像之前那样是短期的最高点吗？"
+}
