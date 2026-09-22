@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551790555787436073",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckfunzhao",
+  "ts": "2026-09-22T03:01:39.374000+00:00",
+  "captured_at": "2026-09-22T21:15:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLL"
+    ],
+    "is_following_zhao": true,
+    "summary": "我回本了。去年跟赵哥tsll赚的钱 6 7月全在RAM亏了，还有conl一波拉上来给我回来了。"
+  },
+  "raw_text": "我回本了。去年跟赵哥tsll赚的钱 6 7月全在RAM亏了，还有conl一波拉上来给我回来了。"
+}
