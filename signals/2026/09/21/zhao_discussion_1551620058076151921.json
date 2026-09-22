@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551620058076151921",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-21T15:44:09.552000+00:00",
+  "captured_at": "2026-09-22T21:06:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "INTC带飞方式有三种，首选赵哥的大风刮钱过来，其次就是低吸要饭模式，第三种就是懂王摇旗呐喊。实在不知道买啥可以考虑反复..."
+  },
+  "raw_text": "INTC带飞方式有三种，首选赵哥的大风刮钱过来，其次就是低吸要饭模式，第三种就是懂王摇旗呐喊。实在不知道买啥可以考虑反复买INTC，三种方式都能行"
+}
