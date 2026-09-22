@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551600401705467946",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xlucky",
+  "ts": "2026-09-21T14:26:03.108000+00:00",
+  "captured_at": "2026-09-22T21:04:15+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有预感，过两天赵哥要发期权了。😁"
+  },
+  "raw_text": "有预感，过两天赵哥要发期权了。😁"
+}
