@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551827132336967723",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-09-22T05:26:59.903000+00:00",
+  "captured_at": "2026-09-22T21:15:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天又要跟赵哥抄底了"
+  },
+  "raw_text": "今天又要跟赵哥抄底了"
+}
