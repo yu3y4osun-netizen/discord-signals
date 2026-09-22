@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551598657160093737",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-21T14:19:07.176000+00:00",
+  "captured_at": "2026-09-22T21:03:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "wdc不是出了吗"
+  },
+  "raw_text": "wdc不是出了吗"
+}
