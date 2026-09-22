@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551639736991359079",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-21T17:02:21.371000+00:00",
+  "captured_at": "2026-09-22T21:12:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "CRWV 好强，IREN 应该明天会拉一波"
+  },
+  "raw_text": "CRWV 好强，IREN 应该明天会拉一波"
+}
