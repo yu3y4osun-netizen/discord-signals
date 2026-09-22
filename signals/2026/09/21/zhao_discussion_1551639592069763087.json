@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551639592069763087",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shusen",
+  "ts": "2026-09-21T17:01:46.819000+00:00",
+  "captured_at": "2026-09-22T21:08:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SCO"
+    ],
+    "is_following_zhao": false,
+    "summary": "兄弟们，你们SCO还留着的吗"
+  },
+  "raw_text": "兄弟们，你们SCO还留着的吗"
+}
