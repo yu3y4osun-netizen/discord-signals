@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551597289988956251",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-09-21T14:13:41.217000+00:00",
+  "captured_at": "2026-09-22T21:03:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "meta这坨屎都能直线"
+  },
+  "raw_text": "meta这坨屎都能直线"
+}
