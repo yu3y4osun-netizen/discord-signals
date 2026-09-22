@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551597317365432446",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-09-21T14:13:47.744000+00:00",
+  "captured_at": "2026-09-22T21:03:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOG"
+    ],
+    "is_following_zhao": false,
+    "summary": "goog也快了吧"
+  },
+  "raw_text": "goog也快了吧"
+}
