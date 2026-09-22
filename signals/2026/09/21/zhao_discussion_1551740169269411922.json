@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551740169269411922",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-09-21T23:41:26.292000+00:00",
+  "captured_at": "2026-09-22T21:14:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "等赵哥吧"
+  },
+  "raw_text": "等赵哥吧"
+}
