@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551879006616428605",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-09-22T08:53:07.695000+00:00",
+  "captured_at": "2026-09-22T21:15:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "估计又是整个阴阳合同 中选完了继续干"
+  },
+  "raw_text": "估计又是整个阴阳合同 中选完了继续干"
+}
