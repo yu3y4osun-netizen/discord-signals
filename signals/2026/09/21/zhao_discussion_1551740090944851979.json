@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551740090944851979",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-09-21T23:41:07.618000+00:00",
+  "captured_at": "2026-09-22T21:16:18+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在这个价格没上车的搞上车吗？"
+  },
+  "raw_text": "现在这个价格没上车的搞上车吗？"
+}
