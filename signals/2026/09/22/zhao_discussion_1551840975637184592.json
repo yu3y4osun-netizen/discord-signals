@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551840975637184592",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-09-22T06:22:00.403000+00:00",
+  "captured_at": "2026-09-22T21:15:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "OKLO"
+    ],
+    "is_following_zhao": false,
+    "summary": "原来赵哥的oklo已经出完了"
+  },
+  "raw_text": "原来赵哥的oklo已经出完了"
+}
