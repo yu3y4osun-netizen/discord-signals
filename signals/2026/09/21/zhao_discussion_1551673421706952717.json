@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551673421706952717",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunshuaiyan",
+  "ts": "2026-09-21T19:16:12.433000+00:00",
+  "captured_at": "2026-09-22T21:13:41+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥请问还问还会有中秋 国庆减持吗"
+  },
+  "raw_text": "赵哥请问还问还会有中秋 国庆减持吗"
+}
