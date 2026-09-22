@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551598545419640843",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-21T14:18:40.535000+00:00",
+  "captured_at": "2026-09-22T21:03:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intc也在飞，就西部傻逼在跌🤣"
+  },
+  "raw_text": "intc也在飞，就西部傻逼在跌🤣"
+}
