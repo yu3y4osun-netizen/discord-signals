@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551618504749486103",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-21T15:37:59.210000+00:00",
+  "captured_at": "2026-09-22T21:06:34+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSTR"
+    ],
+    "is_following_zhao": false,
+    "summary": "曾经伤过无数人心的MSTR 现在也好起来了"
+  },
+  "raw_text": "曾经伤过无数人心的MSTR 现在也好起来了"
+}
