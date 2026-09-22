@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551664429731676225",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-09-21T18:40:28.579000+00:00",
+  "captured_at": "2026-09-22T21:13:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "mu开吃"
+  },
+  "raw_text": "mu开吃"
+}
