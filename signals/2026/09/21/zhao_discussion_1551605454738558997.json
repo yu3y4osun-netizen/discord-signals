@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551605454738558997",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meter123",
+  "ts": "2026-09-21T14:46:07.845000+00:00",
+  "captured_at": "2026-09-22T21:04:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "USO"
+    ],
+    "is_following_zhao": false,
+    "summary": "uso和wti都跌了4%"
+  },
+  "raw_text": "uso和wti都跌了4%"
+}
