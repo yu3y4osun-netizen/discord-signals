@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551603839465951291",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-21T14:39:42.734000+00:00",
+  "captured_at": "2026-09-22T21:04:46+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "其实也可以看看Z老的行情预判，这次的币股行情   又被他当了马前跑，股市的钱都快让他赚完了。😂"
+  },
+  "raw_text": "其实也可以看看Z老的行情预判，这次的币股行情   又被他当了马前跑，股市的钱都快让他赚完了。😂"
+}
