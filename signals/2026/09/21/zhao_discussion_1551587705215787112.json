@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551587705215787112",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-09-21T13:35:36.029000+00:00",
+  "captured_at": "2026-09-22T21:02:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "探讨一下而已，我看赵哥加在wdc上仓位挺大的"
+  },
+  "raw_text": "探讨一下而已，我看赵哥加在wdc上仓位挺大的"
+}
