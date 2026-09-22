@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551619604512641169",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-21T15:42:21.414000+00:00",
+  "captured_at": "2026-09-22T21:06:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMAT",
+      "INTC"
+    ],
+    "is_following_zhao": true,
+    "summary": "不好意思，翻车了😅。有兴趣可以看看INTC。INTC还是可以逢低吸的，这波跟着赵哥的趋势，INTC我认为创新高没啥问题的..."
+  },
+  "raw_text": "不好意思，翻车了😅。有兴趣可以看看INTC。INTC还是可以逢低吸的，这波跟着赵哥的趋势，INTC我认为创新高没啥问题的，最理想是我预期拉到180到240之间。amat要等等了，回本应该不难，就是浪费时间了"
+}
