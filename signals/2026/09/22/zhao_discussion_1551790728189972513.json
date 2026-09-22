@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551790728189972513",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckfunzhao",
+  "ts": "2026-09-22T03:02:20.478000+00:00",
+  "captured_at": "2026-09-22T21:15:18+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我这样的人还是严格纪律  紧跟赵哥，自己膨胀手贱 赚不到钱"
+  },
+  "raw_text": "我这样的人还是严格纪律  紧跟赵哥，自己膨胀手贱 赚不到钱"
+}
