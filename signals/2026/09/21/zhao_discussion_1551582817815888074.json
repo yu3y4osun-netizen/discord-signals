@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551582817815888074",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bankflower",
+  "ts": "2026-09-21T13:16:10.782000+00:00",
+  "captured_at": "2026-09-22T21:02:15+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥怎么还没说话"
+  },
+  "raw_text": "赵哥怎么还没说话"
+}
