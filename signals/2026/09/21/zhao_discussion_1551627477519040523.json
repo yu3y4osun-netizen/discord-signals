@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551627477519040523",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-09-21T16:13:38.485000+00:00",
+  "captured_at": "2026-09-22T21:07:03+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "be有点遗憾"
+  },
+  "raw_text": "be有点遗憾"
+}
