@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551588319433986164",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-09-21T13:38:02.470000+00:00",
+  "captured_at": "2026-09-22T21:02:47+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SPYU"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥的spyu出完了吧"
+  },
+  "raw_text": "赵哥的spyu出完了吧"
+}
