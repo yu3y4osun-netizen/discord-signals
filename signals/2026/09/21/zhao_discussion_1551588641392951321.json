@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551588641392951321",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-09-21T13:39:19.231000+00:00",
+  "captured_at": "2026-09-22T21:02:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "闪迪给我跌怕了，看赵哥没买，我就也不敢自己买了"
+  },
+  "raw_text": "闪迪给我跌怕了，看赵哥没买，我就也不敢自己买了"
+}
