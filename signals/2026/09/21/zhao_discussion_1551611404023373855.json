@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551611404023373855",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-21T15:09:46.265000+00:00",
+  "captured_at": "2026-09-22T21:05:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis crwv起了"
+  },
+  "raw_text": "nbis crwv起了"
+}
