@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551641353220263947",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-09-21T17:08:46.710000+00:00",
+  "captured_at": "2026-09-22T21:12:41+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv速速回100"
+  },
+  "raw_text": "crwv速速回100"
+}
