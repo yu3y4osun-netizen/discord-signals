@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551618661452746854",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-21T15:38:36.571000+00:00",
+  "captured_at": "2026-09-22T21:06:41+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMAT",
+      "AMD",
+      "INTC"
+    ],
+    "is_following_zhao": true,
+    "summary": "amat这狗东西我也没想通怎么会翻车，amd，intc啥的还是稳的，赵哥也买了"
+  },
+  "raw_text": "amat这狗东西我也没想通怎么会翻车，amd，intc啥的还是稳的，赵哥也买了"
+}
