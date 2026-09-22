@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551607035315888229",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-09-21T14:52:24.684000+00:00",
+  "captured_at": "2026-09-22T21:05:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 现在是不是算到了中选暴力拉升阶段了"
+  },
+  "raw_text": "赵哥 现在是不是算到了中选暴力拉升阶段了"
+}
