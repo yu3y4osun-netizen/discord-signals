@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551592007271456789",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-09-21T13:52:41.719000+00:00",
+  "captured_at": "2026-09-22T21:03:10+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "mu这次不会要拆股吧。。。这要是拆股 不得爆炸性涨啊"
+  },
+  "raw_text": "mu这次不会要拆股吧。。。这要是拆股 不得爆炸性涨啊"
+}
