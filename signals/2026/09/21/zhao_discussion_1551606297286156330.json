@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551606297286156330",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-09-21T14:49:28.724000+00:00",
+  "captured_at": "2026-09-22T21:04:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SCO"
+    ],
+    "is_following_zhao": false,
+    "summary": "SCO这玩意跟的都不是wti啊，wti四点个他才两个点"
+  },
+  "raw_text": "SCO这玩意跟的都不是wti啊，wti四点个他才两个点"
+}
