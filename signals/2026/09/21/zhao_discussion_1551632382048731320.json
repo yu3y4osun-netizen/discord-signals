@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551632382048731320",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-21T16:33:07.816000+00:00",
+  "captured_at": "2026-09-22T21:07:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq疯了 买call的翻十倍了"
+  },
+  "raw_text": "qqq疯了 买call的翻十倍了"
+}
