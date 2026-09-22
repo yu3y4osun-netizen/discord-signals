@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551590859567407155",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jugeg",
+  "ts": "2026-09-21T13:48:08.085000+00:00",
+  "captured_at": "2026-09-22T21:03:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你是自己看不懂英文点到退款了？"
+  },
+  "raw_text": "你是自己看不懂英文点到退款了？"
+}
