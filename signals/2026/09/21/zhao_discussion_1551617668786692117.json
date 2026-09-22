@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551617668786692117",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-21T15:34:39.901000+00:00",
+  "captured_at": "2026-09-22T21:06:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "之前不是我吹过好久INTC嘛？当时还有人问适不适合买"
+  },
+  "raw_text": "之前不是我吹过好久INTC嘛？当时还有人问适不适合买"
+}
