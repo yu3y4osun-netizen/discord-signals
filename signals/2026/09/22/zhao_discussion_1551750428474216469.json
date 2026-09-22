@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551750428474216469",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-09-22T00:22:12.277000+00:00",
+  "captured_at": "2026-09-22T21:14:41+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "等赵哥通知满仓拿到10月中旬"
+  },
+  "raw_text": "等赵哥通知满仓拿到10月中旬"
+}
