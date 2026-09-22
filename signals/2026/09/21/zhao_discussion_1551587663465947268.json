@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551587663465947268",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "daluyazi",
+  "ts": "2026-09-21T13:35:26.075000+00:00",
+  "captured_at": "2026-09-22T21:02:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "机器确定的 没有为什么"
+  },
+  "raw_text": "机器确定的 没有为什么"
+}
