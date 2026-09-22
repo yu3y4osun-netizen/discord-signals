@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551617449063874603",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "frankyin",
+  "ts": "2026-09-21T15:33:47.515000+00:00",
+  "captured_at": "2026-09-22T21:06:15+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intc疯了啊！卧槽"
+  },
+  "raw_text": "intc疯了啊！卧槽"
+}
