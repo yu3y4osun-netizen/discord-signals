@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551600524649037875",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dasheng9527",
+  "ts": "2026-09-21T14:26:32.420000+00:00",
+  "captured_at": "2026-09-22T21:04:17+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "存储应该要等mu才报之后了"
+  },
+  "raw_text": "存储应该要等mu才报之后了"
+}
