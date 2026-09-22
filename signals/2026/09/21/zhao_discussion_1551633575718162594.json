@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551633575718162594",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-09-21T16:37:52.409000+00:00",
+  "captured_at": "2026-09-22T21:07:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "Wdc 怎么还不拉起来"
+  },
+  "raw_text": "Wdc 怎么还不拉起来"
+}
