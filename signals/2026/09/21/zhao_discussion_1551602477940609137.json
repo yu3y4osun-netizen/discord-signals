@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551602477940609137",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fangxiaemo",
+  "ts": "2026-09-21T14:34:18.121000+00:00",
+  "captured_at": "2026-09-22T21:04:31+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这种情况，一般赵哥答案都是一样的，设置跌破多少减"
+  },
+  "raw_text": "这种情况，一般赵哥答案都是一样的，设置跌破多少减"
+}
