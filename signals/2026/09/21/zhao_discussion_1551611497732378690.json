@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551611497732378690",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-21T15:10:08.607000+00:00",
+  "captured_at": "2026-09-22T21:05:15+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "NBIS 真的强"
+  },
+  "raw_text": "NBIS 真的强"
+}
