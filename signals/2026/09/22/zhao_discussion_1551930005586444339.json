@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551930005586444339",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jugeg",
+  "ts": "2026-09-22T12:15:46.797000+00:00",
+  "captured_at": "2026-09-22T21:15:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "ds上有个冒充赵哥的想加人好友"
+  },
+  "raw_text": "ds上有个冒充赵哥的想加人好友"
+}
