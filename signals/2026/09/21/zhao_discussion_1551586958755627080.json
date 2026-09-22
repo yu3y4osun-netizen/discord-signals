@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551586958755627080",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-09-21T13:32:38.059000+00:00",
+  "captured_at": "2026-09-22T21:02:25+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "wdc怎么是平出的"
+  },
+  "raw_text": "wdc怎么是平出的"
+}
