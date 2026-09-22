@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551644162418413629",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-21T17:19:56.475000+00:00",
+  "captured_at": "2026-09-22T21:09:07+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv上周五抄了赵哥"
+  },
+  "raw_text": "crwv上周五抄了赵哥"
+}
