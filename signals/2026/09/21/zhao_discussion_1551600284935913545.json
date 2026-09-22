@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551600284935913545",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-09-21T14:25:35.268000+00:00",
+  "captured_at": "2026-09-22T21:11:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "Wdc赵哥还有477的肯定可以到480"
+  },
+  "raw_text": "Wdc赵哥还有477的肯定可以到480"
+}
