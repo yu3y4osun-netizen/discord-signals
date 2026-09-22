@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551750602827235380",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-09-22T00:22:53.846000+00:00",
+  "captured_at": "2026-09-22T21:14:46+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "Fomo了"
+  },
+  "raw_text": "Fomo了"
+}
