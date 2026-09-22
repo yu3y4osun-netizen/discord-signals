@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551636285154922499",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-21T16:48:38.389000+00:00",
+  "captured_at": "2026-09-22T21:08:17+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "TQQQ是你压仓石"
+  },
+  "raw_text": "TQQQ是你压仓石"
+}
