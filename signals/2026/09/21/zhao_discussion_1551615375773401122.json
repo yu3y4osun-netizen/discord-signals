@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551615375773401122",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-09-21T15:25:33.204000+00:00",
+  "captured_at": "2026-09-22T21:06:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv赵哥还在吗"
+  },
+  "raw_text": "crwv赵哥还在吗"
+}
