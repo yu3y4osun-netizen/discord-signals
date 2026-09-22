@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551614171920212101",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halamadrid9248",
+  "ts": "2026-09-21T15:20:46.183000+00:00",
+  "captured_at": "2026-09-22T21:06:02+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": true,
+    "summary": "crwv涨的我想止盈了"
+  },
+  "raw_text": "crwv涨的我想止盈了"
+}
