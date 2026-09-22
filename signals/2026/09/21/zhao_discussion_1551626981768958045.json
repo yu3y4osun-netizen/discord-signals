@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551626981768958045",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-21T16:11:40.289000+00:00",
+  "captured_at": "2026-09-22T21:07:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "我还说Nancy 也买了还有be"
+  },
+  "raw_text": "我还说Nancy 也买了还有be"
+}
