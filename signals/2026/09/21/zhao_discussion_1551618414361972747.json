@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551618414361972747",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-21T15:37:37.660000+00:00",
+  "captured_at": "2026-09-22T21:06:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intc也太牛逼了"
+  },
+  "raw_text": "intc也太牛逼了"
+}
