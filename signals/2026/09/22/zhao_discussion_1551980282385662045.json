@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551980282385662045",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-09-22T15:35:33.720000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "台积电我拿了个把月了"
+  },
+  "raw_text": "台积电我拿了个把月了"
+}
