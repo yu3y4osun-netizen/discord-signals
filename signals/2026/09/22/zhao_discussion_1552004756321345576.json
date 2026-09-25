@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552004756321345576",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "c8641",
+  "ts": "2026-09-22T17:12:48.761000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "博通call多少钱买的"
+  },
+  "raw_text": "博通call多少钱买的"
+}
