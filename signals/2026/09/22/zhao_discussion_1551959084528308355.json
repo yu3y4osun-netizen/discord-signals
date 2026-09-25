@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551959084528308355",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-09-22T14:11:19.757000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "ASTS",
+      "AVGO",
+      "RKLB"
+    ],
+    "is_following_zhao": true,
+    "summary": "我满仓呢，全是一些不争气又票票，沃尔玛，Asts，rklb，博通，奶奶的头都大了"
+  },
+  "raw_text": "我满仓呢，全是一些不争气又票票，沃尔玛，Asts，rklb，博通，奶奶的头都大了"
+}
