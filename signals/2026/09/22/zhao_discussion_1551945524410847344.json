@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551945524410847344",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-22T13:17:26.773000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "AI要的就是这种，hbm这种技术门槛高价值高，机械硬盘是给数据中心用的技术含量低。"
+  },
+  "raw_text": "AI要的就是这种，hbm这种技术门槛高价值高，机械硬盘是给数据中心用的技术含量低。"
+}
