@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552323725809164289",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-23T14:20:17.013000+00:00",
+  "captured_at": "2026-09-25T09:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "卧槽啊，谷歌牛逼"
+  },
+  "raw_text": "卧槽啊，谷歌牛逼"
+}
