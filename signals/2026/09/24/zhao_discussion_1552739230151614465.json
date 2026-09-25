@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552739230151614465",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "avocadorable0106",
+  "ts": "2026-09-24T17:51:20.968000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就听赵哥指令 捡金币"
+  },
+  "raw_text": "就听赵哥指令 捡金币"
+}
