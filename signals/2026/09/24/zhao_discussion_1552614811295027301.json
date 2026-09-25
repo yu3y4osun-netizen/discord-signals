@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552614811295027301",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "felix-trader",
+  "ts": "2026-09-24T09:36:57.201000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "这点磨损忽略不计，比如你做10个，赵哥买正股，你买双倍，7个涨的，3个跌的，即便3个跌的赵哥成本出，你小亏，但那7个涨的你赚的更多"
+  },
+  "raw_text": "这点磨损忽略不计，比如你做10个，赵哥买正股，你买双倍，7个涨的，3个跌的，即便3个跌的赵哥成本出，你小亏，但那7个涨的你赚的更多"
+}
