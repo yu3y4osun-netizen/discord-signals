@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552675972506189867",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-24T13:39:59.170000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "盯NBIS最佳卖点"
+  },
+  "raw_text": "盯NBIS最佳卖点"
+}
