@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552750821727404213",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-09-24T18:37:24.615000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "老师们，问个可能愚蠢的问题： 赵哥的交易体系以前有讲过吗？有老师整理过吗？ 还是想学习理解下体系，跟赵哥copytrade只能赚点钱，不知其然不所以然"
+  },
+  "raw_text": "老师们，问个可能愚蠢的问题： 赵哥的交易体系以前有讲过吗？有老师整理过吗？\n\n还是想学习理解下体系，跟赵哥copytrade只能赚点钱，不知其然不所以然"
+}
