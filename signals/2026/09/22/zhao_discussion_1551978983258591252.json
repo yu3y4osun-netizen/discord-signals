@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551978983258591252",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-09-22T15:30:23.984000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN"
+    ],
+    "is_following_zhao": false,
+    "summary": "那时候coin从400跌到200还是多少"
+  },
+  "raw_text": "那时候coin从400跌到200还是多少"
+}
