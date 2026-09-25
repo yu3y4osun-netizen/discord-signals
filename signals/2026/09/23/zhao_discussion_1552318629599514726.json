@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552318629599514726",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-23T14:00:01.982000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌应该是Gemini4还没出，吹得天花乱坠结果直接被Opus5.5终结比赛"
+  },
+  "raw_text": "谷歌应该是Gemini4还没出，吹得天花乱坠结果直接被Opus5.5终结比赛"
+}
