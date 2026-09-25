@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552330485487771729",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-23T14:47:08.646000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "下单的时候附加止损就行"
+  },
+  "raw_text": "下单的时候附加止损就行"
+}
