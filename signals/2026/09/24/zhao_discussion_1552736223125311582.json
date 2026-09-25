@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552736223125311582",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-24T17:39:24.037000+00:00",
+  "captured_at": "2026-09-25T09:20:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "没有mu支撑位坚挺，反弹也不足"
+  },
+  "raw_text": "没有mu支撑位坚挺，反弹也不足"
+}
