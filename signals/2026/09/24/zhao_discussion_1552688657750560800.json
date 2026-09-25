@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552688657750560800",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-09-24T14:30:23.568000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "全部起飞 被你们聊的"
+  },
+  "raw_text": "全部起飞 被你们聊的"
+}
