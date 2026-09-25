@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551988357427503237",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "conghuajidan",
+  "ts": "2026-09-22T16:07:38.960000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "235.2出掉之前235的nbis"
+  },
+  "raw_text": "235.2出掉之前235的nbis"
+}
