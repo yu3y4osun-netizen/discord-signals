@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552675776820678710",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-09-24T13:39:12.515000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "be没加上 QaQ 手速太慢了"
+  },
+  "raw_text": "be没加上 QaQ 手速太慢了"
+}
