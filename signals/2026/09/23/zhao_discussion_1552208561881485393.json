@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552208561881485393",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jugeg",
+  "ts": "2026-09-23T06:42:39.793000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "关键是现在节点之前不敢上车的散户，要追高了"
+  },
+  "raw_text": "关键是现在节点之前不敢上车的散户，要追高了"
+}
