@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552320211175346308",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-09-23T14:06:19.059000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "感谢今天提特斯拉那哥们"
+  },
+  "raw_text": "感谢今天提特斯拉那哥们"
+}
