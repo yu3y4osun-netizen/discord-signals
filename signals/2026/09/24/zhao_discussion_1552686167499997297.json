@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552686167499997297",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-24T14:20:29.846000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "为啥你的nbis可以显示累计的 第一证券卖了就没有收益了"
+  },
+  "raw_text": "为啥你的nbis可以显示累计的  第一证券卖了就没有收益了"
+}
