@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551954040240349198",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haojue",
+  "ts": "2026-09-22T13:51:17.105000+00:00",
+  "captured_at": "2026-09-25T09:17:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "mu今天会不会1100"
+  },
+  "raw_text": "mu今天会不会1100"
+}
