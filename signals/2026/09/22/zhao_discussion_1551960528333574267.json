@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551960528333574267",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-09-22T14:17:03.987000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "谢谢，您的好意，赵哥早就提醒过了，我这里沃尔玛属于非卖品"
+  },
+  "raw_text": "谢谢，您的好意，赵哥早就提醒过了，我这里沃尔玛属于非卖品"
+}
