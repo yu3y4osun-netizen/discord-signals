@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552963350751739935",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jasonic",
+  "ts": "2026-09-25T08:41:55.483000+00:00",
+  "captured_at": "2026-09-25T21:03:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "为什么我加入m哥的那个仓位群总是失败，有没有大哥遇到过"
+  },
+  "raw_text": "为什么我加入m哥的那个仓位群总是失败，有没有大哥遇到过"
+}
