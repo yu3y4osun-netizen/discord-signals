@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552675798765277409",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-24T13:39:17.747000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "be直接上去了"
+  },
+  "raw_text": "be直接上去了"
+}
