@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552712121694032003",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-09-24T16:03:37.808000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "第一见赵哥买soun"
+  },
+  "raw_text": "第一见赵哥买soun"
+}
