@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552676137702920224",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-24T13:40:38.556000+00:00",
+  "captured_at": "2026-09-25T09:19:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "在那想多吃点NBIS的涨幅，错过了BE的买点"
+  },
+  "raw_text": "在那想多吃点NBIS的涨幅，错过了BE的买点"
+}
