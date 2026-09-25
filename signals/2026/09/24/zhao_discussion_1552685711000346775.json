@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552685711000346775",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-24T14:18:41.008000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "有人知道这avgo是咋回事吗"
+  },
+  "raw_text": "有人知道这avgo是咋回事吗"
+}
