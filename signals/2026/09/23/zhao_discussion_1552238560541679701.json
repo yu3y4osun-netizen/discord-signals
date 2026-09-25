@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552238560541679701",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "techotakupoi",
+  "ts": "2026-09-23T08:41:52.031000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IONQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "ionq上星期清了"
+  },
+  "raw_text": "ionq上星期清了"
+}
