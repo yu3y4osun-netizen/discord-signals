@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552139830740131874",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-09-23T02:09:33.012000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "去年国庆节一来 spx 瀑布 182 个点"
+  },
+  "raw_text": "去年国庆节一来 spx 瀑布 182 个点"
+}
