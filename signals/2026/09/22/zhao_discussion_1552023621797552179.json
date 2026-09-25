@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552023621797552179",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "maychen5518",
+  "ts": "2026-09-22T18:27:46.641000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "Cbrs！最近十几天，跟单都太成功了，谢谢赵哥"
+  },
+  "raw_text": "Cbrs！最近十几天，跟单都太成功了，谢谢赵哥"
+}
