@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552989006512521238",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-25T10:23:52.293000+00:00",
+  "captured_at": "2026-09-25T21:03:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "真不敢想以后赵哥休息不做了 以后的路有多难"
+  },
+  "raw_text": "真不敢想以后赵哥休息不做了  以后的路有多难"
+}
