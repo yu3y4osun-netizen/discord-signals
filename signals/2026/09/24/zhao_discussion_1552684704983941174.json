@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552684704983941174",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-24T14:14:41.155000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ARM",
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "是管家路线，点燃了intc arm"
+  },
+  "raw_text": "是管家路线，点燃了intc arm"
+}
