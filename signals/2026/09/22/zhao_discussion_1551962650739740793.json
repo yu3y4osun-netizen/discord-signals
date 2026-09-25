@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551962650739740793",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-22T14:25:30.008000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU",
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "MU 有1.5份 WDC 有3份"
+  },
+  "raw_text": "MU 有1.5份   WDC  有3份"
+}
