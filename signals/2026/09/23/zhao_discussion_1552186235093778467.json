@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552186235093778467",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "civicagility09",
+  "ts": "2026-09-23T05:13:56.672000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSTR"
+    ],
+    "is_following_zhao": false,
+    "summary": "搞不了饼子，能不能搞点mstr的call"
+  },
+  "raw_text": "搞不了饼子，能不能搞点mstr的call"
+}
