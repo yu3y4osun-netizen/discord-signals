@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551978870121566294",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckfunzhao",
+  "ts": "2026-09-22T15:29:57.010000+00:00",
+  "captured_at": "2026-09-25T09:18:15+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "加油 你抱着美股抱着赵哥会重新起飞的。"
+  },
+  "raw_text": "加油 你抱着美股抱着赵哥会重新起飞的。"
+}
