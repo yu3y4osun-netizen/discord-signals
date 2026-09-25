@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552678959882440849",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-24T13:51:51.416000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": true,
+    "summary": "盘前没买be又抄底赵哥"
+  },
+  "raw_text": "盘前没买be又抄底赵哥"
+}
