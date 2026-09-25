@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552976016438329359",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-25T09:32:15.218000+00:00",
+  "captured_at": "2026-09-25T21:03:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "重点是 Mu 能否去 1150"
+  },
+  "raw_text": "重点是 Mu 能否去 1150"
+}
