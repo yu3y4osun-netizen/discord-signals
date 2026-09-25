@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551973282599665685",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-09-22T15:07:44.841000+00:00",
+  "captured_at": "2026-09-25T09:18:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥有说什么时候满仓吗"
+  },
+  "raw_text": "赵哥有说什么时候满仓吗"
+}
