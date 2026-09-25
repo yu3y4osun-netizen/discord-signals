@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551958083914170409",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-22T14:07:21.192000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥是因为钱太多了，其他都买了为了把它铺满才所有的都买"
+  },
+  "raw_text": "赵哥是因为钱太多了，其他都买了为了把它铺满才所有的都买"
+}
