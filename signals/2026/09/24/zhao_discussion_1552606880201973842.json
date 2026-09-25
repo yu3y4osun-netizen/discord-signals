@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552606880201973842",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moneywang",
+  "ts": "2026-09-24T09:05:26.281000+00:00",
+  "captured_at": "2026-09-25T09:19:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": false,
+    "summary": "Asts是那个太空股嘛"
+  },
+  "raw_text": "Asts是那个太空股嘛"
+}
