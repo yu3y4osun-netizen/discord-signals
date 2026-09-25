@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552683922520023051",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-24T14:11:34.601000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "muse助手直接把google search干崩了"
+  },
+  "raw_text": "muse助手直接把google search干崩了"
+}
