@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552679807056220252",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckfunzhao",
+  "ts": "2026-09-24T13:55:13.398000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "SOxl 没买到可恶"
+  },
+  "raw_text": "SOxl 没买到可恶"
+}
