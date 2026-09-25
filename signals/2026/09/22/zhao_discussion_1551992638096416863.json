@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551992638096416863",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "c8641",
+  "ts": "2026-09-22T16:24:39.551000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我也想买谷歌长call"
+  },
+  "raw_text": "我也想买谷歌长call"
+}
