@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551981649657594057",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-09-22T15:40:59.703000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我有时在想，我要不要把房子卖了。跟着赵哥。仓位大一点。一年两年回个本应该可以吧"
+  },
+  "raw_text": "我有时在想，我要不要把房子卖了。跟着赵哥。仓位大一点。一年两年回个本应该可以吧"
+}
