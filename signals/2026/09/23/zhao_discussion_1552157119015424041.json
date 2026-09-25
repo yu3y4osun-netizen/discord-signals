@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552157119015424041",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "civica",
+  "ts": "2026-09-23T03:18:14.858000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IWM"
+    ],
+    "is_following_zhao": false,
+    "summary": "没有外部资金进场，国内资金也不会盲目拉盘吧，你看韩股也起不来，每天高开低走。美股里小盘股IWM也起不来，和A股、韩股都受制于同一个宏观底层因素"
+  },
+  "raw_text": "没有外部资金进场，国内资金也不会盲目拉盘吧，你看韩股也起不来，每天高开低走。美股里小盘股IWM也起不来，和A股、韩股都受制于同一个宏观底层因素"
+}
