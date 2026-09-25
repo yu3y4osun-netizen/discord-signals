@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552673148443562145",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jugeg",
+  "ts": "2026-09-24T13:28:45.861000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ORCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "甲骨文这次看下会不会崩的一塌糊涂"
+  },
+  "raw_text": "甲骨文这次看下会不会崩的一塌糊涂"
+}
