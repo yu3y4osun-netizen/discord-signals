@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552755440230858834",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-24T18:55:45.752000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "之前群里的学习委员整理的一些赵哥的经验解答"
+  },
+  "raw_text": "之前群里的学习委员整理的一些赵哥的经验解答"
+}
