@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552676314228719625",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-09-24T13:41:20.643000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "夜盘幸好又买了一笔 nbis 太爽了 赵哥牛逼"
+  },
+  "raw_text": "夜盘幸好又买了一笔 nbis  太爽了  赵哥牛逼"
+}
