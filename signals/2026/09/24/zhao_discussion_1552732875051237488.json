@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552732875051237488",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-24T17:26:05.794000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": true,
+    "summary": "asts一看就是杀到散户止损 检测到大单买入"
+  },
+  "raw_text": "asts一看就是杀到散户止损 检测到大单买入"
+}
