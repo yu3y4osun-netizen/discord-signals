@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551950492756738172",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-22T13:37:11.319000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl我刚买的也起来了"
+  },
+  "raw_text": "soxl我刚买的也起来了"
+}
