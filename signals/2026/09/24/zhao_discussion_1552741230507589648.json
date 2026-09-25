@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552741230507589648",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-24T17:59:17.890000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥说了大半年的 美国通胀高不买消费股不买麦当劳 上周看到还有人买了麦当劳 我是蚌埠住了"
+  },
+  "raw_text": "赵哥说了大半年的 美国通胀高不买消费股不买麦当劳 上周看到还有人买了麦当劳 我是蚌埠住了"
+}
