@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552663899537408051",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-24T12:52:00.750000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥终于也买BE了"
+  },
+  "raw_text": "赵哥终于也买BE了"
+}
