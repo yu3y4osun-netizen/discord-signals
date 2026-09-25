@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551991438613413960",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-22T16:19:53.572000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "等待赵哥信号"
+  },
+  "raw_text": "等待赵哥信号"
+}
