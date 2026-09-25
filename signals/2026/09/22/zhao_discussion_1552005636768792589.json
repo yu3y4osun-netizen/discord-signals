@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552005636768792589",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-22T17:16:18.676000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO",
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "没事avgo我买的没有googl的多"
+  },
+  "raw_text": "没事avgo我买的没有googl的多"
+}
