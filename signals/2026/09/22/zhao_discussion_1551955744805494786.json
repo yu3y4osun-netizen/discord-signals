@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551955744805494786",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaywinner",
+  "ts": "2026-09-22T13:58:03.505000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "是出之前还剩下的一半 453 的 wdc 是吧？"
+  },
+  "raw_text": "是出之前还剩下的一半 453 的 wdc 是吧？"
+}
