@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552682731924750390",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-24T14:06:50.741000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "脚本监控赵哥发布的网页 然后推送到企业微信机器人就行了"
+  },
+  "raw_text": "脚本监控赵哥发布的网页 然后推送到企业微信机器人就行了"
+}
