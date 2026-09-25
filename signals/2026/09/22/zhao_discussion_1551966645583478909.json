@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551966645583478909",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaoxulucky001",
+  "ts": "2026-09-22T14:41:22.453000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPYU"
+    ],
+    "is_following_zhao": false,
+    "summary": "spyu赵哥还有吗？我记得没有了，但M哥的记录里还有"
+  },
+  "raw_text": "spyu赵哥还有吗？我记得没有了，但M哥的记录里还有"
+}
