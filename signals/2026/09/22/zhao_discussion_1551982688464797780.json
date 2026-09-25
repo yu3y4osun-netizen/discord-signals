@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551982688464797780",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ttg894",
+  "ts": "2026-09-22T15:45:07.374000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是应该要没有信心啊，说明你的策略就是有问题的。还有信心那不完了"
+  },
+  "raw_text": "是应该要没有信心啊，说明你的策略就是有问题的。还有信心那不完了"
+}
