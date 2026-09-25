@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552729086617587884",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fionayjx",
+  "ts": "2026-09-24T17:11:02.561000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "avgo 还在吗"
+  },
+  "raw_text": "avgo 还在吗"
+}
