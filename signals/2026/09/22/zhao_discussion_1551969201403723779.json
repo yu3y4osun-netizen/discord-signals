@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551969201403723779",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-09-22T14:51:31.808000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "给个机会让我满仓啊"
+  },
+  "raw_text": "给个机会让我满仓啊"
+}
