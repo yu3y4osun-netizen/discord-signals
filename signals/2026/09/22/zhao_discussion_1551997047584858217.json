@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551997047584858217",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-22T16:42:10.855000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMZN",
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "亚马逊的财报和谷歌的财报后两个股的走势是反的"
+  },
+  "raw_text": "亚马逊的财报和谷歌的财报后两个股的走势是反的"
+}
