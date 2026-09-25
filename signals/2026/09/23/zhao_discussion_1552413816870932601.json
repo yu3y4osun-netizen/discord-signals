@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552413816870932601",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-23T20:18:16.396000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还要赵哥心灵按摩吗？待会又要被骂了🌚🌚"
+  },
+  "raw_text": "还要赵哥心灵按摩吗？待会又要被骂了🌚🌚"
+}
