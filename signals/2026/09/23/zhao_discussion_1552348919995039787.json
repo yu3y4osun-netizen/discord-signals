@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552348919995039787",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-23T16:00:23.775000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有大单梭哈，又逢节日或者重要节点还跟大盘，库库抄底"
+  },
+  "raw_text": "有大单梭哈，又逢节日或者重要节点还跟大盘，库库抄底"
+}
