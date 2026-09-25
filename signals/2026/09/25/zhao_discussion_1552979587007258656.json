@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552979587007258656",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-25T09:46:26.508000+00:00",
+  "captured_at": "2026-09-25T21:03:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "AVGO 也算"
+  },
+  "raw_text": "AVGO 也算"
+}
