@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551966126563663947",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-22T14:39:18.709000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你跟着赵哥卖正股买最好的标的"
+  },
+  "raw_text": "你跟着赵哥卖正股买最好的标的"
+}
