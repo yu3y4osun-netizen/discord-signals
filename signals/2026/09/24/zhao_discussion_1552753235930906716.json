@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552753235930906716",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-09-24T18:47:00.206000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GS"
+    ],
+    "is_following_zhao": false,
+    "summary": "https://10.gs/xzl 里面有个兄弟整理的赵哥语录 看十遍"
+  },
+  "raw_text": "https://10.gs/xzl 里面有个兄弟整理的赵哥语录 看十遍"
+}
