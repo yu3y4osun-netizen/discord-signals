@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552981402230988862",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-25T09:53:39.291000+00:00",
+  "captured_at": "2026-09-25T21:03:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "nancy Leopold 赵哥"
+  },
+  "raw_text": "nancy Leopold 赵哥"
+}
