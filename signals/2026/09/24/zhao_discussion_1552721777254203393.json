@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552721777254203393",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "leonard5",
+  "ts": "2026-09-24T16:41:59.873000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大家少打扰赵哥，珍惜赵哥"
+  },
+  "raw_text": "大家少打扰赵哥，珍惜赵哥"
+}
