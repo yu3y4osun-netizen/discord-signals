@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551948758315565178",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "daluyazi",
+  "ts": "2026-09-22T13:30:17.796000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "都一样 吃散户的止损单就是别人别人的钱"
+  },
+  "raw_text": "都一样 吃散户的止损单就是别人别人的钱"
+}
