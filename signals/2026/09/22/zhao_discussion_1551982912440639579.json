@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551982912440639579",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-09-22T15:46:00.774000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我就跟赵哥"
+  },
+  "raw_text": "我就跟赵哥"
+}
