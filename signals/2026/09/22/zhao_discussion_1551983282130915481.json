@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551983282130915481",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-09-22T15:47:28.915000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": true,
+    "summary": "台积电call可以出货了"
+  },
+  "raw_text": "台积电call可以出货了"
+}
