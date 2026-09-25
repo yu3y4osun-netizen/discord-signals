@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552054997724958833",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-09-22T20:32:27.245000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "特斯拉盘后经常有大笔买入？看了一会儿订单流，快20w股大笔买入了，价格居然还没波动"
+  },
+  "raw_text": "特斯拉盘后经常有大笔买入？看了一会儿订单流，快20w股大笔买入了，价格居然还没波动"
+}
