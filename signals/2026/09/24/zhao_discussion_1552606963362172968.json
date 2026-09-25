@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552606963362172968",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nealbest",
+  "ts": "2026-09-24T09:05:46.108000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": false,
+    "summary": "刚才ASTS突然大涨，是不是群里大佬带上来的啊"
+  },
+  "raw_text": "刚才ASTS突然大涨，是不是群里大佬带上来的啊"
+}
