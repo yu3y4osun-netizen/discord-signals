@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552725118638366863",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-09-24T16:55:16.521000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLL"
+    ],
+    "is_following_zhao": true,
+    "summary": "我以前只跟 几只 压力大得很 tsll一晚上浮亏30%，现在全部跟了😊"
+  },
+  "raw_text": "我以前只跟 几只 压力大得很 tsll一晚上浮亏30%，现在全部跟了😊"
+}
