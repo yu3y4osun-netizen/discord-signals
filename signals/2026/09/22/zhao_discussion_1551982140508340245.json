@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551982140508340245",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-09-22T15:42:56.731000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我也不知道。为什么我买末日。总是买错方向"
+  },
+  "raw_text": "我也不知道。为什么我买末日。总是买错方向"
+}
