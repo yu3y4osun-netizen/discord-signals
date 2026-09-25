@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551968741565268079",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-09-22T14:49:42.174000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "上任班长说老婆和岳父的钱也转来美股，就不敢梭哈了"
+  },
+  "raw_text": "上任班长说老婆和岳父的钱也转来美股，就不敢梭哈了"
+}
