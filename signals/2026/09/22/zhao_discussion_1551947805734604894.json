@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551947805734604894",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-22T13:26:30.683000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv，利空消化得差不多了吧"
+  },
+  "raw_text": "crwv，利空消化得差不多了吧"
+}
