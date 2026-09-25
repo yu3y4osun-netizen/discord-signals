@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552415162424758373",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xlucky",
+  "ts": "2026-09-23T20:23:37.201000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥以前开盘之前都会说两句当天大概的方向。最近没说还有点不太习惯。"
+  },
+  "raw_text": "赵哥以前开盘之前都会说两句当天大概的方向。最近没说还有点不太习惯。"
+}
