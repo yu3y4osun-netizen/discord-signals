@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552676843142783089",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-24T13:43:26.746000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "确实 跟着赵哥买卖就行 除了开盘那些时间 我都不怎么看盘"
+  },
+  "raw_text": "确实 跟着赵哥买卖就行 除了开盘那些时间 我都不怎么看盘"
+}
