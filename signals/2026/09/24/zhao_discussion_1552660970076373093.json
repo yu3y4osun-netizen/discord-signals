@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552660970076373093",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-09-24T12:40:22.312000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ORCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "甲骨文还不退市"
+  },
+  "raw_text": "甲骨文还不退市"
+}
