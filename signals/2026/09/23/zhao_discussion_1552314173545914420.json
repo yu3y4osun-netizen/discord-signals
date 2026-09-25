@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552314173545914420",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "c8641",
+  "ts": "2026-09-23T13:42:19.576000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "谷歌可以上车了没"
+  },
+  "raw_text": "谷歌可以上车了没"
+}
