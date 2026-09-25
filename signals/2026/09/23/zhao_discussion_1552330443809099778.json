@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552330443809099778",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-23T14:46:58.709000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "券商里面有移动止盈止损"
+  },
+  "raw_text": "券商里面有移动止盈止损"
+}
