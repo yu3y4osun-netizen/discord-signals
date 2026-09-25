@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552732022907207811",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "calebwayne",
+  "ts": "2026-09-24T17:22:42.627000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "什么时候能像赵哥这样悟道"
+  },
+  "raw_text": "什么时候能像赵哥这样悟道"
+}
