@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552683651416727674",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-09-24T14:10:29.965000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "这俩玩意再怎么样也比不上苹果，就炒作而已"
+  },
+  "raw_text": "这俩玩意再怎么样也比不上苹果，就炒作而已"
+}
