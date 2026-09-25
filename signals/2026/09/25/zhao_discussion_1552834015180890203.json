@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552834015180890203",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fionayjx",
+  "ts": "2026-09-25T00:07:59.480000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我想向大家取取经，怎么跟赵哥的单子，比如说像今天，赵哥操作比较多，大家是每个都会买吗？ 有的时候来不及看消息会错过买入或卖出信号"
+  },
+  "raw_text": "我想向大家取取经，怎么跟赵哥的单子，比如说像今天，赵哥操作比较多，大家是每个都会买吗？ 有的时候来不及看消息会错过买入或卖出信号"
+}
