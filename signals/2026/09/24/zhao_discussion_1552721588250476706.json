@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552721588250476706",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-09-24T16:41:14.811000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥中秋在纽约吃月饼吗"
+  },
+  "raw_text": "赵哥中秋在纽约吃月饼吗"
+}
