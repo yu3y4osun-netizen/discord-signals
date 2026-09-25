@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551947572334305370",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-09-22T13:25:35.036000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COHR",
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "光倒是弹性挺足的，lite和cohr基本上跌个两轮就弹上去了"
+  },
+  "raw_text": "光倒是弹性挺足的，lite和cohr基本上跌个两轮就弹上去了"
+}
