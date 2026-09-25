@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552282210881765508",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bankflower",
+  "ts": "2026-09-23T11:35:19.083000+00:00",
+  "captured_at": "2026-09-25T09:18:41+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "急需赵哥指示"
+  },
+  "raw_text": "急需赵哥指示"
+}
