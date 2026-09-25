@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552688443773947957",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-09-24T14:29:32.552000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis还在拉 太牛逼了"
+  },
+  "raw_text": "nbis还在拉  太牛逼了"
+}
