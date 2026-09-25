@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551970742692880415",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-09-22T14:57:39.280000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSTR"
+    ],
+    "is_following_zhao": true,
+    "summary": "一开始听了退休哥哥那条狗的买了mstr和mstx"
+  },
+  "raw_text": "一开始听了退休哥哥那条狗的买了mstr和mstx"
+}
