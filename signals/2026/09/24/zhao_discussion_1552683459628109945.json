@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552683459628109945",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-24T14:09:44.239000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "meta是真牛逼"
+  },
+  "raw_text": "meta是真牛逼"
+}
