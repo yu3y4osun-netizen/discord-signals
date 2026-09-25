@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551962355720519691",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "andyc608",
+  "ts": "2026-09-22T14:24:19.670000+00:00",
+  "captured_at": "2026-09-25T09:18:03+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "想问问赵哥存储相关的仓位出完了嘛"
+  },
+  "raw_text": "想问问赵哥存储相关的仓位出完了嘛"
+}
