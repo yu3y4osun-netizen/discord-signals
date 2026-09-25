@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552746189093605391",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soluteayu",
+  "ts": "2026-09-24T18:19:00.109000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这种用赵哥积累的经验事件，没有赵哥点还是蛮难学"
+  },
+  "raw_text": "这种用赵哥积累的经验事件，没有赵哥点还是蛮难学"
+}
