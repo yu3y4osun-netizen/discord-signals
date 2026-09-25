@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552321447035281489",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-09-23T14:11:13.711000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "等赵哥买买买"
+  },
+  "raw_text": "等赵哥买买买"
+}
