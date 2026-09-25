@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551992775694614669",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-22T16:25:12.357000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "谷歌应该有机构清仓了，我记得上次赵哥说机构的估值就是再 360 左右的"
+  },
+  "raw_text": "谷歌应该有机构清仓了，我记得上次赵哥说机构的估值就是再 360 左右的"
+}
