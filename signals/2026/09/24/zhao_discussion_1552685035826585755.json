@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552685035826585755",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-24T14:16:00.034000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "他的作用好 抢了google流量 才带飞cpu的"
+  },
+  "raw_text": "他的作用好 抢了google流量 才带飞cpu的"
+}
