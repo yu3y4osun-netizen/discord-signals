@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551954083294875671",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "daluyazi",
+  "ts": "2026-09-22T13:51:27.370000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "昨天买的两倍西数 直接拉满- -"
+  },
+  "raw_text": "昨天买的两倍西数  直接拉满- -"
+}
