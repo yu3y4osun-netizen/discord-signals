@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552404886832947331",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "idrinkwine",
+  "ts": "2026-09-23T19:42:47.309000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "村里发金条啦，WDC涨价啦"
+  },
+  "raw_text": "村里发金条啦，WDC涨价啦"
+}
