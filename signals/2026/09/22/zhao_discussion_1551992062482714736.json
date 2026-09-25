@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551992062482714736",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "felix-trader",
+  "ts": "2026-09-22T16:22:22.314000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "这谷歌还能转绿，也是没谁了"
+  },
+  "raw_text": "这谷歌还能转绿，也是没谁了"
+}
