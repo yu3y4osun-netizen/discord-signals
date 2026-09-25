@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552725388344434735",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-09-24T16:56:20.824000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "墙都不扶就服赵哥"
+  },
+  "raw_text": "墙都不扶就服赵哥"
+}
