@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552333477083484242",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-23T14:59:01.898000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv手术一笔90价位的"
+  },
+  "raw_text": "crwv手术一笔90价位的"
+}
