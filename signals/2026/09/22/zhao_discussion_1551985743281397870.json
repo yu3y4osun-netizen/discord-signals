@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551985743281397870",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-09-22T15:57:15.699000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "他的周报第一次有的博通"
+  },
+  "raw_text": "他的周报第一次有的博通"
+}
