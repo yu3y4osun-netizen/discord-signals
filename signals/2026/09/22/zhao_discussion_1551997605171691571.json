@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551997605171691571",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-09-22T16:44:23.794000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "FUTU"
+    ],
+    "is_following_zhao": false,
+    "summary": "有一说一，长桥的大v还是比futu的有水平一些"
+  },
+  "raw_text": "有一说一，长桥的大v还是比futu的有水平一些"
+}
