@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552685073113813017",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-24T14:16:08.924000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌目前担忧的是ai一直追不上"
+  },
+  "raw_text": "谷歌目前担忧的是ai一直追不上"
+}
