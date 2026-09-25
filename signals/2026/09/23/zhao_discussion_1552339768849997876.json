@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552339768849997876",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-23T15:24:01.972000+00:00",
+  "captured_at": "2026-09-25T09:19:05+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我们聊我们的，别捎带赵哥了"
+  },
+  "raw_text": "我们聊我们的，别捎带赵哥了"
+}
