@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552018311762546840",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-22T18:06:40.630000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "明年库里退役前捡漏再拿一冠，iren直接300"
+  },
+  "raw_text": "明年库里退役前捡漏再拿一冠，iren直接300"
+}
