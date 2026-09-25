@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551982135320121516",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-09-22T15:42:55.494000+00:00",
+  "captured_at": "2026-09-25T09:18:17+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "这谷歌走势很恶心🤢"
+  },
+  "raw_text": "这谷歌走势很恶心🤢"
+}
