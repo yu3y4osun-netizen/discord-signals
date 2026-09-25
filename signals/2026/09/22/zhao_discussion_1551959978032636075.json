@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551959978032636075",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "avocadorable0106",
+  "ts": "2026-09-22T14:14:52.785000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "为什么还要买沃尔玛呢 通胀情况下 别买"
+  },
+  "raw_text": "为什么还要买沃尔玛呢 通胀情况下 别买"
+}
