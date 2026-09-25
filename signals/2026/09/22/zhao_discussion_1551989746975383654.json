@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551989746975383654",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-22T16:13:10.254000+00:00",
+  "captured_at": "2026-09-25T09:18:22+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌这是要给机会了吗？"
+  },
+  "raw_text": "谷歌这是要给机会了吗？"
+}
