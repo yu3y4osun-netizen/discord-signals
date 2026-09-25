@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552732310594396294",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-24T17:23:51.217000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但是经历这么多轮之后觉得赵哥太牛逼无情的量化机器"
+  },
+  "raw_text": "但是经历这么多轮之后觉得赵哥太牛逼无情的量化机器"
+}
