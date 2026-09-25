@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552050923533111330",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "miky1111",
+  "ts": "2026-09-22T20:16:15.882000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "不玩尾盘这种spx 算不准"
+  },
+  "raw_text": "不玩尾盘这种spx 算不准"
+}
