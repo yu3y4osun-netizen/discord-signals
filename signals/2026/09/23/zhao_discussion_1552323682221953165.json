@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552323682221953165",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "flyin88",
+  "ts": "2026-09-23T14:20:06.621000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMZN",
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "亚马逊谷歌难兄难弟属于是"
+  },
+  "raw_text": "亚马逊谷歌难兄难弟属于是"
+}
