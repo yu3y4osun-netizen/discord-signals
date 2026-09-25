@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552738545976868866",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-09-24T17:48:37.848000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv也好狠"
+  },
+  "raw_text": "crwv也好狠"
+}
