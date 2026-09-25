@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552367701958074552",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-23T17:15:01.744000+00:00",
+  "captured_at": "2026-09-25T09:19:17+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "把brkb c出了加了一张谷歌leaps"
+  },
+  "raw_text": "把brkb c出了加了一张谷歌leaps"
+}
