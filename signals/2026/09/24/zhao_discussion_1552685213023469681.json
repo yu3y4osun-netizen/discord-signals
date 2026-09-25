@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552685213023469681",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-09-24T14:16:42.281000+00:00",
+  "captured_at": "2026-09-25T09:19:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌有自己想法和路径，他甚至不太想依赖英伟达生态"
+  },
+  "raw_text": "谷歌有自己想法和路径，他甚至不太想依赖英伟达生态"
+}
