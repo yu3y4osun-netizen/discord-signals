@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551980464145702934",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-22T15:36:17.055000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我也是在期权亏钱的，现在不敢了，跟着赵哥慢慢看着钱增加，很舒服。感谢赵哥，感恩赵哥"
+  },
+  "raw_text": "我也是在期权亏钱的，现在不敢了，跟着赵哥慢慢看着钱增加，很舒服。感谢赵哥，感恩赵哥"
+}
