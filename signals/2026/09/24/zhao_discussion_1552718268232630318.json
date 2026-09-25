@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552718268232630318",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-24T16:28:03.257000+00:00",
+  "captured_at": "2026-09-25T09:19:47+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥现在几成仓啦"
+  },
+  "raw_text": "赵哥现在几成仓啦"
+}
