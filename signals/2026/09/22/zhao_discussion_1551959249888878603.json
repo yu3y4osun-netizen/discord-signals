@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551959249888878603",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "avocadorable0106",
+  "ts": "2026-09-22T14:11:59.182000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "我买了些SOXX SOXL没动"
+  },
+  "raw_text": "我买了些SOXX SOXL没动"
+}
