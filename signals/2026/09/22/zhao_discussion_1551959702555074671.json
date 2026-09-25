@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551959702555074671",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-09-22T14:13:47.106000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "cbrs真的是强行上车。。。"
+  },
+  "raw_text": "cbrs真的是强行上车。。。"
+}
