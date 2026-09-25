@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552599352902549515",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bitboy9527",
+  "ts": "2026-09-24T08:35:31.633000+00:00",
+  "captured_at": "2026-09-25T09:19:22+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "回到解放前，还能加仓吗🥲🥲"
+  },
+  "raw_text": "回到解放前，还能加仓吗🥲🥲"
+}
