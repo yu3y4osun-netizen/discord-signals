@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552715588835741767",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liuxingyu",
+  "ts": "2026-09-24T16:17:24.439000+00:00",
+  "captured_at": "2026-09-25T09:19:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "1分钟起飞"
+  },
+  "raw_text": "1分钟起飞"
+}
