@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552317688301232293",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-23T13:56:17.559000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "还好昨晚谷歌c都出了"
+  },
+  "raw_text": "还好昨晚谷歌c都出了"
+}
