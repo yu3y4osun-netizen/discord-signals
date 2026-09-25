@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552368123464650847",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-23T17:16:42.239000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "没明显利空谷歌能tm跌快四个点啊"
+  },
+  "raw_text": "没明显利空谷歌能tm跌快四个点啊"
+}
