@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552319034874142791",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-09-23T14:01:38.607000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "meta 这坨屎发个模型都能拉7个点"
+  },
+  "raw_text": "meta 这坨屎发个模型都能拉7个点"
+}
