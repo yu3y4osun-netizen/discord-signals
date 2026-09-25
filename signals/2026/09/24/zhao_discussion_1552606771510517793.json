@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552606771510517793",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaotao",
+  "ts": "2026-09-24T09:05:00.367000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "加上大家跟单 点位发出来就拉上去一点😂"
+  },
+  "raw_text": "加上大家跟单 点位发出来就拉上去一点😂"
+}
