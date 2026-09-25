@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551994629442900059",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-22T16:32:34.325000+00:00",
+  "captured_at": "2026-09-25T09:18:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌狂跌"
+  },
+  "raw_text": "谷歌狂跌"
+}
