@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552676555166187623",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-24T13:42:18.087000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis c一张涨了700"
+  },
+  "raw_text": "nbis c一张涨了700"
+}
