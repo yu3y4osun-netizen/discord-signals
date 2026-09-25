@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552864649110618143",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-25T02:09:43.178000+00:00",
+  "captured_at": "2026-09-25T21:03:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你们没有的 都保存下 这样可以 随时知道赵哥的仓位"
+  },
+  "raw_text": "你们没有的 都保存下 这样可以 随时知道赵哥的仓位"
+}
