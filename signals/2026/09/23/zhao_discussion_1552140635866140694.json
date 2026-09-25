@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552140635866140694",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-09-23T02:12:44.969000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "去年的今天开始 连跌 3 天 spy 跌了 88 点"
+  },
+  "raw_text": "去年的今天开始 连跌 3 天 spy 跌了 88 点"
+}
