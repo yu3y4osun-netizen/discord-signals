@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552565511769034785",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-09-24T06:21:03.278000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "这特斯拉硬的邦邦的"
+  },
+  "raw_text": "这特斯拉硬的邦邦的"
+}
