@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552111120075063350",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-09-23T00:15:27.856000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我就说这周得踏空"
+  },
+  "raw_text": "我就说这周得踏空"
+}
