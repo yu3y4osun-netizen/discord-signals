@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551959932553662556",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-09-22T14:14:41.942000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "我特斯拉均价327了，他就是涨的慢了"
+  },
+  "raw_text": "我特斯拉均价327了，他就是涨的慢了"
+}
