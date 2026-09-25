@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552676371212533772",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "pinksnoopy",
+  "ts": "2026-09-24T13:41:34.229000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "爱赵哥 爱 NBIS"
+  },
+  "raw_text": "爱赵哥 爱 NBIS"
+}
