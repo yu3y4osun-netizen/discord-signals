@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551956634530750567",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deleter666",
+  "ts": "2026-09-22T14:01:35.632000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我觉得赵哥最近被气到了"
+  },
+  "raw_text": "我觉得赵哥最近被气到了"
+}
