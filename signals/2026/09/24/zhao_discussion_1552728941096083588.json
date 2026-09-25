@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552728941096083588",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-24T17:10:27.866000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥像是凡人修仙传里的韩立"
+  },
+  "raw_text": "赵哥像是凡人修仙传里的韩立"
+}
