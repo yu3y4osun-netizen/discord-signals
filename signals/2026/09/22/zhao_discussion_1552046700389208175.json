@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552046700389208175",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-22T19:59:29.006000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "博通随便买个自己能接受的就行"
+  },
+  "raw_text": "博通随便买个自己能接受的就行"
+}
