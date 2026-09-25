@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552738827280326728",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dasheng9527",
+  "ts": "2026-09-24T17:49:44.916000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis牛逼一生真强"
+  },
+  "raw_text": "nbis牛逼一生真强"
+}
