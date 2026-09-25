@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551966727267680287",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meter123",
+  "ts": "2026-09-22T14:41:41.928000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPYU"
+    ],
+    "is_following_zhao": false,
+    "summary": "Spyu没有了吧"
+  },
+  "raw_text": "Spyu没有了吧"
+}
