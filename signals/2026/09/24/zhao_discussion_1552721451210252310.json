@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552721451210252310",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-09-24T16:40:42.138000+00:00",
+  "captured_at": "2026-09-25T09:19:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，我们只有胎教水平，没有硕博士水平🤣"
+  },
+  "raw_text": "赵哥，我们只有胎教水平，没有硕博士水平🤣"
+}
