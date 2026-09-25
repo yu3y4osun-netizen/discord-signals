@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552732239232630946",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-24T17:23:34.203000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跟着赵哥混三天吃九吨"
+  },
+  "raw_text": "跟着赵哥混三天吃九吨"
+}
