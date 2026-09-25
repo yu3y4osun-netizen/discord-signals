@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551960932895301775",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-09-22T14:18:40.442000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "202强行上车，找个的买点必须买，赵哥卖的话 你可以不卖"
+  },
+  "raw_text": "202强行上车，找个的买点必须买，赵哥卖的话 你可以不卖"
+}
