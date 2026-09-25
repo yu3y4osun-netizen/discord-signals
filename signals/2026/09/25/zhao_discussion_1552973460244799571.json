@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552973460244799571",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-25T09:22:05.774000+00:00",
+  "captured_at": "2026-09-25T21:03:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我加仓了的啊"
+  },
+  "raw_text": "我加仓了的啊"
+}
