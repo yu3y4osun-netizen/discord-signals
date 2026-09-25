@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551980370944073769",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-09-22T15:35:54.834000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ",
+      "TSLA"
+    ],
+    "is_following_zhao": true,
+    "summary": "QQQ 特斯拉，末日我亏最多"
+  },
+  "raw_text": "QQQ   特斯拉，末日我亏最多"
+}
