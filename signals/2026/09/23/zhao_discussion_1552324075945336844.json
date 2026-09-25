@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552324075945336844",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-09-23T14:21:40.492000+00:00",
+  "captured_at": "2026-09-25T09:18:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌要是回不个缺口也不错的"
+  },
+  "raw_text": "谷歌要是回不个缺口也不错的"
+}
