@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552674170440122489",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-09-24T13:32:49.524000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，这次回调结束之后到10月中旬这段时间，spx是不是要冲8000了"
+  },
+  "raw_text": "赵哥，这次回调结束之后到10月中旬这段时间，spx是不是要冲8000了"
+}
