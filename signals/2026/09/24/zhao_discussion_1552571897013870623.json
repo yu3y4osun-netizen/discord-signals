@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552571897013870623",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-09-24T06:46:25.639000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA",
+      "TSLL"
+    ],
+    "is_following_zhao": true,
+    "summary": "你们特斯拉成本多少？tsll￼"
+  },
+  "raw_text": "你们特斯拉成本多少？tsll￼"
+}
