@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552327117587357819",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-23T14:33:45.676000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "买了点大盘和nbis c"
+  },
+  "raw_text": "买了点大盘和nbis c"
+}
