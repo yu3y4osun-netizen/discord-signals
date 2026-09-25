@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552719002608869421",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-09-24T16:30:58.346000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥很安全"
+  },
+  "raw_text": "赵哥很安全"
+}
