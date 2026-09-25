@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551968894607163447",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-22T14:50:18.662000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥是宗主。YH 周哥 炮哥 猪脚 是长老"
+  },
+  "raw_text": "赵哥是宗主。YH  周哥  炮哥  猪脚  是长老"
+}
