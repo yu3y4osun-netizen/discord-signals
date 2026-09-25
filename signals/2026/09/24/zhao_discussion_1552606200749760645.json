@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552606200749760645",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bkaaa",
+  "ts": "2026-09-24T09:02:44.287000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥都买asts了"
+  },
+  "raw_text": "赵哥都买asts了"
+}
