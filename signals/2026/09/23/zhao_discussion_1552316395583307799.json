@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552316395583307799",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky2026",
+  "ts": "2026-09-23T13:51:09.351000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COHR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cohr"
+  },
+  "raw_text": "cohr"
+}
