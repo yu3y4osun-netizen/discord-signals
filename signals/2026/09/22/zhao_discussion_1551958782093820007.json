@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551958782093820007",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qiqii",
+  "ts": "2026-09-22T14:10:07.651000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "5成仓拿着不动了 等赵哥买入"
+  },
+  "raw_text": "5成仓拿着不动了 等赵哥买入"
+}
