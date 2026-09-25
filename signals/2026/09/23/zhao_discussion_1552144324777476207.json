@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552144324777476207",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "civicagility09",
+  "ts": "2026-09-23T02:27:24.474000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "A股现在的走势有点看不懂，这是节前为了避险没有资金往上拉，还是说是横盘出货要往下走"
+  },
+  "raw_text": "A股现在的走势有点看不懂，这是节前为了避险没有资金往上拉，还是说是横盘出货要往下走"
+}
