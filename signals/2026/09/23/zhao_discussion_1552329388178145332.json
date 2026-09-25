@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552329388178145332",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-23T14:42:47.027000+00:00",
+  "captured_at": "2026-09-25T09:19:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": true,
+    "summary": "IB的止损单真好用 刚才的spx c一直在上滑止损点 吃了三十个点跑了"
+  },
+  "raw_text": "IB的止损单真好用 刚才的spx c一直在上滑止损点 吃了三十个点跑了"
+}
