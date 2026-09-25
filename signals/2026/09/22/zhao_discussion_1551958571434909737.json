@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551958571434909737",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-09-22T14:09:17.426000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "课代表，知道赵哥手里还有火箭股吗"
+  },
+  "raw_text": "课代表，知道赵哥手里还有火箭股吗"
+}
