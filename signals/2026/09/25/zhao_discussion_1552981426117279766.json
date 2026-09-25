@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552981426117279766",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-25T09:53:44.986000+00:00",
+  "captured_at": "2026-09-25T21:03:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE",
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "三神严选股票 BE INTC"
+  },
+  "raw_text": "三神严选股票 BE INTC"
+}
