@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552684020238782467",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-09-24T14:11:57.899000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "苹果和谷歌，手里捏着两个生态，只要上心可以搞出比他强的,muse先发而已"
+  },
+  "raw_text": "苹果和谷歌，手里捏着两个生态，只要上心可以搞出比他强的,muse先发而已"
+}
