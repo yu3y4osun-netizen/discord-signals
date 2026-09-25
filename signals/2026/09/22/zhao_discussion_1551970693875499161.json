@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551970693875499161",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-22T14:57:27.641000+00:00",
+  "captured_at": "2026-09-25T09:18:10+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COHR"
+    ],
+    "is_following_zhao": true,
+    "summary": "我将COHR放在订单里，在等赵哥会不会进货。不然象昨天一样，眼光光飞起，进不了货"
+  },
+  "raw_text": "我将COHR放在订单里，在等赵哥会不会进货。不然象昨天一样，眼光光飞起，进不了货"
+}
