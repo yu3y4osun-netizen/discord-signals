@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552299249465823244",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-23T12:43:01.398000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "中国在调查国家数据中心avgo都交换机使用情况"
+  },
+  "raw_text": "中国在调查国家数据中心avgo都交换机使用情况"
+}
