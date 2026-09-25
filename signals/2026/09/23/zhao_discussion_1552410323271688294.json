@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552410323271688294",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xlucky",
+  "ts": "2026-09-23T20:04:23.457000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "最近赵哥不说话还真有点不习惯了。"
+  },
+  "raw_text": "最近赵哥不说话还真有点不习惯了。"
+}
