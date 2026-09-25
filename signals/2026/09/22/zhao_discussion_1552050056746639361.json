@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552050056746639361",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-09-22T20:12:49.224000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "原来只要拿着soxl就行了吗😅"
+  },
+  "raw_text": "原来只要拿着soxl就行了吗😅"
+}
