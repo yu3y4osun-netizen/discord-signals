@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552623309588271175",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-09-24T10:10:43.352000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IONQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "晚上要请教下怎么玩量子，ionq波动好大"
+  },
+  "raw_text": "晚上要请教下怎么玩量子，ionq波动好大"
+}
