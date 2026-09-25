@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551994106077773838",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-22T16:30:29.545000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "RKLB"
+    ],
+    "is_following_zhao": true,
+    "summary": "之前长桥那个老板，去年买的那个 100 CALL RKLB 好多人跟单，从 8 块跌到 0.3，后面还回本了"
+  },
+  "raw_text": "之前长桥那个老板，去年买的那个 100 CALL RKLB 好多人跟单，从 8 块跌到 0.3，后面还回本了"
+}
