@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552322948042588171",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liuxingyu",
+  "ts": "2026-09-23T14:17:11.579000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "班长谷歌是不是可以加一点了😅"
+  },
+  "raw_text": "班长谷歌是不是可以加一点了😅"
+}
