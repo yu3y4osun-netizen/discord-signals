@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551947169211359243",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-22T13:23:58.924000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "STX",
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "希捷也跟西部一样是做机械硬盘的，但是估值比西部高很多了，资金愿意去，无法理解，股票还有点玄学"
+  },
+  "raw_text": "希捷也跟西部一样是做机械硬盘的，但是估值比西部高很多了，资金愿意去，无法理解，股票还有点玄学"
+}
