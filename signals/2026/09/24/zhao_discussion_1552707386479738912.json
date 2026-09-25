@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552707386479738912",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "pinksnoopy",
+  "ts": "2026-09-24T15:44:48.845000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COHR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cohr 还没启动吧"
+  },
+  "raw_text": "cohr 还没启动吧"
+}
