@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551979958446850080",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-09-22T15:34:16.487000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我是在退哥群里听到赵哥这名字的"
+  },
+  "raw_text": "我是在退哥群里听到赵哥这名字的"
+}
