@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551957552739254355",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "eatmybanana",
+  "ts": "2026-09-22T14:05:14.550000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，我依旧7成仓，基本就是soxl和一些科技个股，纳指的longcall仓位，需要一点指引，再拿一拿？我感觉这波上涨不至于2天结束吧"
+  },
+  "raw_text": "赵哥，我依旧7成仓，基本就是soxl和一些科技个股，纳指的longcall仓位，需要一点指引，再拿一拿？我感觉这波上涨不至于2天结束吧"
+}
