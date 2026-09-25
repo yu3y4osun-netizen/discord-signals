@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552734612856377445",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-24T17:33:00.119000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "之前挂VPN卡的我永远买不到赵哥的点"
+  },
+  "raw_text": "之前挂VPN卡的我永远买不到赵哥的点"
+}
