@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552005787176411137",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-22T17:16:54.536000+00:00",
+  "captured_at": "2026-09-25T09:18:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "这两天减仓avgo的人多起来了"
+  },
+  "raw_text": "这两天减仓avgo的人多起来了"
+}
