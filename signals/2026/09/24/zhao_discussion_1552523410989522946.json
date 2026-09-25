@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552523410989522946",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuyingyekong",
+  "ts": "2026-09-24T03:33:45.670000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "老师教授这么多知识，消化完了吗就说这种话，自习时间往往都是很珍贵的，别到时候要实战亏钱又来怪老师没教好"
+  },
+  "raw_text": "老师教授这么多知识，消化完了吗就说这种话，自习时间往往都是很珍贵的，别到时候要实战亏钱又来怪老师没教好"
+}
