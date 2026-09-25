@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552863521769918576",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yangkobe",
+  "ts": "2026-09-25T02:05:14.399000+00:00",
+  "captured_at": "2026-09-25T21:03:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，中秋节快乐，祝身体健康，阖家幸福，万事如意，日进斗金"
+  },
+  "raw_text": "赵哥，中秋节快乐，祝身体健康，阖家幸福，万事如意，日进斗金"
+}
