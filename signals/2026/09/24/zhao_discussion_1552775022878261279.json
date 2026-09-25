@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552775022878261279",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huangyellow",
+  "ts": "2026-09-24T20:13:34.619000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "谢谢赵哥！祝中秋快乐！身体健康 万事顺意！😆"
+  },
+  "raw_text": "谢谢赵哥！祝中秋快乐！身体健康 万事顺意！😆"
+}
