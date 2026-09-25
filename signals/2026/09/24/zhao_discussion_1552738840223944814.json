@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552738840223944814",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-09-24T17:49:48.002000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "MU 30号财报"
+  },
+  "raw_text": "MU 30号财报"
+}
