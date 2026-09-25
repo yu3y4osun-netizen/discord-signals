@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552345635393507330",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dae666",
+  "ts": "2026-09-23T15:47:20.665000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我想问一下，之前赵哥一直说不要在通胀的时间节点里面去买消费果是吗？还是说通缩应该是通胀对吧？我没记错的话。￼"
+  },
+  "raw_text": "我想问一下，之前赵哥一直说不要在通胀的时间节点里面去买消费果是吗？还是说通缩应该是通胀对吧？我没记错的话。￼"
+}
