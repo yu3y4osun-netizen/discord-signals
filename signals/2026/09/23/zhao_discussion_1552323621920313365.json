@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552323621920313365",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ctttest",
+  "ts": "2026-09-23T14:19:52.244000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "Google的直线真狠"
+  },
+  "raw_text": "Google的直线真狠"
+}
