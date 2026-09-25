@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551985117038252183",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-09-22T15:54:46.391000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": true,
+    "summary": "台积电好不容易赚点。我不想吐回去"
+  },
+  "raw_text": "台积电好不容易赚点。我不想吐回去"
+}
