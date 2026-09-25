@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551980315432583269",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-09-22T15:35:41.599000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": true,
+    "summary": "我QQQ看了 就亏了不少 整不明白 没有这个天赋"
+  },
+  "raw_text": "我QQQ看了 就亏了不少 整不明白 没有这个天赋"
+}
