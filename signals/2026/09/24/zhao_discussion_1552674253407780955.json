@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552674253407780955",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jasonic",
+  "ts": "2026-09-24T13:33:09.305000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "为什么又没有推送"
+  },
+  "raw_text": "为什么又没有推送"
+}
