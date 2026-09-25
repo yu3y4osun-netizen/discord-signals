@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552691781400002651",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-09-24T14:42:48.304000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis停不下来了啊"
+  },
+  "raw_text": "nbis停不下来了啊"
+}
