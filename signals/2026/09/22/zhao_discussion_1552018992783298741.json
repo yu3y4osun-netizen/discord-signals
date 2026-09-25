@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552018992783298741",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-22T18:09:22.998000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "张伯伦估计赵哥看过哈哈"
+  },
+  "raw_text": "张伯伦估计赵哥看过哈哈"
+}
