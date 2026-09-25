@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552519535448424511",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meiyoumeiyou",
+  "ts": "2026-09-24T03:18:21.669000+00:00",
+  "captured_at": "2026-09-25T09:19:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "拜托别发没脑子的话，有就会发，没有就闭嘴，别影响赵哥了，不会珍惜！"
+  },
+  "raw_text": "拜托别发没脑子的话，有就会发，没有就闭嘴，别影响赵哥了，不会珍惜！"
+}
