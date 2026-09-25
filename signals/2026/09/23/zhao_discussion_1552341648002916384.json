@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552341648002916384",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-23T15:31:29.997000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但是拿捏不好，手头上还有一部分被套着，解套了就出了"
+  },
+  "raw_text": "但是拿捏不好，手头上还有一部分被套着，解套了就出了"
+}
