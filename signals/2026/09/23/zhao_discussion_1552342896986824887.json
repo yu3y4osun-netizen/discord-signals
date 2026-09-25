@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552342896986824887",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-23T15:36:27.778000+00:00",
+  "captured_at": "2026-09-25T09:19:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "确实长线等大暴跌之后再开始做"
+  },
+  "raw_text": "确实长线等大暴跌之后再开始做"
+}
