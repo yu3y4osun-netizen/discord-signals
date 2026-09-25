@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552046010921132145",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "c8641",
+  "ts": "2026-09-22T19:56:44.624000+00:00",
+  "captured_at": "2026-09-25T09:18:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "谷歌上车建仓了"
+  },
+  "raw_text": "谷歌上车建仓了"
+}
