@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551970327071039590",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-09-22T14:56:00.188000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "DJT流媒体呀，结果涨的最久最嗨的是特斯拉"
+  },
+  "raw_text": "DJT流媒体呀，结果涨的最久最嗨的是特斯拉"
+}
