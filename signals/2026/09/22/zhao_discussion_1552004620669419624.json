@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552004620669419624",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dasheng9527",
+  "ts": "2026-09-22T17:12:16.419000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还没止住，不要慌"
+  },
+  "raw_text": "还没止住，不要慌"
+}
