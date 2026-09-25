@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552336506796908606",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozanlucky",
+  "ts": "2026-09-23T15:11:04.238000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "你是手动跟赵哥吗？跟着买赵哥所有的票？"
+  },
+  "raw_text": "你是手动跟赵哥吗？跟着买赵哥所有的票？"
+}
