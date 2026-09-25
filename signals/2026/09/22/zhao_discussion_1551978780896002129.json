@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551978780896002129",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-09-22T15:29:35.737000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我心态，格局，认知都很差。"
+  },
+  "raw_text": "我心态，格局，认知都很差。"
+}
