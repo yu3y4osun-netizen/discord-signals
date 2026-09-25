@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552033267195191317",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-22T19:06:06.283000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "明年收入会追上微软"
+  },
+  "raw_text": "明年收入会追上微软"
+}
