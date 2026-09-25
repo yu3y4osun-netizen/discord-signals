@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552732792172060703",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-09-24T17:25:46.034000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥现在越来越像真人了，喜怒哀乐很真实，以前一直觉得像个机器人，冷酷无情的AI交易机器人哈哈哈"
+  },
+  "raw_text": "赵哥现在越来越像真人了，喜怒哀乐很真实，以前一直觉得像个机器人，冷酷无情的AI交易机器人哈哈哈"
+}
