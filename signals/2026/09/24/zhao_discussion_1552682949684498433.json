@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552682949684498433",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky2026",
+  "ts": "2026-09-24T14:07:42.659000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跟不上赵哥"
+  },
+  "raw_text": "跟不上赵哥"
+}
