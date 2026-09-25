@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552685639005114470",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-09-24T14:18:23.843000+00:00",
+  "captured_at": "2026-09-25T09:19:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥说过他最稳，那就是龙头咯"
+  },
+  "raw_text": "赵哥说过他最稳，那就是龙头咯"
+}
