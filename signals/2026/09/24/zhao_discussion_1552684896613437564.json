@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552684896613437564",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-24T14:15:26.843000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "冲击google和他cpu路径没关系"
+  },
+  "raw_text": "冲击google和他cpu路径没关系"
+}
