@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551979237014249618",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "maychen5518",
+  "ts": "2026-09-22T15:31:24.484000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MRNA",
+      "MSTR",
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "我跟着退买过美光mstr,mrna。前两个准确地买到底和顶，半路上卖了，嬴亏。MRNA一直拿到现在，是目前赢利最高的．．人品不知道，股看个人买的。如果𣎴是mst..."
+  },
+  "raw_text": "我跟着退买过美光mstr,mrna。前两个准确地买到底和顶，半路上卖了，嬴亏。MRNA一直拿到现在，是目前赢利最高的．．人品不知道，股看个人买的。如果𣎴是mstr 他也不会塌，赶上币大崩人品就拿来说事儿了"
+}
