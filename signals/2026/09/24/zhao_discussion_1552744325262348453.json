@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552744325262348453",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "linlin7",
+  "ts": "2026-09-24T18:11:35.737000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我这个月跟着赵哥操作 漏掉好多 都28%收益啦 看来年100%收益近在咫尺"
+  },
+  "raw_text": "我这个月跟着赵哥操作 漏掉好多 都28%收益啦 看来年100%收益近在咫尺"
+}
