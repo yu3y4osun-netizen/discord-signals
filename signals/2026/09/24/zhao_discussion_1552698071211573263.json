@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552698071211573263",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yzleoyy",
+  "ts": "2026-09-24T15:07:47.912000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "怎么设置机器人提醒赵哥的内容"
+  },
+  "raw_text": "怎么设置机器人提醒赵哥的内容"
+}
