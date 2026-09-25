@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552135246508458095",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-09-23T01:51:20.046000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "总要做好踏空的准备￼"
+  },
+  "raw_text": "总要做好踏空的准备￼"
+}
