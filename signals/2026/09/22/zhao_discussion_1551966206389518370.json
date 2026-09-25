@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551966206389518370",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-09-22T14:39:37.741000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我这个月刚进群没几天，看不到赵哥分享的内容，不知道有没有这块儿内容"
+  },
+  "raw_text": "我这个月刚进群没几天，看不到赵哥分享的内容，不知道有没有这块儿内容"
+}
