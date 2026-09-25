@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552969414884728936",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckfunzhao",
+  "ts": "2026-09-25T09:06:01.285000+00:00",
+  "captured_at": "2026-09-25T21:03:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "😂我也是小买买，不敢梭哈。"
+  },
+  "raw_text": "😂我也是小买买，不敢梭哈。"
+}
