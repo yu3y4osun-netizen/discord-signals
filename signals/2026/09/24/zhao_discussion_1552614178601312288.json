@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552614178601312288",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-24T09:34:26.355000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还有就是长桥手续费现在好贵，有谁用长桥和赵哥做T的嘛"
+  },
+  "raw_text": "还有就是长桥手续费现在好贵，有谁用长桥和赵哥做T的嘛"
+}
