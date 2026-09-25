@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1551984641211105406",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-22T15:52:52.945000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌不是还有吗"
+  },
+  "raw_text": "谷歌不是还有吗"
+}
