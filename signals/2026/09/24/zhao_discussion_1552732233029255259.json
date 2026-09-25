@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552732233029255259",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-24T17:23:32.724000+00:00",
+  "captured_at": "2026-09-25T09:07:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我以前还觉得赵哥可能有自己的偏好不喜欢做半导体"
+  },
+  "raw_text": "我以前还觉得赵哥可能有自己的偏好不喜欢做半导体"
+}
