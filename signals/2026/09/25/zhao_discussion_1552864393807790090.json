@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1552864393807790090",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-25T02:08:42.309000+00:00",
+  "captured_at": "2026-09-25T21:03:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "https://whop.com/stock-444c 这是m哥搞的赵哥实时仓位"
+  },
+  "raw_text": "https://whop.com/stock-444c  这是m哥搞的赵哥实时仓位"
+}
