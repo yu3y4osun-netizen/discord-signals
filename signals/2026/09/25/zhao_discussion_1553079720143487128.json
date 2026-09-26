@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553079720143487128",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-09-25T16:24:20.108000+00:00",
+  "captured_at": "2026-09-26T09:10:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "简单理解下，常规仓是总账户10%，1w总仓 ，那赵哥发的常规仓1/6 ，大约是一次买 166刀？"
+  },
+  "raw_text": "简单理解下，常规仓是总账户10%，1w总仓  ，那赵哥发的常规仓1/6 ，大约是一次买 166刀？"
+}
