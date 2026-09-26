@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553071299775963179",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-09-25T15:50:52.536000+00:00",
+  "captured_at": "2026-09-26T09:10:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "Be真强"
+  },
+  "raw_text": "Be真强"
+}
