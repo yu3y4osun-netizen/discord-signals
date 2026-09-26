@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553303161102536765",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yangkobe",
+  "ts": "2026-09-26T07:12:12.584000+00:00",
+  "captured_at": "2026-09-26T21:14:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥才是唯一真神，其他都杂毛"
+  },
+  "raw_text": "赵哥才是唯一真神，其他都杂毛"
+}
