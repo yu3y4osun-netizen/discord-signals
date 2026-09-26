@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553052307309203547",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-25T14:35:24.379000+00:00",
+  "captured_at": "2026-09-26T09:10:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "买完了，看小说去了🤣"
+  },
+  "raw_text": "买完了，看小说去了🤣"
+}
