@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553078551966785627",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jelepeno",
+  "ts": "2026-09-25T16:19:41.593000+00:00",
+  "captured_at": "2026-09-26T09:10:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥的常规仓是一成"
+  },
+  "raw_text": "赵哥的常规仓是一成"
+}
