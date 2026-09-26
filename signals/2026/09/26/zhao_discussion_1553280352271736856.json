@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553280352271736856",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-09-26T05:41:34.535000+00:00",
+  "captured_at": "2026-09-26T21:14:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "美金的吧？ 然后可以绑定Apple pay进行消费？ 消费的都是账户里的余额？"
+  },
+  "raw_text": "美金的吧？ 然后可以绑定Apple pay进行消费？ 消费的都是账户里的余额？"
+}
