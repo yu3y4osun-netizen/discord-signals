@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553066712893620279",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wenwater",
+  "ts": "2026-09-25T15:32:38.938000+00:00",
+  "captured_at": "2026-09-26T09:10:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis要直线了"
+  },
+  "raw_text": "nbis要直线了"
+}
