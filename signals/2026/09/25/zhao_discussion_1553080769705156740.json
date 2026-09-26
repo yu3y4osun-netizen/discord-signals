@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553080769705156740",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-09-25T16:28:30.343000+00:00",
+  "captured_at": "2026-09-26T09:10:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但这样，小资金的话赵哥不经常发的票岂不是都跟不上了"
+  },
+  "raw_text": "但这样，小资金的话赵哥不经常发的票岂不是都跟不上了"
+}
