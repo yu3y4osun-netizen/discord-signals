@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553077453491282071",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-09-25T16:15:19.696000+00:00",
+  "captured_at": "2026-09-26T09:10:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "实话说，虽然进群以来一直跟不上操作、赵哥最近也没和大家聊什么，我还是卖反、做t失败。但现在确实心态好了很多，跌疯了也没之前慌了"
+  },
+  "raw_text": "实话说，虽然进群以来一直跟不上操作、赵哥最近也没和大家聊什么，我还是卖反、做t失败。但现在确实心态好了很多，跌疯了也没之前慌了"
+}
