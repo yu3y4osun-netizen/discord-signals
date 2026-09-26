@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553052084788531304",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-09-25T14:34:31.326000+00:00",
+  "captured_at": "2026-09-26T09:10:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "终于加 特斯拉 了"
+  },
+  "raw_text": "终于加 特斯拉\n了"
+}
