@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553078880032522261",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liuxingyu",
+  "ts": "2026-09-25T16:20:59.810000+00:00",
+  "captured_at": "2026-09-26T09:10:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥手把手教我了"
+  },
+  "raw_text": "赵哥手把手教我了"
+}
