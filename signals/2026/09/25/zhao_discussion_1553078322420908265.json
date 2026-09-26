@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553078322420908265",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-09-25T16:18:46.865000+00:00",
+  "captured_at": "2026-09-26T09:10:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥说的常规仓1/6，常规仓是怎么定义的？"
+  },
+  "raw_text": "赵哥说的常规仓1/6，常规仓是怎么定义的？"
+}
