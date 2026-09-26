@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553078814727217327",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yzleoyy",
+  "ts": "2026-09-25T16:20:44.240000+00:00",
+  "captured_at": "2026-09-26T09:10:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "爽呀这个be"
+  },
+  "raw_text": "爽呀这个be"
+}
