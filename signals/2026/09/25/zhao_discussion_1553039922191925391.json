@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553039922191925391",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozanlucky",
+  "ts": "2026-09-25T13:46:11.537000+00:00",
+  "captured_at": "2026-09-26T09:10:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥买卖点的价格变化都太快了，你们都是有一点差距就下单或者买吗？还是等赵哥一样的价格"
+  },
+  "raw_text": "赵哥买卖点的价格变化都太快了，你们都是有一点差距就下单或者买吗？还是等赵哥一样的价格"
+}
