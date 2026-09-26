@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553075047759880266",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-09-25T16:05:46.125000+00:00",
+  "captured_at": "2026-09-26T09:10:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "原油暴跌"
+  },
+  "raw_text": "原油暴跌"
+}
