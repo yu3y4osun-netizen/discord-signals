@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553078097648029887",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liuxingyu",
+  "ts": "2026-09-25T16:17:53.275000+00:00",
+  "captured_at": "2026-09-26T09:10:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "博士赵哥都说了，别想太多"
+  },
+  "raw_text": "博士赵哥都说了，别想太多"
+}
