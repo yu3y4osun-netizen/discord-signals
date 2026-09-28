@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554013301892059317",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-09-28T06:14:03.342000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在怕华尔街搞偷袭，三天就把指数拉上去，都来不及上车"
+  },
+  "raw_text": "现在怕华尔街搞偷袭，三天就把指数拉上去，都来不及上车"
+}
