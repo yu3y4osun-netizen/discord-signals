@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553918254236442625",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckfunzhao",
+  "ts": "2026-09-27T23:56:22.215000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "急跌好啊，等赵哥信号进货了"
+  },
+  "raw_text": "急跌好啊，等赵哥信号进货了"
+}
