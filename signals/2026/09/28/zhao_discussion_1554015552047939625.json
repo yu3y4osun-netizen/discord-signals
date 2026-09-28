@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554015552047939625",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-09-28T06:22:59.821000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不怕急拉急涨包下来的，就怕慢拉慢涨还不上车那肯定上不了了"
+  },
+  "raw_text": "不怕急拉急涨包下来的，就怕慢拉慢涨还不上车那肯定上不了了"
+}
