@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553954116261253121",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-09-28T02:18:52.388000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN",
+      "SNDK",
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "3层仓，闪迪 iren 特斯拉，还都是2x 好难受"
+  },
+  "raw_text": "3层仓，闪迪 iren 特斯拉，还都是2x 好难受"
+}
