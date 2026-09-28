@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554085549990740042",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mxy45",
+  "ts": "2026-09-28T11:01:08.631000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "坐稳起飞了"
+  },
+  "raw_text": "坐稳起飞了"
+}
