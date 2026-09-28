@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554048289911996498",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-09-28T08:33:05.136000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "卧槽，你这含精量有点低啊🤦"
+  },
+  "raw_text": "卧槽，你这含精量有点低啊🤦"
+}
