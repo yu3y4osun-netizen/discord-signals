@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553955323390460007",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-09-28T02:23:40.190000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "两倍还好吧 跟赵哥做一个t基本损耗就回来了"
+  },
+  "raw_text": "两倍还好吧 跟赵哥做一个t基本损耗就回来了"
+}
