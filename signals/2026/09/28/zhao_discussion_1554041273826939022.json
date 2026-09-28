@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554041273826939022",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-09-28T08:05:12.371000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "稳住，等赵哥"
+  },
+  "raw_text": "稳住，等赵哥"
+}
