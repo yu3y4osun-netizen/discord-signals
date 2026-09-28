@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554084426642620487",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-09-28T10:56:40.804000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "市场现在是不是在等mu的财报"
+  },
+  "raw_text": "市场现在是不是在等mu的财报"
+}
