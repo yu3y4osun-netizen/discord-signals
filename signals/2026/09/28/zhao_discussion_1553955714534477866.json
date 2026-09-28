@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553955714534477866",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-09-28T02:25:13.446000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我跌了2% 不过才五成仓 无所谓 急跌再加就是了 赵哥现在也四层"
+  },
+  "raw_text": "我跌了2% 不过才五成仓 无所谓 急跌再加就是了 赵哥现在也四层"
+}
