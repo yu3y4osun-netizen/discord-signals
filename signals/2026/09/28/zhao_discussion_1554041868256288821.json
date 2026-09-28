@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554041868256288821",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lateonrush77",
+  "ts": "2026-09-28T08:07:34.094000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "这个月前27天都是赚的吧 没有凡尔赛 回调就是加仓机会 不要恐慌 到时候又把赵哥烦到了 跟赵哥无数轮了 散户恐慌就是捡漏机会 加油"
+  },
+  "raw_text": "这个月前27天都是赚的吧 没有凡尔赛 回调就是加仓机会 不要恐慌 到时候又把赵哥烦到了 跟赵哥无数轮了 散户恐慌就是捡漏机会 加油"
+}
