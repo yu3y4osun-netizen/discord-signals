@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554112184278056981",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-28T12:46:58.740000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一开盘就是利好 一收盘就是利空"
+  },
+  "raw_text": "一开盘就是利好 一收盘就是利空"
+}
