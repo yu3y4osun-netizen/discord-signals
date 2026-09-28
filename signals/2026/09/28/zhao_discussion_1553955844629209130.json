@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553955844629209130",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-09-28T02:25:44.463000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥是6成"
+  },
+  "raw_text": "赵哥是6成"
+}
