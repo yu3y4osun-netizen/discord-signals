@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554043441514811453",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "brainloading",
+  "ts": "2026-09-28T08:13:49.188000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "普跌同沉不用慌，收盘寻底看稳当； 普涨我跌要提防，减持利空细查详。"
+  },
+  "raw_text": "普跌同沉不用慌，收盘寻底看稳当；\n普涨我跌要提防，减持利空细查详。"
+}
