@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553954790332174398",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-09-28T02:21:33.099000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "2x这种etf 什么情况下知道该不该跑？ 感觉snxx都快磨的不行了"
+  },
+  "raw_text": "2x这种etf 什么情况下知道该不该跑？  感觉snxx都快磨的不行了"
+}
