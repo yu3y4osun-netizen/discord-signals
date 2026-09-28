@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553960704346951681",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-09-28T02:45:03.110000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大A崩了"
+  },
+  "raw_text": "大A崩了"
+}
