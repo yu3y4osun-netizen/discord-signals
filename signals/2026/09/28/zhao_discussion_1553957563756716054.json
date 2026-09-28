@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553957563756716054",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jellyfu",
+  "ts": "2026-09-28T02:32:34.335000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QCOM"
+    ],
+    "is_following_zhao": true,
+    "summary": "其实上周五盘中 高通是解套了的"
+  },
+  "raw_text": "其实上周五盘中 高通是解套了的"
+}
