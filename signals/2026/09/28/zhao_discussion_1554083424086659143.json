@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554083424086659143",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-09-28T10:52:41.776000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLL"
+    ],
+    "is_following_zhao": false,
+    "summary": "嗯 我看像tsll nvdl是可以买的 但是nbil snxx litx这种都买不了"
+  },
+  "raw_text": "嗯 我看像tsll nvdl是可以买的 但是nbil snxx litx这种都买不了"
+}
