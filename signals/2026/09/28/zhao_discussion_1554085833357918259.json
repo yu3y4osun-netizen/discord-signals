@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554085833357918259",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dasheng9527",
+  "ts": "2026-09-28T11:02:16.191000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "nvda起飞"
+  },
+  "raw_text": "nvda起飞"
+}
