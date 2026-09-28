@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554046390961836042",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-28T08:25:32.391000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥开始加仓了 可惜第一证券买不了"
+  },
+  "raw_text": "赵哥开始加仓了 可惜第一证券买不了"
+}
