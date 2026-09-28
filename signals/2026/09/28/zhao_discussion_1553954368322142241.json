@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1553954368322142241",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-09-28T02:19:52.484000+00:00",
+  "captured_at": "2026-09-28T21:01:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "满仓的前两天也賺了 短期波动不改长期趋势"
+  },
+  "raw_text": "满仓的前两天也賺了 短期波动不改长期趋势"
+}
