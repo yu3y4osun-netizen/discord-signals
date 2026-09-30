@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554837881938251797",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-09-30T12:50:38.545000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这会赵哥双倍发的也很少了，知道有我这种笨的，跟不上节奏！🫣"
+  },
+  "raw_text": "这会赵哥双倍发的也很少了，知道有我这种笨的，跟不上节奏！🫣"
+}
