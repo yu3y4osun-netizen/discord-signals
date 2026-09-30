@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554155866758971465",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-09-28T15:40:33.455000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MCD"
+    ],
+    "is_following_zhao": false,
+    "summary": "别聊 MCD 之类的消费股了，义父好不容易出来说话🥺"
+  },
+  "raw_text": "别聊 MCD 之类的消费股了，义父好不容易出来说话🥺"
+}
