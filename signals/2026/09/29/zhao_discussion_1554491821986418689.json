@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554491821986418689",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-09-29T13:55:31.423000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "be还在拉 太牛了"
+  },
+  "raw_text": "be还在拉 太牛了"
+}
