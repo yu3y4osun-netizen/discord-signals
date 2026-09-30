@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554495772827844748",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozanlucky",
+  "ts": "2026-09-29T14:11:13.377000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我算懂了，真不需要问，赵哥买啥就跟着买啥，赵哥卖就跟着卖。。无脑跟最好。"
+  },
+  "raw_text": "我算懂了，真不需要问，赵哥买啥就跟着买啥，赵哥卖就跟着卖。。无脑跟最好。"
+}
