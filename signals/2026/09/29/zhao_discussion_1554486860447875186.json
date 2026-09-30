@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554486860447875186",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "flyin88",
+  "ts": "2026-09-29T13:35:48.500000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "be都走完了吧"
+  },
+  "raw_text": "be都走完了吧"
+}
