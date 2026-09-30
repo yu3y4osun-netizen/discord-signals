@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554487032024399924",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-29T13:36:29.407000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "lite开始爆发"
+  },
+  "raw_text": "lite开始爆发"
+}
