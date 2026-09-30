@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554507510088466515",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-09-29T14:57:51.758000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "下周10月6日就是stock and option建群一周年了，赵哥兄弟姐妹们赚大钱🤑"
+  },
+  "raw_text": "下周10月6日就是stock and option建群一周年了，赵哥兄弟姐妹们赚大钱🤑"
+}
