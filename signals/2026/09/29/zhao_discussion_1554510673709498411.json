@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554510673709498411",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-09-29T15:10:26.024000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "感谢赵哥，刚进群的时候我经常割肉"
+  },
+  "raw_text": "感谢赵哥，刚进群的时候我经常割肉"
+}
