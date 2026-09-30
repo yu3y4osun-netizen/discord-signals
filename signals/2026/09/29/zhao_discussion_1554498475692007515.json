@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554498475692007515",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soluteayu",
+  "ts": "2026-09-29T14:21:57.790000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "那你就买QQQ就好了"
+  },
+  "raw_text": "那你就买QQQ就好了"
+}
