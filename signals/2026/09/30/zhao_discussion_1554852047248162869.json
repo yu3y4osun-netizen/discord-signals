@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554852047248162869",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "felix-trader",
+  "ts": "2026-09-30T13:46:55.818000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥的机器检测的是大单，大单买入的时候肯定多少会拉起来的，再加上还要发群里，延迟大不大那就看大单拉起来多少，跟着市价买卖就行了"
+  },
+  "raw_text": "赵哥的机器检测的是大单，大单买入的时候肯定多少会拉起来的，再加上还要发群里，延迟大不大那就看大单拉起来多少，跟着市价买卖就行了"
+}
