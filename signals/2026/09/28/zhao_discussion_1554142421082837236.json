@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554142421082837236",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "slickbacon",
+  "ts": "2026-09-28T14:47:07.756000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq要去MA60了"
+  },
+  "raw_text": "qqq要去MA60了"
+}
