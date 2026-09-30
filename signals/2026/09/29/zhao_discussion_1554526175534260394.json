@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554526175534260394",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-29T16:12:01.947000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "受不了了 我要割肉了 哈哈哈哈🤣"
+  },
+  "raw_text": "受不了了 我要割肉了  哈哈哈哈🤣"
+}
