@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554513064135753799",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-09-29T15:19:55.946000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是不是可以和whop提一下 加个类似群公告的功能，能减不少对赵哥的提问"
+  },
+  "raw_text": "是不是可以和whop提一下 加个类似群公告的功能，能减不少对赵哥的提问"
+}
