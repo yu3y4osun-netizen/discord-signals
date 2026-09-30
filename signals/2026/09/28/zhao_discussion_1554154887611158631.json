@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554154887611158631",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-09-28T15:36:40.008000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥买的时候，你们都会跟着买吗。有的股我不认识。就挑了熟悉认识的。"
+  },
+  "raw_text": "赵哥买的时候，你们都会跟着买吗。有的股我不认识。就挑了熟悉认识的。"
+}
