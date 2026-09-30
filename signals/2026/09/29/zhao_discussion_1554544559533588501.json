@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554544559533588501",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-29T17:25:05.034000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "RKLB"
+    ],
+    "is_following_zhao": false,
+    "summary": "他跟rklb巅峰时期上下20个点波动都有"
+  },
+  "raw_text": "他跟rklb巅峰时期上下20个点波动都有"
+}
