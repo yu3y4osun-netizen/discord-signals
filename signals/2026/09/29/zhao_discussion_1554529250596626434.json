@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554529250596626434",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-29T16:24:15.099000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "才能感受到赵哥说的赚钱是大风出来的感觉"
+  },
+  "raw_text": "才能感受到赵哥说的赚钱是大风出来的感觉"
+}
