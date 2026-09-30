@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554852927980441672",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-30T13:50:25.801000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还是听赵哥的吧，我看不到能拉多高，只能判断能不能吸一点"
+  },
+  "raw_text": "还是听赵哥的吧，我看不到能拉多高，只能判断能不能吸一点"
+}
