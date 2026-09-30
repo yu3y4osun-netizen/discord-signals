@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554499349046886401",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mxy45",
+  "ts": "2026-09-29T14:25:26.014000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "Intc没跟上，可惜了"
+  },
+  "raw_text": "Intc没跟上，可惜了"
+}
