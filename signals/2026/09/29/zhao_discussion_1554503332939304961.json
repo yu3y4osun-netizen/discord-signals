@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554503332939304961",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-29T14:41:15.848000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "amd也没啥问题，造CPU门槛高的一批，INTC和AMD都没毛病，INTC更好点，amd的苏妈是台湾人，这是个缺点"
+  },
+  "raw_text": "amd也没啥问题，造CPU门槛高的一批，INTC和AMD都没毛病，INTC更好点，amd的苏妈是台湾人，这是个缺点"
+}
