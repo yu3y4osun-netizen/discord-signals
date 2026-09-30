@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554837168441270275",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-30T12:47:48.434000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "MSFT",
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "我只敢做谷歌，台积电，微软的期权，基本上今天买明天就卖了"
+  },
+  "raw_text": "我只敢做谷歌，台积电，微软的期权，基本上今天买明天就卖了"
+}
