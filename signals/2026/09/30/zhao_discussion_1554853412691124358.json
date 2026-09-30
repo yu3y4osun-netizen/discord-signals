@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554853412691124358",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jasonic",
+  "ts": "2026-09-30T13:52:21.365000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv要预判赵哥的预判才行"
+  },
+  "raw_text": "crwv要预判赵哥的预判才行"
+}
