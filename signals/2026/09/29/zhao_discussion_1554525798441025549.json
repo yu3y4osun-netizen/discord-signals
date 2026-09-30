@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554525798441025549",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-29T16:10:32.041000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "跟了快一年，我就问过一次赵哥，我觉得在美股发布群里 赵哥该说的都说了，真没啥要问的。我是无法理解那些喜欢重复问 问题的人。"
+  },
+  "raw_text": "跟了快一年，我就问过一次赵哥，我觉得在美股发布群里 赵哥该说的都说了，真没啥要问的。我是无法理解那些喜欢重复问  问题的人。"
+}
