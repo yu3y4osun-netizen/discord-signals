@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554503129934995477",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-29T14:40:27.448000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "cpu里面into amd也可以"
+  },
+  "raw_text": "cpu里面into amd也可以"
+}
