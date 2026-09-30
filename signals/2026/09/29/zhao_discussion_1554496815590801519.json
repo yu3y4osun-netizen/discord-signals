@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554496815590801519",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-09-29T14:15:21.991000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "老老实实跟赵哥买就行"
+  },
+  "raw_text": "老老实实跟赵哥买就行"
+}
