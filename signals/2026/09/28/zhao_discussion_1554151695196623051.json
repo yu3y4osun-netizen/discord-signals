@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554151695196623051",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-09-28T15:23:58.877000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "开始抄赵哥的底了😂"
+  },
+  "raw_text": "开始抄赵哥的底了😂"
+}
