@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554525160131010612",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "brainloading",
+  "ts": "2026-09-29T16:07:59.856000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我半年没@过赵哥了 非常舍不得消耗赵哥的token 大家平时珍惜提问的机会"
+  },
+  "raw_text": "我半年没@过赵哥了 非常舍不得消耗赵哥的token  大家平时珍惜提问的机会"
+}
