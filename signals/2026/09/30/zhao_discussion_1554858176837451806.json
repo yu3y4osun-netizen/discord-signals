@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554858176837451806",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepblue1",
+  "ts": "2026-09-30T14:11:17.226000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但是上了杠杆，一看到跌了，心里还是慌得一P"
+  },
+  "raw_text": "但是上了杠杆，一看到跌了，心里还是慌得一P"
+}
