@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554153029727555725",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-28T15:29:17.054000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "想问一下各位课代表去年赵哥每次加三分之一仓位，现在怎么描述成六分之一了"
+  },
+  "raw_text": "想问一下各位课代表去年赵哥每次加三分之一仓位，现在怎么描述成六分之一了"
+}
