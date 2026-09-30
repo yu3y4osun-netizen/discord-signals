@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554811961479401543",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-30T11:07:38.626000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COHR",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "之前买的是cohr 还有NBIS，第一次买这两个"
+  },
+  "raw_text": "之前买的是cohr 还有NBIS，第一次买这两个"
+}
