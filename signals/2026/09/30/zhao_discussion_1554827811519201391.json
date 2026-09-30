@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554827811519201391",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-30T12:10:37.570000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "很多抄底的也是一度跌了八九个点 开盘一瞬间全部爆拉 不要动不动就割肉 那是韭菜"
+  },
+  "raw_text": "很多抄底的也是一度跌了八九个点 开盘一瞬间全部爆拉 不要动不动就割肉 那是韭菜"
+}
