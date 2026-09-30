@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554496679317864604",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-09-29T14:14:49.501000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一问这个赵哥就闭麦了"
+  },
+  "raw_text": "一问这个赵哥就闭麦了"
+}
