@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554386365905502330",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-09-29T06:56:28.734000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "等赵哥，哈哈哈哈，夜盘不敢乱动，以前被埋了多次"
+  },
+  "raw_text": "等赵哥，哈哈哈哈，夜盘不敢乱动，以前被埋了多次"
+}
