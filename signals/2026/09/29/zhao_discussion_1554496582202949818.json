@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554496582202949818",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mxy45",
+  "ts": "2026-09-29T14:14:26.347000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥令令令申申申申申不买消费股"
+  },
+  "raw_text": "赵哥令令令申申申申申不买消费股"
+}
