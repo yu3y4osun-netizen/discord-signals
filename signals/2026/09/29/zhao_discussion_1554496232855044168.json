@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554496232855044168",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckfunzhao",
+  "ts": "2026-09-29T14:13:03.056000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "GLD"
+    ],
+    "is_following_zhao": false,
+    "summary": "Gld是黄金那个吗？那黄金也要起飞了？"
+  },
+  "raw_text": "Gld是黄金那个吗？那黄金也要起飞了？"
+}
