@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554526203212202158",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckfunzhao",
+  "ts": "2026-09-29T16:12:08.546000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跟着赵哥做个无情的交易机器就行，不要情绪"
+  },
+  "raw_text": "跟着赵哥做个无情的交易机器就行，不要情绪"
+}
