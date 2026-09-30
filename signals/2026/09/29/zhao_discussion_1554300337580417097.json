@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554300337580417097",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-09-29T01:14:37.983000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren也是很痛啊"
+  },
+  "raw_text": "iren也是很痛啊"
+}
