@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554849821964238882",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepblue1",
+  "ts": "2026-09-30T13:38:05.269000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我不敢T ，水平太洼，怕T没做成，干成加仓了- -"
+  },
+  "raw_text": "我不敢T ，水平太洼，怕T没做成，干成加仓了- -"
+}
