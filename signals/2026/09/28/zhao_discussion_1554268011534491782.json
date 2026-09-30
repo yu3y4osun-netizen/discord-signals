@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554268011534491782",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-09-28T23:06:10.853000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "卧槽 醒了一看账户回来了一大半"
+  },
+  "raw_text": "卧槽 醒了一看账户回来了一大半"
+}
