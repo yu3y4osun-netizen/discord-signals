@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554497210455031891",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-09-29T14:16:56.134000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE",
+      "LITE",
+      "MU",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "yh哥都给你写好名单了 nbis lite mu be你就买这几个就行了"
+  },
+  "raw_text": "yh哥都给你写好名单了 nbis lite mu be你就买这几个就行了"
+}
