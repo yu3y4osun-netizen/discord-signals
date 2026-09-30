@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554527358369661149",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-29T16:16:43.957000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还真有可能 偷赵哥发言去别的群装大佬"
+  },
+  "raw_text": "还真有可能 偷赵哥发言去别的群装大佬"
+}
