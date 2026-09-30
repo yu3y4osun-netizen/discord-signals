@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554148174875201678",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanged",
+  "ts": "2026-09-28T15:09:59.567000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 今天算是节日减持的开始吗？"
+  },
+  "raw_text": "赵哥  今天算是节日减持的开始吗？"
+}
