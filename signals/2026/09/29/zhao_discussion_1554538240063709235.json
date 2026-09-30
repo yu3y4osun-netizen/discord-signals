@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554538240063709235",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-09-29T16:59:58.355000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "兄弟们 为什么说赵哥10月5号左右会减仓 是会有一波暴力拉升吗 我没看到赵哥说的话"
+  },
+  "raw_text": "兄弟们 为什么说赵哥10月5号左右会减仓 是会有一波暴力拉升吗 我没看到赵哥说的话"
+}
