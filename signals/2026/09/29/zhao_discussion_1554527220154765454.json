@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554527220154765454",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "slickbacon",
+  "ts": "2026-09-29T16:16:11.004000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "兰德兄怎么看mu财报"
+  },
+  "raw_text": "兰德兄怎么看mu财报"
+}
