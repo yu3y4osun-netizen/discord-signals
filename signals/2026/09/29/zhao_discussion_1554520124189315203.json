@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554520124189315203",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-09-29T15:47:59.194000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "进群的第一性原来不就是来跟单，跟着赵哥赚钱的吗"
+  },
+  "raw_text": "进群的第一性原来不就是来跟单，跟着赵哥赚钱的吗"
+}
