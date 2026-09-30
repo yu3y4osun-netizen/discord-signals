@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554153835814068235",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-09-28T15:32:29.240000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这种行情只要有纪律性跟着赵哥爽吃"
+  },
+  "raw_text": "这种行情只要有纪律性跟着赵哥爽吃"
+}
