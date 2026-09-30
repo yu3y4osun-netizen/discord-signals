@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554150679977918509",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-09-28T15:19:56.830000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "因为特朗普团队让 大陆领导 访美的节点是中秋前三天正好是放大了减持恐慌"
+  },
+  "raw_text": "因为特朗普团队让 大陆领导 访美的节点是中秋前三天正好是放大了减持恐慌"
+}
