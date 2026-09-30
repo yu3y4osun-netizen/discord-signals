@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554155846316073062",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-09-28T15:40:28.581000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "只能是挑熟悉的，拿的住的，跟赵哥"
+  },
+  "raw_text": "只能是挑熟悉的，拿的住的，跟赵哥"
+}
