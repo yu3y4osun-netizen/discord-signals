@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554838362450305155",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-30T12:52:33.108000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": true,
+    "summary": "但我觉得云光存 BE 入点好的话还是不会砸套的"
+  },
+  "raw_text": "但我觉得云光存 BE 入点好的话还是不会砸套的"
+}
