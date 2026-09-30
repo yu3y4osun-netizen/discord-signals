@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554136432371830886",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-09-28T14:23:19.936000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COHR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cohr 跌了 5% 恐怖如斯"
+  },
+  "raw_text": "cohr 跌了 5%  恐怖如斯"
+}
