@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554853191294910595",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-30T13:51:28.580000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "SMCI"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv和smci一样，手要快呢"
+  },
+  "raw_text": "crwv和smci一样，手要快呢"
+}
