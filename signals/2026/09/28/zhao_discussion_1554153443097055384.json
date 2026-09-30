@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554153443097055384",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-09-28T15:30:55.609000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "义父，记得之前说大概10月中旬左右 spx 冲8000，现在还是这样吗"
+  },
+  "raw_text": "义父，记得之前说大概10月中旬左右 spx 冲8000，现在还是这样吗"
+}
