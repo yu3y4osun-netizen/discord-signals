@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554510105687367755",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-09-29T15:08:10.597000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "真的感谢赵哥 真的是义父完全不为过 完全颠覆了以前对世界和事物的认知 打开了全新的视角😁"
+  },
+  "raw_text": "真的感谢赵哥 真的是义父完全不为过 完全颠覆了以前对世界和事物的认知 打开了全新的视角😁"
+}
