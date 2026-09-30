@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554512590376280178",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "pinksnoopy",
+  "ts": "2026-09-29T15:18:02.993000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没事去教堂 去寺院 期待赵哥长命百岁"
+  },
+  "raw_text": "没事去教堂 去寺院 期待赵哥长命百岁"
+}
