@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554521633581047850",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-09-29T15:53:59.061000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren还没到底啊原来😵‍💫"
+  },
+  "raw_text": "iren还没到底啊原来😵‍💫"
+}
