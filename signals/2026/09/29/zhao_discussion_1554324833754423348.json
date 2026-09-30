@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554324833754423348",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-09-29T02:51:58.326000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "LITE",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "lite和nbis，crwv弹性最好"
+  },
+  "raw_text": "lite和nbis，crwv弹性最好"
+}
