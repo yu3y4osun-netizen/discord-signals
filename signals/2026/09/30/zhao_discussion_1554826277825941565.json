@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554826277825941565",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-09-30T12:04:31.909000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "被动不动就割，目前为止赵哥的点位没有亏过"
+  },
+  "raw_text": "被动不动就割，目前为止赵哥的点位没有亏过"
+}
