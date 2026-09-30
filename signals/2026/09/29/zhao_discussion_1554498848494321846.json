@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554498848494321846",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-29T14:23:26.673000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "QCOM"
+    ],
+    "is_following_zhao": true,
+    "summary": "我进群比较迟，所以不清楚发生了啥，高通胀不买消费股这个知道的，但是在想如果加息压制通胀，会不会对被压制的消费股反弹，我不知道理解对不对，所以想布局一下，我想吃股..."
+  },
+  "raw_text": "我进群比较迟，所以不清楚发生了啥，高通胀不买消费股这个知道的，但是在想如果加息压制通胀，会不会对被压制的消费股反弹，我不知道理解对不对，所以想布局一下，我想吃股息，有大盈利再买科技股，我试过亏完的，是真的怕了"
+}
