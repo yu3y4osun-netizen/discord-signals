@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554500710341804084",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-09-29T14:30:50.572000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "be是真卖飞了，主要买的少，一次性全卖了"
+  },
+  "raw_text": "be是真卖飞了，主要买的少，一次性全卖了"
+}
