@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554859383727329443",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnkdki",
+  "ts": "2026-09-30T14:16:04.971000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我记得paul哥之前也是跟着赵哥自己做出自己方法了"
+  },
+  "raw_text": "我记得paul哥之前也是跟着赵哥自己做出自己方法了"
+}
