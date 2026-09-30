@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554519516338196512",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-29T15:45:34.271000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "云光存我没有多少利润垫，谷歌的话至少稳，国庆期间指数有行情，想布局一下期权，但是不知道能不能轮动到谷歌"
+  },
+  "raw_text": "云光存我没有多少利润垫，谷歌的话至少稳，国庆期间指数有行情，想布局一下期权，但是不知道能不能轮动到谷歌"
+}
