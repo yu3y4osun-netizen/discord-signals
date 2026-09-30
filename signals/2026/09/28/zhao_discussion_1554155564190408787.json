@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554155564190408787",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-09-28T15:39:21.317000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个不好说。你要是觉得诱人怕错过。就买3-5股。😂"
+  },
+  "raw_text": "这个不好说。你要是觉得诱人怕错过。就买3-5股。😂"
+}
