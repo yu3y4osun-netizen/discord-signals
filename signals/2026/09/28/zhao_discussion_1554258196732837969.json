@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554258196732837969",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-09-28T22:27:10.822000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥的仓位管理也是相当厉害，真细节"
+  },
+  "raw_text": "赵哥的仓位管理也是相当厉害，真细节"
+}
