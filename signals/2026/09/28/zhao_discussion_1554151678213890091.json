@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554151678213890091",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-28T15:23:54.828000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我已经满仓，也开始融资了"
+  },
+  "raw_text": "我已经满仓，也开始融资了"
+}
