@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554848648100192338",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-30T13:33:25.398000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "谷歌终于让我赚到了"
+  },
+  "raw_text": "谷歌终于让我赚到了"
+}
