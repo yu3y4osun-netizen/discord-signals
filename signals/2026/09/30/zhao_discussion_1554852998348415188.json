@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554852998348415188",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jasonic",
+  "ts": "2026-09-30T13:50:42.578000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv是真的狗，昨天没卖出，今天又没卖出😂"
+  },
+  "raw_text": "crwv是真的狗，昨天没卖出，今天又没卖出😂"
+}
