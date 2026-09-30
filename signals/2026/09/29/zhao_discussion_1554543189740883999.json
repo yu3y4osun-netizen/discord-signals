@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554543189740883999",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuuumii",
+  "ts": "2026-09-29T17:19:38.450000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": false,
+    "summary": "asts好惨，我看做空比例也太高了🥲"
+  },
+  "raw_text": "asts好惨，我看做空比例也太高了🥲"
+}
