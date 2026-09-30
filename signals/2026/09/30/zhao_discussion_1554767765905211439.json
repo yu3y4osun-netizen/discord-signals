@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554767765905211439",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-09-30T08:12:01.580000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "记录赵哥仓位的 我们群里有人拿赵哥信息二次贩卖😅"
+  },
+  "raw_text": "记录赵哥仓位的 我们群里有人拿赵哥信息二次贩卖😅"
+}
