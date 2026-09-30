@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554168701761228882",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-28T16:31:33.558000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU",
+      "NVDA",
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "n bi s c mu c spx c nvda c"
+  },
+  "raw_text": "n bi s c mu c spx c nvda c"
+}
