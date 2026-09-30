@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554524243667197954",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-29T16:04:21.354000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "可想而知 当初赵哥在长桥当免费义工遇到黑子心理压力有多大"
+  },
+  "raw_text": "可想而知 当初赵哥在长桥当免费义工遇到黑子心理压力有多大"
+}
