@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554490654120349718",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-09-29T13:50:52.982000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [
+      "MU",
+      "SNDK"
+    ],
+    "is_following_zhao": true,
+    "summary": "我真后悔从mu换到闪迪了 以前买mu赚的好好的 就这次不信邪全买闪迪了"
+  },
+  "raw_text": "我真后悔从mu换到闪迪了 以前买mu赚的好好的 就这次不信邪全买闪迪了"
+}
