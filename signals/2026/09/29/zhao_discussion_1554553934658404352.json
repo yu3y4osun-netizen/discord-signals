@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554553934658404352",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-09-29T18:02:20.238000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": true,
+    "summary": "asts我买了一年多了 这股感觉让贝索斯给坑惨了 几次暴跌都是蓝色起源那边出的大问题😂"
+  },
+  "raw_text": "asts我买了一年多了 这股感觉让贝索斯给坑惨了 几次暴跌都是蓝色起源那边出的大问题😂"
+}
