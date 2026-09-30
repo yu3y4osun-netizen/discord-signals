@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554852269885751310",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "felix-trader",
+  "ts": "2026-09-30T13:47:48.899000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我一直都是赵哥发出来就直接市价，没问题的"
+  },
+  "raw_text": "我一直都是赵哥发出来就直接市价，没问题的"
+}
