@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554518417912893601",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-29T15:41:12.386000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "资金小，开不了超市，云光存都有好的，就怕挑了一个利空的，吃瘪了"
+  },
+  "raw_text": "资金小，开不了超市，云光存都有好的，就怕挑了一个利空的，吃瘪了"
+}
