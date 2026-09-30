@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554522317948981269",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-29T15:56:42.227000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "其实很多人知道卖赵哥信息得人是谁，但是为了他的面子也为了不让赵哥心烦，就不爆出来了，那个人自己看到了信息，及时收手吧，想跟单直接进赵哥群就行了，被必要为了那么点..."
+  },
+  "raw_text": "其实很多人知道卖赵哥信息得人是谁，但是为了他的面子也为了不让赵哥心烦，就不爆出来了，那个人自己看到了信息，及时收手吧，想跟单直接进赵哥群就行了，被必要为了那么点小钱出卖自己的良心"
+}
