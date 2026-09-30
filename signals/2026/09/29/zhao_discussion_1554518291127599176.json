@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554518291127599176",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-29T15:40:42.158000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "还是那句话 赵哥买你就买 赵哥没买的你自己买了亏的就不要一直问"
+  },
+  "raw_text": "还是那句话 赵哥买你就买 赵哥没买的你自己买了亏的就不要一直问"
+}
