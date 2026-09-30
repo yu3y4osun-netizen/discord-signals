@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554859758274613390",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangwang888",
+  "ts": "2026-09-30T14:17:34.270000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "今晚美光财报好像都不太看好啊"
+  },
+  "raw_text": "今晚美光财报好像都不太看好啊"
+}
