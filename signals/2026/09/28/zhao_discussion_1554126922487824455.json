@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554126922487824455",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangwang888",
+  "ts": "2026-09-28T13:45:32.603000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QCOM"
+    ],
+    "is_following_zhao": false,
+    "summary": "高通干啥了"
+  },
+  "raw_text": "高通干啥了"
+}
