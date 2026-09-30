@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554543230127968383",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-09-29T17:19:48.079000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "控制好仓位就根本不慌 我大概是0.7倍做多赵哥😂"
+  },
+  "raw_text": "控制好仓位就根本不慌 我大概是0.7倍做多赵哥😂"
+}
