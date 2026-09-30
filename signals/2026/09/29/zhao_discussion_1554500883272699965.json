@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554500883272699965",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-09-29T14:31:31.802000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "be今天太猛了，十几个点"
+  },
+  "raw_text": "be今天太猛了，十几个点"
+}
