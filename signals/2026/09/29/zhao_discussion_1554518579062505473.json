@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554518579062505473",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "slickbacon",
+  "ts": "2026-09-29T15:41:50.807000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不要一把梭哈，分批次拉开价差"
+  },
+  "raw_text": "不要一把梭哈，分批次拉开价差"
+}
