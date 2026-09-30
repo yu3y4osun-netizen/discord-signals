@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554156616365117562",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-09-28T15:43:32.175000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一开盘，赵哥就变成坐诊的医生。一个个回复患者问题😂"
+  },
+  "raw_text": "一开盘，赵哥就变成坐诊的医生。一个个回复患者问题😂"
+}
