@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554775943174815765",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-30T08:44:31.193000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "等赵哥信号补仓了"
+  },
+  "raw_text": "等赵哥信号补仓了"
+}
