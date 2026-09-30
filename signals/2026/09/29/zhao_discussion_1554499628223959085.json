@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554499628223959085",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-09-29T14:26:32.575000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥牛逼！！！"
+  },
+  "raw_text": "赵哥牛逼！！！"
+}
