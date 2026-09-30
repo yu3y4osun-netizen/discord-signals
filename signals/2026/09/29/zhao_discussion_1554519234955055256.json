@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554519234955055256",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-29T15:44:27.184000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是的，亏多了，主要是想建立自己的炒股逻辑，不然每天抄作业，抄完了，但是哪天没作业抄了咋整"
+  },
+  "raw_text": "是的，亏多了，主要是想建立自己的炒股逻辑，不然每天抄作业，抄完了，但是哪天没作业抄了咋整"
+}
