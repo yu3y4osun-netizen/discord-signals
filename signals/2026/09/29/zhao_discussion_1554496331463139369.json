@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554496331463139369",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-29T14:13:26.566000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我有点想买沃尔玛或者麦麦，那个您看怎么样，价格很心动，但是看不懂"
+  },
+  "raw_text": "我有点想买沃尔玛或者麦麦，那个您看怎么样，价格很心动，但是看不懂"
+}
