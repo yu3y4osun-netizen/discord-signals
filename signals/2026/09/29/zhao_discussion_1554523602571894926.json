@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554523602571894926",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-09-29T16:01:48.505000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不聊这种信息了，怕影响赵哥心情，那个人自己好自为之吧，"
+  },
+  "raw_text": "不聊这种信息了，怕影响赵哥心情，那个人自己好自为之吧，"
+}
