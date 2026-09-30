@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554517379063615580",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "slickbacon",
+  "ts": "2026-09-29T15:37:04.705000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "可能是muse太火，资金都去meta了"
+  },
+  "raw_text": "可能是muse太火，资金都去meta了"
+}
