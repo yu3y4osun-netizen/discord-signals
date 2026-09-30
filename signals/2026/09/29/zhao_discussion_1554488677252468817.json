@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554488677252468817",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meter123",
+  "ts": "2026-09-29T13:43:01.660000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOG"
+    ],
+    "is_following_zhao": false,
+    "summary": "我还看了一下goog 原来是坠机啊"
+  },
+  "raw_text": "我还看了一下goog\n原来是坠机啊"
+}
