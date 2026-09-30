@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554206155398578260",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dasheng9527",
+  "ts": "2026-09-28T19:00:23.201000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "wdc逆子"
+  },
+  "raw_text": "wdc逆子"
+}
