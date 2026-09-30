@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554142247207960648",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-09-28T14:46:26.301000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": true,
+    "summary": "买了点特斯拉。已经亏两个点了。还好买的也不多"
+  },
+  "raw_text": "买了点特斯拉。已经亏两个点了。还好买的也不多"
+}
