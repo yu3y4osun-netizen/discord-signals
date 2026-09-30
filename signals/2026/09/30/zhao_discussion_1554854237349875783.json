@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554854237349875783",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-09-30T13:55:37.979000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "跟赵哥买这么多票"
+  },
+  "raw_text": "跟赵哥买这么多票"
+}
