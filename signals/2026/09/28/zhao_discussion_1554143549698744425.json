@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554143549698744425",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "techotakupoi",
+  "ts": "2026-09-28T14:51:36.839000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPYU"
+    ],
+    "is_following_zhao": true,
+    "summary": "一晚上没看 SPYU已经干到成本线了"
+  },
+  "raw_text": "一晚上没看 SPYU已经干到成本线了"
+}
