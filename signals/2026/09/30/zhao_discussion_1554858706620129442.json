@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554858706620129442",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepblue1",
+  "ts": "2026-09-30T14:13:23.536000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "- -我谷歌的这张，昨天接近腰斩现在还没回本"
+  },
+  "raw_text": "- -我谷歌的这张，昨天接近腰斩现在还没回本"
+}
