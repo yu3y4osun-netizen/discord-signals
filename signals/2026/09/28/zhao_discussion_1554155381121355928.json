@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554155381121355928",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-28T15:38:37.670000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "最近一些防御股看着挺吸引人的，消费股那些，但是赵哥说通胀高不弄消费，又不敢乱买"
+  },
+  "raw_text": "最近一些防御股看着挺吸引人的，消费股那些，但是赵哥说通胀高不弄消费，又不敢乱买"
+}
