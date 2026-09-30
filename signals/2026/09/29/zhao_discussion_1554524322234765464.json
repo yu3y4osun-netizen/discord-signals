@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554524322234765464",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-29T16:04:40.086000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥轻仓 赌狗梭哈期权 赔了就骂人"
+  },
+  "raw_text": "赵哥轻仓 赌狗梭哈期权 赔了就骂人"
+}
