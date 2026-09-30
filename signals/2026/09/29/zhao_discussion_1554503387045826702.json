@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554503387045826702",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-09-29T14:41:28.748000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "要看资金 无人驾驶推迟10月15日了利空"
+  },
+  "raw_text": "要看资金  无人驾驶推迟10月15日了利空"
+}
