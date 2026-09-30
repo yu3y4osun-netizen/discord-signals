@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554516583278321754",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-09-29T15:33:54.975000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "想问一下各位，像云光存这类涨完了才到谷歌这些M7大盘股嘛？"
+  },
+  "raw_text": "想问一下各位，像云光存这类涨完了才到谷歌这些M7大盘股嘛？"
+}
