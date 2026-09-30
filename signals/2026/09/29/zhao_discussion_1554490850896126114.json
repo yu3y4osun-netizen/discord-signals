@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554490850896126114",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meter123",
+  "ts": "2026-09-29T13:51:39.897000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我就是赵哥说出直线"
+  },
+  "raw_text": "我就是赵哥说出直线"
+}
