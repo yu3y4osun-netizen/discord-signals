@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554520100839620629",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yangkobe",
+  "ts": "2026-09-29T15:47:53.627000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "同学我就是有自己的想法擅自买了谷歌的期权，现在水下26"
+  },
+  "raw_text": "同学我就是有自己的想法擅自买了谷歌的期权，现在水下26"
+}
