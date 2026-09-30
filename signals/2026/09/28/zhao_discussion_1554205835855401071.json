@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554205835855401071",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-09-28T18:59:07.016000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "lite起来了"
+  },
+  "raw_text": "lite起来了"
+}
