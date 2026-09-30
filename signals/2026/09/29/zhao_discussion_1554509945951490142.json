@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554509945951490142",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-09-29T15:07:32.513000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "从HIMS评论区认识的赵哥，也快两年了，跟赵哥前辈真的学习到了好多"
+  },
+  "raw_text": "从HIMS评论区认识的赵哥，也快两年了，跟赵哥前辈真的学习到了好多"
+}
