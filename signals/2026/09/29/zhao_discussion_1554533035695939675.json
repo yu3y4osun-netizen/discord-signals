@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554533035695939675",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "slickbacon",
+  "ts": "2026-09-29T16:39:17.537000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我都是5份资金，纺锤加仓，不到不买"
+  },
+  "raw_text": "我都是5份资金，纺锤加仓，不到不买"
+}
