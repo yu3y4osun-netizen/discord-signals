@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554855074331762819",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jasonic",
+  "ts": "2026-09-30T13:58:57.531000+00:00",
+  "captured_at": "2026-09-30T22:18:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你慌就是对赵哥最大的不尊重😂"
+  },
+  "raw_text": "你慌就是对赵哥最大的不尊重😂"
+}
