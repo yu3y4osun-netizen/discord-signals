@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554860853017317488",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-30T14:21:55.277000+00:00",
+  "captured_at": "2026-10-01T10:18:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "主要是iren和cbrs这逗比拉低了收益"
+  },
+  "raw_text": "主要是iren和cbrs这逗比拉低了收益"
+}
