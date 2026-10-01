@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554876930380267653",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-09-30T15:25:48.419000+00:00",
+  "captured_at": "2026-10-01T10:18:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天赵哥要等到三点半动手"
+  },
+  "raw_text": "今天赵哥要等到三点半动手"
+}
