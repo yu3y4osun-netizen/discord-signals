@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554878498471018499",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-30T15:32:02.281000+00:00",
+  "captured_at": "2026-10-01T10:18:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "IREN 赵哥还有仓位吗？"
+  },
+  "raw_text": "IREN 赵哥还有仓位吗？"
+}
