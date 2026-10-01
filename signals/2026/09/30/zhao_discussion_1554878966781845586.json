@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554878966781845586",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuuumii",
+  "ts": "2026-09-30T15:33:53.935000+00:00",
+  "captured_at": "2026-10-01T10:18:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ARM"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥麻烦问问arm可以补仓吗，昨天冲高没到成本就没有T"
+  },
+  "raw_text": "赵哥麻烦问问arm可以补仓吗，昨天冲高没到成本就没有T"
+}
