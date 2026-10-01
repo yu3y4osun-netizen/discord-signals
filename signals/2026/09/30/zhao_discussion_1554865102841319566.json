@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554865102841319566",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-30T14:38:48.514000+00:00",
+  "captured_at": "2026-10-01T10:18:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是市场已经在美光给的指引里面选择了偏高的数字预期"
+  },
+  "raw_text": "就是市场已经在美光给的指引里面选择了偏高的数字预期"
+}
