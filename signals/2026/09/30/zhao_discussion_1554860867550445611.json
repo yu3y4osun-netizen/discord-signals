@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554860867550445611",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-30T14:21:58.742000+00:00",
+  "captured_at": "2026-10-01T10:18:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTW"
+    ],
+    "is_following_zhao": false,
+    "summary": "那今天应该还不错啊，intw差不多5%呢"
+  },
+  "raw_text": "那今天应该还不错啊，intw差不多5%呢"
+}
