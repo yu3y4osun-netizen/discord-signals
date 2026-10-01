@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554876679631929398",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-30T15:24:48.636000+00:00",
+  "captured_at": "2026-10-01T10:18:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMZN"
+    ],
+    "is_following_zhao": true,
+    "summary": "买了亚马逊的期权被我磨的不要不要的"
+  },
+  "raw_text": "买了亚马逊的期权被我磨的不要不要的"
+}
