@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554864607015739453",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-30T14:36:50.300000+00:00",
+  "captured_at": "2026-10-01T10:18:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "每当这个时候，我就有点担心meta这狗东西"
+  },
+  "raw_text": "每当这个时候，我就有点担心meta这狗东西"
+}
