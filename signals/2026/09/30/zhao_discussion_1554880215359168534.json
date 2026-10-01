@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554880215359168534",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-30T15:38:51.619000+00:00",
+  "captured_at": "2026-10-01T10:18:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ARM",
+      "NXPI",
+      "QCOM",
+      "TXN"
+    ],
+    "is_following_zhao": false,
+    "summary": "买arm不如买NXPI，买NXPI不如买qcom，买qcom不如买TXN🫠"
+  },
+  "raw_text": "买arm不如买NXPI，买NXPI不如买qcom，买qcom不如买TXN🫠"
+}
