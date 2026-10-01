@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554863591931510854",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-09-30T14:32:48.285000+00:00",
+  "captured_at": "2026-10-01T10:18:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "谷歌老套路了"
+  },
+  "raw_text": "谷歌老套路了"
+}
