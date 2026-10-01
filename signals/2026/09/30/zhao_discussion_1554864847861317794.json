@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554864847861317794",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnkdki",
+  "ts": "2026-09-30T14:37:47.722000+00:00",
+  "captured_at": "2026-10-01T10:18:38+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "内存现货价格还在涨，虽然是说已经让大厂难受了，但应该不会影响过去一个季度的表现，所以MU财报应该很亮眼吧？"
+  },
+  "raw_text": "内存现货价格还在涨，虽然是说已经让大厂难受了，但应该不会影响过去一个季度的表现，所以MU财报应该很亮眼吧？"
+}
