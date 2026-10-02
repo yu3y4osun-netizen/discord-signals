@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554942390639268001",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-09-30T19:45:55.361000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "如果赵哥能给whop社群的读权限就好了 可以用muse去帮助记录赵哥的持仓 @xiaozhaolucky"
+  },
+  "raw_text": "如果赵哥能给whop社群的读权限就好了 可以用muse去帮助记录赵哥的持仓 @xiaozhaolucky"
+}
