@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554881825468452996",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-30T15:45:15.499000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ARM",
+      "QCOM"
+    ],
+    "is_following_zhao": false,
+    "summary": "德州仪器，特别屌，高通，也挺好，恩智浦，有点没落的味道，倒也不必。ARM，卖IP的，以前英国的，后来软银孙正义买走了，后来又卖了🫠"
+  },
+  "raw_text": "德州仪器，特别屌，高通，也挺好，恩智浦，有点没落的味道，倒也不必。ARM，卖IP的，以前英国的，后来软银孙正义买走了，后来又卖了🫠"
+}
