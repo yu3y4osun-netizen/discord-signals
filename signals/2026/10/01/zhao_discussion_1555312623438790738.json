@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555312623438790738",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "c8641",
+  "ts": "2026-10-01T20:17:05.739000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "还是买点谷歌吧，跌多少都睡得着。。。"
+  },
+  "raw_text": "还是买点谷歌吧，跌多少都睡得着。。。"
+}
