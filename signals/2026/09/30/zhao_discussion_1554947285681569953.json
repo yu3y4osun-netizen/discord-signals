@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554947285681569953",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-09-30T20:05:22.430000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": ")美光科技第四季度调整后每股收益为 33.42 美元，超出 31.45 美元的预期；销售额为 542.29 亿美元，超出 507.51 亿美元的预期"
+  },
+  "raw_text": ")美光科技第四季度调整后每股收益为 33.42 美元，超出 31.45 美元的预期；销售额为 542.29 亿美元，超出 507.51 亿美元的预期"
+}
