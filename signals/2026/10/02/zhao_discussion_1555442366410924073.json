@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555442366410924073",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-02T04:52:38.874000+00:00",
+  "captured_at": "2026-10-02T21:15:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "Cifr iren"
+  },
+  "raw_text": "Cifr iren"
+}
