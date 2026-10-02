@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555536494951923724",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-02T11:06:40.867000+00:00",
+  "captured_at": "2026-10-02T21:15:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "准备加仓"
+  },
+  "raw_text": "准备加仓"
+}
