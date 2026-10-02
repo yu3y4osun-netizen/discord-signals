@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555229113675948146",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-01T14:45:15.460000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE",
+      "MU",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis lite mu这种不会像7月那样跌"
+  },
+  "raw_text": "nbis lite mu这种不会像7月那样跌"
+}
