@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555233238522396793",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meter123",
+  "ts": "2026-10-01T15:01:38.900000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAOI",
+      "CRWV",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "Aaoi和iren还有crwv有统一的问题"
+  },
+  "raw_text": "Aaoi和iren还有crwv有统一的问题"
+}
