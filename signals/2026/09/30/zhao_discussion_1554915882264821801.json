@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554915882264821801",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-09-30T18:00:35.272000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "mu需要参考一下eps 和sales"
+  },
+  "raw_text": "mu需要参考一下eps 和sales"
+}
