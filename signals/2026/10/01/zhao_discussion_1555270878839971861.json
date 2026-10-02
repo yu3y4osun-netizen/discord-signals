@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555270878839971861",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-01T17:31:13.051000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "Cifr 我直接不格局，全卖了，不然手续费都不够扣的"
+  },
+  "raw_text": "Cifr 我直接不格局，全卖了，不然手续费都不够扣的"
+}
