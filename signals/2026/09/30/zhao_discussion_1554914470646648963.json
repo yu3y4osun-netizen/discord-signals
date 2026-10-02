@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554914470646648963",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-30T17:54:58.716000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "我看美光0925的时候 IV 就上去了"
+  },
+  "raw_text": "我看美光0925的时候 IV 就上去了"
+}
