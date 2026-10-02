@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554914106165829736",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "c8641",
+  "ts": "2026-09-30T17:53:31.817000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "特斯拉发债还能拉上去"
+  },
+  "raw_text": "特斯拉发债还能拉上去"
+}
