@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554884424242565161",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-30T15:55:35.095000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "@yhhaaland123 博通的 CALL 还拿着吗？"
+  },
+  "raw_text": "@yhhaaland123 博通的 CALL 还拿着吗？"
+}
