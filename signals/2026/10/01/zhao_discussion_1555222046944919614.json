@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555222046944919614",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-01T14:17:10.620000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren财报跌那么多，不也过来了"
+  },
+  "raw_text": "iren财报跌那么多，不也过来了"
+}
