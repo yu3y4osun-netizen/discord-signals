@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554934349307314369",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-09-30T19:13:58.158000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "我看mu财报指引上下幅度是+- 6.3%-8.5%"
+  },
+  "raw_text": "我看mu财报指引上下幅度是+- 6.3%-8.5%"
+}
