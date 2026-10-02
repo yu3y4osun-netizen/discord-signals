@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554918736039780414",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haojue",
+  "ts": "2026-09-30T18:11:55.665000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "哈兰德对美光研究深"
+  },
+  "raw_text": "哈兰德对美光研究深"
+}
