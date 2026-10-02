@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554946227504816210",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-09-30T20:01:10.141000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "tesla拉起来了"
+  },
+  "raw_text": "tesla拉起来了"
+}
