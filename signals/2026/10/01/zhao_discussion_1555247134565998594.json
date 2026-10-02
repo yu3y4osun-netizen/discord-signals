@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555247134565998594",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-01T15:56:51.975000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ",
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "spy和qqq都开始转头了"
+  },
+  "raw_text": "spy和qqq都开始转头了"
+}
