@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555227525683085424",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-01T14:38:56.853000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "刚才的cbrs，能和赵哥同频，我最近研究了个新玩法，轮着看赵哥买的票，如果往起来拉的坡度太陡，我卖点等低吸。如果跌下去的太陡，我也吸点🤣"
+  },
+  "raw_text": "刚才的cbrs，能和赵哥同频，我最近研究了个新玩法，轮着看赵哥买的票，如果往起来拉的坡度太陡，我卖点等低吸。如果跌下去的太陡，我也吸点🤣"
+}
