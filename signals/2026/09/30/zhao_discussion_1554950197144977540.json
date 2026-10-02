@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554950197144977540",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckystick16",
+  "ts": "2026-09-30T20:16:56.577000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我看了一下，谷歌的api好像是美国主要厂商最便宜的，还要考虑谷歌的办公生态"
+  },
+  "raw_text": "我看了一下，谷歌的api好像是美国主要厂商最便宜的，还要考虑谷歌的办公生态"
+}
