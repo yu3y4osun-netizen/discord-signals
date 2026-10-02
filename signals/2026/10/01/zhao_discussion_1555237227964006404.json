@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555237227964006404",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-01T15:17:30.057000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不怕各位笑话，我买了30股麦当劳，想着当股东的，现在我决定割肉卖了"
+  },
+  "raw_text": "不怕各位笑话，我买了30股麦当劳，想着当股东的，现在我决定割肉卖了"
+}
