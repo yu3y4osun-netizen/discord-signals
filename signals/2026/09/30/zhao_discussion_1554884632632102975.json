@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554884632632102975",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-09-30T15:56:24.779000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOG",
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "$谷歌-C(GOOG.US) longcall 清了 就剩正股和 sell put 不是投资建议！"
+  },
+  "raw_text": "$谷歌-C(GOOG.US) longcall 清了\n\n就剩正股和 sell put\n\n不是投资建议！"
+}
