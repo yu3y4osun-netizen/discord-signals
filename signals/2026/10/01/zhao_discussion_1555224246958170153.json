@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555224246958170153",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-01T14:25:55.144000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但是出完了"
+  },
+  "raw_text": "但是出完了"
+}
