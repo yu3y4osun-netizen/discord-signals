@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554860019181424745",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-30T14:18:36.475000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥给了我极大的启发和思路，要学的东西太多，以前的还没研究清楚呢，我是\"研究生\"😅"
+  },
+  "raw_text": "赵哥给了我极大的启发和思路，要学的东西太多，以前的还没研究清楚呢，我是\"研究生\"😅"
+}
