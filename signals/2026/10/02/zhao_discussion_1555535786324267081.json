@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555535786324267081",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-02T11:03:51.917000+00:00",
+  "captured_at": "2026-10-02T21:15:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "卧槽卧槽"
+  },
+  "raw_text": "卧槽卧槽"
+}
