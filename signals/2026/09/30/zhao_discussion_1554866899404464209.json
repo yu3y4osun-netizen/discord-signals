@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554866899404464209",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-30T14:45:56.848000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "TSLL"
+    ],
+    "is_following_zhao": false,
+    "summary": "刚才的tsll该走了，不太稳了"
+  },
+  "raw_text": "刚才的tsll该走了，不太稳了"
+}
