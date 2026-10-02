@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555215903044534404",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-01T13:52:45.800000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "光就litx，存就muu，云就nbis，买别的没有用"
+  },
+  "raw_text": "光就litx，存就muu，云就nbis，买别的没有用"
+}
