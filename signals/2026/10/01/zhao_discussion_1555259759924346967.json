@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555259759924346967",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jailingackman",
+  "ts": "2026-10-01T16:47:02.095000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "谷歌咋说加仓吗，看赵哥没行动蛙"
+  },
+  "raw_text": "谷歌咋说加仓吗，看赵哥没行动蛙"
+}
