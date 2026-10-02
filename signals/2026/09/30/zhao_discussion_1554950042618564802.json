@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554950042618564802",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckystick16",
+  "ts": "2026-09-30T20:16:19.735000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "就算没有碾压，只要是平手局，谷歌的定价已经直接是价格战了"
+  },
+  "raw_text": "就算没有碾压，只要是平手局，谷歌的定价已经直接是价格战了"
+}
