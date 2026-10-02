@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555228008887881741",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jelepeno",
+  "ts": "2026-10-01T14:40:52.058000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NOK"
+    ],
+    "is_following_zhao": false,
+    "summary": "nok不算光吗直接不跟板块了"
+  },
+  "raw_text": "nok不算光吗直接不跟板块了"
+}
