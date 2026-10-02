@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555003740933587038",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-09-30T23:49:42.411000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "mu硬的啊"
+  },
+  "raw_text": "mu硬的啊"
+}
