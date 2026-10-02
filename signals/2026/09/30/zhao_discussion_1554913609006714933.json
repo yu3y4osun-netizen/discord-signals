@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554913609006714933",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-30T17:51:33.285000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "特斯拉期权真的是反人性的"
+  },
+  "raw_text": "特斯拉期权真的是反人性的"
+}
