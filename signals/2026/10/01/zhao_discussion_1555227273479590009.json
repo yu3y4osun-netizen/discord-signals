@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555227273479590009",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meter123",
+  "ts": "2026-10-01T14:37:56.723000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "跟着赵哥好好赚钱"
+  },
+  "raw_text": "跟着赵哥好好赚钱"
+}
