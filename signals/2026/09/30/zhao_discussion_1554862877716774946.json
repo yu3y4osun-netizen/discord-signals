@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554862877716774946",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangwang888",
+  "ts": "2026-09-30T14:29:58.003000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "美光财报不会带崩半导体吧"
+  },
+  "raw_text": "美光财报不会带崩半导体吧"
+}
