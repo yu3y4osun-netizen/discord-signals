@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555071190572470323",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-01T04:17:43.658000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "卖了点intc，夜盘先吃点垫垫"
+  },
+  "raw_text": "卖了点intc，夜盘先吃点垫垫"
+}
