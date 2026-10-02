@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555565937657118851",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-10-02T13:03:40.555000+00:00",
+  "captured_at": "2026-10-02T21:15:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，上世纪初，美股也是和a股一样，你觉得未来a股会变好吗，虽然我觉得可能性很小，但还是期望它能变好，不知道未来会不会从融资市变成投资市"
+  },
+  "raw_text": "赵哥，上世纪初，美股也是和a股一样，你觉得未来a股会变好吗，虽然我觉得可能性很小，但还是期望它能变好，不知道未来会不会从融资市变成投资市"
+}
