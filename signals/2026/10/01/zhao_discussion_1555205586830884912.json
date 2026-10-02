@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555205586830884912",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ciciwangyao",
+  "ts": "2026-10-01T13:11:46.223000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "感觉只能学赵哥，涨了就走一点，急跌加一点"
+  },
+  "raw_text": "感觉只能学赵哥，涨了就走一点，急跌加一点"
+}
