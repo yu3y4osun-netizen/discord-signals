@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554881956330868830",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuuumii",
+  "ts": "2026-09-30T15:45:46.699000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果有新人进来，有问赵哥的问题。就在起码10.30之后问，因为刚开盘的时候赵哥要看盘，那个时候波动比较大。大家可以参考我的问法，不用@赵哥，赵哥也能看到的。"
+  },
+  "raw_text": "如果有新人进来，有问赵哥的问题。就在起码10.30之后问，因为刚开盘的时候赵哥要看盘，那个时候波动比较大。大家可以参考我的问法，不用@赵哥，赵哥也能看到的。"
+}
