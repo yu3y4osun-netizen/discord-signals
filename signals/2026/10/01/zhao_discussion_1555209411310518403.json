@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555209411310518403",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-10-01T13:26:58.050000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥速度可真快"
+  },
+  "raw_text": "赵哥速度可真快"
+}
