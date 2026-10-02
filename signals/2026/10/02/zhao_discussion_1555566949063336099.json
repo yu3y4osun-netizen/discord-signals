@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555566949063336099",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gldslv",
+  "ts": "2026-10-02T13:07:41.693000+00:00",
+  "captured_at": "2026-10-02T21:15:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "别提 上次提了赵哥好像被ban了一下"
+  },
+  "raw_text": "别提 上次提了赵哥好像被ban了一下"
+}
