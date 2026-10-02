@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555567223416946809",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckfunzhao",
+  "ts": "2026-10-02T13:08:47.104000+00:00",
+  "captured_at": "2026-10-02T21:15:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "特斯拉起飞"
+  },
+  "raw_text": "特斯拉起飞"
+}
