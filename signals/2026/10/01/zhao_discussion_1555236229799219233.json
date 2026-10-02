@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555236229799219233",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-10-01T15:13:32.076000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "夜盘QQQ 新高老高兴了"
+  },
+  "raw_text": "夜盘QQQ 新高老高兴了"
+}
