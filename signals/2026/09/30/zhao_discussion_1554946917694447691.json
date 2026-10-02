@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554946917694447691",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-30T20:03:54.695000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "MU的成交量吓人"
+  },
+  "raw_text": "MU的成交量吓人"
+}
