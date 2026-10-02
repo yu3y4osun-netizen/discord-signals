@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554948531968549002",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haojue",
+  "ts": "2026-09-30T20:10:19.568000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不说拆股就是利空？"
+  },
+  "raw_text": "不说拆股就是利空？"
+}
