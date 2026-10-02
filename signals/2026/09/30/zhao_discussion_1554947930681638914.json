@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554947930681638914",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-09-30T20:07:56.210000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "GOOGL",
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "为什么MU的财报好，GOOGL大涨"
+  },
+  "raw_text": "为什么MU的财报好，GOOGL大涨"
+}
