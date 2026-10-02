@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555232856794595359",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soluteayu",
+  "ts": "2026-10-01T15:00:07.889000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAOI"
+    ],
+    "is_following_zhao": true,
+    "summary": "我现在手上还有AAOI 160的本😅之前波动套利有多爽，现在有多惨"
+  },
+  "raw_text": "我现在手上还有AAOI 160的本😅之前波动套利有多爽，现在有多惨"
+}
