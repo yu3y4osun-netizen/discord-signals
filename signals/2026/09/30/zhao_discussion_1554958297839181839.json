@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554958297839181839",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-09-30T20:49:07.933000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "mu的电话会议在说什么啊 直接跳了"
+  },
+  "raw_text": "mu的电话会议在说什么啊  直接跳了"
+}
