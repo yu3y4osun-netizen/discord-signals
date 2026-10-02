@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555237681766867005",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-01T15:19:18.252000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "梁家辉： 我们买的都是lite，都是nbis，你买麦当劳 怪不得赔钱啊（狗头保命"
+  },
+  "raw_text": "梁家辉： 我们买的都是lite，都是nbis，你买麦当劳 怪不得赔钱啊（狗头保命"
+}
