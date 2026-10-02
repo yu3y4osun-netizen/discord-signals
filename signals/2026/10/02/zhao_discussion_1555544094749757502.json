@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555544094749757502",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-02T11:36:52.800000+00:00",
+  "captured_at": "2026-10-02T21:15:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "说了一万次，存你以前muu ，光就是litx，云就是nbis"
+  },
+  "raw_text": "说了一万次，存你以前muu\n，光就是litx，云就是nbis"
+}
