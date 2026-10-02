@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555279765638746173",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-01T18:06:31.829000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在这个行情赵哥说了个股价格急跌也不会跌太多"
+  },
+  "raw_text": "现在这个行情赵哥说了个股价格急跌也不会跌太多"
+}
