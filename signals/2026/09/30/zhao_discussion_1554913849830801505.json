@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554913849830801505",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-30T17:52:30.702000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "美光财报要是不好的话，会不会连带着云一起下来啊？"
+  },
+  "raw_text": "美光财报要是不好的话，会不会连带着云一起下来啊？"
+}
