@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555535702496911361",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-02T11:03:31.931000+00:00",
+  "captured_at": "2026-10-02T21:15:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "卧槽，wdc怎么下来了？？？"
+  },
+  "raw_text": "卧槽，wdc怎么下来了？？？"
+}
