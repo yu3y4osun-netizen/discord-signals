@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555233021760774285",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-01T15:00:47.220000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COHR"
+    ],
+    "is_following_zhao": false,
+    "summary": "Cohr从290开始买，到现在300多，收益还不错"
+  },
+  "raw_text": "Cohr从290开始买，到现在300多，收益还不错"
+}
