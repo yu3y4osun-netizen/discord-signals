@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555239072350347384",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-01T15:24:49.793000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SCHD"
+    ],
+    "is_following_zhao": false,
+    "summary": "schd 一个月泄了6个点，老登股是真不行"
+  },
+  "raw_text": "schd 一个月泄了6个点，老登股是真不行"
+}
