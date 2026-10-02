@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555272377263333499",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-01T17:37:10.303000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "谷歌盘后都出了很多了 每次都是出利好就兑现 都四轮了"
+  },
+  "raw_text": "谷歌盘后都出了很多了 每次都是出利好就兑现 都四轮了"
+}
