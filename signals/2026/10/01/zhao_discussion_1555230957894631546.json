@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555230957894631546",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-01T14:52:35.156000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我这里记录还有 286.60 1/24 的仓位， 你那里记录是不是出完了？"
+  },
+  "raw_text": "我这里记录还有 286.60 1/24 的仓位，  你那里记录是不是出完了？"
+}
