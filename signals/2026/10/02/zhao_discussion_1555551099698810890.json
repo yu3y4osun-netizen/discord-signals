@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555551099698810890",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-02T12:04:42.910000+00:00",
+  "captured_at": "2026-10-02T21:15:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "STX",
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "别念叨希捷和西数了🫠，一会赵哥该骂了🫠，我又想起麦当劳了😆"
+  },
+  "raw_text": "别念叨希捷和西数了🫠，一会赵哥该骂了🫠，我又想起麦当劳了😆"
+}
