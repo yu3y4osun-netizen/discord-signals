@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555222105614721045",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mxy45",
+  "ts": "2026-10-01T14:17:24.608000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COHR"
+    ],
+    "is_following_zhao": false,
+    "summary": "群友们赵哥还有cohr仓位吗？我没带电脑看不了"
+  },
+  "raw_text": "群友们赵哥还有cohr仓位吗？我没带电脑看不了"
+}
