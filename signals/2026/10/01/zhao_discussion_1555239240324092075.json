@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555239240324092075",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-01T15:25:29.841000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "没有这些消费股，我现在跟着赵哥赚了8000多了"
+  },
+  "raw_text": "没有这些消费股，我现在跟着赵哥赚了8000多了"
+}
