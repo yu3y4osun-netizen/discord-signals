@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554915156855754913",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-09-30T17:57:42.321000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "希望美光财报好，又新增新的的长期协议订单，带着云一起上，离赵哥说的十月中旬也没有几天了，感觉目前的大盘位置还没有感受到中选暴力拉升的那种感觉"
+  },
+  "raw_text": "希望美光财报好，又新增新的的长期协议订单，带着云一起上，离赵哥说的十月中旬也没有几天了，感觉目前的大盘位置还没有感受到中选暴力拉升的那种感觉"
+}
