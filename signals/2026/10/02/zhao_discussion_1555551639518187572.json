@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555551639518187572",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-10-02T12:06:51.613000+00:00",
+  "captured_at": "2026-10-02T21:15:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "看看赵哥如何应对"
+  },
+  "raw_text": "看看赵哥如何应对"
+}
