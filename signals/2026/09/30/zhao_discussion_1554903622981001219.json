@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554903622981001219",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaywinner",
+  "ts": "2026-09-30T17:11:52.431000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren是因为还属于币+云？"
+  },
+  "raw_text": "iren是因为还属于币+云？"
+}
