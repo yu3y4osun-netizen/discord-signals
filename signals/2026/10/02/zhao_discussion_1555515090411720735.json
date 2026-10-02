@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555515090411720735",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-10-02T09:41:37.627000+00:00",
+  "captured_at": "2026-10-02T21:15:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥好像买了 1.6%的阿里巴巴"
+  },
+  "raw_text": "赵哥好像买了 1.6%的阿里巴巴"
+}
