@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555213802130112594",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "civica",
+  "ts": "2026-10-01T13:44:24.903000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "新云也太能跌了，现在新云上的浮亏吃完了过去两个月新云上的利润"
+  },
+  "raw_text": "新云也太能跌了，现在新云上的浮亏吃完了过去两个月新云上的利润"
+}
