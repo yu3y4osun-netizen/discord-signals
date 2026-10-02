@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555213600942063758",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-01T13:43:36.936000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": true,
+    "summary": "还好夜盘T了下INTC，没亏今天"
+  },
+  "raw_text": "还好夜盘T了下INTC，没亏今天"
+}
