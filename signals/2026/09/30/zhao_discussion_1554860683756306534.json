@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1554860683756306534",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-09-30T14:21:14.922000+00:00",
+  "captured_at": "2026-10-02T10:41:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC",
+      "INTW"
+    ],
+    "is_following_zhao": true,
+    "summary": "找个昨天买的INTC没跟？我跟了INTW，赵哥买六分之一我就买点ETF放着"
+  },
+  "raw_text": "找个昨天买的INTC没跟？我跟了INTW，赵哥买六分之一我就买点ETF放着"
+}
