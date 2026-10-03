@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555575020976087051",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "leonard5",
+  "ts": "2026-10-02T13:39:46.187000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": true,
+    "summary": "请教各位课代表，赵哥说的“92.3出86.8剩下一半crwv”，是出一半留一半，还是全出掉"
+  },
+  "raw_text": "请教各位课代表，赵哥说的“92.3出86.8剩下一半crwv”，是出一半留一半，还是全出掉"
+}
