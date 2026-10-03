@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555581187940941936",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "daluyazi",
+  "ts": "2026-10-02T14:04:16.506000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天有个利空存的新闻，会压制存，拉别的"
+  },
+  "raw_text": "今天有个利空存的新闻，会压制存，拉别的"
+}
