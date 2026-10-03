@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555619164075466907",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dasheng9527",
+  "ts": "2026-10-02T16:35:10.722000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "玩btc没有100倍堵🐶都不玩"
+  },
+  "raw_text": "玩btc没有100倍堵🐶都不玩"
+}
