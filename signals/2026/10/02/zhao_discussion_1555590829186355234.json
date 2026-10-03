@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555590829186355234",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-10-02T14:42:35.158000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "现在是新高 等 wdc 起来 账户又是新高😂"
+  },
+  "raw_text": "现在是新高 等 wdc 起来 账户又是新高😂"
+}
