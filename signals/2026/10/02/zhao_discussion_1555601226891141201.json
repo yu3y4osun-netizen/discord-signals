@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555601226891141201",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "c8641",
+  "ts": "2026-10-02T15:23:54.164000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": true,
+    "summary": "wdc可以抄底吗"
+  },
+  "raw_text": "wdc可以抄底吗"
+}
