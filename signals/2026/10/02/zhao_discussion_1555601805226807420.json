@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555601805226807420",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-02T15:26:12.050000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "英伟达涨他就跌了"
+  },
+  "raw_text": "英伟达涨他就跌了"
+}
