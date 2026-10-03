@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555614452894802012",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "frankyin",
+  "ts": "2026-10-02T16:16:27.489000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "对啊 15-20差不多， 60%也太牛逼了 赵哥自己都没这么高吧。。。"
+  },
+  "raw_text": "对啊 15-20差不多， 60%也太牛逼了 赵哥自己都没这么高吧。。。"
+}
