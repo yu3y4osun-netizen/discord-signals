@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555642264594686115",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liuxingyu",
+  "ts": "2026-10-02T18:06:58.315000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": true,
+    "summary": "买了点西部，等吧"
+  },
+  "raw_text": "买了点西部，等吧"
+}
