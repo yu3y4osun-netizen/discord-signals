@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555615415651143832",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-02T16:20:17.028000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "想问一下各位是没到庄家出货，所以还在吸筹，赵哥还在等庄家拉高嘛"
+  },
+  "raw_text": "想问一下各位是没到庄家出货，所以还在吸筹，赵哥还在等庄家拉高嘛"
+}
