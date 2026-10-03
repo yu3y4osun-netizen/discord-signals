@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555605427742314547",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-02T15:40:35.725000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "存的话之后主要买dram这个集合 因为单独的个股会有竞争 这个扩产了其他存个股就跌不好把控 但是集合本身抗跌性能好 一个涨其他跌 跌幅下 都涨情况也是会多点涨幅"
+  },
+  "raw_text": "存的话之后主要买dram这个集合 因为单独的个股会有竞争  这个扩产了其他存个股就跌不好把控   但是集合本身抗跌性能好 一个涨其他跌 跌幅下 都涨情况也是会多点涨幅"
+}
