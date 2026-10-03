@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555579889451798681",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-10-02T13:59:06.922000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我发现跟赵哥的单 根本不用看盘 赚得更多😂"
+  },
+  "raw_text": "我发现跟赵哥的单 根本不用看盘 赚得更多😂"
+}
