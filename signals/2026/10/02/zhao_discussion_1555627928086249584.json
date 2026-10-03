@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555627928086249584",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-02T17:10:00.225000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE",
+      "LITE",
+      "MU",
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "先把 NBIS LITE BE MU 这种买了来再去买这些盘子小的"
+  },
+  "raw_text": "先把 NBIS LITE BE MU 这种买了来再去买这些盘子小的"
+}
