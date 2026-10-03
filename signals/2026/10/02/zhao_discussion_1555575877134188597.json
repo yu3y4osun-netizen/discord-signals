@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555575877134188597",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-02T13:43:10.311000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "其实可以出一半 另一半等赵哥出特斯拉再出"
+  },
+  "raw_text": "其实可以出一半 另一半等赵哥出特斯拉再出"
+}
