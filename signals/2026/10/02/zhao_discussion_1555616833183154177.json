@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555616833183154177",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-02T16:25:54.994000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "目前收益最大的就是iren nbis cifr这几个"
+  },
+  "raw_text": "目前收益最大的就是iren nbis cifr这几个"
+}
