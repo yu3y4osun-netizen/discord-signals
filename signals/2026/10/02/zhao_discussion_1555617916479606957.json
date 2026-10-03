@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555617916479606957",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "frankyin",
+  "ts": "2026-10-02T16:30:13.272000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "懂了 币安加杠杆就理解了- -"
+  },
+  "raw_text": "懂了 币安加杠杆就理解了- -"
+}
