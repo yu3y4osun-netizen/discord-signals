@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555629768651833457",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-02T17:17:19.050000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE",
+      "LITE",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "你先保证每次能把 NBIS BE LITE 和存储的钱吃满"
+  },
+  "raw_text": "你先保证每次能把 NBIS BE LITE 和存储的钱吃满"
+}
