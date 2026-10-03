@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555581953397358696",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-02T14:07:19.005000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN"
+    ],
+    "is_following_zhao": false,
+    "summary": "coin 不是198了 新闻突然说法案又延迟点 又跌了"
+  },
+  "raw_text": "coin 不是198了 新闻突然说法案又延迟点 又跌了"
+}
