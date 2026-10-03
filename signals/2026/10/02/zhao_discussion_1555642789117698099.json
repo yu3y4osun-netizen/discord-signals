@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555642789117698099",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liuxingyu",
+  "ts": "2026-10-02T18:09:03.371000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NFLX"
+    ],
+    "is_following_zhao": false,
+    "summary": "奈飞这种慢股，真需要耐心😂"
+  },
+  "raw_text": "奈飞这种慢股，真需要耐心😂"
+}
