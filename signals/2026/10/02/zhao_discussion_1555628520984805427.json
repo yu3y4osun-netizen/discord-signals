@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555628520984805427",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-02T17:12:21.583000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "BTW 我现在一般不买 SNDK 两倍和正股"
+  },
+  "raw_text": "BTW 我现在一般不买 SNDK 两倍和正股"
+}
