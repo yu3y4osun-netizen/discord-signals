@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555611414201241711",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-02T16:04:23.008000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "我才发现今天wdc双倍跌了 23%"
+  },
+  "raw_text": "我才发现今天wdc双倍跌了 23%"
+}
