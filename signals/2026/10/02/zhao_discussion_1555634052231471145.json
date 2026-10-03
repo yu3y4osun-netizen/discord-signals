@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555634052231471145",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "netman525",
+  "ts": "2026-10-02T17:34:20.335000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "IREN",
+      "TSLA"
+    ],
+    "is_following_zhao": true,
+    "summary": "昨天和我朋友说让他加仓特斯拉，和IREN 比我赚的还多😅"
+  },
+  "raw_text": "昨天和我朋友说让他加仓特斯拉，和IREN 比我赚的还多😅"
+}
