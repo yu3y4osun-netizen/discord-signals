@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555581800775024703",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaichikou",
+  "ts": "2026-10-02T14:06:42.617000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥真厉害"
+  },
+  "raw_text": "赵哥真厉害"
+}
