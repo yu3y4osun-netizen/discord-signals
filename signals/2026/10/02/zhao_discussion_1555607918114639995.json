@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555607918114639995",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-02T15:50:29.476000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "台积电不知不觉冲击新高了"
+  },
+  "raw_text": "台积电不知不觉冲击新高了"
+}
