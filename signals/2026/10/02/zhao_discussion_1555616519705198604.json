@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555616519705198604",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-02T16:24:40.255000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "对我来说crwv就是"
+  },
+  "raw_text": "对我来说crwv就是"
+}
