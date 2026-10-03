@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555585151914737665",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-02T14:20:01.591000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "卧槽，我才发现我也有1000币的勋章🥶"
+  },
+  "raw_text": "卧槽，我才发现我也有1000币的勋章🥶"
+}
