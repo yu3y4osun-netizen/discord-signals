@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555571677457293364",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-10-02T13:26:29.030000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "准备跟单 根本不在乎哪个跌了"
+  },
+  "raw_text": "准备跟单 根本不在乎哪个跌了"
+}
