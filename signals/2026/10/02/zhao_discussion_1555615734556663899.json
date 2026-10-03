@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555615734556663899",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-02T16:21:33.061000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，想问下您，今天有一个地方不理解，正常今天CbRS会有冲高，但是没有出，是在等到位置再出嘛"
+  },
+  "raw_text": "赵哥，想问下您，今天有一个地方不理解，正常今天CbRS会有冲高，但是没有出，是在等到位置再出嘛"
+}
