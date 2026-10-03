@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555580756171038833",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-02T14:02:33.564000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "Intc继续起飞🛫"
+  },
+  "raw_text": "Intc继续起飞🛫"
+}
