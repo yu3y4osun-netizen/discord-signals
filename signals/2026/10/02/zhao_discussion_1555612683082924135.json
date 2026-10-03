@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555612683082924135",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-02T16:09:25.533000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "然后是前几天特斯拉 推迟发布会走 收盘最低那个故意的"
+  },
+  "raw_text": "然后是前几天特斯拉 推迟发布会走 收盘最低那个故意的"
+}
