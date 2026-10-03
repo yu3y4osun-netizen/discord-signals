@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555904018348515359",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-03T11:27:05.273000+00:00",
+  "captured_at": "2026-10-03T21:01:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "下周苹果跌了可以买点苹果了"
+  },
+  "raw_text": "下周苹果跌了可以买点苹果了"
+}
