@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555588415423123486",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-10-02T14:32:59.672000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我想监控 赵哥正在输入的这个 不晓得咋实现 ai 有点傻"
+  },
+  "raw_text": "我想监控 赵哥正在输入的这个 不晓得咋实现 ai 有点傻"
+}
