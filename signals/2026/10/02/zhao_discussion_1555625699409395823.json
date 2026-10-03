@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555625699409395823",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-02T17:01:08.867000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "我仓位好空，加了几笔IREN，等下礼拜一冲高分批出了"
+  },
+  "raw_text": "我仓位好空，加了几笔IREN，等下礼拜一冲高分批出了"
+}
