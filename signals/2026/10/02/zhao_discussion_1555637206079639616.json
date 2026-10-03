@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555637206079639616",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bkaaa",
+  "ts": "2026-10-02T17:46:52.271000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 coin一直走单边的话是不是尾盘就能补点"
+  },
+  "raw_text": "赵哥 coin一直走单边的话是不是尾盘就能补点"
+}
