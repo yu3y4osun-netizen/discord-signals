@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555619215204159539",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-02T16:35:22.912000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "GOOGL",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "我一般买合约像苹果谷歌这种开20倍 iren这种只敢开5-10倍"
+  },
+  "raw_text": "我一般买合约像苹果谷歌这种开20倍 iren这种只敢开5-10倍"
+}
