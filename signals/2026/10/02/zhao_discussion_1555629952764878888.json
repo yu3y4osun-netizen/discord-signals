@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555629952764878888",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-02T17:18:02.946000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "这是昨天买的CIFR，搞点卖了，接回来的价格刚好是我卖的价格"
+  },
+  "raw_text": "这是昨天买的CIFR，搞点卖了，接回来的价格刚好是我卖的价格"
+}
