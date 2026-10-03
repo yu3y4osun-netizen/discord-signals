@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555613006598115336",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-02T16:10:42.665000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "弹性大的就dram"
+  },
+  "raw_text": "弹性大的就dram"
+}
