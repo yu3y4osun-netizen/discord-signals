@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555584402896191580",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-02T14:17:03.011000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "其实吧，说得再多，想得再多，不如直接跟着赵哥动。又不是第一次被套，跟着赵哥赚钱赚习惯了就好了，一边赚钱一边思考，不是一边思考一边站着不动。别问，先买先享受"
+  },
+  "raw_text": "其实吧，说得再多，想得再多，不如直接跟着赵哥动。又不是第一次被套，跟着赵哥赚钱赚习惯了就好了，一边赚钱一边思考，不是一边思考一边站着不动。别问，先买先享受"
+}
