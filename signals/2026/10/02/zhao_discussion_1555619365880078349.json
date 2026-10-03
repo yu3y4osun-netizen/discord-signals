@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555619365880078349",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuuumii",
+  "ts": "2026-10-02T16:35:58.836000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq我开了15倍，tqqq5倍哈哈哈。一个意思"
+  },
+  "raw_text": "qqq我开了15倍，tqqq5倍哈哈哈。一个意思"
+}
