@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555590406643912776",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-02T14:40:54.416000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哈哈哈 跟着赵哥才是最爽的"
+  },
+  "raw_text": "哈哈哈  跟着赵哥才是最爽的"
+}
