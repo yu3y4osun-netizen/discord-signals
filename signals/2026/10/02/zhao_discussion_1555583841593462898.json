@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555583841593462898",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaywinner",
+  "ts": "2026-10-02T14:14:49.186000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "wdc 跌好狠，还好没加😂"
+  },
+  "raw_text": "wdc 跌好狠，还好没加😂"
+}
