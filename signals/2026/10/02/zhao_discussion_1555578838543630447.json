@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555578838543630447",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-02T13:54:56.366000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥还有wdc的仓位"
+  },
+  "raw_text": "赵哥还有wdc的仓位"
+}
