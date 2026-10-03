@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555629540641083414",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-02T17:16:24.688000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "还有一个地方是，赵哥有2/3的IREN"
+  },
+  "raw_text": "还有一个地方是，赵哥有2/3的IREN"
+}
