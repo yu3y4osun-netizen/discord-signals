@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555613266787573792",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-10-02T16:11:44.699000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "特斯拉永远的神，拿捏"
+  },
+  "raw_text": "特斯拉永远的神，拿捏"
+}
