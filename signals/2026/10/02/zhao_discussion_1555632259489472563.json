@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555632259489472563",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-02T17:27:12.912000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天赵哥操作的，我还没有记录。"
+  },
+  "raw_text": "今天赵哥操作的，我还没有记录。"
+}
