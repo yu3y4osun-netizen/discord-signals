@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555582755352612936",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-02T14:10:30.206000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "我一直有个问题，为啥赵哥买 DRAM 不直接买 MU"
+  },
+  "raw_text": "我一直有个问题，为啥赵哥买 DRAM 不直接买 MU"
+}
