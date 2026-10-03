@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555582681318821940",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-02T14:10:12.555000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我其实想开一家麦当劳，每天吃，哈哈哈😅。该割肉别犹豫，时间很值钱的，哪有那么多好的行情慢慢等"
+  },
+  "raw_text": "我其实想开一家麦当劳，每天吃，哈哈哈😅。该割肉别犹豫，时间很值钱的，哪有那么多好的行情慢慢等"
+}
