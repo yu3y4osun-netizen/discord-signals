@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555631764586762391",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-10-02T17:25:14.918000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥有怎么多iren吗"
+  },
+  "raw_text": "赵哥有怎么多iren吗"
+}
