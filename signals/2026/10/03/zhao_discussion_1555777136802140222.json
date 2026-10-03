@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555777136802140222",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-03T03:02:54.355000+00:00",
+  "captured_at": "2026-10-03T21:01:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "周一看涨"
+  },
+  "raw_text": "周一看涨"
+}
