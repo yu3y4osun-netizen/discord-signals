@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555816389523275796",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "netman525",
+  "ts": "2026-10-03T05:38:52.933000+00:00",
+  "captured_at": "2026-10-03T21:01:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我猜赵哥年轻时喜欢玩斗地主，去老美爱玩德州"
+  },
+  "raw_text": "我猜赵哥年轻时喜欢玩斗地主，去老美爱玩德州"
+}
