@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555600182140477451",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-02T15:19:45.076000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU",
+      "SNDK",
+      "STX",
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "能，性质不一样，同样是存储，希捷西数东芝都有机械盘。固态盘是闪迪东芝西数在玩，闪存又是美光海力士三星东芝这几家在玩。赵哥的dram一揽子带走最方便。"
+  },
+  "raw_text": "能，性质不一样，同样是存储，希捷西数东芝都有机械盘。固态盘是闪迪东芝西数在玩，闪存又是美光海力士三星东芝这几家在玩。赵哥的dram一揽子带走最方便。"
+}
