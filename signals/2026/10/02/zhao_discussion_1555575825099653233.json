@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555575825099653233",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "melonegg",
+  "ts": "2026-10-02T13:42:57.905000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN"
+    ],
+    "is_following_zhao": false,
+    "summary": "coin还有多少啊，前几天没怎么看"
+  },
+  "raw_text": "coin还有多少啊，前几天没怎么看"
+}
