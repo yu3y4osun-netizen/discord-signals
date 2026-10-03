@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555615659201667265",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-02T16:21:15.095000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥六分之一 对应我一次是2000刀"
+  },
+  "raw_text": "赵哥六分之一 对应我一次是2000刀"
+}
