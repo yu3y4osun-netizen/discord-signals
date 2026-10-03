@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555584979898081354",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-10-02T14:19:20.579000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我资金小，比如赵哥有6笔慢慢出，我只分2次这样呢？有人这样操作过吗…."
+  },
+  "raw_text": "我资金小，比如赵哥有6笔慢慢出，我只分2次这样呢？有人这样操作过吗…."
+}
