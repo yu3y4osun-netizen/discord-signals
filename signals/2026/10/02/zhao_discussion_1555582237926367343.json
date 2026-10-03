@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555582237926367343",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-02T14:08:26.842000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTW"
+    ],
+    "is_following_zhao": true,
+    "summary": "刚买了点INTW，一会再吸一次"
+  },
+  "raw_text": "刚买了点INTW，一会再吸一次"
+}
