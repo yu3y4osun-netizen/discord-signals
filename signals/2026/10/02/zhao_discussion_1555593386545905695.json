@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555593386545905695",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-02T14:52:44.880000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "恐慌盘？突然又杀下来了"
+  },
+  "raw_text": "恐慌盘？突然又杀下来了"
+}
