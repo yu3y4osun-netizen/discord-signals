@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555581959789482105",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-02T14:07:20.529000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥西部数据啥时候出手加仓？"
+  },
+  "raw_text": "赵哥西部数据啥时候出手加仓？"
+}
