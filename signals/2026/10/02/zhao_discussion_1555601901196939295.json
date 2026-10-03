@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555601901196939295",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-02T15:26:34.931000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "nv现在战斗力太强了 amd都快上不了桌了"
+  },
+  "raw_text": "nv现在战斗力太强了 amd都快上不了桌了"
+}
