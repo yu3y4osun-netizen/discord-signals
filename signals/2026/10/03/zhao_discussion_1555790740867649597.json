@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555790740867649597",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-03T03:56:57.817000+00:00",
+  "captured_at": "2026-10-03T21:01:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "🧐9成仓的赵哥，上一次还是3月大跌时，顺带发了长桥帖子，号召冲"
+  },
+  "raw_text": "🧐9成仓的赵哥，上一次还是3月大跌时，顺带发了长桥帖子，号召冲"
+}
