@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555601573772664925",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-02T15:25:16.867000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "wdc先别了吧，有点不太好看。我记得谁说过机械盘不考虑扩产，这是利空，泰国马来西亚那边发大水不一定影响硬盘工厂，硬盘现在贵死了，再涨过分了。"
+  },
+  "raw_text": "wdc先别了吧，有点不太好看。我记得谁说过机械盘不考虑扩产，这是利空，泰国马来西亚那边发大水不一定影响硬盘工厂，硬盘现在贵死了，再涨过分了。"
+}
