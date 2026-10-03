@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555602592506187911",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-02T15:29:19.752000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "我等等看赵哥今天会不会吸点INTC"
+  },
+  "raw_text": "我等等看赵哥今天会不会吸点INTC"
+}
