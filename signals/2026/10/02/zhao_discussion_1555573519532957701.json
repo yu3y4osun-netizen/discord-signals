@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555573519532957701",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-02T13:33:48.215000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "Wdc拖后腿"
+  },
+  "raw_text": "Wdc拖后腿"
+}
