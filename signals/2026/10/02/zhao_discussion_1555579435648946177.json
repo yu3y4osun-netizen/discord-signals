@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555579435648946177",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "rabbitnunu",
+  "ts": "2026-10-02T13:57:18.727000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大佬们，我刚来的，买同花顺，是啥意思，应该从哪里看起呢求指路"
+  },
+  "raw_text": "大佬们，我刚来的，买同花顺，是啥意思，应该从哪里看起呢求指路"
+}
