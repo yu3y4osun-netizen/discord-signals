@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555600832605454458",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-02T15:22:20.159000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "这个看个人，赵哥买老馒头我会买点aaox，大方向跟赵哥，有些很熟悉的自己可以考虑玩一下"
+  },
+  "raw_text": "这个看个人，赵哥买老馒头我会买点aaox，大方向跟赵哥，有些很熟悉的自己可以考虑玩一下"
+}
