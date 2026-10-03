@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555614090230104166",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-02T16:15:01.023000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "正常跟赵哥的 这两个月收益率基本上都是6、70"
+  },
+  "raw_text": "正常跟赵哥的 这两个月收益率基本上都是6、70"
+}
