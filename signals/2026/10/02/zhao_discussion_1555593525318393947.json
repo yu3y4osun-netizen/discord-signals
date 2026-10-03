@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555593525318393947",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-02T14:53:17.966000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "存赚钱还得是dram和mu"
+  },
+  "raw_text": "存赚钱还得是dram和mu"
+}
