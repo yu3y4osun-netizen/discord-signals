@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555614013931389059",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaywinner",
+  "ts": "2026-10-02T16:14:42.832000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "be 今天也挺好"
+  },
+  "raw_text": "be 今天也挺好"
+}
