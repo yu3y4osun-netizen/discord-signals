@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555582842413649926",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-02T14:10:50.963000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "我记得之前说是美光财报吧"
+  },
+  "raw_text": "我记得之前说是美光财报吧"
+}
