@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555615300521558163",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-02T16:19:49.579000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "今天有一个地方不理解，正常今天CbRS会有冲高，赵哥会把172的出了，但是没有出"
+  },
+  "raw_text": "今天有一个地方不理解，正常今天CbRS会有冲高，赵哥会把172的出了，但是没有出"
+}
