@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555667804617973793",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-02T19:48:27.531000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IONQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "ionq是不是还有一笔呢"
+  },
+  "raw_text": "ionq是不是还有一笔呢"
+}
