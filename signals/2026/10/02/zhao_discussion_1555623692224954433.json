@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555623692224954433",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-02T16:53:10.317000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "话说诺基亚我还有两笔被套着"
+  },
+  "raw_text": "话说诺基亚我还有两笔被套着"
+}
