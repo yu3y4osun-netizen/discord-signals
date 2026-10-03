@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555614933507645461",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cmvgygf",
+  "ts": "2026-10-02T16:18:22.076000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "crcl"
+  },
+  "raw_text": "crcl"
+}
