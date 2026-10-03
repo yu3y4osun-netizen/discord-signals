@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555633578602274827",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-02T17:32:27.413000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "上次FOMO会议睡着了没吃到"
+  },
+  "raw_text": "上次FOMO会议睡着了没吃到"
+}
