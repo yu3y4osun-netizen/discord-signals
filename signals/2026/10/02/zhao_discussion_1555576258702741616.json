@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555576258702741616",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mxy45",
+  "ts": "2026-10-02T13:44:41.284000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "Iren终于发力了，我哭死"
+  },
+  "raw_text": "Iren终于发力了，我哭死"
+}
