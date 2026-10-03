@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1555573709027418194",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckfunzhao",
+  "ts": "2026-10-02T13:34:33.394000+00:00",
+  "captured_at": "2026-10-03T09:02:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "加油IREN"
+  },
+  "raw_text": "加油IREN"
+}
