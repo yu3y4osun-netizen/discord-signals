@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556124513618628611",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "day1trader",
+  "ts": "2026-10-04T02:03:15.442000+00:00",
+  "captured_at": "2026-10-04T21:01:55+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "就等cbrs了😍"
+  },
+  "raw_text": "就等cbrs了😍"
+}
