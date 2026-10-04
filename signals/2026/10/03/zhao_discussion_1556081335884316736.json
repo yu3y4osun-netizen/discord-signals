@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556081335884316736",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-03T23:11:41.068000+00:00",
+  "captured_at": "2026-10-04T09:18:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "cbrs周一要大涨了看着"
+  },
+  "raw_text": "cbrs周一要大涨了看着"
+}
