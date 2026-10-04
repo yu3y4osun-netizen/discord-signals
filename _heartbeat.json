@@ -1,6 +1,6 @@
 {
   "schema_version": "0.2",
-  "updated_at": "2026-10-04T09:09:36+08:00",
+  "updated_at": "2026-10-04T09:19:05+08:00",
   "channels": {
     "zhao_discussion": {
       "channel_id": "1529062583364223008",
@@ -8,9 +8,9 @@
       "last_message_id": "1556084198081699854",
       "last_fetch_at": "2026-10-04T09:09:36+08:00",
       "last_run_total_new_msgs": 2,
-      "last_run_signals_pushed": 0,
+      "last_run_signals_pushed": 1,
       "last_run_signals_failed": 0,
-      "note": "2026-10-04 09:09 增量：新消息 2 条，推送 community 信号 0 条，失败 0 条"
+      "note": "2026-10-04T09:19 增量：新消息 2 条，推送 community 信号 1 条，失败 0 条（含词表修复后补推 1 条）"
     }
   }
 }
