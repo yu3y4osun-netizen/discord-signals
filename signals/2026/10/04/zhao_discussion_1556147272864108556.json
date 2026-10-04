@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556147272864108556",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-04T03:33:41.669000+00:00",
+  "captured_at": "2026-10-04T21:01:55+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "按照赵哥说法，等到了再说，看资金介入"
+  },
+  "raw_text": "按照赵哥说法，等到了再说，看资金介入"
+}
