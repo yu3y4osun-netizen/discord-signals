@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556216665551671358",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-04T08:09:26.175000+00:00",
+  "captured_at": "2026-10-04T21:01:55+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "小主机是啥意思？"
+  },
+  "raw_text": "小主机是啥意思？"
+}
