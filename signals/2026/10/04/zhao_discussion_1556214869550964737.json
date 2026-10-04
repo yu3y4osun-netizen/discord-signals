@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556214869550964737",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-04T08:02:17.975000+00:00",
+  "captured_at": "2026-10-04T21:01:55+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "用小主机监控赵哥的发言 然后推送到企业微信机器人里面"
+  },
+  "raw_text": "用小主机监控赵哥的发言 然后推送到企业微信机器人里面"
+}
