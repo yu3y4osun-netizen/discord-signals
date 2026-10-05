@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556472601302536265",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-05T01:06:26.013000+00:00",
+  "captured_at": "2026-10-05T09:10:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN"
+    ],
+    "is_following_zhao": true,
+    "summary": "Coin也马上不亏了😂"
+  },
+  "raw_text": "Coin也马上不亏了😂"
+}
