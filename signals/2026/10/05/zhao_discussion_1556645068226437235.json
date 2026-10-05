@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556645068226437235",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "conghuajidan",
+  "ts": "2026-10-05T12:31:45.332000+00:00",
+  "captured_at": "2026-10-05T21:00:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "是啊，iren 好多加仓了"
+  },
+  "raw_text": "是啊，iren 好多加仓了"
+}
