@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556584414920708148",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T08:30:44.457000+00:00",
+  "captured_at": "2026-10-05T21:00:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "今天如果intc跌到106到108，考虑吸点"
+  },
+  "raw_text": "今天如果intc跌到106到108，考虑吸点"
+}
