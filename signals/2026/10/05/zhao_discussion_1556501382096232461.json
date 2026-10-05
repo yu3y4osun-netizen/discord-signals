@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556501382096232461",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-05T03:00:47.889000+00:00",
+  "captured_at": "2026-10-05T21:00:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "美元指数突然直线了"
+  },
+  "raw_text": "美元指数突然直线了"
+}
