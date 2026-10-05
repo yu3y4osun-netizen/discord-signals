@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556314500666228907",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-04T14:38:11.884000+00:00",
+  "captured_at": "2026-10-05T09:10:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "好的好的，我研究一下，赵哥发信息我收到感觉延迟了大概3秒"
+  },
+  "raw_text": "好的好的，我研究一下，赵哥发信息我收到感觉延迟了大概3秒"
+}
