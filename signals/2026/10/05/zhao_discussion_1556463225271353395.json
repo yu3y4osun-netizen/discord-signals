@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556463225271353395",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-05T00:29:10.593000+00:00",
+  "captured_at": "2026-10-05T09:10:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我账户回到之前的高度，但是一些个股还没回本，回本加盈利的话大新高了"
+  },
+  "raw_text": "我账户回到之前的高度，但是一些个股还没回本，回本加盈利的话大新高了"
+}
