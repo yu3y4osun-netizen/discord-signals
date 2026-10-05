@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556609656267350018",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T10:11:02.463000+00:00",
+  "captured_at": "2026-10-05T21:00:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "没事，这玩意能起来的，就是吸的有点多了，如果赵哥今天买了，你再吸点"
+  },
+  "raw_text": "没事，这玩意能起来的，就是吸的有点多了，如果赵哥今天买了，你再吸点"
+}
