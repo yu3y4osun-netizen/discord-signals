@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556629101169737771",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-05T11:28:18.489000+00:00",
+  "captured_at": "2026-10-05T21:00:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那天我还问了一下赵哥，说等异动再出"
+  },
+  "raw_text": "那天我还问了一下赵哥，说等异动再出"
+}
