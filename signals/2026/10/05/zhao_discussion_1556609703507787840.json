@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556609703507787840",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T10:11:13.726000+00:00",
+  "captured_at": "2026-10-05T21:00:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "AMAT",
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "amat都能回来，INTC应该有个新高的"
+  },
+  "raw_text": "amat都能回来，INTC应该有个新高的"
+}
