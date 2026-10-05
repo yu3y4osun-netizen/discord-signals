@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556471941546639385",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-05T01:03:48.715000+00:00",
+  "captured_at": "2026-10-05T09:10:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "STX"
+    ],
+    "is_following_zhao": true,
+    "summary": "我去抄底希捷了"
+  },
+  "raw_text": "我去抄底希捷了"
+}
