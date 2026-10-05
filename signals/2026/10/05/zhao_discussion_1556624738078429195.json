@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556624738078429195",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-05T11:10:58.247000+00:00",
+  "captured_at": "2026-10-05T21:00:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "cbrs跳水了"
+  },
+  "raw_text": "cbrs跳水了"
+}
