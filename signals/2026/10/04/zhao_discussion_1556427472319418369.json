@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556427472319418369",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-04T22:07:06.425000+00:00",
+  "captured_at": "2026-10-05T09:10:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "cbrs牛逼啊"
+  },
+  "raw_text": "cbrs牛逼啊"
+}
