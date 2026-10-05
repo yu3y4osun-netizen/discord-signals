@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556628784898383983",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-05T11:27:03.084000+00:00",
+  "captured_at": "2026-10-05T21:00:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "等赵哥吧"
+  },
+  "raw_text": "等赵哥吧"
+}
