@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556459133291728999",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-05T00:12:54.989000+00:00",
+  "captured_at": "2026-10-05T09:10:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "又又又新高了"
+  },
+  "raw_text": "又又又新高了"
+}
