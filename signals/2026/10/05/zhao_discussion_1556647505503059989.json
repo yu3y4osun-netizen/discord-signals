@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556647505503059989",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-05T12:41:26.424000+00:00",
+  "captured_at": "2026-10-05T21:00:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "无人机直线了"
+  },
+  "raw_text": "无人机直线了"
+}
