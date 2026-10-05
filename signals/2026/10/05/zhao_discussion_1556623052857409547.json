@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556623052857409547",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-05T11:04:16.459000+00:00",
+  "captured_at": "2026-10-05T21:00:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intc不知道该不该加一点"
+  },
+  "raw_text": "intc不知道该不该加一点"
+}
