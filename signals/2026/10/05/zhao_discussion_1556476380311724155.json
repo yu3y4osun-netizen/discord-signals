@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556476380311724155",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-05T01:21:26.999000+00:00",
+  "captured_at": "2026-10-05T21:00:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "cbrs来个15厘米"
+  },
+  "raw_text": "cbrs来个15厘米"
+}
