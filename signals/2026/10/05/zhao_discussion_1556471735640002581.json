@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556471735640002581",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-05T01:02:59.623000+00:00",
+  "captured_at": "2026-10-05T09:10:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "链上cbrs的情绪很高"
+  },
+  "raw_text": "链上cbrs的情绪很高"
+}
