@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556610014175563789",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T10:12:27.795000+00:00",
+  "captured_at": "2026-10-05T21:00:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMAT"
+    ],
+    "is_following_zhao": false,
+    "summary": "其实我想说你等跌到位了多吸点的，但是上次amat给了我个教训😅，不敢让多吸了"
+  },
+  "raw_text": "其实我想说你等跌到位了多吸点的，但是上次amat给了我个教训😅，不敢让多吸了"
+}
