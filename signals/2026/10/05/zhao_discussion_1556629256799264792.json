@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556629256799264792",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-05T11:28:55.594000+00:00",
+  "captured_at": "2026-10-05T21:00:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "如果还能继续跌的话，一般成本附近的赵哥会让我们出的"
+  },
+  "raw_text": "如果还能继续跌的话，一般成本附近的赵哥会让我们出的"
+}
