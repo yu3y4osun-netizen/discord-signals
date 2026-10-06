@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556666378910441493",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-05T13:56:26.195000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren怕啥"
+  },
+  "raw_text": "iren怕啥"
+}
