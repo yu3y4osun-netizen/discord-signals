@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556684450790776954",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T15:08:14.867000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "退市前夕财务首席拒绝签字，后来找了个首席财务发布了财务审计报告避免退市暴力拉升那事经历了吧？其中还穿插了走私的事😅"
+  },
+  "raw_text": "退市前夕财务首席拒绝签字，后来找了个首席财务发布了财务审计报告避免退市暴力拉升那事经历了吧？其中还穿插了走私的事😅"
+}
