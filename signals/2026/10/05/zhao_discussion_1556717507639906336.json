@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556717507639906336",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kongfu233hahaha",
+  "ts": "2026-10-05T17:19:36.234000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你们是怎么主动获取到赵哥买卖下单信息的 我想搞个自动下单系统"
+  },
+  "raw_text": "你们是怎么主动获取到赵哥买卖下单信息的  我想搞个自动下单系统"
+}
