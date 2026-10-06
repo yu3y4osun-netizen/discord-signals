@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556679250826891406",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-05T14:47:35.099000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "VST"
+    ],
+    "is_following_zhao": false,
+    "summary": "发现电力股 VST也很适合做量化"
+  },
+  "raw_text": "发现电力股 VST也很适合做量化"
+}
