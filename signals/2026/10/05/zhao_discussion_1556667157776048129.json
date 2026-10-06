@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556667157776048129",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky2026",
+  "ts": "2026-10-05T13:59:31.891000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren cifr都基本没走过"
+  },
+  "raw_text": "iren cifr都基本没走过"
+}
