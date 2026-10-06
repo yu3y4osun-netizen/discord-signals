@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556682366041460798",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T14:59:57.824000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren和cifr给了个很微弱的信号，看看有没有日内的机会"
+  },
+  "raw_text": "iren和cifr给了个很微弱的信号，看看有没有日内的机会"
+}
