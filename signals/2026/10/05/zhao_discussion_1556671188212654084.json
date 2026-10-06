@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556671188212654084",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T14:15:32.822000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "估计没赶上好时候吧，4月大恐慌过后好多时候单边上涨的，那时候跟赵哥，经常是睡前买点推荐的，睡醒直接输钱，根本不熬夜"
+  },
+  "raw_text": "估计没赶上好时候吧，4月大恐慌过后好多时候单边上涨的，那时候跟赵哥，经常是睡前买点推荐的，睡醒直接输钱，根本不熬夜"
+}
