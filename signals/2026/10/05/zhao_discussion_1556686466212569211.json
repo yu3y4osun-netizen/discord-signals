@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556686466212569211",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T15:16:15.381000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "药股水很深的，没有大佬带路或者知识储备，轻易别碰药股。医药股我记得赵哥就买过一个CAI。"
+  },
+  "raw_text": "药股水很深的，没有大佬带路或者知识储备，轻易别碰药股。医药股我记得赵哥就买过一个CAI。"
+}
