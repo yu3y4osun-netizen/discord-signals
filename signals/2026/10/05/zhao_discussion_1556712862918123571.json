@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556712862918123571",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-05T17:01:08.846000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr都13/%仓位了"
+  },
+  "raw_text": "cifr都13/%仓位了"
+}
