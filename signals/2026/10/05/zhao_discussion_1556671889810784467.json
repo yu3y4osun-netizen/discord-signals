@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556671889810784467",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T14:18:20.096000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那时候我记得最夸张，赵哥直接说多少买入，多少卖出，直接挂着就行了，封神了简直"
+  },
+  "raw_text": "那时候我记得最夸张，赵哥直接说多少买入，多少卖出，直接挂着就行了，封神了简直"
+}
