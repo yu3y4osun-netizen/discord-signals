@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556707488555077794",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kongfu233hahaha",
+  "ts": "2026-10-05T16:39:47.498000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": true,
+    "summary": "有个疑问 184出掉179.5剩下一半cbrs 178.3加回184卖出的那部分cbrs 184.7出一半178.3的cbrs 最后出的这一半事1/24的仓位？"
+  },
+  "raw_text": "有个疑问\n184出掉179.5剩下一半cbrs\n178.3加回184卖出的那部分cbrs\n184.7出一半178.3的cbrs\n\n最后出的这一半事1/24的仓位？"
+}
