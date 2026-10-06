@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556673246563278950",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-10-05T14:23:43.571000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "等赵哥说的中选最猛的时候清仓"
+  },
+  "raw_text": "等赵哥说的中选最猛的时候清仓"
+}
