@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556680165373771878",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T14:51:13.144000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "故事讲完了，该盯盘盯盘，该看热闹看热闹，有些事经历下也挺好，有趣的回忆，很有价值的学费，虽然教训极其惨痛😭"
+  },
+  "raw_text": "故事讲完了，该盯盘盯盘，该看热闹看热闹，有些事经历下也挺好，有趣的回忆，很有价值的学费，虽然教训极其惨痛😭"
+}
