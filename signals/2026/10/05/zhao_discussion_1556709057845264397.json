@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556709057845264397",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kongfu233hahaha",
+  "ts": "2026-10-05T16:46:01.646000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": true,
+    "summary": "我的理解 有个疑问 184出掉179.5剩下一半cbrs(剩下一半 为1/12) 178.3加回184卖出的那部分cbrs(加回1/12) 184.7出一半17..."
+  },
+  "raw_text": "我的理解\n有个疑问\n184出掉179.5剩下一半cbrs(剩下一半 为1/12)\n178.3加回184卖出的那部分cbrs(加回1/12)\n184.7出一半178.3的cbrs(一半的 1/12  为 1/24)"
+}
