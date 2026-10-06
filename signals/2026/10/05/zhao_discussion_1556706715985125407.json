@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556706715985125407",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "c8641",
+  "ts": "2026-10-05T16:36:43.303000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [
+      "COIN"
+    ],
+    "is_following_zhao": true,
+    "summary": "coin能再上车了没"
+  },
+  "raw_text": "coin能再上车了没"
+}
