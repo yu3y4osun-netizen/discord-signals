@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556681194362638407",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-10-05T14:55:18.474000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "西部数据前几天396那个位置大摩出赖唱多了，一天就拉上去了"
+  },
+  "raw_text": "西部数据前几天396那个位置大摩出赖唱多了，一天就拉上去了"
+}
