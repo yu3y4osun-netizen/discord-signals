@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556690656062079018",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T15:32:54.319000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥基本上是很为我们考虑了，给的是通用能学会的版本。以前的截图，同一个票，我正股收益20%，赵哥是500%。"
+  },
+  "raw_text": "赵哥基本上是很为我们考虑了，给的是通用能学会的版本。以前的截图，同一个票，我正股收益20%，赵哥是500%。"
+}
