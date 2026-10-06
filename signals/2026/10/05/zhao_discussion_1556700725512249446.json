@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556700725512249446",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T16:12:55.063000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intc我观察了，有几个区间，92到98，100到109，110到126，126之上目前不多，分段滚动。别慌，赵哥还有intc的"
+  },
+  "raw_text": "intc我观察了，有几个区间，92到98，100到109，110到126，126之上目前不多，分段滚动。别慌，赵哥还有intc的"
+}
