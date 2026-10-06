@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556699459847462972",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-10-05T16:07:53.305000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": true,
+    "summary": "我买了好多intc没控制好🙁"
+  },
+  "raw_text": "我买了好多intc没控制好🙁"
+}
