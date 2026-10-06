@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556681199353733191",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-05T14:55:19.664000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "存的话赵哥没咋买但是很多时候节奏点是差不多的"
+  },
+  "raw_text": "存的话赵哥没咋买但是很多时候节奏点是差不多的"
+}
