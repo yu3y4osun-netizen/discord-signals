@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556738654968356966",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "civicagility09",
+  "ts": "2026-10-05T18:43:38.150000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "幸好搞了点纳指的ETF，要不然就踏空了"
+  },
+  "raw_text": "幸好搞了点纳指的ETF，要不然就踏空了"
+}
