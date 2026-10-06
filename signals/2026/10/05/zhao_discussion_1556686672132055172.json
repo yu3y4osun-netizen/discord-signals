@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556686672132055172",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-05T15:17:04.476000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥当时买过医疗保险相关的oscr 跟着赵哥吃了几波大的"
+  },
+  "raw_text": "赵哥当时买过医疗保险相关的oscr 跟着赵哥吃了几波大的"
+}
