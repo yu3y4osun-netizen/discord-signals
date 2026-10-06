@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556677157395243059",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T14:39:15.986000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这事贼好玩，一堆人买FFIE的票，结果有个国内筹集了差不多1个小目标的游资下场参与逼空了，发现流通股怎么都买不完，临走之前给DC群里的说了一声流通股数量对不上。..."
+  },
+  "raw_text": "这事贼好玩，一堆人买FFIE的票，结果有个国内筹集了差不多1个小目标的游资下场参与逼空了，发现流通股怎么都买不完，临走之前给DC群里的说了一声流通股数量对不上。后来券商们陆陆续续更新了流通股数量，显示的几千万流通股，实际上是上亿的流通股，坑了一堆人。游资止损离场了😭"
+}
