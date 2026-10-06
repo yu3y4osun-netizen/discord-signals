@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556672563164221502",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mxy45",
+  "ts": "2026-10-05T14:21:00.636000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLL"
+    ],
+    "is_following_zhao": true,
+    "summary": "那时候tsll每天1块钱的差价低吸高抛，老舒服了"
+  },
+  "raw_text": "那时候tsll每天1块钱的差价低吸高抛，老舒服了"
+}
