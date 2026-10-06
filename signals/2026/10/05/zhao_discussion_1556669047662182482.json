@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556669047662182482",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T14:07:02.475000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "最终结果还没出来呢吧，INTC的产能貌似没跟上呢，INTC自身还是有问题，政策面上具备创新高的条件"
+  },
+  "raw_text": "最终结果还没出来呢吧，INTC的产能貌似没跟上呢，INTC自身还是有问题，政策面上具备创新高的条件"
+}
