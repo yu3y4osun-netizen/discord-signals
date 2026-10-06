@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556717455617826878",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-05T17:19:23.831000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "cbrs有没有再t一波的说法"
+  },
+  "raw_text": "cbrs有没有再t一波的说法"
+}
