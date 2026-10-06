@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556687291316174972",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T15:19:32.101000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "UNH"
+    ],
+    "is_following_zhao": true,
+    "summary": "你也是惨，赶上unh的CEO被枪击的路易吉事件，好多人去做空unh赚麻了。要不是巴菲特，估计还在坐牢呢"
+  },
+  "raw_text": "你也是惨，赶上unh的CEO被枪击的路易吉事件，好多人去做空unh赚麻了。要不是巴菲特，估计还在坐牢呢"
+}
