@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556685263378587762",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T15:11:28.603000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是的，我记得另一家医药公司研发成功，hims失败了，然后暴跌，减肥药吧那次？"
+  },
+  "raw_text": "是的，我记得另一家医药公司研发成功，hims失败了，然后暴跌，减肥药吧那次？"
+}
