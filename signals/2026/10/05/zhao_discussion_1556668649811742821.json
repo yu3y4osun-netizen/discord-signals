@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556668649811742821",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T14:05:27.620000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "所以我最近老提INTC，我是觉得懂王把INTC拿出来说事的可能大，新高应该是没问题的"
+  },
+  "raw_text": "所以我最近老提INTC，我是觉得懂王把INTC拿出来说事的可能大，新高应该是没问题的"
+}
