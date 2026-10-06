@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556675769533604063",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-05T14:33:45.094000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "还是跟赵哥吧，七月份大家亏钱的时候，我赚了百分之八十，那时候银行卡还没弄好还没进回群里，完全就是去年赵哥教的一些东西，自己摸索"
+  },
+  "raw_text": "还是跟赵哥吧，七月份大家亏钱的时候，我赚了百分之八十，那时候银行卡还没弄好还没进回群里，完全就是去年赵哥教的一些东西，自己摸索"
+}
