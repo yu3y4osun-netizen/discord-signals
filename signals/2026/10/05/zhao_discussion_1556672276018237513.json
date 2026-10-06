@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556672276018237513",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-05T14:19:52.175000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我及时止损，我那时候想做对手盘的"
+  },
+  "raw_text": "我及时止损，我那时候想做对手盘的"
+}
