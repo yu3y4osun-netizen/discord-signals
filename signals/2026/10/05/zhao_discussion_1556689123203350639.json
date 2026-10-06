@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556689123203350639",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-10-05T15:26:48.857000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSTR",
+      "UNH"
+    ],
+    "is_following_zhao": true,
+    "summary": "只有跟着赵哥是赚钱的，还学到了其他地方根本学不到的东西，长桥和WHOP唯一真神。 HIMS跟X上买的，后来UNH和mstr跟着退休买，几个加密影子股跟着z先生买..."
+  },
+  "raw_text": "只有跟着赵哥是赚钱的，还学到了其他地方根本学不到的东西，长桥和WHOP唯一真神。\nHIMS跟X上买的，后来UNH和mstr跟着退休买，几个加密影子股跟着z先生买，都是亏了很多，亏本主要是在这几个票上。还是赵哥实在，直接给点位，从来不怕被骂。"
+}
