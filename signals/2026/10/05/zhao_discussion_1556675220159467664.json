@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556675220159467664",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-05T14:31:34.113000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我看了长桥那么多，价值哥还有赵哥比较稳，价值哥的话期权适合大资金跟，赵哥的话适合小资金，稳健点"
+  },
+  "raw_text": "我看了长桥那么多，价值哥还有赵哥比较稳，价值哥的话期权适合大资金跟，赵哥的话适合小资金，稳健点"
+}
