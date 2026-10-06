@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556686999983751331",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T15:18:22.642000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "对，这个也反复玩了很多很多次，当时赵哥甚至给了止盈点位"
+  },
+  "raw_text": "对，这个也反复玩了很多很多次，当时赵哥甚至给了止盈点位"
+}
