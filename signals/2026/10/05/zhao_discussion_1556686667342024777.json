@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556686667342024777",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-10-05T15:17:03.334000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "UNH"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是hims暴跌的时候评论区看到的赵哥，坚定持有到回本，后来又在unh入坑，再也不碰医疗相关"
+  },
+  "raw_text": "就是hims暴跌的时候评论区看到的赵哥，坚定持有到回本，后来又在unh入坑，再也不碰医疗相关"
+}
