@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556672412542832703",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T14:20:24.725000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这票还好我跑得快，那时候我玩dc和reddit，大佬让我们跳车，原地割肉了"
+  },
+  "raw_text": "这票还好我跑得快，那时候我玩dc和reddit，大佬让我们跳车，原地割肉了"
+}
