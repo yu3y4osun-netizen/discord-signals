@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556669162615611515",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-05T14:07:29.882000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "24年大选我刚玩美股 啥也不懂就买特斯拉"
+  },
+  "raw_text": "24年大选我刚玩美股 啥也不懂就买特斯拉"
+}
