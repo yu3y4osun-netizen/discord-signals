@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556679338550624386",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T14:47:56.014000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSTR"
+    ],
+    "is_following_zhao": false,
+    "summary": "所以没金刚钻和锦鲤体质，别碰毛票，偶尔尝鲜可以，别当正事了😅。MSTR上场之后，我玩了一段时间我就知道他在干嘛了，一个德行，懂王推出djt之后mstr就不行了，..."
+  },
+  "raw_text": "所以没金刚钻和锦鲤体质，别碰毛票，偶尔尝鲜可以，别当正事了😅。MSTR上场之后，我玩了一段时间我就知道他在干嘛了，一个德行，懂王推出djt之后mstr就不行了，可以看djt和mstr周期的时间交叉验证的😅"
+}
