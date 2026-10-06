@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556746204774277171",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-10-05T19:13:38.164000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "闪迪也反弹了"
+  },
+  "raw_text": "闪迪也反弹了"
+}
