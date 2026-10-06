@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556672442309808199",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-05T14:20:31.822000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr出过吗 我都没印象了"
+  },
+  "raw_text": "cifr出过吗  我都没印象了"
+}
