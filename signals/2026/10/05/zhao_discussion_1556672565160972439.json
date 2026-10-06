@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556672565160972439",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-05T14:21:01.112000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还有那个阿宝 也是动不动让别人梭哈 改变家族命运"
+  },
+  "raw_text": "还有那个阿宝 也是动不动让别人梭哈  改变家族命运"
+}
