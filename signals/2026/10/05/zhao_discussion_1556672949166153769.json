@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556672949166153769",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-10-05T14:22:32.666000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "算一下动态满仓两个月了都"
+  },
+  "raw_text": "算一下动态满仓两个月了都"
+}
