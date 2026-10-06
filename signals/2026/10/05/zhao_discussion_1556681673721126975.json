@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556681673721126975",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T14:57:12.762000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SMCI"
+    ],
+    "is_following_zhao": false,
+    "summary": "下次有机会再讲讲SMCI差点退市那次，玩的多了，华人相关股票就不想碰了🙃。"
+  },
+  "raw_text": "下次有机会再讲讲SMCI差点退市那次，玩的多了，华人相关股票就不想碰了🙃。"
+}
