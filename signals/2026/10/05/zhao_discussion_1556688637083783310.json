@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556688637083783310",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T15:24:52.957000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": true,
+    "summary": "今天我话说的多了，赵哥估计会有一次cbrs抄底，该定闹钟定闹钟哈"
+  },
+  "raw_text": "今天我话说的多了，赵哥估计会有一次cbrs抄底，该定闹钟定闹钟哈"
+}
