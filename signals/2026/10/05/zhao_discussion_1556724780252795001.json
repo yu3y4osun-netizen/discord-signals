@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556724780252795001",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-05T17:48:30.160000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌亚麻接力了 上下半场都得吃了"
+  },
+  "raw_text": "谷歌亚麻接力了 上下半场都得吃了"
+}
