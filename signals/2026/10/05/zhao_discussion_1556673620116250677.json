@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556673620116250677",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-05T14:25:12.633000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "LITE",
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "我是在价值哥评论区发现的赵哥，观察了一下 卧槽真牛 后面赵哥经常被骚扰点位就少了。在后来发现了Z老 卧槽发现Z老很会选板块和标的 印象最深的是闪迪和lite 直..."
+  },
+  "raw_text": "我是在价值哥评论区发现的赵哥，观察了一下 卧槽真牛 后面赵哥经常被骚扰点位就少了。在后来发现了Z老  卧槽发现Z老很会选板块和标的 印象最深的是闪迪和lite  直接封神了，10倍股 被他早就提起布局了。"
+}
