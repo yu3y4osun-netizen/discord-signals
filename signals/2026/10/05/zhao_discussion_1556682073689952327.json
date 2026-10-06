@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556682073689952327",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T14:58:48.122000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "先跟赵哥把这段时间的米赚到手，最近机会难得"
+  },
+  "raw_text": "先跟赵哥把这段时间的米赚到手，最近机会难得"
+}
