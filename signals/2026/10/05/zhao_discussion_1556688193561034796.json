@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556688193561034796",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T15:23:07.213000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "类似的还有fcx透水淹死人的那次，我亲眼看着大佬看到新闻马上下场去做空了，说是对fcx大利空，日内空完轻飘飘告诉我们让准备做多，理由是铜价在涨。结果fcx短时间..."
+  },
+  "raw_text": "类似的还有fcx透水淹死人的那次，我亲眼看着大佬看到新闻马上下场去做空了，说是对fcx大利空，日内空完轻飘飘告诉我们让准备做多，理由是铜价在涨。结果fcx短时间股价回来了。所以有时候经验更重要，参数对这类没啥好办法的。"
+}
