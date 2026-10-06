@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556686253880119297",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-05T15:15:24.757000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": false,
+    "summary": "还有asts 虽然赵哥最近在买 但我根本不敢上大仓位 我感觉跟这个票也是不对付😂 这个公司也是倒霉得很"
+  },
+  "raw_text": "还有asts 虽然赵哥最近在买 但我根本不敢上大仓位 我感觉跟这个票也是不对付😂 这个公司也是倒霉得很"
+}
