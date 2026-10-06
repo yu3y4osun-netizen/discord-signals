@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556677812461772913",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T14:41:52.166000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "忘了，懂王上台前的事了。我把心爱的600不到的NVDA卖了玩FFIE去了😅"
+  },
+  "raw_text": "忘了，懂王上台前的事了。我把心爱的600不到的NVDA卖了玩FFIE去了😅"
+}
