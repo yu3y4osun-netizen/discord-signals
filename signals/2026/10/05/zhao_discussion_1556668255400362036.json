@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556668255400362036",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-05T14:03:53.585000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大家最近抓紧时间，好不容易最近赵哥频繁出手"
+  },
+  "raw_text": "大家最近抓紧时间，好不容易最近赵哥频繁出手"
+}
