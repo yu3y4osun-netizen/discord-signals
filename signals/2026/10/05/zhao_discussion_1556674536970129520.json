@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556674536970129520",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-10-05T14:28:51.228000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "然后之前他说闪迪存储回不去"
+  },
+  "raw_text": "然后之前他说闪迪存储回不去"
+}
