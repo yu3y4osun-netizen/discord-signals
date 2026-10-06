@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556826405755559937",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-06T00:32:19.568000+00:00",
+  "captured_at": "2026-10-06T09:12:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥在等 单日暴涨异动出货吗 目前好像还有九成仓位"
+  },
+  "raw_text": "赵哥在等 单日暴涨异动出货吗 目前好像还有九成仓位"
+}
