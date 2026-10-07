@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557337674996514881",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-07T10:23:55.654000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "很好奇赵哥说的中选行情啥时候来，指数冲到8000的话个股涨幅估计至少百分之十"
+  },
+  "raw_text": "很好奇赵哥说的中选行情啥时候来，指数冲到8000的话个股涨幅估计至少百分之十"
+}
