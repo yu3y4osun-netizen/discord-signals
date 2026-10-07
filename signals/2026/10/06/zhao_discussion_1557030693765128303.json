@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557030693765128303",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-06T14:04:05.625000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我感觉本质上是利空的，昨天就是急跌的反弹，长趋势是跌的"
+  },
+  "raw_text": "我感觉本质上是利空的，昨天就是急跌的反弹，长趋势是跌的"
+}
