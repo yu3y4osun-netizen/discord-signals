@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557037371583631381",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-06T14:30:37.741000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "这些东西先不谈单我觉得买太多谷歌堆着还是性价比不高"
+  },
+  "raw_text": "这些东西先不谈单我觉得买太多谷歌堆着还是性价比不高"
+}
