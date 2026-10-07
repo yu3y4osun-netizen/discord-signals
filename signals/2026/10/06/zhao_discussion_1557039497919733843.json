@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557039497919733843",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-06T14:39:04.699000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "wdc有点过分了啊"
+  },
+  "raw_text": "wdc有点过分了啊"
+}
