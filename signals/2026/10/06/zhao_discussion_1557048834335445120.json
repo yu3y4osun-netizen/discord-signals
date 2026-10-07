@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557048834335445120",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-06T15:16:10.674000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "RIOT"
+    ],
+    "is_following_zhao": false,
+    "summary": "riot加上了"
+  },
+  "raw_text": "riot加上了"
+}
