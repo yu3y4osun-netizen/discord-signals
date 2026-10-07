@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557036776613347402",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-06T14:28:15.889000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌基本面比meta好"
+  },
+  "raw_text": "谷歌基本面比meta好"
+}
