@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557034872772493486",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-06T14:20:41.978000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intc这是怎么了 芯片全在涨就它拉了坨大的😭"
+  },
+  "raw_text": "intc这是怎么了 芯片全在涨就它拉了坨大的😭"
+}
