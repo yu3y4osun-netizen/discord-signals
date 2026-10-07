@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556913480542593075",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-06T06:18:19.815000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": false,
+    "summary": "这还好吧 这加起来才1亿多 今年asts大股东乐天减持了12亿"
+  },
+  "raw_text": "这还好吧 这加起来才1亿多 今年asts大股东乐天减持了12亿"
+}
