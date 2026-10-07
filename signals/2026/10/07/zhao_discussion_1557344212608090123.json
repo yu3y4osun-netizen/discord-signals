@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557344212608090123",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kongfu233hahaha",
+  "ts": "2026-10-07T10:49:54.342000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我8月下到9🈷️一整月 赵哥的操作基本算跟了 差不多六七个点收益"
+  },
+  "raw_text": "我8月下到9🈷️一整月  赵哥的操作基本算跟了  差不多六七个点收益"
+}
