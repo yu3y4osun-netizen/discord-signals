@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557354732014534690",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-07T11:31:42.364000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "iren感觉最近T下去了一点成本 但是我自己也没算清楚😅"
+  },
+  "raw_text": "iren感觉最近T下去了一点成本 但是我自己也没算清楚😅"
+}
