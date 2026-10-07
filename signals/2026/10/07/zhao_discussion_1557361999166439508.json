@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557361999166439508",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-07T12:00:34.988000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我仓位也大，因为这2个赵哥也被微套了"
+  },
+  "raw_text": "我仓位也大，因为这2个赵哥也被微套了"
+}
