@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557227004519120967",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-07T03:04:09.756000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN"
+    ],
+    "is_following_zhao": false,
+    "summary": "加了一点coin"
+  },
+  "raw_text": "加了一点coin"
+}
