@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556846950421102614",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-06T01:53:57.798000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "存真该涨涨了吧"
+  },
+  "raw_text": "存真该涨涨了吧"
+}
