@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557008568966844440",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaolulucky",
+  "ts": "2026-10-06T12:36:10.662000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "各位大佬 有做程序每天跟进赵哥操作的吗 有时常常搞乱"
+  },
+  "raw_text": "各位大佬 有做程序每天跟进赵哥操作的吗\n有时常常搞乱"
+}
