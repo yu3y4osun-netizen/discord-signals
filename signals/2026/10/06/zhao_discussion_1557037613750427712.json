@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557037613750427712",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-06T14:31:35.478000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "一样，我现在半仓googleA，半仓跟着赵哥"
+  },
+  "raw_text": "一样，我现在半仓googleA，半仓跟着赵哥"
+}
