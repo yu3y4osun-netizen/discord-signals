@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557362991211610113",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-07T12:04:31.510000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "对的，而且我资金小，一次买六股，赵哥的12分之一估计是我的六分一了"
+  },
+  "raw_text": "对的，而且我资金小，一次买六股，赵哥的12分之一估计是我的六分一了"
+}
