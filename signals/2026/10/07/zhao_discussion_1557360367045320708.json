@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557360367045320708",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-07T11:54:05.860000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "感觉这两天的剧本就是杀一群冲高的，然后回调杀一群割肉的，让大家都觉得会回调，然后迅速拉高给大家，大家又觉得有机会了，一下子开始大回调"
+  },
+  "raw_text": "感觉这两天的剧本就是杀一群冲高的，然后回调杀一群割肉的，让大家都觉得会回调，然后迅速拉高给大家，大家又觉得有机会了，一下子开始大回调"
+}
