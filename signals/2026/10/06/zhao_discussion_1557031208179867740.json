@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557031208179867740",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "awua",
+  "ts": "2026-10-06T14:06:08.271000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "HOOD"
+    ],
+    "is_following_zhao": false,
+    "summary": "hood好恶心啊"
+  },
+  "raw_text": "hood好恶心啊"
+}
