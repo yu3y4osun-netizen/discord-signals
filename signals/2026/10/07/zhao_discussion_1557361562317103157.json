@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557361562317103157",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-07T11:58:50.835000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "NBIS还有IREN我看赵哥加的也不少，就挑这两个主做了"
+  },
+  "raw_text": "NBIS还有IREN我看赵哥加的也不少，就挑这两个主做了"
+}
