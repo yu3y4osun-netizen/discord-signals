@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557359662125285387",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-07T11:51:17.794000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "各位，IREN成本现在大概是多少才对？"
+  },
+  "raw_text": "各位，IREN成本现在大概是多少才对？"
+}
