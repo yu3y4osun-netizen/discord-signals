@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1556991826010054689",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-10-06T11:29:38.830000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "有人买英伟达吗，这个还会新高吗"
+  },
+  "raw_text": "有人买英伟达吗，这个还会新高吗"
+}
