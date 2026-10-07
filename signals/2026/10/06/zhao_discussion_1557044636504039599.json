@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557044636504039599",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-06T14:59:29.833000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis 突破250站稳的话就很舒适"
+  },
+  "raw_text": "nbis 突破250站稳的话就很舒适"
+}
