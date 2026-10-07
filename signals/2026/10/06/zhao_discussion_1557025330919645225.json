@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557025330919645225",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-06T13:42:47.023000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "跟赵哥国庆爽吃"
+  },
+  "raw_text": "跟赵哥国庆爽吃"
+}
