@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557033858682327102",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-06T14:16:40.200000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "STX",
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "希捷和西数哪个更加稳"
+  },
+  "raw_text": "希捷和西数哪个更加稳"
+}
