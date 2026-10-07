@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557233409942757447",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yangkobe",
+  "ts": "2026-10-07T03:29:36.928000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "加密不敢碰了，怕了"
+  },
+  "raw_text": "加密不敢碰了，怕了"
+}
