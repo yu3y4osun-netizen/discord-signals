@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557053833484705894",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "channinglucky",
+  "ts": "2026-10-06T15:36:02.564000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "有小伙伴现在手上还有谷歌的c吗，不知道赵哥还看好么"
+  },
+  "raw_text": "有小伙伴现在手上还有谷歌的c吗，不知道赵哥还看好么"
+}
