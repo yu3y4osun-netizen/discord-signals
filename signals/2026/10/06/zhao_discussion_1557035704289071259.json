@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557035704289071259",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-06T14:24:00.227000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥7-8成仓位吧，为啥要降这么低"
+  },
+  "raw_text": "赵哥7-8成仓位吧，为啥要降这么低"
+}
