@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557030217275547813",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-10-06T14:02:12.021000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NFXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "nfxl 24到13了都没有止损 不急"
+  },
+  "raw_text": "nfxl 24到13了都没有止损 不急"
+}
