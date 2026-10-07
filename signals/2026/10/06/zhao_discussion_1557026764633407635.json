@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557026764633407635",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-10-06T13:48:28.847000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren都是看不懂的时候建仓，爆拉的时候根本不给机会"
+  },
+  "raw_text": "iren都是看不懂的时候建仓，爆拉的时候根本不给机会"
+}
