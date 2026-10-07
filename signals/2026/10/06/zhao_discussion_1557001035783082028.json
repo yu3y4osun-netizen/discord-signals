@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557001035783082028",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckfunzhao",
+  "ts": "2026-10-06T12:06:14.611000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": false,
+    "summary": "ASTS也起来了"
+  },
+  "raw_text": "ASTS也起来了"
+}
