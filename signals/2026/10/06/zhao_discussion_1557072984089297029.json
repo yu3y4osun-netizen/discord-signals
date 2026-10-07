@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557072984089297029",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-06T16:52:08.424000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "怎么直接直线了"
+  },
+  "raw_text": "怎么直接直线了"
+}
