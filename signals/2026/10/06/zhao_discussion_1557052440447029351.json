@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557052440447029351",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "leonard5",
+  "ts": "2026-10-06T15:30:30.438000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "感谢赵哥"
+  },
+  "raw_text": "感谢赵哥"
+}
