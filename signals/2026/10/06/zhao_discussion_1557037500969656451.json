@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557037500969656451",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-06T14:31:08.589000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "我周五甚至用币安合约做了一把cbrs的杠杆"
+  },
+  "raw_text": "我周五甚至用币安合约做了一把cbrs的杠杆"
+}
