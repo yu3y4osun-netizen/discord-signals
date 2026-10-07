@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557353438365356093",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-10-07T11:26:33.934000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "我cifr和iren浮亏好多是没控制好吗"
+  },
+  "raw_text": "我cifr和iren浮亏好多是没控制好吗"
+}
