@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557211342488735757",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-07T02:01:55.637000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "dram没买到"
+  },
+  "raw_text": "dram没买到"
+}
