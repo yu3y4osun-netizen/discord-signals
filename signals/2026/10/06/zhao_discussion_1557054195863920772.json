@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557054195863920772",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-06T15:37:28.962000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还是不够狂野，卖房梭哈100倍做多赵哥！！！"
+  },
+  "raw_text": "还是不够狂野，卖房梭哈100倍做多赵哥！！！"
+}
