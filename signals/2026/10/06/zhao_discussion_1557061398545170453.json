@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557061398545170453",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-06T16:06:06.215000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intc估计赵哥今天不太可能买，最近要饭失败了属于是，估计要等等106到108看看赵哥出手不"
+  },
+  "raw_text": "intc估计赵哥今天不太可能买，最近要饭失败了属于是，估计要等等106到108看看赵哥出手不"
+}
