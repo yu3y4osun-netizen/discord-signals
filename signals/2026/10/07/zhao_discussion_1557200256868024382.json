@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557200256868024382",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "netman525",
+  "ts": "2026-10-07T01:17:52.619000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intel， 赵哥还有2笔，119和114，大概率要109才会加，我猜的"
+  },
+  "raw_text": "intel， 赵哥还有2笔，119和114，大概率要109才会加，我猜的"
+}
