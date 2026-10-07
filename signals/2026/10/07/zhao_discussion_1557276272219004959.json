@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557276272219004959",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hubinchen",
+  "ts": "2026-10-07T06:19:56.091000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跑不跑啊，好慌啊"
+  },
+  "raw_text": "跑不跑啊，好慌啊"
+}
