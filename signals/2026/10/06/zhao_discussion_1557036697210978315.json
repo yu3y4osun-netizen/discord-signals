@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557036697210978315",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liuxingyu",
+  "ts": "2026-10-06T14:27:56.958000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "大佬们西部这个位置怎么样了，还想在进一点"
+  },
+  "raw_text": "大佬们西部这个位置怎么样了，还想在进一点"
+}
