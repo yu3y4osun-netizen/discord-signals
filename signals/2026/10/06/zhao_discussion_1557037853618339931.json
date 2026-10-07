@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557037853618339931",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-06T14:32:32.667000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "我今天没吃到，iren买多了🙃"
+  },
+  "raw_text": "我今天没吃到，iren买多了🙃"
+}
