@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557097882153123853",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "c8641",
+  "ts": "2026-10-06T18:31:04.585000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "STX",
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "西部数据跟希捷买哪个好"
+  },
+  "raw_text": "西部数据跟希捷买哪个好"
+}
