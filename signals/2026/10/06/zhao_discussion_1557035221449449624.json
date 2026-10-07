@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557035221449449624",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-06T14:22:05.109000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我的重仓都在谷歌"
+  },
+  "raw_text": "我的重仓都在谷歌"
+}
