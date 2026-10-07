@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557355787398025228",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "netman525",
+  "ts": "2026-10-07T11:35:53.987000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥这些买的都是1/12"
+  },
+  "raw_text": "赵哥这些买的都是1/12"
+}
