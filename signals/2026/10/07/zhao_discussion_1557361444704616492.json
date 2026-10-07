@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557361444704616492",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-07T11:58:22.794000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "主要是NBIS一些压根没有底仓，没法加太猛"
+  },
+  "raw_text": "主要是NBIS一些压根没有底仓，没法加太猛"
+}
