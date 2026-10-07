@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557361668894236745",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-07T11:59:16.245000+00:00",
+  "captured_at": "2026-10-07T20:13:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "CBRS还有IREN赵哥仓位比较大，所以挑这两个主做"
+  },
+  "raw_text": "CBRS还有IREN赵哥仓位比较大，所以挑这两个主做"
+}
