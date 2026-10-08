@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557716490696925270",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "slickbacon",
+  "ts": "2026-10-08T11:29:12.355000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SCO"
+    ],
+    "is_following_zhao": false,
+    "summary": "再买点SCO"
+  },
+  "raw_text": "再买点SCO"
+}
