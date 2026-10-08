@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557724635745746995",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-08T12:01:34.286000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥约等于满仓了"
+  },
+  "raw_text": "赵哥约等于满仓了"
+}
