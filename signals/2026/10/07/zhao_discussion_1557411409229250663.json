@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557411409229250663",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-07T15:16:55.265000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "光就是litx，存就是muu，云就是nbis，比特币，少买，我是跟退休哥哥买的之前，不敢碰了"
+  },
+  "raw_text": "光就是litx，存就是muu，云就是nbis，比特币，少买，我是跟退休哥哥买的之前，不敢碰了"
+}
