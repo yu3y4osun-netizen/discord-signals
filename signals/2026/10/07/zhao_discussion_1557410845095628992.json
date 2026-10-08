@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557410845095628992",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-07T15:14:40.765000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "毕竟买的钱不够没有mu这种长得快"
+  },
+  "raw_text": "毕竟买的钱不够没有mu这种长得快"
+}
