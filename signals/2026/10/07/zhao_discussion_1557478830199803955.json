@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557478830199803955",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-07T19:44:49.677000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌真.直线了"
+  },
+  "raw_text": "谷歌真.直线了"
+}
