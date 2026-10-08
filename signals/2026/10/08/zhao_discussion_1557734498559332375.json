@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557734498559332375",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-08T12:40:45.764000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr搞毛线呢"
+  },
+  "raw_text": "cifr搞毛线呢"
+}
