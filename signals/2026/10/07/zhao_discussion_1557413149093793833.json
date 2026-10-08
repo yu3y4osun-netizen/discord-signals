@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557413149093793833",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-10-07T15:23:50.081000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "48开始接iren 17开始接cifr😭"
+  },
+  "raw_text": "48开始接iren 17开始接cifr😭"
+}
