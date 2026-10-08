@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557401207176433715",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-10-07T14:36:22.906000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "特别是赵哥没买的 自己没法那么顺畅的操作 信息断档"
+  },
+  "raw_text": "特别是赵哥没买的 自己没法那么顺畅的操作 信息断档"
+}
