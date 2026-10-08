@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557393313152110647",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-10-07T14:05:00.824000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "我就是刚才跟着YH哥加了MU"
+  },
+  "raw_text": "我就是刚才跟着YH哥加了MU"
+}
