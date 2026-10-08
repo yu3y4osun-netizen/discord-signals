@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557421905449975989",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-07T15:58:37.759000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CONL"
+    ],
+    "is_following_zhao": false,
+    "summary": "看着从26跌到17，CONL从14跌到5块"
+  },
+  "raw_text": "看着从26跌到17，CONL从14跌到5块"
+}
