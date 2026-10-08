@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557412187268718603",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-07T15:20:00.764000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌开始收针了，不知道是不是有行情"
+  },
+  "raw_text": "谷歌开始收针了，不知道是不是有行情"
+}
