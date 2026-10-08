@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557417325303701526",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-07T15:40:25.767000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "好像要去突破7790了啊，如果突破是不是就没有回流了"
+  },
+  "raw_text": "好像要去突破7790了啊，如果突破是不是就没有回流了"
+}
