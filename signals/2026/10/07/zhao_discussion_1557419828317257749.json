@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557419828317257749",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-07T15:50:22.532000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我之前一直0.75倍做多赵哥 赚的不多😂"
+  },
+  "raw_text": "我之前一直0.75倍做多赵哥 赚的不多😂"
+}
