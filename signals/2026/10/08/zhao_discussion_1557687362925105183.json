@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557687362925105183",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T09:33:27.753000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "今晚谷歌不知道能不能撑住"
+  },
+  "raw_text": "今晚谷歌不知道能不能撑住"
+}
