@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557671313923899413",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-08T08:29:41.373000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥今天会早起补仓"
+  },
+  "raw_text": "赵哥今天会早起补仓"
+}
