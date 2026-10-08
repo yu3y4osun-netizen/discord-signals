@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557417299982426276",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "slickbacon",
+  "ts": "2026-10-07T15:40:19.730000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "大饼83K撑住，问题就不大"
+  },
+  "raw_text": "大饼83K撑住，问题就不大"
+}
