@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557417398011957349",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "slickbacon",
+  "ts": "2026-10-07T15:40:43.102000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC",
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "Spx去8000，大饼也会过90K"
+  },
+  "raw_text": "Spx去8000，大饼也会过90K"
+}
