@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557401913421725697",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xprimes",
+  "ts": "2026-10-07T14:39:11.288000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "AEHR"
+    ],
+    "is_following_zhao": true,
+    "summary": "aehr 跌那么多了 还没到加仓点"
+  },
+  "raw_text": "aehr 跌那么多了 还没到加仓点"
+}
