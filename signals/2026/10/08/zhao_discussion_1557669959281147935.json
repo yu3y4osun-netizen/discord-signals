@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557669959281147935",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T08:24:18.401000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "想问下各位，上次赵哥融资大涨后多久把货出完的？"
+  },
+  "raw_text": "想问下各位，上次赵哥融资大涨后多久把货出完的？"
+}
