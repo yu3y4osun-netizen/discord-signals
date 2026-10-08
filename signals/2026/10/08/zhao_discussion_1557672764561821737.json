@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557672764561821737",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-10-08T08:35:27.232000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CONL",
+      "TSLL"
+    ],
+    "is_following_zhao": false,
+    "summary": "13成，印象中，但是风险敞口应该大于这个，不是会有Tsll，Conl这种吗，得自己判断下风险承受"
+  },
+  "raw_text": "13成，印象中，但是风险敞口应该大于这个，不是会有Tsll，Conl这种吗，得自己判断下风险承受"
+}
