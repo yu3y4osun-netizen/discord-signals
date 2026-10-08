@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557414406655320177",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-07T15:28:49.907000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "最好还是看一下技术线，看跌的趋势有没有稳住再加，不能急，iren我是40左右才开始加的仓，感觉跌得差不多了"
+  },
+  "raw_text": "最好还是看一下技术线，看跌的趋势有没有稳住再加，不能急，iren我是40左右才开始加的仓，感觉跌得差不多了"
+}
