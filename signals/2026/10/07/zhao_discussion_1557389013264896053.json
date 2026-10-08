@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557389013264896053",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-07T13:47:55.651000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥发的时候肯定已经买完了，是有点延迟"
+  },
+  "raw_text": "赵哥发的时候肯定已经买完了，是有点延迟"
+}
