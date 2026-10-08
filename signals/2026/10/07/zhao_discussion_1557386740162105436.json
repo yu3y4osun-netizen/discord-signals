@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557386740162105436",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-07T13:38:53.701000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "WDC要破396楼"
+  },
+  "raw_text": "WDC要破396楼"
+}
