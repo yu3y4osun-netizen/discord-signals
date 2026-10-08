@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557718356348502077",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T11:36:37.161000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "实在不行今晚只能平出谷歌了"
+  },
+  "raw_text": "实在不行今晚只能平出谷歌了"
+}
