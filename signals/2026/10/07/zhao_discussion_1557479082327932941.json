@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557479082327932941",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-07T19:45:49.789000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是要加速突破还是路边一坨就看这一两周了"
+  },
+  "raw_text": "是要加速突破还是路边一坨就看这一两周了"
+}
