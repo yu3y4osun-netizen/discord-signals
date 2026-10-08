@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557417566975303764",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-07T15:41:23.386000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "大饼到时候会跟大盘一起大回调吗"
+  },
+  "raw_text": "大饼到时候会跟大盘一起大回调吗"
+}
