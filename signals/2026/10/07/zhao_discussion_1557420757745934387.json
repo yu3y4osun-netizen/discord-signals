@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557420757745934387",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-07T15:54:04.125000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "有点想格局一下，谷歌的图看着挺漂亮的"
+  },
+  "raw_text": "有点想格局一下，谷歌的图看着挺漂亮的"
+}
