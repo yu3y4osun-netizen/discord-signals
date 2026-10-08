@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557412456064880651",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-07T15:21:04.850000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "对，加完十分后悔"
+  },
+  "raw_text": "对，加完十分后悔"
+}
