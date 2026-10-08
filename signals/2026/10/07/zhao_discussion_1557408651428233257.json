@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557408651428233257",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-07T15:05:57.754000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren就是这样，一直阴线，等你们都熬不住了，班长就梭哈了"
+  },
+  "raw_text": "iren就是这样，一直阴线，等你们都熬不住了，班长就梭哈了"
+}
