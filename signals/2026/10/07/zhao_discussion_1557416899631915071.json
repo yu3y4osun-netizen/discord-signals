@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557416899631915071",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-07T15:38:44.279000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "没说不建议玩币股，只是建议要玩要想好怎么玩，赚起来很快，亏起来也很快，不行就老老实实跟赵哥"
+  },
+  "raw_text": "没说不建议玩币股，只是建议要玩要想好怎么玩，赚起来很快，亏起来也很快，不行就老老实实跟赵哥"
+}
