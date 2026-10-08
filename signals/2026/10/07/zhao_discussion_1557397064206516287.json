@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557397064206516287",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-07T14:19:55.145000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不过我观察了一段时间，赵哥加的位置等下半夜还会有"
+  },
+  "raw_text": "不过我观察了一段时间，赵哥加的位置等下半夜还会有"
+}
