@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557414999197098158",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-07T15:31:11.180000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "MSTR"
+    ],
+    "is_following_zhao": false,
+    "summary": "币股不能那么玩的。曾经玩MSTR的经验告诉我，币股绝对不能抓经验，自己尝试每天吃波动一定会死。连续多少天的规律，然后突然来一次大逼空或者暴跌，一堆人就凉了"
+  },
+  "raw_text": "币股不能那么玩的。曾经玩MSTR的经验告诉我，币股绝对不能抓经验，自己尝试每天吃波动一定会死。连续多少天的规律，然后突然来一次大逼空或者暴跌，一堆人就凉了"
+}
