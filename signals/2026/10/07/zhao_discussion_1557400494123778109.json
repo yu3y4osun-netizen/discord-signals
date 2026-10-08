@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557400494123778109",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-07T14:33:32.901000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU",
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "nbis mu这种你今天买可能半个小时就可以出了"
+  },
+  "raw_text": "nbis mu这种你今天买可能半个小时就可以出了"
+}
