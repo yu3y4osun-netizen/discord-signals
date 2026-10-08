@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557410874065551433",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-07T15:14:47.672000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "真要涨的时候还是挺能涨的"
+  },
+  "raw_text": "真要涨的时候还是挺能涨的"
+}
