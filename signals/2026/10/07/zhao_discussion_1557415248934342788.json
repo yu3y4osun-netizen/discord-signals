@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557415248934342788",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-07T15:32:10.722000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CONL"
+    ],
+    "is_following_zhao": true,
+    "summary": "去年bmnr跟conl套了好久"
+  },
+  "raw_text": "去年bmnr跟conl套了好久"
+}
