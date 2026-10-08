@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557392090617610284",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-07T14:00:09.349000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "基本满仓 还有融资没用"
+  },
+  "raw_text": "基本满仓 还有融资没用"
+}
