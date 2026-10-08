@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557699480437006468",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "leonard5",
+  "ts": "2026-10-08T10:21:36.793000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "话说今晚要猛猛加仓了么"
+  },
+  "raw_text": "话说今晚要猛猛加仓了么"
+}
