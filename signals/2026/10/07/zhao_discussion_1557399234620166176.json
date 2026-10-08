@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557399234620166176",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-07T14:28:32.612000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN",
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "别天天去看什么wdc iren这种"
+  },
+  "raw_text": "别天天去看什么wdc iren这种"
+}
