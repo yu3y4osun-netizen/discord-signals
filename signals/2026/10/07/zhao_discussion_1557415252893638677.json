@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557415252893638677",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-07T15:32:11.666000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSTR"
+    ],
+    "is_following_zhao": false,
+    "summary": "当年玩MSTR，每天大概吃5-10%左右，然后一个大拉或者一个大跌，利润全部回吐了"
+  },
+  "raw_text": "当年玩MSTR，每天大概吃5-10%左右，然后一个大拉或者一个大跌，利润全部回吐了"
+}
