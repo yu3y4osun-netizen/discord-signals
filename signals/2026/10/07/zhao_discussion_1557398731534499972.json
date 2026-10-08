@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557398731534499972",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-07T14:26:32.667000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "主要是有些时候赵哥成本上面也会出，这么弄的话手续费太贵了，挑几个重仓也方便补的了"
+  },
+  "raw_text": "主要是有些时候赵哥成本上面也会出，这么弄的话手续费太贵了，挑几个重仓也方便补的了"
+}
