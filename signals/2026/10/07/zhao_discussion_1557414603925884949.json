@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557414603925884949",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-07T15:29:36.940000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "要是重现当年暴跌就好玩了😂"
+  },
+  "raw_text": "要是重现当年暴跌就好玩了😂"
+}
