@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557703977754300427",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-08T10:39:29.037000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "所以说不要把子弹都打完了😆"
+  },
+  "raw_text": "所以说不要把子弹都打完了😆"
+}
