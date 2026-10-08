@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557667551650119805",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T08:14:44.377000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "做完就去嘉信，赵哥分批出只要在我的成本以上一次就出掉一大半，赶紧把资金回笼然后过去嘉信，等中选后的行情了"
+  },
+  "raw_text": "做完就去嘉信，赵哥分批出只要在我的成本以上一次就出掉一大半，赶紧把资金回笼然后过去嘉信，等中选后的行情了"
+}
