@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557669740934074429",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T08:23:26.343000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "后面转战嘉信，赵哥满仓我就直接融资1.2倍做多赵哥，然后赵哥融资我直接两倍做多赵哥"
+  },
+  "raw_text": "后面转战嘉信，赵哥满仓我就直接融资1.2倍做多赵哥，然后赵哥融资我直接两倍做多赵哥"
+}
