@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557725854094860341",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T12:06:24.763000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我有谷歌的期权"
+  },
+  "raw_text": "我有谷歌的期权"
+}
