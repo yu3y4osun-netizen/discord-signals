@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557409755339825184",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-07T15:10:20.947000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这玩意割死人，我记得8.21那天，我去北京出差，币大涨可惜没仓位"
+  },
+  "raw_text": "这玩意割死人，我记得8.21那天，我去北京出差，币大涨可惜没仓位"
+}
