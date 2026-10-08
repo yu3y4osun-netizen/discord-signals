@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557411867117494464",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-07T15:18:44.434000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "想着上次低点是多少，加的太猛了"
+  },
+  "raw_text": "想着上次低点是多少，加的太猛了"
+}
