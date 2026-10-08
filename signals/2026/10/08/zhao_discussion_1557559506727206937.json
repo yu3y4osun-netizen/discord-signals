@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557559506727206937",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-10-08T01:05:24.460000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AEHR",
+      "BABA",
+      "PL"
+    ],
+    "is_following_zhao": false,
+    "summary": "- BABA：持有 1/12 仓，共1笔，107.8(9月29日，1/12仓) - AEHR：持有 1/24 仓，共1笔，98.5(10月7日，1/24仓) -..."
+  },
+  "raw_text": "- BABA：持有 1/12 仓，共1笔，107.8(9月29日，1/12仓)\n\n- AEHR：持有 1/24 仓，共1笔，98.5(10月7日，1/24仓)\n\n- PL：持有 1/24 仓，共1笔，17.4(10月7日，1/24仓)"
+}
