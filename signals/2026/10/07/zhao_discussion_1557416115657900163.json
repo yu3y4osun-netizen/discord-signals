@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557416115657900163",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-07T15:35:37.365000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "bmnr做的我想吐，币股再没敢怎么做空，只能做多，估计手续费高的要死🙃"
+  },
+  "raw_text": "bmnr做的我想吐，币股再没敢怎么做空，只能做多，估计手续费高的要死🙃"
+}
