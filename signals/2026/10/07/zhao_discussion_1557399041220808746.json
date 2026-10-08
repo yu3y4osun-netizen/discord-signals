@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557399041220808746",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-10-07T14:27:46.502000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "大家平时跟赵哥过得太好了，这么一会儿涨不上去就难受了哈哈哈"
+  },
+  "raw_text": "大家平时跟赵哥过得太好了，这么一会儿涨不上去就难受了哈哈哈"
+}
