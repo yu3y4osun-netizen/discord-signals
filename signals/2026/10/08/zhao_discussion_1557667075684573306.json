@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557667075684573306",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "leonard5",
+  "ts": "2026-10-08T08:12:50.898000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "FUTU"
+    ],
+    "is_following_zhao": false,
+    "summary": "长桥有几倍融资额度，futu 好像普通是 1.5"
+  },
+  "raw_text": "长桥有几倍融资额度，futu 好像普通是 1.5"
+}
