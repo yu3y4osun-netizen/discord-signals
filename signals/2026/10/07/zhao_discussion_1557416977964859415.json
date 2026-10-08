@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557416977964859415",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-07T15:39:02.955000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是的 都是跟着赵哥的 没有自己买"
+  },
+  "raw_text": "是的 都是跟着赵哥的 没有自己买"
+}
