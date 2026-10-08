@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557399973014937634",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-07T14:31:28.659000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一直想等冲高全卖完，然后去嘉信的"
+  },
+  "raw_text": "一直想等冲高全卖完，然后去嘉信的"
+}
