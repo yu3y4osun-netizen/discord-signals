@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557739134859223091",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T12:59:11.144000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "看不懂市场"
+  },
+  "raw_text": "看不懂市场"
+}
