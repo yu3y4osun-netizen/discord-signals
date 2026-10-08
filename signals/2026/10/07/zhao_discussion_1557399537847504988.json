@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557399537847504988",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-07T14:29:44.907000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "LITE",
+      "MU",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "有nbis crwv mu lite不买天天买个小票"
+  },
+  "raw_text": "有nbis crwv mu lite不买天天买个小票"
+}
