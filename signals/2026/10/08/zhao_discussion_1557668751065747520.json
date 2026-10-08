@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557668751065747520",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-08T08:19:30.340000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AEHR"
+    ],
+    "is_following_zhao": true,
+    "summary": "目前aehr亏损来到了9%"
+  },
+  "raw_text": "目前aehr亏损来到了9%"
+}
