@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557413473951154240",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-07T15:25:07.533000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "也是懵了"
+  },
+  "raw_text": "也是懵了"
+}
