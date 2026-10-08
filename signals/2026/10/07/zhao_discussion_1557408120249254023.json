@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557408120249254023",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-07T15:03:51.111000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥买了好几个币股"
+  },
+  "raw_text": "赵哥买了好几个币股"
+}
