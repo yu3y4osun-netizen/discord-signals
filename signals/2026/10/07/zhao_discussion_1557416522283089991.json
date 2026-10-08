@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557416522283089991",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "slickbacon",
+  "ts": "2026-10-07T15:37:14.312000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "看好Iren Cifr复制8月底那波拉升"
+  },
+  "raw_text": "看好Iren Cifr复制8月底那波拉升"
+}
