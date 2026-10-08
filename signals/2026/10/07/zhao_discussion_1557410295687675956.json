@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557410295687675956",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-07T15:12:29.776000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "Cifr跌了半个月"
+  },
+  "raw_text": "Cifr跌了半个月"
+}
