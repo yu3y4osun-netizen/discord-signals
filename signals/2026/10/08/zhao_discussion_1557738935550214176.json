@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557738935550214176",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-08T12:58:23.625000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "我的谷歌出了一点"
+  },
+  "raw_text": "我的谷歌出了一点"
+}
