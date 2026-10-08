@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557414354750546041",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mxy45",
+  "ts": "2026-10-07T15:28:37.532000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "Cifr。9根绿棒子"
+  },
+  "raw_text": "Cifr。9根绿棒子"
+}
