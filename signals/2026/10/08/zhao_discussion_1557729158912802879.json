@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557729158912802879",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xlucky",
+  "ts": "2026-10-08T12:19:32.693000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren啥时候爆发，最近很弱"
+  },
+  "raw_text": "iren啥时候爆发，最近很弱"
+}
