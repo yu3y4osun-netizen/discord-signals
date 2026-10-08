@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557636485467865113",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-08T06:11:17.622000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "信赵哥🉐永生，这辈子能不能翻身就看赵哥了🥹"
+  },
+  "raw_text": "信赵哥🉐永生，这辈子能不能翻身就看赵哥了🥹"
+}
