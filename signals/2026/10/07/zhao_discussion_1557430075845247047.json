@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557430075845247047",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halamadrid9248",
+  "ts": "2026-10-07T16:31:05.733000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "末日我胆子小"
+  },
+  "raw_text": "末日我胆子小"
+}
