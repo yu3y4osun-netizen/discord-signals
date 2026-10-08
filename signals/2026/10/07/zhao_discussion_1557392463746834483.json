@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557392463746834483",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-07T14:01:38.310000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "mu c起飞"
+  },
+  "raw_text": "mu c起飞"
+}
