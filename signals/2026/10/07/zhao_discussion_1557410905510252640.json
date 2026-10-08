@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557410905510252640",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-07T15:14:55.169000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "COIN",
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "我买的几个好像都带有币股属性IREN cifr coin"
+  },
+  "raw_text": "我买的几个好像都带有币股属性IREN cifr coin"
+}
