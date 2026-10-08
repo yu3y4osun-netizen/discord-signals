@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557405450859708469",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dasheng9527",
+  "ts": "2026-10-07T14:53:14.679000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AEHR"
+    ],
+    "is_following_zhao": false,
+    "summary": "aehr好像快才报了"
+  },
+  "raw_text": "aehr好像快才报了"
+}
