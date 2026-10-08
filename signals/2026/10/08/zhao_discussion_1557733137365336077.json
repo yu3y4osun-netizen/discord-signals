@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557733137365336077",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky2026",
+  "ts": "2026-10-08T12:35:21.230000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥满仓了啊"
+  },
+  "raw_text": "赵哥满仓了啊"
+}
