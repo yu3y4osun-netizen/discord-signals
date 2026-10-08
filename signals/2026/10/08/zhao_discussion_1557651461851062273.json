@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557651461851062273",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-08T07:10:48.270000+00:00",
+  "captured_at": "2026-10-08T21:01:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "上一次赵哥上融资，美股指数单边涨了1个月"
+  },
+  "raw_text": "上一次赵哥上融资，美股指数单边涨了1个月"
+}
