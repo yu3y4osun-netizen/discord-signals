@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557430794228596787",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "graveload76",
+  "ts": "2026-10-07T16:33:57.009000+00:00",
+  "captured_at": "2026-10-08T11:45:11+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "哥 你买的nbis嘛"
+  },
+  "raw_text": "哥 你买的nbis嘛"
+}
