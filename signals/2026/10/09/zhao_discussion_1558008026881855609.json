@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558008026881855609",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bitboy9527",
+  "ts": "2026-10-09T06:47:39.998000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我做的就是合约啊，赵哥说的票我都是加了20倍杠杆的"
+  },
+  "raw_text": "我做的就是合约啊，赵哥说的票我都是加了20倍杠杆的"
+}
