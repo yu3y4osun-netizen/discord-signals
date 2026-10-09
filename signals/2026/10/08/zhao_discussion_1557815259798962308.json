@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557815259798962308",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T18:01:40.744000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有一说一，不是赵哥说的资金博弈，我还笼统的认为纯纯是黑天鹅出现了"
+  },
+  "raw_text": "有一说一，不是赵哥说的资金博弈，我还笼统的认为纯纯是黑天鹅出现了"
+}
