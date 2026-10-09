@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557768086298566728",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-08T14:54:13.705000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN",
+      "RIOT"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren cifr riot并列跌幅第一"
+  },
+  "raw_text": "iren cifr riot并列跌幅第一"
+}
