@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557749771148730519",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-08T13:41:27.033000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "Cifr iren akam uber这些意义不大"
+  },
+  "raw_text": "Cifr iren akam uber这些意义不大"
+}
