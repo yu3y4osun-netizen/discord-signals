@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558045640121131081",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-10-09T09:17:07.693000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": false,
+    "summary": "Asts要减仓吗"
+  },
+  "raw_text": "Asts要减仓吗"
+}
