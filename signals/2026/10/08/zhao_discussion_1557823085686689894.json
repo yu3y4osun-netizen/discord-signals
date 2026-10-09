@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557823085686689894",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-10-08T18:32:46.581000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "AMZN",
+      "MSFT"
+    ],
+    "is_following_zhao": true,
+    "summary": "我基本没有在亚马逊，微软，期权赚过钱，哪怕是长期期权我也是回本赚一点点就走了，要不就是起飞前一天割肉了，很难做的"
+  },
+  "raw_text": "我基本没有在亚马逊，微软，期权赚过钱，哪怕是长期期权我也是回本赚一点点就走了，要不就是起飞前一天割肉了，很难做的"
+}
