@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558019442934546463",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bitboy9527",
+  "ts": "2026-10-09T07:33:01.797000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我做的是跟单，又不是价差套利，管它溢不溢价呢😂，收到赵哥的买入卖出信号，直接市价跟了"
+  },
+  "raw_text": "我做的是跟单，又不是价差套利，管它溢不溢价呢😂，收到赵哥的买入卖出信号，直接市价跟了"
+}
