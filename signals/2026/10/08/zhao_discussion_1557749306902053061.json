@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557749306902053061",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-08T13:39:36.348000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没啥必要恐慌吧 赵哥之前不是都说过应对方法么"
+  },
+  "raw_text": "没啥必要恐慌吧 赵哥之前不是都说过应对方法么"
+}
