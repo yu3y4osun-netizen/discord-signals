@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557761360090234941",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-10-08T14:27:30.052000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl肯定是必买的，本身波动也大"
+  },
+  "raw_text": "soxl肯定是必买的，本身波动也大"
+}
