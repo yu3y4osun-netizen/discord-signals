@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557767103593971795",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T14:50:19.410000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "CIFR看周线前低是11.7，回踩到那个位置的话指数要上行回到15真的需要想象力🤣"
+  },
+  "raw_text": "CIFR看周线前低是11.7，回踩到那个位置的话指数要上行回到15真的需要想象力🤣"
+}
