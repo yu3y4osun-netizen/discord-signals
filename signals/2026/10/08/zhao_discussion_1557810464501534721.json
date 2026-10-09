@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557810464501534721",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-08T17:42:37.456000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥说过了中选后一个星期就清仓。大伙觉得自己能抄到赵哥底and永远买在最低点那就现在别跟赵哥，觉得自己水平不行就follow赵哥，就这么简单"
+  },
+  "raw_text": "赵哥说过了中选后一个星期就清仓。大伙觉得自己能抄到赵哥底and永远买在最低点那就现在别跟赵哥，觉得自己水平不行就follow赵哥，就这么简单"
+}
