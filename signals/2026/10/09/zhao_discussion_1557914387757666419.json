@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557914387757666419",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-09T00:35:34.691000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": false,
+    "summary": "别上了，震荡市个股都不稳妥，看ASTS"
+  },
+  "raw_text": "别上了，震荡市个股都不稳妥，看ASTS"
+}
