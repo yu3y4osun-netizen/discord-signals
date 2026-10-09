@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557920046989320324",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-09T00:58:03.957000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我加了7次仓，加成重仓"
+  },
+  "raw_text": "我加了7次仓，加成重仓"
+}
