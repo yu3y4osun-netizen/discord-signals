@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557766156700360805",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-08T14:46:33.653000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": true,
+    "summary": "你要这样想 大不了这个钱老子不要了，不信不涨回来，以前的特斯拉双倍也是 当时好多人9.9块包邮价被套，后面都涨回来了"
+  },
+  "raw_text": "你要这样想 大不了这个钱老子不要了，不信不涨回来，以前的特斯拉双倍也是  当时好多人9.9块包邮价被套，后面都涨回来了"
+}
