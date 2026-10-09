@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557817760195682456",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-08T18:11:36.885000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "那不一定人家还是能发展出台积电来"
+  },
+  "raw_text": "那不一定人家还是能发展出台积电来"
+}
