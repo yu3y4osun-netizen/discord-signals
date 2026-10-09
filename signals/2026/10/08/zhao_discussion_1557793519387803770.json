@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557793519387803770",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T16:35:17.426000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "META",
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "微软我从420一直买到350。 meta从600一直买到530。 当时社区一堆人鬼哭狼嚎 什么扎畜你根本不懂ai 微软个傻逼印度人公司印度人做不好公司 纳畜去死"
+  },
+  "raw_text": "微软我从420一直买到350。\nmeta从600一直买到530。\n当时社区一堆人鬼哭狼嚎\n什么扎畜你根本不懂ai\n微软个傻逼印度人公司印度人做不好公司 纳畜去死"
+}
