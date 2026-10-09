@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557996169366605885",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gldslv",
+  "ts": "2026-10-09T06:00:32.946000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "是啊 存也就买了dram 个股赵哥都不买了"
+  },
+  "raw_text": "是啊 存也就买了dram 个股赵哥都不买了"
+}
