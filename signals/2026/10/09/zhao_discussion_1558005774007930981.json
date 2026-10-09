@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558005774007930981",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky2026",
+  "ts": "2026-10-09T06:38:42.871000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "接下来会是主升了吗"
+  },
+  "raw_text": "接下来会是主升了吗"
+}
