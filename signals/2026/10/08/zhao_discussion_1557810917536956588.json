@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557810917536956588",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T17:44:25.468000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥八成仓，你三成，赵哥满仓你直接一步到位是不是赚的更多🤣"
+  },
+  "raw_text": "赵哥八成仓，你三成，赵哥满仓你直接一步到位是不是赚的更多🤣"
+}
