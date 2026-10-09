@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557816514462220379",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T18:06:39.879000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "META",
+      "MSFT"
+    ],
+    "is_following_zhao": true,
+    "summary": "我买微软 meta 没一个不磨的"
+  },
+  "raw_text": "我买微软 meta 没一个不磨的"
+}
