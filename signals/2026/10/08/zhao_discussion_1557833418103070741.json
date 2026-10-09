@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557833418103070741",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T19:13:50.021000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "所以赵哥说了不要看新闻，看资金，资金不会选择错的，前段时间马斯克说减少AI支出，然后特朗普打电话给黄仁勋要发展AI"
+  },
+  "raw_text": "所以赵哥说了不要看新闻，看资金，资金不会选择错的，前段时间马斯克说减少AI支出，然后特朗普打电话给黄仁勋要发展AI"
+}
