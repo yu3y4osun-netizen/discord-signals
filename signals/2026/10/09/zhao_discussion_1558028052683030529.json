@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558028052683030529",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-10-09T08:07:14.521000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": true,
+    "summary": "要做买了电信频谱，要做手机业务，星链创收业务、吸血其他电信资金、卫星资金，市值未来至少加半个苹果（我猜的）"
+  },
+  "raw_text": "要做买了电信频谱，要做手机业务，星链创收业务、吸血其他电信资金、卫星资金，市值未来至少加半个苹果（我猜的）"
+}
