@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557919491952742401",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-09T00:55:51.626000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": true,
+    "summary": "目前亏损最多cifr 11% iren10%"
+  },
+  "raw_text": "目前亏损最多cifr 11%  iren10%"
+}
