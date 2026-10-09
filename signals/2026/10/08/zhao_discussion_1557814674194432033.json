@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557814674194432033",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-08T17:59:21.125000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "你就按照你的语言习惯讲就好了，群友想跟单的，想学习的就自己想办法呗"
+  },
+  "raw_text": "你就按照你的语言习惯讲就好了，群友想跟单的，想学习的就自己想办法呗"
+}
