@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557918588902576184",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-09T00:52:16.322000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "也可能，今天大A猛拉，再下周减持，利益最大化"
+  },
+  "raw_text": "也可能，今天大A猛拉，再下周减持，利益最大化"
+}
