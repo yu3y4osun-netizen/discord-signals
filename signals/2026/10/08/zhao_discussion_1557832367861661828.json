@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557832367861661828",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T19:09:39.624000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果没有赵哥监控大资金，其实很多人都不敢买的"
+  },
+  "raw_text": "如果没有赵哥监控大资金，其实很多人都不敢买的"
+}
