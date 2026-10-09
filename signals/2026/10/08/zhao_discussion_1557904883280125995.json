@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557904883280125995",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-08T23:57:48.647000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPYU",
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "买指数是不是稳一点，tqqq，spyu"
+  },
+  "raw_text": "买指数是不是稳一点，tqqq，spyu"
+}
