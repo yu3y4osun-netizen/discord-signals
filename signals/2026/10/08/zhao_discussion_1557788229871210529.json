@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557788229871210529",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-08T16:14:16.307000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥止损的 那一定是有问题的票"
+  },
+  "raw_text": "赵哥止损的  那一定是有问题的票"
+}
