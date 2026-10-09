@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557749017671110728",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-08T13:38:27.390000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天第二天，此群第三天恐慌才会到尽头"
+  },
+  "raw_text": "今天第二天，此群第三天恐慌才会到尽头"
+}
