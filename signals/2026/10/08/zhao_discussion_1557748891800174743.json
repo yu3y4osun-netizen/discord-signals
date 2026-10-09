@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557748891800174743",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ctttest",
+  "ts": "2026-10-08T13:37:57.380000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "Iren真牛逼"
+  },
+  "raw_text": "Iren真牛逼"
+}
