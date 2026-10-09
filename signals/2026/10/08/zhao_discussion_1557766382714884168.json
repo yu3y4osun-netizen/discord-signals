@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557766382714884168",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T14:47:27.539000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "🤣纯纯是被套十个点，无法想象指数涨起来它能涨多少"
+  },
+  "raw_text": "🤣纯纯是被套十个点，无法想象指数涨起来它能涨多少"
+}
