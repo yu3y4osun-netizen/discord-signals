@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557819122836832302",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-08T18:17:01.764000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "你要说谷歌唯一有影响的点就在于ai 如何绕开搜索业务这块儿"
+  },
+  "raw_text": "你要说谷歌唯一有影响的点就在于ai 如何绕开搜索业务这块儿"
+}
