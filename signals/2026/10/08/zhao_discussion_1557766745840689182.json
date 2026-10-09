@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557766745840689182",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "brainloading",
+  "ts": "2026-10-08T14:48:54.115000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥以前发过的 正循环​：A股港股跌了就看盘前1小时和开盘附近有没有回踩 / 有回踩在spx7640极限位置就 低吸低吸低吸 / 然后就是轻松看有没有直线异动 ..."
+  },
+  "raw_text": "赵哥以前发过的\n\n正循环​：A股港股跌了就看盘前1小时和开盘附近有没有回踩 / 有回踩在spx7640极限位置就 低吸低吸低吸 / 然后就是轻松看有没有直线异动 直线异动出个一半 ​\n\n​负循环​：夜盘跌一点就一直吸 / 开盘回踩 问要不要止损啊 / 中选是不是不好了 / 是不是战争加剧了 / 没资金加了怎么办 / 反弹上去夜盘买的还没回本怎么办 ​"
+}
