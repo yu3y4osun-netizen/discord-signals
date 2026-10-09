@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557806729159512075",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-08T17:27:46.881000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "估计下次赵哥要1/12了"
+  },
+  "raw_text": "估计下次赵哥要1/12了"
+}
