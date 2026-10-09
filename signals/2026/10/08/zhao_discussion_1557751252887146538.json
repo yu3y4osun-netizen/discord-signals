@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557751252887146538",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-10-08T13:47:20.307000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "早知道这样直接满融了，这么便宜"
+  },
+  "raw_text": "早知道这样直接满融了，这么便宜"
+}
