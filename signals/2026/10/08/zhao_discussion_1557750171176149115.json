@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557750171176149115",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-10-08T13:43:02.407000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "明天赵哥要在长桥发言了吧🤣"
+  },
+  "raw_text": "明天赵哥要在长桥发言了吧🤣"
+}
