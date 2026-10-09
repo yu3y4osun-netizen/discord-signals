@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557824385207902264",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T18:37:56.411000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": true,
+    "summary": "我那时候才开始了解，后面没有行情了，也不敢买了，124的AMD也是摸了一下"
+  },
+  "raw_text": "我那时候才开始了解，后面没有行情了，也不敢买了，124的AMD也是摸了一下"
+}
