@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558011446846296125",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-10-09T07:01:15.381000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那肯定合约不能上太猛"
+  },
+  "raw_text": "那肯定合约不能上太猛"
+}
