@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557815255940202598",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-10-08T18:01:39.824000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": true,
+    "summary": "今天没人买苹果吧，买了那是真避险了"
+  },
+  "raw_text": "今天没人买苹果吧，买了那是真避险了"
+}
