@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557792454521135216",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T16:31:03.542000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "就今天这个谷歌的盘前异动拉涨 meta至少有3次。 剧本是一模一样"
+  },
+  "raw_text": "就今天这个谷歌的盘前异动拉涨 meta至少有3次。\n剧本是一模一样"
+}
