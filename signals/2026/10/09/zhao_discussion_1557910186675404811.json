@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557910186675404811",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-09T00:18:53.075000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "这次赵哥融资加满仓，我觉得比4月初那次风险大，那时候指数也在低位。现在是指数在高位，堵中选行情"
+  },
+  "raw_text": "这次赵哥融资加满仓，我觉得比4月初那次风险大，那时候指数也在低位。现在是指数在高位，堵中选行情"
+}
