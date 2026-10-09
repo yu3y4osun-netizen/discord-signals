@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558008285313900636",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-10-09T06:48:41.613000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥虽然没发言，其实也关心着各位在群里的讨论，在每次的大跌和绝望之中，无不是用40多年的经验和100%的胜率去证明，大道至简"
+  },
+  "raw_text": "赵哥虽然没发言，其实也关心着各位在群里的讨论，在每次的大跌和绝望之中，无不是用40多年的经验和100%的胜率去证明，大道至简"
+}
