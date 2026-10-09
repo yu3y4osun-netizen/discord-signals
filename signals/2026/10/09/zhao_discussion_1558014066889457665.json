@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558014066889457665",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-09T07:11:40.048000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "正股 也很难和赵哥一个价买卖"
+  },
+  "raw_text": "正股 也很难和赵哥一个价买卖"
+}
