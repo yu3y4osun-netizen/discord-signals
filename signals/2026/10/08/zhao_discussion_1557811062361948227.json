@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557811062361948227",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-08T17:44:59.997000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你们厉害的就做多赵哥"
+  },
+  "raw_text": "你们厉害的就做多赵哥"
+}
