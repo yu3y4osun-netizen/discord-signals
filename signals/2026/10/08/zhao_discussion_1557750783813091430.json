@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557750783813091430",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-08T13:45:28.471000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥都满了 丝毫不慌 准备吃个麦当劳看会打击央视缅北那个节目"
+  },
+  "raw_text": "赵哥都满了 丝毫不慌 准备吃个麦当劳看会打击央视缅北那个节目"
+}
