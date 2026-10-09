@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557753909035016305",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-08T13:57:53.582000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌笑死我了 期权出在开盘最高点了"
+  },
+  "raw_text": "谷歌笑死我了 期权出在开盘最高点了"
+}
