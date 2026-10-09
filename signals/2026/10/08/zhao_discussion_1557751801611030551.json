@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557751801611030551",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "felix-trader",
+  "ts": "2026-10-08T13:49:31.133000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "昨天买的除了iren没有反弹，我都趁着昨天V的时候出了，今天我全给他吸回来😁"
+  },
+  "raw_text": "昨天买的除了iren没有反弹，我都趁着昨天V的时候出了，今天我全给他吸回来😁"
+}
