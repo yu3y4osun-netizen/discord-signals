@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557753581384245291",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-08T13:56:35.464000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "稳住 我们能赢 这种心情 在赵哥这已经体验过无数次了"
+  },
+  "raw_text": "稳住  我们能赢  这种心情  在赵哥这已经体验过无数次了"
+}
