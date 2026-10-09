@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557916784521257012",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-09T00:45:06.124000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSFT",
+      "TSLA",
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "比七月风险都大，那时候七姐妹里面的除了微软别的都打到强力支撑位，台积电夜盘还有370的位置，特斯拉还有293的位置，赵哥那时候好像都没有融资"
+  },
+  "raw_text": "比七月风险都大，那时候七姐妹里面的除了微软别的都打到强力支撑位，台积电夜盘还有370的位置，特斯拉还有293的位置，赵哥那时候好像都没有融资"
+}
