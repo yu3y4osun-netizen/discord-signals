@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558008809874526242",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bitboy9527",
+  "ts": "2026-10-09T06:50:46.678000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "拿ai破解一下whop的认证即可，破解后实时监听赵哥发言，然后转给解析器，解析器判断买还是卖，调用币安api操作，然后发送飞书消息"
+  },
+  "raw_text": "拿ai破解一下whop的认证即可，破解后实时监听赵哥发言，然后转给解析器，解析器判断买还是卖，调用币安api操作，然后发送飞书消息"
+}
