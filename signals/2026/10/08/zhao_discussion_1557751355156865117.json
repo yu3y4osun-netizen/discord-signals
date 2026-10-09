@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557751355156865117",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-08T13:47:44.690000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你们现金都打完了吗"
+  },
+  "raw_text": "你们现金都打完了吗"
+}
