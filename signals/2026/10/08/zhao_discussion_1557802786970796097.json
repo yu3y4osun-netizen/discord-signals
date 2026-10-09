@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557802786970796097",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-08T17:12:06.990000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就用本金做 大不了被套住了而已"
+  },
+  "raw_text": "就用本金做 大不了被套住了而已"
+}
