@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557759469578879101",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "goebbel",
+  "ts": "2026-10-08T14:19:59.319000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS",
+      "RIOT"
+    ],
+    "is_following_zhao": false,
+    "summary": "cbrs和riot也可以买点"
+  },
+  "raw_text": "cbrs和riot也可以买点"
+}
