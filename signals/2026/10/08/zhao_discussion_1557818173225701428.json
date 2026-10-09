@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557818173225701428",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T18:13:15.359000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ORCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "甲骨文 他妈的我是很坚信这个逼能起来的"
+  },
+  "raw_text": "甲骨文 他妈的我是很坚信这个逼能起来的"
+}
