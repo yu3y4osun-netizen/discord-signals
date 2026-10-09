@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557800412784889858",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T17:02:40.940000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "其实不是合理不合理，赵哥其实的看法也很明确了，大盘测试7790不行的话会回压，只是没法预测个股走势会怎么样，今天NBIS第一次低点是225左右，按照之前说的二次..."
+  },
+  "raw_text": "其实不是合理不合理，赵哥其实的看法也很明确了，大盘测试7790不行的话会回压，只是没法预测个股走势会怎么样，今天NBIS第一次低点是225左右，按照之前说的二次握手会有一次测试支撑的"
+}
