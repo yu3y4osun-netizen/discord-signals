@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557817010442870816",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T18:08:38.130000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "谷歌成本在330以下的"
+  },
+  "raw_text": "谷歌成本在330以下的"
+}
