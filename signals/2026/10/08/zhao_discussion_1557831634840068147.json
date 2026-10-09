@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557831634840068147",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T19:06:44.858000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "卖在起飞前两天"
+  },
+  "raw_text": "卖在起飞前两天"
+}
