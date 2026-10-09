@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557943831750774785",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gldslv",
+  "ts": "2026-10-09T02:32:34.686000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": false,
+    "summary": "对asts来说是利空"
+  },
+  "raw_text": "对asts来说是利空"
+}
