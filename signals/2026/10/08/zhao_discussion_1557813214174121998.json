@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557813214174121998",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-08T17:53:33.029000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "按照赵哥的意思：“今天单边下跌收盘附近跌的分散吸为主 留点资金防止明天A股在低开低走一天在小修小补加点”， 感觉大部分资金已经加进去了"
+  },
+  "raw_text": "按照赵哥的意思：“今天单边下跌收盘附近跌的分散吸为主 留点资金防止明天A股在低开低走一天在小修小补加点”， 感觉大部分资金已经加进去了"
+}
