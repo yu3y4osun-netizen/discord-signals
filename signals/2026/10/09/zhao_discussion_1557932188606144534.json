@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557932188606144534",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-09T01:46:18.744000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "话说这轮赵哥没怎么加光和存吗"
+  },
+  "raw_text": "话说这轮赵哥没怎么加光和存吗"
+}
