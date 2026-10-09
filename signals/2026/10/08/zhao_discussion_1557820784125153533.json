@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557820784125153533",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T18:23:37.846000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一个大黑天鹅过来，你止损直接被打出来，要不直接被套几年"
+  },
+  "raw_text": "一个大黑天鹅过来，你止损直接被打出来，要不直接被套几年"
+}
