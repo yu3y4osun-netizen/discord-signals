@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557919937392279633",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-09T00:57:37.827000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "IREN我加太猛了，搞了四十的仓位，想着买不起NBIS买个弱的，弱到家了"
+  },
+  "raw_text": "IREN我加太猛了，搞了四十的仓位，想着买不起NBIS买个弱的，弱到家了"
+}
