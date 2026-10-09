@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557809326997901443",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zyttt",
+  "ts": "2026-10-08T17:38:06.254000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "标普 纳指连续几天新高了还是熊市么"
+  },
+  "raw_text": "标普 纳指连续几天新高了还是熊市么"
+}
