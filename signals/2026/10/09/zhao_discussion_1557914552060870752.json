@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557914552060870752",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-09T00:36:13.864000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大盘是要冲新高，不代表个股每个都要冲新高🤣"
+  },
+  "raw_text": "大盘是要冲新高，不代表个股每个都要冲新高🤣"
+}
