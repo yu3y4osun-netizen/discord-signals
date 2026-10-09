@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557830142376542299",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-08T19:00:49.027000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "鼓励大家格局"
+  },
+  "raw_text": "鼓励大家格局"
+}
