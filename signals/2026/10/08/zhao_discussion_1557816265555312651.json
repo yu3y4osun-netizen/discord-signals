@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557816265555312651",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T18:05:40.535000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "META",
+      "MSFT"
+    ],
+    "is_following_zhao": true,
+    "summary": "买了今年赚的多的两笔一个是微软一个是meta"
+  },
+  "raw_text": "买了今年赚的多的两笔一个是微软一个是meta"
+}
