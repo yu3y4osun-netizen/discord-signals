@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557915991227240538",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-09T00:41:56.988000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我在想赵哥说的周五可能出一半，要不就下周一出一半，这一半到底怎么分配"
+  },
+  "raw_text": "我在想赵哥说的周五可能出一半，要不就下周一出一半，这一半到底怎么分配"
+}
