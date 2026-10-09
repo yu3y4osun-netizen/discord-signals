@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557918918746841109",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-09T00:53:34.963000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "😉简单说，今天大A减持，就加仓。今天拉就减，因为后面减持就有机会加回来"
+  },
+  "raw_text": "😉简单说，今天大A减持，就加仓。今天拉就减，因为后面减持就有机会加回来"
+}
