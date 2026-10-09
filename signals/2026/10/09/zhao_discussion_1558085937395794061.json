@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558085937395794061",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kongfu233hahaha",
+  "ts": "2026-10-09T11:57:15.312000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我差最后一步就做好全自动跟单了 嘉信api还没申请下来"
+  },
+  "raw_text": "我差最后一步就做好全自动跟单了 嘉信api还没申请下来"
+}
