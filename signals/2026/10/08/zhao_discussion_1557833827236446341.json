@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557833827236446341",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T19:15:27.566000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO",
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "昨天卖了一半的博通 今天夜盘卖了谷歌 350.1接回来一半谷歌"
+  },
+  "raw_text": "昨天卖了一半的博通 今天夜盘卖了谷歌 350.1接回来一半谷歌"
+}
