@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557767097017303131",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-08T14:50:17.842000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "比特币V了，iren 一动不动"
+  },
+  "raw_text": "比特币V了，iren 一动不动"
+}
