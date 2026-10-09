@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557831301384372318",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T19:05:25.356000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "自己做空英特尔教会我不要试图做空美股"
+  },
+  "raw_text": "自己做空英特尔教会我不要试图做空美股"
+}
