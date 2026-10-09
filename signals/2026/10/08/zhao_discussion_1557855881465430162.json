@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557855881465430162",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-10-08T20:43:05.704000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": false,
+    "summary": "ASTS"
+  },
+  "raw_text": "ASTS"
+}
