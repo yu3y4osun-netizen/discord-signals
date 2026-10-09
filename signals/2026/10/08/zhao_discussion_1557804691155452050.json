@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557804691155452050",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T17:19:40.983000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "这次我都有点疑惑，七月底那次赵哥都没满仓加融资，这次直接满仓了"
+  },
+  "raw_text": "这次我都有点疑惑，七月底那次赵哥都没满仓加融资，这次直接满仓了"
+}
