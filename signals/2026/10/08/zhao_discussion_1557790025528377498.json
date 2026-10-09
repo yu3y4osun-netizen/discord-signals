@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557790025528377498",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meter123",
+  "ts": "2026-10-08T16:21:24.425000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "我刚想买nbis的call。。。。"
+  },
+  "raw_text": "我刚想买nbis的call。。。。"
+}
