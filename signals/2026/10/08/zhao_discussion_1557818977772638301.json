@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557818977772638301",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-10-08T18:16:27.178000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥融资只有之前政府关门的时候做特斯拉双倍搞了一次，7点钟准时人工介入"
+  },
+  "raw_text": "赵哥融资只有之前政府关门的时候做特斯拉双倍搞了一次，7点钟准时人工介入"
+}
