@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557806882272579627",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T17:28:23.386000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥百分百胜率就是长桥看到家人们亏那么多的时候喊的"
+  },
+  "raw_text": "赵哥百分百胜率就是长桥看到家人们亏那么多的时候喊的"
+}
