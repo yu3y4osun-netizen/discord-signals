@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557810815380496420",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T17:44:01.112000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我看你们刚才的架势 是直接拉满"
+  },
+  "raw_text": "我看你们刚才的架势 是直接拉满"
+}
