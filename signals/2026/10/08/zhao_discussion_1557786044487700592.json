@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557786044487700592",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "trashhpandaa",
+  "ts": "2026-10-08T16:05:35.271000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "真叫iren锤了个鼻青脸肿"
+  },
+  "raw_text": "真叫iren锤了个鼻青脸肿"
+}
