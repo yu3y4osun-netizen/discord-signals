@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557761408983371897",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-10-08T14:27:41.709000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "ais、lazr、lyte、foto、euv，disk、dram"
+  },
+  "raw_text": "ais、lazr、lyte、foto、euv，disk、dram"
+}
