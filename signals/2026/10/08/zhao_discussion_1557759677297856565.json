@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557759677297856565",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-08T14:20:48.843000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq开始v了"
+  },
+  "raw_text": "qqq开始v了"
+}
