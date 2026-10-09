@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557918817253064705",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-09T00:53:10.765000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "看昨天赵哥发的这种存在概率很低，A股不会自己走独立行情，哪个国家都能带崩它"
+  },
+  "raw_text": "看昨天赵哥发的这种存在概率很低，A股不会自己走独立行情，哪个国家都能带崩它"
+}
