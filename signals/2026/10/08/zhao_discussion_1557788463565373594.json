@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557788463565373594",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-08T16:15:12.024000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥也没买mu呢"
+  },
+  "raw_text": "赵哥也没买mu呢"
+}
