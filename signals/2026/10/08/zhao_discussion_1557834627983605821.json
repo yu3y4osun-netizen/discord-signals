@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557834627983605821",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T19:18:38.479000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "我今天亏了百分之六，谷歌给我弥补了几百美刀的亏损，体感还好"
+  },
+  "raw_text": "我今天亏了百分之六，谷歌给我弥补了几百美刀的亏损，体感还好"
+}
