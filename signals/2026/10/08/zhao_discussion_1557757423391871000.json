@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557757423391871000",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-08T14:11:51.470000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "明天大概率最后一跌，本群定律，开始恐慌数三天"
+  },
+  "raw_text": "明天大概率最后一跌，本群定律，开始恐慌数三天"
+}
