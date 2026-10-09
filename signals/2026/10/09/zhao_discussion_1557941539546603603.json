@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557941539546603603",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiekai",
+  "ts": "2026-10-09T02:23:28.182000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": false,
+    "summary": "x涨起来了，这个asts怎么回事啊"
+  },
+  "raw_text": "x涨起来了，这个asts怎么回事啊"
+}
