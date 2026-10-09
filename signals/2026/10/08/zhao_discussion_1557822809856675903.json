@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557822809856675903",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-10-08T18:31:40.818000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "AMZN",
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "也要有耐心的，买一张贵，跌了你也拿不住，涨了你怕卖飞，尤其亚马逊或者谷歌这种股票，很难操作的"
+  },
+  "raw_text": "也要有耐心的，买一张贵，跌了你也拿不住，涨了你怕卖飞，尤其亚马逊或者谷歌这种股票，很难操作的"
+}
