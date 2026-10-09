@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557813888781656206",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dasheng9527",
+  "ts": "2026-10-08T17:56:13.868000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "看不懂的单词，都是问ai哈哈"
+  },
+  "raw_text": "看不懂的单词，都是问ai哈哈"
+}
