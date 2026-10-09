@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557788021275889666",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-08T16:13:26.574000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "BMNR赵哥早就清光了 那时候还在高点的时候"
+  },
+  "raw_text": "BMNR赵哥早就清光了  那时候还在高点的时候"
+}
