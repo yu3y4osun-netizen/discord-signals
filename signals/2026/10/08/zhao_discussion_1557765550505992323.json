@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557765550505992323",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jugeg",
+  "ts": "2026-10-08T14:44:09.125000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "再加一笔 的话赵哥是要上融智了啊"
+  },
+  "raw_text": "再加一笔 的话赵哥是要上融智了啊"
+}
