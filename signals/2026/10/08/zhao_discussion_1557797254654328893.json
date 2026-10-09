@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557797254654328893",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-08T16:50:07.983000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr 17个点了"
+  },
+  "raw_text": "cifr 17个点了"
+}
