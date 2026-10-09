@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557995904030609451",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-09T05:59:29.685000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不然亏死了"
+  },
+  "raw_text": "不然亏死了"
+}
