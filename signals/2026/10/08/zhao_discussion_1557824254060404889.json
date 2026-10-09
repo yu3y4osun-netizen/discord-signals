@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557824254060404889",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T18:37:25.143000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "除了特斯拉"
+  },
+  "raw_text": "除了特斯拉"
+}
