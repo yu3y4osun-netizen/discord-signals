@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557809435534041109",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-08T17:38:32.131000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "只是群友很多被套住，你去指责他们他们还是有点难受的"
+  },
+  "raw_text": "只是群友很多被套住，你去指责他们他们还是有点难受的"
+}
