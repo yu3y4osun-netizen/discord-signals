@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557757282153009254",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T14:11:17.796000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我默默把我的香港卡关了，加完了，加不了了"
+  },
+  "raw_text": "我默默把我的香港卡关了，加完了，加不了了"
+}
