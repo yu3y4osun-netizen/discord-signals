@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557816724500250675",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-10-08T18:07:29.956000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr 12左右了哦"
+  },
+  "raw_text": "cifr 12左右了哦"
+}
