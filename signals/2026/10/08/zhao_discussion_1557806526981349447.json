@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557806526981349447",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T17:26:58.678000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我今年回本了，这次想操大个仓位跟一把赵哥，哪怕我亏了，我本金都没亏到，而且也是正股，我转点钱进去融资就没了"
+  },
+  "raw_text": "我今年回本了，这次想操大个仓位跟一把赵哥，哪怕我亏了，我本金都没亏到，而且也是正股，我转点钱进去融资就没了"
+}
