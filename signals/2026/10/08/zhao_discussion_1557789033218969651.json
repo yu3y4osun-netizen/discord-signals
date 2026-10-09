@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557789033218969651",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiekai",
+  "ts": "2026-10-08T16:17:27.840000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "cbrs负10个点"
+  },
+  "raw_text": "cbrs负10个点"
+}
