@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557754786022166550",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-08T14:01:22.672000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "也不能这么说 云这个东西双刃剑 涨起来也很猛"
+  },
+  "raw_text": "也不能这么说 云这个东西双刃剑 涨起来也很猛"
+}
