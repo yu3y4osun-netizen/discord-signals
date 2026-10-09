@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557750461963046954",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halamadrid9248",
+  "ts": "2026-10-08T13:44:11.736000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "满仓了睡觉"
+  },
+  "raw_text": "满仓了睡觉"
+}
