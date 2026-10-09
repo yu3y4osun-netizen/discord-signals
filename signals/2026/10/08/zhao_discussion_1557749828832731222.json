@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557749828832731222",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-08T13:41:40.786000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "光就是litx存就是muu云就是nbis"
+  },
+  "raw_text": "光就是litx存就是muu云就是nbis"
+}
