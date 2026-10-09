@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557806921233211525",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T17:28:32.675000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq理论来说每次急跌能跌7个点"
+  },
+  "raw_text": "qqq理论来说每次急跌能跌7个点"
+}
