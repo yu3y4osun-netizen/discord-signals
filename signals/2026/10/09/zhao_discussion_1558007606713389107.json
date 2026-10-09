@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558007606713389107",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bitboy9527",
+  "ts": "2026-10-09T06:45:59.822000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这是我全自动跟随赵哥的实时仓位。 https://www.bitboy.cn/positions?exchange=BINANCE 赵哥说买，ai就自动以市价买..."
+  },
+  "raw_text": "这是我全自动跟随赵哥的实时仓位。\nhttps://www.bitboy.cn/positions?exchange=BINANCE\n\n赵哥说买，ai就自动以市价买800u，赵哥说卖，ai就自动以市价卖800u，仓位为空的时候就不卖，防止变成做空"
+}
