@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557818802450993165",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-10-08T18:15:45.378000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "105的英特尔也不算贵了，增发在95砸到81"
+  },
+  "raw_text": "105的英特尔也不算贵了，增发在95砸到81"
+}
