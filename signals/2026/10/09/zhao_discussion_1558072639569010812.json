@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558072639569010812",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-10-09T11:04:24.863000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "谁还记得赵哥说A股暗盘怎么出的"
+  },
+  "raw_text": "谁还记得赵哥说A股暗盘怎么出的"
+}
