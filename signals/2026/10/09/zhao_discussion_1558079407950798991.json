@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558079407950798991",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-09T11:31:18.571000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "lite涨了6.5%"
+  },
+  "raw_text": "lite涨了6.5%"
+}
