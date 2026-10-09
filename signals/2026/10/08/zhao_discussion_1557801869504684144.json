@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557801869504684144",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qiqii",
+  "ts": "2026-10-08T17:08:28.249000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren利润已经跌完了"
+  },
+  "raw_text": "iren利润已经跌完了"
+}
