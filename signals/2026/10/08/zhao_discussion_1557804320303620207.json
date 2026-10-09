@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557804320303620207",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-10-08T17:18:12.565000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥都满仓了"
+  },
+  "raw_text": "赵哥都满仓了"
+}
