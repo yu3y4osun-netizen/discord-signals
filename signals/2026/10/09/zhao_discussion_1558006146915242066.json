@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558006146915242066",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bitboy9527",
+  "ts": "2026-10-09T06:40:11.779000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTW"
+    ],
+    "is_following_zhao": true,
+    "summary": "买了snxx ，intw ，muu ，amdl 。死也要死在存和芯上"
+  },
+  "raw_text": "买了snxx ，intw ，muu ，amdl 。死也要死在存和芯上"
+}
