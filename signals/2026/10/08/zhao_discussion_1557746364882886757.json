@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557746364882886757",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-08T13:27:54.916000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "META"
+    ],
+    "is_following_zhao": true,
+    "summary": "Meta盘前拉升涨超1%，SpaceX盘前转涨；据CNBC报道，特朗普在8月份斥资高达2500万美元购买了Meta公司的股票，并持有SpaceX公司数百万美元的..."
+  },
+  "raw_text": "Meta盘前拉升涨超1%，SpaceX盘前转涨；据CNBC报道，特朗普在8月份斥资高达2500万美元购买了Meta公司的股票，并持有SpaceX公司数百万美元的债券。"
+}
