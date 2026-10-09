@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557751794740760577",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-08T13:49:29.495000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "应该是cifr和iren仓位比较大"
+  },
+  "raw_text": "应该是cifr和iren仓位比较大"
+}
