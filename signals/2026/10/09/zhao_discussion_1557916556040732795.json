@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557916556040732795",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-09T00:44:11.650000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "真反弹的话 周五一般有高有低 高点出一些 大盘转弯再加回来都行"
+  },
+  "raw_text": "真反弹的话 周五一般有高有低 高点出一些 大盘转弯再加回来都行"
+}
