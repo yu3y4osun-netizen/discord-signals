@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557790699833794591",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ricardo0923",
+  "ts": "2026-10-08T16:24:05.192000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "我就是捡便宜选的iren 🤡"
+  },
+  "raw_text": "我就是捡便宜选的iren 🤡"
+}
