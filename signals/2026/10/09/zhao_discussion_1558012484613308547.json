@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558012484613308547",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bitboy9527",
+  "ts": "2026-10-09T07:05:22.804000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥说卖出221买的，我这程序只能从总仓位里自动卖🥹🥹"
+  },
+  "raw_text": "赵哥说卖出221买的，我这程序只能从总仓位里自动卖🥹🥹"
+}
