@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557814984686313475",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T18:00:35.152000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "所以说我们某些程度上区域限制了一些财富，在炒股思想上有着很笼统的认为是赌博的心态，想去纠正吧，看不懂，看得懂了吧，又不在国内了"
+  },
+  "raw_text": "所以说我们某些程度上区域限制了一些财富，在炒股思想上有着很笼统的认为是赌博的心态，想去纠正吧，看不懂，看得懂了吧，又不在国内了"
+}
