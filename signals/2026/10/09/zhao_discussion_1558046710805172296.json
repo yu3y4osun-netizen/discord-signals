@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558046710805172296",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gldslv",
+  "ts": "2026-10-09T09:21:22.964000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": false,
+    "summary": "我也想问asts 利空要不要先走"
+  },
+  "raw_text": "我也想问asts 利空要不要先走"
+}
