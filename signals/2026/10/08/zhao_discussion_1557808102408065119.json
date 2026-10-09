@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557808102408065119",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-08T17:33:14.289000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq今天补了744.7那个缺口"
+  },
+  "raw_text": "qqq今天补了744.7那个缺口"
+}
