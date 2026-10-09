@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557775555259277324",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-08T15:23:54.444000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "大饼还在跌"
+  },
+  "raw_text": "大饼还在跌"
+}
