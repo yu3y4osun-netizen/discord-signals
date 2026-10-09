@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557787528755679365",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T16:11:29.148000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "CBRS我也有20的仓位"
+  },
+  "raw_text": "CBRS我也有20的仓位"
+}
