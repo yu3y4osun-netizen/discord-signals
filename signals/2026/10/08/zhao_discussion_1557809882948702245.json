@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557809882948702245",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-08T17:40:18.803000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "拿着正股还好吧 大家在国内的早点休息 睡个好觉 明天还要正常生活 控制好仓位，相信赵哥"
+  },
+  "raw_text": "拿着正股还好吧 大家在国内的早点休息 睡个好觉 明天还要正常生活 控制好仓位，相信赵哥"
+}
