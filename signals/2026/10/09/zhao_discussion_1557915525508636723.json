@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557915525508636723",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-09T00:40:05.952000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "先稳一手吧，赵哥的同花顺组合没有问题，就是个股风险太大，不好做弹性大就不要再加太大杠杆了"
+  },
+  "raw_text": "先稳一手吧，赵哥的同花顺组合没有问题，就是个股风险太大，不好做弹性大就不要再加太大杠杆了"
+}
