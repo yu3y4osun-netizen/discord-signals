@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557817573066805270",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T18:10:52.270000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMZN",
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌和亚马逊的图都看着挺好看的，但是亚马逊下面一直有一个缺口，我一直不想买"
+  },
+  "raw_text": "谷歌和亚马逊的图都看着挺好看的，但是亚马逊下面一直有一个缺口，我一直不想买"
+}
