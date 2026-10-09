@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557797751880941681",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T16:52:06.531000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "IREN加仓太频繁，失误了"
+  },
+  "raw_text": "IREN加仓太频繁，失误了"
+}
