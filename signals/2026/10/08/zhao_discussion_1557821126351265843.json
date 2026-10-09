@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557821126351265843",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-08T18:24:59.439000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你还算好，你想想那些满仓满融的 仓位控制不好的 激进的 今晚得多难过"
+  },
+  "raw_text": "你还算好，你想想那些满仓满融的  仓位控制不好的 激进的 今晚得多难过"
+}
