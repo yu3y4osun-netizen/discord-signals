@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557802072332832879",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T17:09:16.607000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": true,
+    "summary": "我meta680全走了 之后只买了博通"
+  },
+  "raw_text": "我meta680全走了 之后只买了博通"
+}
