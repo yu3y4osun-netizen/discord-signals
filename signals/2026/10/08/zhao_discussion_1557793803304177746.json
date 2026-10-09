@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557793803304177746",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T16:36:25.117000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌330以下闭眼买 分批"
+  },
+  "raw_text": "谷歌330以下闭眼买\n分批"
+}
