@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557819334058057850",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T18:17:52.123000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLL"
+    ],
+    "is_following_zhao": true,
+    "summary": "今年年初停战融资买了点tsll"
+  },
+  "raw_text": "今年年初停战融资买了点tsll"
+}
