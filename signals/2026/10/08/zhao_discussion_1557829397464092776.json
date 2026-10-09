@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557829397464092776",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-08T18:57:51.426000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你聊股票就聊股票呗，为什么说这种话"
+  },
+  "raw_text": "你聊股票就聊股票呗，为什么说这种话"
+}
