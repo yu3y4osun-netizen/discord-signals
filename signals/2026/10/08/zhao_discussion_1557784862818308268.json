@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557784862818308268",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moodywharf",
+  "ts": "2026-10-08T16:00:53.539000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN",
+      "WDC"
+    ],
+    "is_following_zhao": true,
+    "summary": "iren wdc 一把亏光😵‍💫"
+  },
+  "raw_text": "iren  wdc 一把亏光😵‍💫"
+}
