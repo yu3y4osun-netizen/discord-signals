@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557802567013109851",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T17:11:14.548000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "我这轮IREN没控制好，加猛了，其次是这些股我还没有利润垫，所以也有点心慌"
+  },
+  "raw_text": "我这轮IREN没控制好，加猛了，其次是这些股我还没有利润垫，所以也有点心慌"
+}
