@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558038092739379202",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-10-09T08:47:08.257000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "不会真让我说中了吧，苹果也跌了"
+  },
+  "raw_text": "不会真让我说中了吧，苹果也跌了"
+}
