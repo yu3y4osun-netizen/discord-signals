@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557836320028631156",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T19:25:21.894000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "我358把博通买回来了"
+  },
+  "raw_text": "我358把博通买回来了"
+}
