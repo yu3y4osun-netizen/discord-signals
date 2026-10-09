@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557812110962991135",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T17:49:10.003000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我的知识基本靠群友得来，以及去年和赵哥学的"
+  },
+  "raw_text": "我的知识基本靠群友得来，以及去年和赵哥学的"
+}
