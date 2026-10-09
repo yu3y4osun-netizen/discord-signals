@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557823815336071179",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-10-08T18:35:40.543000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥说过大盘高位IV高不做期权"
+  },
+  "raw_text": "赵哥说过大盘高位IV高不做期权"
+}
