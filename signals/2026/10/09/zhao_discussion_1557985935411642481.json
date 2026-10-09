@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557985935411642481",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-09T05:19:52.981000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "恭喜昨晚满仓的兄弟们😋"
+  },
+  "raw_text": "恭喜昨晚满仓的兄弟们😋"
+}
