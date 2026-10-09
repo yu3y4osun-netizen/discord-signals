@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557799868582330542",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-08T17:00:31.192000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "存储之前暴跌三天，然后一天拉了25个点"
+  },
+  "raw_text": "存储之前暴跌三天，然后一天拉了25个点"
+}
