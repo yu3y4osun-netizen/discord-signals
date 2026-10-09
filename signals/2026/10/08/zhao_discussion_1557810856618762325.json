@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557810856618762325",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-08T17:44:10.944000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跟着买的，今天理论就是满仓了"
+  },
+  "raw_text": "跟着买的，今天理论就是满仓了"
+}
