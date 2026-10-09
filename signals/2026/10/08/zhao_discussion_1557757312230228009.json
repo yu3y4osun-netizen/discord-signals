@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557757312230228009",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-08T14:11:24.967000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr和iren都是十个点左右"
+  },
+  "raw_text": "cifr和iren都是十个点左右"
+}
