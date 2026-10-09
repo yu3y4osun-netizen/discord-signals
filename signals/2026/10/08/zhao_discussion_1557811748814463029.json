@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557811748814463029",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T17:47:43.660000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "别乱买，看不懂不要买期权了"
+  },
+  "raw_text": "别乱买，看不懂不要买期权了"
+}
