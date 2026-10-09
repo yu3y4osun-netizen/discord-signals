@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557821960602521645",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T18:28:18.340000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "我就玩过600刀的TSLA"
+  },
+  "raw_text": "我就玩过600刀的TSLA"
+}
