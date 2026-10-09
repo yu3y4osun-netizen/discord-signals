@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558011209276461117",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-09T07:00:18.740000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "要是真稳赚，赵哥自己不就上杠杆了"
+  },
+  "raw_text": "要是真稳赚，赵哥自己不就上杠杆了"
+}
