@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557830440641896559",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-08T19:02:00.139000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "退割的事 我是最早知道的一批人，我在那个受害者女性群里面，细节都知道。"
+  },
+  "raw_text": "退割的事  我是最早知道的一批人，我在那个受害者女性群里面，细节都知道。"
+}
