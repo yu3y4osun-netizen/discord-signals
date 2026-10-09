@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557750386201329828",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T13:43:53.673000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "我感觉买了好多IREN挑了个最弱的"
+  },
+  "raw_text": "我感觉买了好多IREN挑了个最弱的"
+}
