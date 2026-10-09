@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557799689292742657",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-08T16:59:48.446000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "现在本来就是spx高位震荡"
+  },
+  "raw_text": "现在本来就是spx高位震荡"
+}
