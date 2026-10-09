@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557760467915767879",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-08T14:23:57.341000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "以后只买强势的，币股和小票尽量右侧交易 这样会好很多"
+  },
+  "raw_text": "以后只买强势的，币股和小票尽量右侧交易  这样会好很多"
+}
