@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557792811410259999",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T16:32:28.631000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO",
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "台积电 博通一样 你等到了 就收获颇丰 等不到就G"
+  },
+  "raw_text": "台积电 博通一样 你等到了 就收获颇丰 等不到就G"
+}
