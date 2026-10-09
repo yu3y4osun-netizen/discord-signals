@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557833001667399702",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T19:12:10.735000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我是资金小，想复利大点，整个仓位搂着来跟，并且跟单是次要，推演出回调的低点和回调的目的才行"
+  },
+  "raw_text": "我是资金小，想复利大点，整个仓位搂着来跟，并且跟单是次要，推演出回调的低点和回调的目的才行"
+}
