@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557776330190229655",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-08T15:26:59.202000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "如果ath上市，谷歌的投资收益都有1000多个亿"
+  },
+  "raw_text": "如果ath上市，谷歌的投资收益都有1000多个亿"
+}
