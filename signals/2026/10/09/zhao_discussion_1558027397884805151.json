@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558027397884805151",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "graveload76",
+  "ts": "2026-10-09T08:04:38.405000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "夜盘好像没法用 跟不上赵哥单子了"
+  },
+  "raw_text": "夜盘好像没法用 跟不上赵哥单子了"
+}
