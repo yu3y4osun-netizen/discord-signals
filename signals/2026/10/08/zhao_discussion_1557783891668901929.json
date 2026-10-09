@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557783891668901929",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-08T15:57:01.999000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个没法回答。你要是有几百万，你就可以根据赵哥的说的仓位分批买入。但是如果你钱不多。你就只能选2-4个股。分批买入。"
+  },
+  "raw_text": "这个没法回答。你要是有几百万，你就可以根据赵哥的说的仓位分批买入。但是如果你钱不多。你就只能选2-4个股。分批买入。"
+}
