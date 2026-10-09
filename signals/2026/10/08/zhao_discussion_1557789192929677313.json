@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557789192929677313",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-10-08T16:18:05.918000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "spx猛拉"
+  },
+  "raw_text": "spx猛拉"
+}
