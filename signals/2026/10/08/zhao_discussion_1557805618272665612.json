@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557805618272665612",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-08T17:23:22.025000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "再来一次iren要去15"
+  },
+  "raw_text": "再来一次iren要去15"
+}
