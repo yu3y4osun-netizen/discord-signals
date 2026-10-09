@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557772212335935510",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ctttest",
+  "ts": "2026-10-08T15:10:37.429000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC",
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "Iren cifr都不随比特币V"
+  },
+  "raw_text": "Iren cifr都不随比特币V"
+}
