@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558021401586434100",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fionayjx",
+  "ts": "2026-10-09T07:40:48.776000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "想问一下 大家 有没有赵哥自动跟单的？"
+  },
+  "raw_text": "想问一下 大家 有没有赵哥自动跟单的？"
+}
