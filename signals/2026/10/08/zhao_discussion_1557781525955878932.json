@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557781525955878932",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-08T15:47:37.969000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌上次352的时候，我把期权卖了。一直等330。"
+  },
+  "raw_text": "谷歌上次352的时候，我把期权卖了。一直等330。"
+}
