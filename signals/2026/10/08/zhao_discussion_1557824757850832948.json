@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557824757850832948",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T18:39:25.256000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "手痒就跟着赵哥做短线"
+  },
+  "raw_text": "手痒就跟着赵哥做短线"
+}
