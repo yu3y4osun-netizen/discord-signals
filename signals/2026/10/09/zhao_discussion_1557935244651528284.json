@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557935244651528284",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-09T01:58:27.362000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "涨了不好吗🤣，就算晚上要跌，那也少亏点"
+  },
+  "raw_text": "涨了不好吗🤣，就算晚上要跌，那也少亏点"
+}
