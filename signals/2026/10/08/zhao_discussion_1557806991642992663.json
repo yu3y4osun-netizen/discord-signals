@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557806991642992663",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T17:28:49.462000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不过现在有一个行情就是，指数冲高，小盘股没涨，按照往年小盘股也得冲高"
+  },
+  "raw_text": "不过现在有一个行情就是，指数冲高，小盘股没涨，按照往年小盘股也得冲高"
+}
