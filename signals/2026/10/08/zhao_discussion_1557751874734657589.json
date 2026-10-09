@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557751874734657589",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-08T13:49:48.567000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "我在想谷歌是不是有套利机制"
+  },
+  "raw_text": "我在想谷歌是不是有套利机制"
+}
