@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557931087307743254",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mxy45",
+  "ts": "2026-10-09T01:41:56.174000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "为什么港股高开，大A低开"
+  },
+  "raw_text": "为什么港股高开，大A低开"
+}
