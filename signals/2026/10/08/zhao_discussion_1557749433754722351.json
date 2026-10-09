@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557749433754722351",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-08T13:40:06.592000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没啥恐慌的，还有明天一跌，慌个蛋"
+  },
+  "raw_text": "没啥恐慌的，还有明天一跌，慌个蛋"
+}
