@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557918025720791242",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-09T00:50:02.049000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "按赵哥说法，贝森特明确还要回流，现在微涨先出一点"
+  },
+  "raw_text": "按赵哥说法，贝森特明确还要回流，现在微涨先出一点"
+}
