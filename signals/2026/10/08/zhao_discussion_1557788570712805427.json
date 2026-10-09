@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557788570712805427",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-08T16:15:37.570000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "进群肯定跟赵哥啊，不然进群干啥"
+  },
+  "raw_text": "进群肯定跟赵哥啊，不然进群干啥"
+}
