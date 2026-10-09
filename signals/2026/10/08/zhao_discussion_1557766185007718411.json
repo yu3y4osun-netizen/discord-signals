@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557766185007718411",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-08T14:46:40.402000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "又不是你一个人被套"
+  },
+  "raw_text": "又不是你一个人被套"
+}
