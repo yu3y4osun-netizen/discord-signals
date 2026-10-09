@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557751751606534226",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-08T13:49:19.211000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "无所谓 赵哥加跟着加就完事 不用管情绪"
+  },
+  "raw_text": "无所谓 赵哥加跟着加就完事 不用管情绪"
+}
