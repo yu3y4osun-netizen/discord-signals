@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557788801546461347",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T16:16:32.605000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "今天第二次补直接融资买了NBIS"
+  },
+  "raw_text": "今天第二次补直接融资买了NBIS"
+}
