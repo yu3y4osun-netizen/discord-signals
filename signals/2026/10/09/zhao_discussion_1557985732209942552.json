@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557985732209942552",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-09T05:19:04.534000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天主要还是个股上面 大多数 单边下跌 收盘附近是最低点的压迫吸筹模式 主要为了A股港股继续减持的自损 明天要看A股港股是低开高走还是继续低开低走 低开低走明天..."
+  },
+  "raw_text": "今天主要还是个股上面 大多数 单边下跌 收盘附近是最低点的压迫吸筹模式 主要为了A股港股继续减持的自损 明天要看A股港股是低开高走还是继续低开低走   低开低走明天在小修小补加下  反弹点到下周二下午   低开高走 今天的低点应该是这轮低点 反弹点在周五和周一分批出一半"
+}
