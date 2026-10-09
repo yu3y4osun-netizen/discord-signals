@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557906924073263125",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-09T00:05:55.210000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "我半仓 soxl"
+  },
+  "raw_text": "我半仓 soxl"
+}
