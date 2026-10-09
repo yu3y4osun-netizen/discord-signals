@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557750077559414867",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-08T13:42:40.087000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "明天赵哥会不会发起冲锋的号角"
+  },
+  "raw_text": "明天赵哥会不会发起冲锋的号角"
+}
