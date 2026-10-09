@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557818427677221026",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-08T18:14:16.025000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ORCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "甲骨文也跌了一年了"
+  },
+  "raw_text": "甲骨文也跌了一年了"
+}
