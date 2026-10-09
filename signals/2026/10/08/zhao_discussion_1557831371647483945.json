@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557831371647483945",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T19:05:42.108000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "英特尔去年我21买的"
+  },
+  "raw_text": "英特尔去年我21买的"
+}
