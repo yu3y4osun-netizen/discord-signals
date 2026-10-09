@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557808509305753681",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T17:34:51.301000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "英伟达我之前一直想等补缺口再买，一直没补"
+  },
+  "raw_text": "英伟达我之前一直想等补缺口再买，一直没补"
+}
