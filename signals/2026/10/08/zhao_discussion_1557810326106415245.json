@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557810326106415245",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-08T17:42:04.460000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赶紧割肉"
+  },
+  "raw_text": "赶紧割肉"
+}
