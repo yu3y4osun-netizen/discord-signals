@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557790176225267724",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ricardo0923",
+  "ts": "2026-10-08T16:22:00.354000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "Iren 半死不活的"
+  },
+  "raw_text": "Iren 半死不活的"
+}
