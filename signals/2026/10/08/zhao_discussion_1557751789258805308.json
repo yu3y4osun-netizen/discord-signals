@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557751789258805308",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-08T13:49:28.188000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "美债也这么高十年期，买比特币这个不生息的干啥"
+  },
+  "raw_text": "美债也这么高十年期，买比特币这个不生息的干啥"
+}
