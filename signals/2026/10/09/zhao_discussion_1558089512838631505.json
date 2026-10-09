@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558089512838631505",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "peacetrade",
+  "ts": "2026-10-09T12:11:27.764000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "可以自己写个程序跟单的"
+  },
+  "raw_text": "可以自己写个程序跟单的"
+}
