@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557755370397630541",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moneywang",
+  "ts": "2026-10-08T14:03:41.998000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "PLTR"
+    ],
+    "is_following_zhao": false,
+    "summary": "Pltr真是野鸡变凤凰了"
+  },
+  "raw_text": "Pltr真是野鸡变凤凰了"
+}
