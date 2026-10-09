@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557834730349527146",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T19:19:02.885000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "我今天还好 重点还是想吧博通买回来"
+  },
+  "raw_text": "我今天还好 重点还是想吧博通买回来"
+}
