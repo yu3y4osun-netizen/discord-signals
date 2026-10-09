@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557806145073315943",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T17:25:27.624000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "你们跟赵哥才多久"
+  },
+  "raw_text": "你们跟赵哥才多久"
+}
