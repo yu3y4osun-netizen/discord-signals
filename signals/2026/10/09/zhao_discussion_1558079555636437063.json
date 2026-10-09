@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558079555636437063",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-09T11:31:53.782000+00:00",
+  "captured_at": "2026-10-09T21:01:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "mu人称小馒头"
+  },
+  "raw_text": "mu人称小馒头"
+}
