@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557935687985004567",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-09T02:00:13.061000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "光上一轮长的有点猛"
+  },
+  "raw_text": "光上一轮长的有点猛"
+}
