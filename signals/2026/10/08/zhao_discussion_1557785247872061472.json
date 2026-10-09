@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557785247872061472",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chrisshao1908",
+  "ts": "2026-10-08T16:02:25.343000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren有币属性，所以两头挨打"
+  },
+  "raw_text": "iren有币属性，所以两头挨打"
+}
