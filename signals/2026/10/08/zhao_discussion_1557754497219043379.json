@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557754497219043379",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-08T14:00:13.816000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "今天赵哥的持仓基本都是跌的"
+  },
+  "raw_text": "今天赵哥的持仓基本都是跌的"
+}
