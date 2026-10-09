@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557794445972340810",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-08T16:38:58.341000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ORCL"
+    ],
+    "is_following_zhao": true,
+    "summary": "今年唯一碰到的畜生股就是甲骨文 虽然也没亏 但是拿着是真恶心"
+  },
+  "raw_text": "今年唯一碰到的畜生股就是甲骨文 虽然也没亏 但是拿着是真恶心"
+}
