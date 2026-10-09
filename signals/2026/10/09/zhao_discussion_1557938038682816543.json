@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557938038682816543",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-10-09T02:09:33.511000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥昨晚不是有说嘛，大a今天低开高走的话，昨天的美股就是低点，要是低开低走，今晚还要补一些"
+  },
+  "raw_text": "赵哥昨晚不是有说嘛，大a今天低开高走的话，昨天的美股就是低点，要是低开低走，今晚还要补一些"
+}
