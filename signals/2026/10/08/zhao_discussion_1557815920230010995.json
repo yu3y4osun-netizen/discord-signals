@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557815920230010995",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-08T18:04:18.203000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我没看过巨头的财报，苹果能撑得起五万亿市值嘛"
+  },
+  "raw_text": "我没看过巨头的财报，苹果能撑得起五万亿市值嘛"
+}
