@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557787720179523626",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-08T16:12:14.787000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "以我的经验 明天再跌一天 很多人就割肉了"
+  },
+  "raw_text": "以我的经验 明天再跌一天  很多人就割肉了"
+}
