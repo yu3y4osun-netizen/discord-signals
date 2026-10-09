@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557767024808173620",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-08T14:50:00.626000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": true,
+    "summary": "CIFR 我都被套20多个点了。还不是两眼一闭一睁一天就过去了🤣"
+  },
+  "raw_text": "CIFR  我都被套20多个点了。还不是两眼一闭一睁一天就过去了🤣"
+}
