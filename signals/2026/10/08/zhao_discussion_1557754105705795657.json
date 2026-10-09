@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1557754105705795657",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-10-08T13:58:40.472000+00:00",
+  "captured_at": "2026-10-09T10:31:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "国庆前以为最后一跌了十月起飞价格不会再回去了，今年好多次都踩了这坑"
+  },
+  "raw_text": "国庆前以为最后一跌了十月起飞价格不会再回去了，今年好多次都踩了这坑"
+}
