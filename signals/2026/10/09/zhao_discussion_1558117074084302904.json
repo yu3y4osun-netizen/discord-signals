@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558117074084302904",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-10-09T14:00:58.877000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥这个仓位管理，tsla放很久了，是不是靠这些标的来赚底仓，像这种跌的时候开始卖掉，释放资金，准备再加仓"
+  },
+  "raw_text": "赵哥这个仓位管理，tsla放很久了，是不是靠这些标的来赚底仓，像这种跌的时候开始卖掉，释放资金，准备再加仓"
+}
