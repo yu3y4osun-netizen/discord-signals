@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558108738047713382",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-10-09T13:27:51.411000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "放心吧，赵哥的票买着不烧心🙃"
+  },
+  "raw_text": "放心吧，赵哥的票买着不烧心🙃"
+}
