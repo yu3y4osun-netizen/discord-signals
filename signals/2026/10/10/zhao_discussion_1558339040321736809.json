@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558339040321736809",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdjru9492",
+  "ts": "2026-10-10T04:42:59.752000+00:00",
+  "captured_at": "2026-10-10T21:00:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "满仓了😂"
+  },
+  "raw_text": "满仓了😂"
+}
