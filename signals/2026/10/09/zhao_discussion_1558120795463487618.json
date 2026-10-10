@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558120795463487618",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chrisshao1908",
+  "ts": "2026-10-09T14:15:46.123000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "Google我也埋伏了快一个月了"
+  },
+  "raw_text": "Google我也埋伏了快一个月了"
+}
