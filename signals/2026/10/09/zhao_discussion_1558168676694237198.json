@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558168676694237198",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "slickbacon",
+  "ts": "2026-10-09T17:26:01.898000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "Crwv公允价值还可以的"
+  },
+  "raw_text": "Crwv公允价值还可以的"
+}
