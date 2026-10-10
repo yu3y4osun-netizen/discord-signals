@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558122365647458408",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-09T14:22:00.484000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": false,
+    "summary": "asts这个票玩个超跌反弹就行了 感觉今年没一个好消息 这公司也是点呗😂"
+  },
+  "raw_text": "asts这个票玩个超跌反弹就行了 感觉今年没一个好消息 这公司也是点呗😂"
+}
