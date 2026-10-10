@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558142179912974468",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-10-09T15:40:44.573000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": false,
+    "summary": "asts 发生了什么"
+  },
+  "raw_text": "asts 发生了什么"
+}
