@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558126825362685965",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moneywang",
+  "ts": "2026-10-09T14:39:43.763000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "哈哈我昨天就买了 iren call 然后小套"
+  },
+  "raw_text": "哈哈我昨天就买了 iren call 然后小套"
+}
