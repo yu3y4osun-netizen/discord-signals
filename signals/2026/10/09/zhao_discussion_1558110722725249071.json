@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558110722725249071",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-09T13:35:44.595000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "半导体根赵哥说的差不多"
+  },
+  "raw_text": "半导体根赵哥说的差不多"
+}
