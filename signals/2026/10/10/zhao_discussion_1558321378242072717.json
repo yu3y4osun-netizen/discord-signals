@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558321378242072717",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdjru9492",
+  "ts": "2026-10-10T03:32:48.784000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "希望下周反弹点，要不然没得玩了😂"
+  },
+  "raw_text": "希望下周反弹点，要不然没得玩了😂"
+}
