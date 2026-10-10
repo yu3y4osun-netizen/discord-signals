@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558113027457421324",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-09T13:44:54.086000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": false,
+    "summary": "盘前把asts割肉了"
+  },
+  "raw_text": "盘前把asts割肉了"
+}
