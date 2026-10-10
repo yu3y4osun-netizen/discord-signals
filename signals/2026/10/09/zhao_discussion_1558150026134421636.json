@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558150026134421636",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-09T16:11:55.258000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跟着赵哥走"
+  },
+  "raw_text": "跟着赵哥走"
+}
