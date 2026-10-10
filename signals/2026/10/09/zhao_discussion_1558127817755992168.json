@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558127817755992168",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-09T14:43:40.368000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "因为 我买了美光 带崩了🤣"
+  },
+  "raw_text": "因为  我买了美光   带崩了🤣"
+}
