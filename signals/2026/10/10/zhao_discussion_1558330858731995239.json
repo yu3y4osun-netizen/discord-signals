@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558330858731995239",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-10-10T04:10:29.109000+00:00",
+  "captured_at": "2026-10-10T21:00:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我靠，我以为我算多了，没想到群里面一个都这么猛￼"
+  },
+  "raw_text": "我靠，我以为我算多了，没想到群里面一个都这么猛￼"
+}
