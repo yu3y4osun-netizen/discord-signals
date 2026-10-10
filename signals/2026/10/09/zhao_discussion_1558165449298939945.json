@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558165449298939945",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-09T17:13:12.427000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥crwv可能接近10%"
+  },
+  "raw_text": "赵哥crwv可能接近10%"
+}
