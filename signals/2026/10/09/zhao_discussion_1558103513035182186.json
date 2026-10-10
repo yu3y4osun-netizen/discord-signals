@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558103513035182186",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-10-09T13:07:05.671000+00:00",
+  "captured_at": "2026-10-10T12:05:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPCX"
+    ],
+    "is_following_zhao": false,
+    "summary": "今晚spcx好难，我的末日要卖不上价了"
+  },
+  "raw_text": "今晚spcx好难，我的末日要卖不上价了"
+}
