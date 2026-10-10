@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558147282870861961",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanged",
+  "ts": "2026-10-09T16:01:01.213000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "下周一周二反弹后 减仓，，减持完等数据。再做出击？这样理解吗？"
+  },
+  "raw_text": "下周一周二反弹后 减仓，，减持完等数据。再做出击？这样理解吗？"
+}
