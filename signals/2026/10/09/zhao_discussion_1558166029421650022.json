@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558166029421650022",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-10-09T17:15:30.739000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "这个股最近反弹不如 nbis"
+  },
+  "raw_text": "这个股最近反弹不如 nbis"
+}
