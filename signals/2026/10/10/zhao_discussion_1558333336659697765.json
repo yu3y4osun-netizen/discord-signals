@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558333336659697765",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-10T04:20:19.893000+00:00",
+  "captured_at": "2026-10-10T21:00:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "soxl为啥还能亏"
+  },
+  "raw_text": "soxl为啥还能亏"
+}
