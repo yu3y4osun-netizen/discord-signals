@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558164545464180857",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-10-09T17:09:36.936000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "想搞一张INTC的期权，1127 119 的价格咋样？"
+  },
+  "raw_text": "想搞一张INTC的期权，1127 119 的价格咋样？"
+}
