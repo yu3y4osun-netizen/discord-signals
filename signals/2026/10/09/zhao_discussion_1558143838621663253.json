@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558143838621663253",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-09T15:47:20.040000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": false,
+    "summary": "asts盘中不要补 我玩这个很长时间了 基本上跌到收盘"
+  },
+  "raw_text": "asts盘中不要补 我玩这个很长时间了 基本上跌到收盘"
+}
