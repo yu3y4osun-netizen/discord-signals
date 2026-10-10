@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558193163469062266",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-09T19:03:20+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "只要半导体拉垮aapl就是最好的对冲"
+  },
+  "raw_text": "只要半导体拉垮aapl就是最好的对冲"
+}
