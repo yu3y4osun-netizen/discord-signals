@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558108005327708213",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gldslv",
+  "ts": "2026-10-09T13:24:56.717000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren弱很久了"
+  },
+  "raw_text": "iren弱很久了"
+}
