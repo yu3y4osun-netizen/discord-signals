@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558119789665456232",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-09T14:11:46.322000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我一直没放弃谷歌啊"
+  },
+  "raw_text": "我一直没放弃谷歌啊"
+}
