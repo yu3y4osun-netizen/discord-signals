@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558171750641049693",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-09T17:38:14.784000+00:00",
+  "captured_at": "2026-10-10T12:05:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AKAM"
+    ],
+    "is_following_zhao": true,
+    "summary": "akam成本上全出了 留点机动仓位"
+  },
+  "raw_text": "akam成本上全出了 留点机动仓位"
+}
