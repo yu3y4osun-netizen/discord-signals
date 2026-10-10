@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558105387725758646",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-10-09T13:14:32.632000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "建议你用ai写一套自己的吧，根据自己的资金量还有偏好去做跟单逻辑"
+  },
+  "raw_text": "建议你用ai写一套自己的吧，根据自己的资金量还有偏好去做跟单逻辑"
+}
