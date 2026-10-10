@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558116929762492500",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuuumii",
+  "ts": "2026-10-09T14:00:24.468000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AEHR"
+    ],
+    "is_following_zhao": false,
+    "summary": "还有aehr"
+  },
+  "raw_text": "还有aehr"
+}
