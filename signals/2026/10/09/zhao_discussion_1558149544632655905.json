@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558149544632655905",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-09T16:10:00.459000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "META",
+      "MSFT",
+      "SPX",
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "spx这么高就是因为meta googl tsla msft这些在涨"
+  },
+  "raw_text": "spx这么高就是因为meta googl tsla msft这些在涨"
+}
