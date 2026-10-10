@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558321212927516785",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdjru9492",
+  "ts": "2026-10-10T03:32:09.370000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN",
+      "NBIS",
+      "RIOT"
+    ],
+    "is_following_zhao": false,
+    "summary": "是啊，仓位打完了，主要都在Nbis Iren cifr riot 这几个，"
+  },
+  "raw_text": "是啊，仓位打完了，主要都在Nbis Iren cifr riot 这几个，"
+}
