@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558164199027507273",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-10-09T17:08:14.339000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "soxl我上了20%…持仓亏5% 是不是也不用慌张"
+  },
+  "raw_text": "soxl我上了20%…持仓亏5% 是不是也不用慌张"
+}
