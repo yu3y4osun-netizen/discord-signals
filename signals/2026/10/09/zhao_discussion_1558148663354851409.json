@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558148663354851409",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-09T16:06:30.346000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天也是属于常规压迫的一天 就是模式切换的第二天 下周出数据是利空的再看看 还是走盘中单边就是模式固化了"
+  },
+  "raw_text": "今天也是属于常规压迫的一天 就是模式切换的第二天 下周出数据是利空的再看看 还是走盘中单边就是模式固化了"
+}
