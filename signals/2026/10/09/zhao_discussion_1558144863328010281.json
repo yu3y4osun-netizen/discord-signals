@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558144863328010281",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanged",
+  "ts": "2026-10-09T15:51:24.349000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ORCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "轮到大盘股了，甲骨文在涨，新云都不动呢。🙄"
+  },
+  "raw_text": "轮到大盘股了，甲骨文在涨，新云都不动呢。🙄"
+}
