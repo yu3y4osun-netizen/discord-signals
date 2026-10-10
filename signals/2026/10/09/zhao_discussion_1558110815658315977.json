@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558110815658315977",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-09T13:36:06.752000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "Cifr iren我一共10%仓位，已经难受了"
+  },
+  "raw_text": "Cifr iren我一共10%仓位，已经难受了"
+}
