@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558125222983508041",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-10-09T14:33:21.726000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "之前以为iren不会再到上次附近低价了才一直猛加，没想到没几天就跌到了😭"
+  },
+  "raw_text": "之前以为iren不会再到上次附近低价了才一直猛加，没想到没几天就跌到了😭"
+}
