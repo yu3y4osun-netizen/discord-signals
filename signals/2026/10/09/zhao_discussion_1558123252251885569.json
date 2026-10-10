@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558123252251885569",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-09T14:25:31.867000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "COIN"
+    ],
+    "is_following_zhao": true,
+    "summary": "你说快要涨了别割其他的币 你买了coin c"
+  },
+  "raw_text": "你说快要涨了别割其他的币\n你买了coin c"
+}
