@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558135300528803862",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-09T15:13:24.400000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "昨天第一次加dram的时候我没加"
+  },
+  "raw_text": "昨天第一次加dram的时候我没加"
+}
