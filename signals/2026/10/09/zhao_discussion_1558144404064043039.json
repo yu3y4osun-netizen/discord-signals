@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558144404064043039",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gldslv",
+  "ts": "2026-10-09T15:49:34.852000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": true,
+    "summary": "请问赵哥对asts利空怎么看呀 我买的两倍做多 跌挺多的有点慌张😭@xiaozhaolucky"
+  },
+  "raw_text": "请问赵哥对asts利空怎么看呀 我买的两倍做多 跌挺多的有点慌张😭@xiaozhaolucky"
+}
