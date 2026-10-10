@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558124063132483635",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-09T14:28:45.196000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "Iren马上也要直线"
+  },
+  "raw_text": "Iren马上也要直线"
+}
