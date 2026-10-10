@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558128936326529035",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ge6698",
+  "ts": "2026-10-09T14:48:07.056000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN"
+    ],
+    "is_following_zhao": false,
+    "summary": "coin 不是昨天出过了 178.8 的批次吗"
+  },
+  "raw_text": "coin 不是昨天出过了 178.8 的批次吗"
+}
