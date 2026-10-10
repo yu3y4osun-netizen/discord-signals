@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558330285354123355",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-10T04:08:12.405000+00:00",
+  "captured_at": "2026-10-10T21:00:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "有百分之五十自己买的soxl"
+  },
+  "raw_text": "有百分之五十自己买的soxl"
+}
