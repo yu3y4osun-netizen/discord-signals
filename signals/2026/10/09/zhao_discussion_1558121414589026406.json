@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558121414589026406",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-09T14:18:13.734000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "最简单的逻辑就是所有人都知道股神加持的票包有内幕，所以机构做多这俩散户最愿意去跟，就会推的特别高，因为市场保持一致了"
+  },
+  "raw_text": "最简单的逻辑就是所有人都知道股神加持的票包有内幕，所以机构做多这俩散户最愿意去跟，就会推的特别高，因为市场保持一致了"
+}
