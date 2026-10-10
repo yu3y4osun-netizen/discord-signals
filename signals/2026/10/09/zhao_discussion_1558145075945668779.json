@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558145075945668779",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-09T15:52:15.041000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哪天群里老师说割肉走了搞不好就要直线起来"
+  },
+  "raw_text": "哪天群里老师说割肉走了搞不好就要直线起来"
+}
