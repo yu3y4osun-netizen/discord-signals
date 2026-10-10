@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558112946943426576",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-09T13:44:34.890000+00:00",
+  "captured_at": "2026-10-10T11:58:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在只要有利空，夜盘或盘前必须跑"
+  },
+  "raw_text": "现在只要有利空，夜盘或盘前必须跑"
+}
