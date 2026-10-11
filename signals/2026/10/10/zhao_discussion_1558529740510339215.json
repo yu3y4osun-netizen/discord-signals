@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558529740510339215",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-10T17:20:46.220000+00:00",
+  "captured_at": "2026-10-11T13:06:03+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "相信朋友 黎明前的黑暗"
+  },
+  "raw_text": "相信朋友 黎明前的黑暗"
+}
