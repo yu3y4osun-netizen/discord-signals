@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559197778670911580",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-12T13:35:18.929000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPCX"
+    ],
+    "is_following_zhao": false,
+    "summary": "spcx下场抢生意"
+  },
+  "raw_text": "spcx下场抢生意"
+}
