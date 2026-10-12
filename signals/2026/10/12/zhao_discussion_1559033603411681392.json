@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559033603411681392",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-12T02:42:56.497000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "哈兰德买iren c 又赢麻了"
+  },
+  "raw_text": "哈兰德买iren c 又赢麻了"
+}
