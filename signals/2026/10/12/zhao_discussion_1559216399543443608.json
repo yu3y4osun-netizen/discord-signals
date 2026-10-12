@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559216399543443608",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-10-12T14:49:18.491000+00:00",
+  "captured_at": "2026-10-12T23:40:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "很多人都上融资了￼",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "很多人都上融资了￼"
+}
