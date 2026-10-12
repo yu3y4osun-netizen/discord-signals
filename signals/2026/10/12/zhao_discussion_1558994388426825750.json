@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558994388426825750",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-12T00:07:06.916000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren起飞"
+  },
+  "raw_text": "iren起飞"
+}
