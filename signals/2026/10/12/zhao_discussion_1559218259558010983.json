@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559218259558010983",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-12T14:56:41.953000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "好多水下的，现在担心的时候指数冲高个股能不能回到我们加仓前的位置，把亏损补完"
+  },
+  "raw_text": "好多水下的，现在担心的时候指数冲高个股能不能回到我们加仓前的位置，把亏损补完"
+}
