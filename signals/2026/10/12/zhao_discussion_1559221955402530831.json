@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559221955402530831",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-12T15:11:23.111000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "CRWV",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "错了，其实nbis要稳一些，之前crwv跌起来的时候 也是很猛的。"
+  },
+  "raw_text": "错了，其实nbis要稳一些，之前crwv跌起来的时候  也是很猛的。"
+}
