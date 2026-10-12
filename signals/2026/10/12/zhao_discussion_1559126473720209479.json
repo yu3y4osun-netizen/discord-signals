@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559126473720209479",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-12T08:51:58.504000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr一时半会t不掉了"
+  },
+  "raw_text": "cifr一时半会t不掉了"
+}
