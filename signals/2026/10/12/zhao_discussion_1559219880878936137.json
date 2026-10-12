@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559219880878936137",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-12T15:03:08.506000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "中选是不是快结束了 11月不就完了"
+  },
+  "raw_text": "中选是不是快结束了 11月不就完了"
+}
