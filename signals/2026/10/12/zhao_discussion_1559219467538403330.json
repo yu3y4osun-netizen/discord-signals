@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559219467538403330",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-10-12T15:01:29.958000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，从中选逻辑来看这波中选牛市应该还没有到来吧？"
+  },
+  "raw_text": "赵哥，从中选逻辑来看这波中选牛市应该还没有到来吧？"
+}
