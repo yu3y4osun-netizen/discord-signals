@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559201907787173912",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-12T13:51:43.387000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "3位数的闪迪都还没看到呢"
+  },
+  "raw_text": "3位数的闪迪都还没看到呢"
+}
