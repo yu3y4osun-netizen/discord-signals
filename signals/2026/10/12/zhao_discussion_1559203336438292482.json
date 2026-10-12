@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559203336438292482",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-12T13:57:24.004000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN"
+    ],
+    "is_following_zhao": true,
+    "summary": "coin 可能要出了吧"
+  },
+  "raw_text": "coin 可能要出了吧"
+}
