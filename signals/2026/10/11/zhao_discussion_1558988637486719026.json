@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558988637486719026",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-11T23:44:15.785000+00:00",
+  "captured_at": "2026-10-12T23:40:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "买多了，仓位控制一下，剩的仓位够吃了🤣",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "买多了，仓位控制一下，剩的仓位够吃了🤣"
+}
