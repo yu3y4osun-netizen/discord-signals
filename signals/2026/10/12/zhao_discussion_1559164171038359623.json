@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559164171038359623",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-10-12T11:21:46.245000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "新高要几个月 回调到亏损只需要几天"
+  },
+  "raw_text": "新高要几个月 回调到亏损只需要几天"
+}
