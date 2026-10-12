@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559213582292357213",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gldslv",
+  "ts": "2026-10-12T14:38:06.806000+00:00",
+  "captured_at": "2026-10-12T23:40:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "看来得做倒t了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "看来得做倒t了"
+}
