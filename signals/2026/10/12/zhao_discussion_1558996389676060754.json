@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558996389676060754",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-12T00:15:04.051000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "COIN",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "云计算服务商IREN夜盘涨超5%，据报Anthropic已与IREN签署云服务协议。美股加密货币概念股夜盘续涨，Circle涨超2%，Strategy、Coin..."
+  },
+  "raw_text": "云计算服务商IREN夜盘涨超5%，据报Anthropic已与IREN签署云服务协议。美股加密货币概念股夜盘续涨，Circle涨超2%，Strategy、Coinbase涨近2%；Moderna夜盘再涨近4%，上一交易日大涨超14%，据报美国国立卫生研究院癌症疫苗计划拟于12月启动。"
+}
