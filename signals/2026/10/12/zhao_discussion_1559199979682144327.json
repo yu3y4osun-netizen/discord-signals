@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559199979682144327",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chrisshao1908",
+  "ts": "2026-10-12T13:44:03.691000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "nbis要是套了的也就当长线吧"
+  },
+  "raw_text": "nbis要是套了的也就当长线吧"
+}
