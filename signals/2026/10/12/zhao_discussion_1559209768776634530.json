@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559209768776634530",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-12T14:22:57.593000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "剩下的钱不多了，几只云还要分散的都加吗，还是说直接集中资金加超跌最狠的一支就行了赵哥"
+  },
+  "raw_text": "剩下的钱不多了，几只云还要分散的都加吗，还是说直接集中资金加超跌最狠的一支就行了赵哥"
+}
