@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559202165539606691",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "flyin88",
+  "ts": "2026-10-12T13:52:44.840000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASTS",
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "上周五asts暴击，今天cbrs暴击😂😂"
+  },
+  "raw_text": "上周五asts暴击，今天cbrs暴击😂😂"
+}
