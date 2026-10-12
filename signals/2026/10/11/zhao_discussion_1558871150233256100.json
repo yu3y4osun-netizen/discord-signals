@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558871150233256100",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deleter666",
+  "ts": "2026-10-11T15:57:24.641000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "起飞了 83500 如果突破了，要看88000了"
+  },
+  "raw_text": "起飞了 83500 如果突破了，要看88000了"
+}
