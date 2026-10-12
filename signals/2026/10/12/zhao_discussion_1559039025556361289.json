@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559039025556361289",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chrisshao1908",
+  "ts": "2026-10-12T03:04:29.237000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "看谷歌财报如何"
+  },
+  "raw_text": "看谷歌财报如何"
+}
