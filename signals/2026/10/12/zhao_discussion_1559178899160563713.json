@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559178899160563713",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-12T12:20:17.703000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "以后就玩指数吧，每次大跌 就直接三倍做多纳指"
+  },
+  "raw_text": "以后就玩指数吧，每次大跌  就直接三倍做多纳指"
+}
