@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558985973197443083",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanged",
+  "ts": "2026-10-11T23:33:40.569000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren 好像跟claude签约了。"
+  },
+  "raw_text": "iren  好像跟claude签约了。"
+}
