@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559178713474535425",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-12T12:19:33.432000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "而且指数新高，现在不懂咋整"
+  },
+  "raw_text": "而且指数新高，现在不懂咋整"
+}
