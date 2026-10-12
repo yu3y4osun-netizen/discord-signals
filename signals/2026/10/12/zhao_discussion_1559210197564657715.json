@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559210197564657715",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-10-12T14:24:39.824000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，这波大回调可以买call吗"
+  },
+  "raw_text": "赵哥，这波大回调可以买call吗"
+}
