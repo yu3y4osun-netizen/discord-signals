@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559196953265315941",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-12T13:32:02.137000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl也下来5个点了，全靠谷歌撑住"
+  },
+  "raw_text": "soxl也下来5个点了，全靠谷歌撑住"
+}
