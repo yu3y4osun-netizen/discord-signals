@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559217481451569193",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-12T14:53:36.438000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥是不是川普如果中选情况不妙，就没有行情了？"
+  },
+  "raw_text": "赵哥是不是川普如果中选情况不妙，就没有行情了？"
+}
