@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559212834926370971",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-12T14:35:08.620000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一路往上模式反弹段在盘中的冲高 战争模式就是夜盘反弹"
+  },
+  "raw_text": "一路往上模式反弹段在盘中的冲高   战争模式就是夜盘反弹"
+}
