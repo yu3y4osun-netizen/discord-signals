@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559220540445827247",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-12T15:05:45.759000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CONL"
+    ],
+    "is_following_zhao": false,
+    "summary": "怀念那段跟着猪脚每天conl农场收收🥬的日子"
+  },
+  "raw_text": "怀念那段跟着猪脚每天conl农场收收🥬的日子"
+}
