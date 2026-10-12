@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559229412107485336",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "c8641",
+  "ts": "2026-10-12T15:41:00.928000+00:00",
+  "captured_at": "2026-10-12T23:48:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": true,
+    "summary": "cbrs是不是可以抄底了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cbrs是不是可以抄底了"
+}
