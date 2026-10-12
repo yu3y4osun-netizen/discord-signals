@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559218688316670053",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-12T14:58:24.177000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC",
+      "MU",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "如果是nbis intc mu这些倒是不用太担心"
+  },
+  "raw_text": "如果是nbis intc mu这些倒是不用太担心"
+}
