@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559221331868782714",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-12T15:08:54.449000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "七月份我没有在群里，但是纯看股性来说CRWV会比NBIS更加稳，我也不太懂，不研究了，跟单就好了"
+  },
+  "raw_text": "七月份我没有在群里，但是纯看股性来说CRWV会比NBIS更加稳，我也不太懂，不研究了，跟单就好了"
+}
