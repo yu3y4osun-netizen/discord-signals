@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559181515177332767",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "c8641",
+  "ts": "2026-10-12T12:30:41.410000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": true,
+    "summary": "Intc买了点put，对冲一下"
+  },
+  "raw_text": "Intc买了点put，对冲一下"
+}
