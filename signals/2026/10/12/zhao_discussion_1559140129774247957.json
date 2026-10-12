@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559140129774247957",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-12T09:46:14.361000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "上次中选10月份也是跌，然后中选完当天大涨，之后标普高点回撤了快20个点"
+  },
+  "raw_text": "上次中选10月份也是跌，然后中选完当天大涨，之后标普高点回撤了快20个点"
+}
