@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559198374346100737",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soluteayu",
+  "ts": "2026-10-12T13:37:40.949000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "小盘股吃肉的时候怎么不说少玩小盘股"
+  },
+  "raw_text": "小盘股吃肉的时候怎么不说少玩小盘股"
+}
