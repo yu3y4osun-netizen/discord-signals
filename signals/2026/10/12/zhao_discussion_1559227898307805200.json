@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559227898307805200",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky2026",
+  "ts": "2026-10-12T15:35:00.010000+00:00",
+  "captured_at": "2026-10-12T23:48:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "老馒头新高了 跌了很正常",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "老馒头新高了 跌了很正常"
+}
