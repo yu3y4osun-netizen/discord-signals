@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559218237856686103",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-12T14:56:36.779000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 重新回到上涨轨道的话是不是还是要等财报或者中东出实质利好"
+  },
+  "raw_text": "赵哥 重新回到上涨轨道的话是不是还是要等财报或者中东出实质利好"
+}
