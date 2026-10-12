@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559208162081636473",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-12T14:16:34.527000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个时候需要相互按摩一下 跟着赵哥别慌 别轻易上融资杠杆😂"
+  },
+  "raw_text": "这个时候需要相互按摩一下 跟着赵哥别慌 别轻易上融资杠杆😂"
+}
