@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559207886469599345",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-10-12T14:15:28.816000+00:00",
+  "captured_at": "2026-10-12T23:40:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没有亏本的是不是 清仓了等待哦",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "没有亏本的是不是 清仓了等待哦"
+}
