@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559219405563367466",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-12T15:01:15.182000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "英特尔也是，纯看基本面除了是美国国企，其他的都不好说"
+  },
+  "raw_text": "英特尔也是，纯看基本面除了是美国国企，其他的都不好说"
+}
