@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559213801109459045",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-12T14:38:58.976000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "就是上周说的那种 比如iren 38元了 他有单子委托在37 之类的 一旦盘前有抛压就全出了"
+  },
+  "raw_text": "就是上周说的那种  比如iren 38元了 他有单子委托在37 之类的 一旦盘前有抛压就全出了"
+}
