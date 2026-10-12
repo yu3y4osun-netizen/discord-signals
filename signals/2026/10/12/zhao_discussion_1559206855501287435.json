@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559206855501287435",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-12T14:11:23.014000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥，加不动了，小资金挑了几个做，每个都被套了十几个点，要不要做倒T了，也没资金了"
+  },
+  "raw_text": "赵哥，加不动了，小资金挑了几个做，每个都被套了十几个点，要不要做倒T了，也没资金了"
+}
