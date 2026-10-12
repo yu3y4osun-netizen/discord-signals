@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559198276023222384",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-12T13:37:17.507000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU",
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "美光闪迪都没怎么跌"
+  },
+  "raw_text": "美光闪迪都没怎么跌"
+}
