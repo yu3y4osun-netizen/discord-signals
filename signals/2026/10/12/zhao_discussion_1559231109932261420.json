@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559231109932261420",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-12T15:47:45.721000+00:00",
+  "captured_at": "2026-10-12T23:48:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "cbrs有啥好买的，我就3%左右",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cbrs有啥好买的，我就3%左右"
+}
