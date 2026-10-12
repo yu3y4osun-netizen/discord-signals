@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559213610323153068",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-12T14:38:13.489000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "夜盘异动都要出点 模式就是夜盘放利好 让算法冲高卖"
+  },
+  "raw_text": "夜盘异动都要出点  模式就是夜盘放利好 让算法冲高卖"
+}
