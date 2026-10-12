@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559204843938254849",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-12T14:03:23.420000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跌的狠的都是重仓"
+  },
+  "raw_text": "跌的狠的都是重仓"
+}
