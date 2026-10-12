@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559219569506263154",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-12T15:01:54.269000+00:00",
+  "captured_at": "2026-10-12T23:40:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我是仓位没控制好，导致直接吃了一个最大的回调，给我整抑郁了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "我是仓位没控制好，导致直接吃了一个最大的回调，给我整抑郁了"
+}
