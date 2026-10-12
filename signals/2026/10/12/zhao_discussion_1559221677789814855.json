@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559221677789814855",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-12T15:10:16.923000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "没有犟的意思，小盘股基本面变坏就只需要一个事件，像CBRS，别人不要他了，直接坠机"
+  },
+  "raw_text": "没有犟的意思，小盘股基本面变坏就只需要一个事件，像CBRS，别人不要他了，直接坠机"
+}
