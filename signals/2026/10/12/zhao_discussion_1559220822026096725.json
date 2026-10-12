@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559220822026096725",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-12T15:06:52.893000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "继续买美光"
+  },
+  "raw_text": "继续买美光"
+}
