@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559225278998384721",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bitboy9527",
+  "ts": "2026-10-12T15:24:35.518000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还存储吗 还光模块吗 还AI算力带动需求爆发吗 还北美云厂商大单不断吗 还业绩一季更比一季强吗 还躺赢吗 怎么我一上车就不暴涨了 被我一手买崩 我不买的时候你们..."
+  },
+  "raw_text": "还存储吗\n还光模块吗\n还AI算力带动需求爆发吗\n还北美云厂商大单不断吗\n还业绩一季更比一季强吗\n还躺赢吗\n怎么我一上车就不暴涨了\n被我一手买崩\n我不买的时候你们天天开心幸福不干好事，全世界旅游\n怎么这么巧啊😭😭"
+}
