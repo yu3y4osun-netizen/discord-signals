@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559013092430454825",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-12T01:21:26.298000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "周五抄底iren的赢麻了"
+  },
+  "raw_text": "周五抄底iren的赢麻了"
+}
