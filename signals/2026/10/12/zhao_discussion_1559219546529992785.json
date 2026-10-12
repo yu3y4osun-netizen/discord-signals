@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559219546529992785",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "snoopydog93",
+  "ts": "2026-10-12T15:01:48.791000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "CBRS",
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "nbis 和cbrs都被套了啊"
+  },
+  "raw_text": "nbis 和cbrs都被套了啊"
+}
