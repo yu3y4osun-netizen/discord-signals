@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559195953616003144",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-12T13:28:03.802000+00:00",
+  "captured_at": "2026-10-12T23:40:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我把融资卸掉了，大不了熬吧",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "我把融资卸掉了，大不了熬吧"
+}
