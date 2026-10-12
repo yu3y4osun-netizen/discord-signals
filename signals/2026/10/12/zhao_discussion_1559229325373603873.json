@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559229325373603873",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-12T15:40:40.249000+00:00",
+  "captured_at": "2026-10-12T23:48:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跌这么猛是不是可以买1张彩票看看呀",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "跌这么猛是不是可以买1张彩票看看呀"
+}
