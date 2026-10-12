@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559205428213325927",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-12T14:05:42.722000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "CBRS破新低了"
+  },
+  "raw_text": "CBRS破新低了"
+}
