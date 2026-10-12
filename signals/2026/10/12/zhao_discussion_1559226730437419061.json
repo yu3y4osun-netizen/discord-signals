@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559226730437419061",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liuxingyu",
+  "ts": "2026-10-12T15:30:21.568000+00:00",
+  "captured_at": "2026-10-12T23:48:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "Cbrs太狠l",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Cbrs太狠l"
+}
