@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559219283689476118",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-12T15:00:46.125000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "其实除了MU其他都算是小盘股，可取代性都太强了，小盘股都吃过亏"
+  },
+  "raw_text": "其实除了MU其他都算是小盘股，可取代性都太强了，小盘股都吃过亏"
+}
