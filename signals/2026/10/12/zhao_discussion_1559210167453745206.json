@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559210167453745206",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-12T14:24:32.645000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，像这次事件，上次类似的是啥时候？今年炒股体感比以前差好多"
+  },
+  "raw_text": "赵哥，像这次事件，上次类似的是啥时候？今年炒股体感比以前差好多"
+}
