@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559202689831936091",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-12T13:54:49.841000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "能走到对岸吗这把 满仓持仓"
+  },
+  "raw_text": "能走到对岸吗这把 满仓持仓"
+}
