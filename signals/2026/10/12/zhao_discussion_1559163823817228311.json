@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559163823817228311",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-10-12T11:20:23.461000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "满仓中 哎 我不信 美国还倒闭了不信"
+  },
+  "raw_text": "满仓中 哎 我不信 美国还倒闭了不信"
+}
