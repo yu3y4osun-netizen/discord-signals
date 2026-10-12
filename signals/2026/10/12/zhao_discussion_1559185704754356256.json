@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559185704754356256",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-12T12:47:20.283000+00:00",
+  "captured_at": "2026-10-12T23:40:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "只能盘中找低点做t了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "只能盘中找低点做t了"
+}
