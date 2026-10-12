@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559140555727052873",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-12T09:47:55.916000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这次民主党可能拿下参议院和众议院，比上次中选还猛"
+  },
+  "raw_text": "这次民主党可能拿下参议院和众议院，比上次中选还猛"
+}
