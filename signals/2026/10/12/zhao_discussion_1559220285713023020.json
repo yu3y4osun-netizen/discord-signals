@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559220285713023020",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-10-12T15:04:45.026000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "基本面好的就算现金流多的公司了像苹果这种"
+  },
+  "raw_text": "基本面好的就算现金流多的公司了像苹果这种"
+}
