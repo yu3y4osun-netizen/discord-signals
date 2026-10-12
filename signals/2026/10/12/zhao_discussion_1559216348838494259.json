@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559216348838494259",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-10-12T14:49:06.402000+00:00",
+  "captured_at": "2026-10-12T23:40:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要还是我们买太多了，仓位没控制好￼￼",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "主要还是我们买太多了，仓位没控制好￼￼"
+}
