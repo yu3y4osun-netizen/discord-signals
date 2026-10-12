@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559226425062457355",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-12T15:29:08.761000+00:00",
+  "captured_at": "2026-10-12T23:48:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "Lite终于三位数了也",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Lite终于三位数了也"
+}
