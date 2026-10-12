@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559216372423200770",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-12T14:49:12.025000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一直没涨的板块突然有一天涨一天可能就可能是假突破 资金圈最后一轮 开始转模式"
+  },
+  "raw_text": "一直没涨的板块突然有一天涨一天可能就可能是假突破 资金圈最后一轮  开始转模式"
+}
