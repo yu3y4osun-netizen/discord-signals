@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1558995635464699976",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-12T00:12:04.233000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是，那夜盘涨了盘前最好兑现一点？"
+  },
+  "raw_text": "是，那夜盘涨了盘前最好兑现一点？"
+}
