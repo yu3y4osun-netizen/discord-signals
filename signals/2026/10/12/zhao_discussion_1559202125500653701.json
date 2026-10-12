@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559202125500653701",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-12T13:52:35.294000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是不是要开始割肉跑路了"
+  },
+  "raw_text": "是不是要开始割肉跑路了"
+}
