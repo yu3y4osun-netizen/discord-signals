@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559226975883890790",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-12T15:31:20.087000+00:00",
+  "captured_at": "2026-10-12T23:48:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "毕竟是提前暴涨过一轮的",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "毕竟是提前暴涨过一轮的"
+}
