@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559206311823024200",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ctttest",
+  "ts": "2026-10-12T14:09:13.391000+00:00",
+  "captured_at": "2026-10-12T23:28:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥现在手里还有的SOXL还要拿着吗？还是夜盘如果有起来扔掉？"
+  },
+  "raw_text": "赵哥现在手里还有的SOXL还要拿着吗？还是夜盘如果有起来扔掉？"
+}
