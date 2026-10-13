@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559285457374683219",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wenjiandu",
+  "ts": "2026-10-12T19:23:43.161000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他之前这么弱, 我还以为这个新闻没有被算进去呢...夜盘没跟着赵哥一起跑. 真是失败.",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "他之前这么弱, 我还以为这个新闻没有被算进去呢...夜盘没跟着赵哥一起跑. 真是失败."
+}
