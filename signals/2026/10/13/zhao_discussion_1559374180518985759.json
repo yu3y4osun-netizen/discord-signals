@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559374180518985759",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-13T01:16:16.407000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "确实，记得赵哥说这个，但是我当时太贪减的太少了🥲",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "确实，记得赵哥说这个，但是我当时太贪减的太少了🥲"
+}
