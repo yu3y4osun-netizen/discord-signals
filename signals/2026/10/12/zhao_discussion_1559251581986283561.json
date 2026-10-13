@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559251581986283561",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-12T17:09:06.639000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌像meta的陀螺🤣",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌像meta的陀螺🤣"
+}
