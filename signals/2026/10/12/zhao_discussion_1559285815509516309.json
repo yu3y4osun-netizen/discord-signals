@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559285815509516309",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-12T19:25:08.547000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥卖肯定是机器检测出啥了，一定要跟，买不一定全跟，卖肯定要跟啊，控制仓位和风险",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥卖肯定是机器检测出啥了，一定要跟，买不一定全跟，卖肯定要跟啊，控制仓位和风险"
+}
