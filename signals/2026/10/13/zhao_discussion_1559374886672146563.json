@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559374886672146563",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaiagoldin",
+  "ts": "2026-10-13T01:19:04.767000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "对一般大涨后开跌赵哥加的第一笔 前几笔 基本上都被套住的 可以加很少或者不加",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "对一般大涨后开跌赵哥加的第一笔 前几笔 基本上都被套住的 可以加很少或者不加"
+}
