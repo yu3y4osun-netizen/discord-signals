@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559287039898427573",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wenjiandu",
+  "ts": "2026-10-12T19:30:00.464000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "有道理! 我虽然进群有阵子了, 赵哥的单还是不太会跟. 主要是赵哥的操作频率比我自己的要高很多. 我拿的都要久一些. 有时候赵哥已经快速止盈了, 我不知道该不该...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "有道理! 我虽然进群有阵子了, 赵哥的单还是不太会跟. 主要是赵哥的操作频率比我自己的要高很多. 我拿的都要久一些. 有时候赵哥已经快速止盈了, 我不知道该不该卖."
+}
