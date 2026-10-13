@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559249196060508245",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-12T16:59:37.790000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC",
+      "MU",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis盘子比intc mu小跌的多点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "nbis盘子比intc mu小跌的多点"
+}
