@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559369661282394143",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-10-13T00:58:18.937000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要是小仓慢慢上去 满仓 直接下来 有点猛",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "主要是小仓慢慢上去 满仓 直接下来 有点猛"
+}
