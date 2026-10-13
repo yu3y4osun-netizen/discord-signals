@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559371946007728211",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-13T01:07:23.658000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "RKLB"
+    ],
+    "is_following_zhao": false,
+    "summary": "rklb直接跌到40多",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "rklb直接跌到40多"
+}
