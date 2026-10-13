@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559396167102759023",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-13T02:43:38.417000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "8月那次是韩国先拉升 之后美股拉升",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "8月那次是韩国先拉升 之后美股拉升"
+}
