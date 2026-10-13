@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559358160861405278",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-13T00:12:37.023000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今年第一年炒美股 学到太多🥲仓位控制不好 一天一个季节",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "今年第一年炒美股 学到太多🥲仓位控制不好 一天一个季节"
+}
