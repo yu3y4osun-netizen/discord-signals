@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559371573427970110",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-13T01:05:54.828000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那时候宏观我们能看得出出问题了，现在是打战还没打完，中选又快来了，特朗普还在搞事，加息预期叠加，仓位又在高位，指数又在新高",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那时候宏观我们能看得出出问题了，现在是打战还没打完，中选又快来了，特朗普还在搞事，加息预期叠加，仓位又在高位，指数又在新高"
+}
