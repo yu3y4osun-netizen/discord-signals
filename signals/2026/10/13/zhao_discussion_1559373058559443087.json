@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559373058559443087",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-13T01:11:48.911000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你融资都上了，还差这点贷款吗",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "你融资都上了，还差这点贷款吗"
+}
