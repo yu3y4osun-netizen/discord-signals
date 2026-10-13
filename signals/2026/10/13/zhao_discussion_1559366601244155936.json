@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559366601244155936",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-13T00:46:09.367000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "特别想止损 咋弄",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "特别想止损 咋弄"
+}
