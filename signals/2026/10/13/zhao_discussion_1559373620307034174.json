@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559373620307034174",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-13T01:14:02.842000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "高位持续加仓建仓现在是懵逼状态",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "高位持续加仓建仓现在是懵逼状态"
+}
