@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559251778749599745",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-12T17:09:53.551000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不求他大涨，每天不能绿吧",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "不求他大涨，每天不能绿吧"
+}
