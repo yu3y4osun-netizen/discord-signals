@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559394893506281515",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky2026",
+  "ts": "2026-10-13T02:38:34.768000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我记得赵哥说的是t+2还是t+3",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我记得赵哥说的是t+2还是t+3"
+}
