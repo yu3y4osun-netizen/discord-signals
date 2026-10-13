@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559374551371096207",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-13T01:17:44.825000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥大方向是没有任何问题的，就是事件什么时候来",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥大方向是没有任何问题的，就是事件什么时候来"
+}
