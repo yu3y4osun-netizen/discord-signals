@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559346146894422237",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-12T23:24:52.670000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我今年利润已经亏完了 马上亏本金了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我今年利润已经亏完了 马上亏本金了"
+}
