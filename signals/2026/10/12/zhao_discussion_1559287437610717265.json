@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559287437610717265",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-12T19:31:35.286000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "确实，但是我觉得还是有利润就跟着卖比较重要，不要贪了😂主要是控制仓位，好多群友我看现在都满仓了，就很被动",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "确实，但是我觉得还是有利润就跟着卖比较重要，不要贪了😂主要是控制仓位，好多群友我看现在都满仓了，就很被动"
+}
