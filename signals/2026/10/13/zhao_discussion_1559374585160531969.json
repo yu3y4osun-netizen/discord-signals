@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559374585160531969",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-13T01:17:52.881000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "嗯，大回调一直都有，完全不怕踏空",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "嗯，大回调一直都有，完全不怕踏空"
+}
