@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559250669662240940",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-12T17:05:29.124000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "meta突然又来利好来",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "meta突然又来利好来"
+}
