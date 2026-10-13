@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559378680432697404",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-13T01:34:09.270000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "猛跌比阴跌好",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "猛跌比阴跌好"
+}
