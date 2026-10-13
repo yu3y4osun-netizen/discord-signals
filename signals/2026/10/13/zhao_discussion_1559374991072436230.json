@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559374991072436230",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-13T01:19:29.658000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "注意仓位管理，大盘在高位就得慎重了，下次记住就好",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "注意仓位管理，大盘在高位就得慎重了，下次记住就好"
+}
