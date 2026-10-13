@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559266337191239773",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-12T18:07:44.554000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "补了点soxl",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "补了点soxl"
+}
