@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559374293035384995",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-13T01:16:43.233000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我在8.6号最高点全跑了 现在看加仓又买回来了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我在8.6号最高点全跑了 现在看加仓又买回来了"
+}
