@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559383606562922588",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-13T01:53:43.751000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这行情咋反弹啊",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这行情咋反弹啊"
+}
