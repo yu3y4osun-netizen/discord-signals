@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559376723605463052",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-13T01:26:22.726000+00:00",
+  "captured_at": "2026-10-13T14:20:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "cbrs我没买，主要是破了前期箱体了，我也看不出来",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cbrs我没买，主要是破了前期箱体了，我也看不出来"
+}
