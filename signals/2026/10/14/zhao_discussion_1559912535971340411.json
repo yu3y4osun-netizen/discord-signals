@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559912535971340411",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-14T12:55:30.349000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不要太慌张，平复心情再操作",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "不要太慌张，平复心情再操作"
+}
