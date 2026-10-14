@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559597191138385961",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-13T16:02:26.282000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "云里边nbis算持股体验最好的了，crwv去年一直被骂，高管快把公司卖了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "云里边nbis算持股体验最好的了，crwv去年一直被骂，高管快把公司卖了"
+}
