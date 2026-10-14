@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559552404389757050",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "awua",
+  "ts": "2026-10-13T13:04:28.289000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "卧槽 还买crwv",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "卧槽 还买crwv"
+}
