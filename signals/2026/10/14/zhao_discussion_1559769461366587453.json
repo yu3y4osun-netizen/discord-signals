@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559769461366587453",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-14T03:26:58.705000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥资金量大，他加1/6没问题",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥资金量大，他加1/6没问题"
+}
