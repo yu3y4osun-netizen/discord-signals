@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559896971370700902",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-14T11:53:39.459000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "这个不敢保证，早上看到赵哥说夜盘涨出一点留现金等cpi，就出了一些",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "这个不敢保证，早上看到赵哥说夜盘涨出一点留现金等cpi，就出了一些"
+}
