@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559547223740653579",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-13T12:43:53.126000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE",
+      "MU",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "光你就lite 存你就mu 云你就nbis",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "光你就lite 存你就mu 云你就nbis"
+}
