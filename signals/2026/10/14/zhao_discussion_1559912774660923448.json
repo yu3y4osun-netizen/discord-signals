@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559912774660923448",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-14T12:56:27.257000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "ai越崩苹果越高",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "ai越崩苹果越高"
+}
