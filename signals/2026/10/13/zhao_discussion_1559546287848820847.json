@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559546287848820847",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-13T12:40:09.992000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "GOOGL",
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "不一定要买太多谷歌苹果，你就算在半导体里面买MU和因特儿这种也问题不大",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "不一定要买太多谷歌苹果，你就算在半导体里面买MU和因特儿这种也问题不大"
+}
