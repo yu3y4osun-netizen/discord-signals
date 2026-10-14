@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559604752860577873",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-13T16:32:29.137000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "也应该要最先拉升",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "也应该要最先拉升"
+}
