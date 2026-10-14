@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559547914924195851",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-10-13T12:46:37.917000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "手握正股，等恢复就行，赵哥资金比我们大多了😂",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "手握正股，等恢复就行，赵哥资金比我们大多了😂"
+}
