@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559774562252619849",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-14T03:47:14.851000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "前期赵哥的理论做“云、光”太神了，所以仓位过于集中在云，",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "前期赵哥的理论做“云、光”太神了，所以仓位过于集中在云，"
+}
