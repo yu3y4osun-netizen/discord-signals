@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559541496498364429",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-13T12:21:07.645000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥会考虑止损么",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥会考虑止损么"
+}
