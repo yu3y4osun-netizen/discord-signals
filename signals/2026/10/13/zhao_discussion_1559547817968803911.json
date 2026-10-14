@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559547817968803911",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunshuaiyan",
+  "ts": "2026-10-13T12:46:14.801000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你这么厉害自己玩去呗，跟着赵哥干啥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "你这么厉害自己玩去呗，跟着赵哥干啥"
+}
