@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559911452691796009",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-14T12:51:12.075000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "大盘跌谷歌肯定是涨势会有影响的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "大盘跌谷歌肯定是涨势会有影响的"
+}
