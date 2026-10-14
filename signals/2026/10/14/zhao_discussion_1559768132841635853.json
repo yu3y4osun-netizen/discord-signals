@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559768132841635853",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-14T03:21:41.960000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大家为什么都被套在云光存？因为前面太顺了，所以就过于相信，资本市场一直在变换规则",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "大家为什么都被套在云光存？因为前面太顺了，所以就过于相信，资本市场一直在变换规则"
+}
