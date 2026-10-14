@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559533296164012106",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-13T11:48:32.533000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "美光财报时候给的880-900的估值最近也快接近了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "美光财报时候给的880-900的估值最近也快接近了"
+}
