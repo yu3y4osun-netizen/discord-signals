@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559466986050814003",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-13T07:25:02.970000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": true,
+    "summary": "主要还是小盘股严于纪律，ASTS一个黑天鹅直接抹掉全部利润，我今年还赚了点钱，亏了也再当一次学费了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "主要还是小盘股严于纪律，ASTS一个黑天鹅直接抹掉全部利润，我今年还赚了点钱，亏了也再当一次学费了"
+}
