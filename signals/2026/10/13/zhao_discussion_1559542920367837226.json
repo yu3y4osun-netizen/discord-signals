@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559542920367837226",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gldslv",
+  "ts": "2026-10-13T12:26:47.122000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥今天盘中会有一个反弹吗？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥今天盘中会有一个反弹吗？"
+}
