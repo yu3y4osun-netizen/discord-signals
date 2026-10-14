@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559588593524146229",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-13T15:28:16.451000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌已起飞",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌已起飞"
+}
