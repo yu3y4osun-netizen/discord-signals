@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559542624132538371",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-13T12:25:36.494000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "我之前割肉cifr一样被嘲讽",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我之前割肉cifr一样被嘲讽"
+}
