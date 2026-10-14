@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559595471448842291",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-13T15:55:36.276000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但大的止盈的话我希望突破上次的高点",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "但大的止盈的话我希望突破上次的高点"
+}
