@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559775979231256709",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-14T03:52:52.685000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "反而iren，被群友骂了一个多月吧。我反而更觉得iren搞不好比nbis强势",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "反而iren，被群友骂了一个多月吧。我反而更觉得iren搞不好比nbis强势"
+}
