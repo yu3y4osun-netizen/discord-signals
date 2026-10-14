@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559553443230646313",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-13T13:08:35.968000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "台积电 之前涨了一大波",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "台积电  之前涨了一大波"
+}
