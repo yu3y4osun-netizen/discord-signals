@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559537948578549925",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dasheng9527",
+  "ts": "2026-10-13T12:07:01.755000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren,cifr都在吃大面",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "iren,cifr都在吃大面"
+}
