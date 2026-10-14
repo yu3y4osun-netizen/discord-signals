@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559554315906060361",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-10-13T13:12:04.030000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "建议心态不好的减仓200刀出去按个摩放松下，找个技师聊聊天，我刚出来，说话都很好听的，自己安抚下受伤的心灵",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "建议心态不好的减仓200刀出去按个摩放松下，找个技师聊聊天，我刚出来，说话都很好听的，自己安抚下受伤的心灵"
+}
