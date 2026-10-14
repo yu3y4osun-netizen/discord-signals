@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559534767433715713",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaichikou",
+  "ts": "2026-10-13T11:54:23.311000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "不过其实得益于之前跟赵哥的利润垫，IREN的持仓不是很难看",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "不过其实得益于之前跟赵哥的利润垫，IREN的持仓不是很难看"
+}
