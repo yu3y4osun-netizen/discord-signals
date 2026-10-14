@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559911311708524636",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-14T12:50:38.462000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这么着急割肉",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这么着急割肉"
+}
