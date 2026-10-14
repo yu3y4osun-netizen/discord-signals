@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559543762290610187",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-13T12:30:07.852000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "亏钱就吐槽，你还鼓励别人不要止损嘛，做量化频繁交易要有纪律，大哥，你自己看看多少人想回本上杠杆的，你不提醒还在那里天天说老同学都淡定了，资金体量买那么大该止损就...",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "亏钱就吐槽，你还鼓励别人不要止损嘛，做量化频繁交易要有纪律，大哥，你自己看看多少人想回本上杠杆的，你不提醒还在那里天天说老同学都淡定了，资金体量买那么大该止损就要止损"
+}
