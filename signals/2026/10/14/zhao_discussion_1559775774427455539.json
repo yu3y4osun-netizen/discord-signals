@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559775774427455539",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-14T03:52:03.856000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis上涨最快，反弹最猛——这是前几个月的规律，目前在下跌通道里，规则还是吗？（罗素的火鸡，再次警醒）",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "nbis上涨最快，反弹最猛——这是前几个月的规律，目前在下跌通道里，规则还是吗？（罗素的火鸡，再次警醒）"
+}
