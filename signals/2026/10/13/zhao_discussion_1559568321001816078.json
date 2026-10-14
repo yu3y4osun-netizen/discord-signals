@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559568321001816078",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hwangjoey",
+  "ts": "2026-10-13T14:07:43.105000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "iren和cifr 都没补仓，我想割了算了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "iren和cifr 都没补仓，我想割了算了"
+}
