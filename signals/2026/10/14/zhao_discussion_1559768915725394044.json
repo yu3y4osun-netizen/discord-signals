@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559768915725394044",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-14T03:24:48.614000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我觉得被套是加仓没有拉开",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我觉得被套是加仓没有拉开"
+}
