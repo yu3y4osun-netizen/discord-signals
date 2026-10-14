@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559839253939224638",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-14T08:04:18.551000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASML"
+    ],
+    "is_following_zhao": false,
+    "summary": "ASML 这不挺好的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "ASML 这不挺好的"
+}
