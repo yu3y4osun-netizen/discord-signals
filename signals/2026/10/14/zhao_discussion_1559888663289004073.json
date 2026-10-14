@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559888663289004073",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jugeg",
+  "ts": "2026-10-14T11:20:38.658000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在每天是一个股暴跌",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "现在每天是一个股暴跌"
+}
