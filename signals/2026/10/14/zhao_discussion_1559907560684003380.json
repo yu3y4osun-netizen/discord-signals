@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559907560684003380",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-14T12:35:44.148000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr今天也跌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cifr今天也跌"
+}
