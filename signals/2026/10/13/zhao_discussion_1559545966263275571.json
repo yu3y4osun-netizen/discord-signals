@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559545966263275571",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "daluyazi",
+  "ts": "2026-10-13T12:38:53.320000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSFT"
+    ],
+    "is_following_zhao": true,
+    "summary": "微软套了我8个月🤪",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "微软套了我8个月🤪"
+}
