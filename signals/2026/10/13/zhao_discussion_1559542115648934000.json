@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559542115648934000",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaiagoldin",
+  "ts": "2026-10-13T12:23:35.262000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": true,
+    "summary": "cifr这个要是再跌实在没法抗了 高位加了这么多笔 哎这笔亏的不知道要做多久能搞回来😭",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cifr这个要是再跌实在没法抗了 高位加了这么多笔 哎这笔亏的不知道要做多久能搞回来😭"
+}
