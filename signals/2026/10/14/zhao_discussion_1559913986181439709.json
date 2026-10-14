@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559913986181439709",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiekai",
+  "ts": "2026-10-14T13:01:16.106000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "割肉都来不及",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "割肉都来不及"
+}
