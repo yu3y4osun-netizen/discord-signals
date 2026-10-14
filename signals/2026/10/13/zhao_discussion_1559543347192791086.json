@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559543347192791086",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-13T12:28:28.885000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr还被摩根下调了目标价",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cifr还被摩根下调了目标价"
+}
