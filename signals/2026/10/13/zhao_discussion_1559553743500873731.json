@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559553743500873731",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-13T13:09:47.558000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC",
+      "TSM"
+    ],
+    "is_following_zhao": true,
+    "summary": "今天 刚刚开始建仓台积电和intc。买这种大票 心里放心 套了也不怕",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "今天  刚刚开始建仓台积电和intc。买这种大票 心里放心 套了也不怕"
+}
