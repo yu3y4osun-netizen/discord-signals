@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559501969566072888",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "c8641",
+  "ts": "2026-10-13T09:44:03.690000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA",
+      "QQQ",
+      "SPY",
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq spy 特斯拉 英伟达 下周一都支持，不知道真假",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "qqq spy 特斯拉 英伟达 下周一都支持，不知道真假"
+}
