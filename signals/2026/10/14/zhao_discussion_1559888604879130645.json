@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559888604879130645",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-14T11:20:24.732000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "6月硬件见顶 微软刚好见底 一直抱团新高到现在",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "6月硬件见顶 微软刚好见底 一直抱团新高到现在"
+}
