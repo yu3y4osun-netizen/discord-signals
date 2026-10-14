@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559606231004614677",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-13T16:38:21.554000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一共就几个模式 尾盘模式 开盘回踩模式 亚洲利空盘前5点左右买模式",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "一共就几个模式  尾盘模式  开盘回踩模式   亚洲利空盘前5点左右买模式"
+}
