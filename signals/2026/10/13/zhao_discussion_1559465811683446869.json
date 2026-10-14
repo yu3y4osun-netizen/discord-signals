@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559465811683446869",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-13T07:20:22.979000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "学习技术分析 还是很重要的，小盘股都明显没有稳定下来，还不断加仓那是找死。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "学习技术分析  还是很重要的，小盘股都明显没有稳定下来，还不断加仓那是找死。"
+}
