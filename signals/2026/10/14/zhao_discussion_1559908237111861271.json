@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559908237111861271",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-14T12:38:25.421000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥那边现在氛围感是啥呀",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥那边现在氛围感是啥呀"
+}
