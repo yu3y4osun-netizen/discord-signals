@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559770028931416136",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-14T03:29:14.023000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "罗素火鸡长警醒，指数新高要减仓",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "罗素火鸡长警醒，指数新高要减仓"
+}
