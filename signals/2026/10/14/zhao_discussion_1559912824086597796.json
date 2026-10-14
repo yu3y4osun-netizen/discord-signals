@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559912824086597796",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-14T12:56:39.041000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "所以之前苹果就比谷歌好啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "所以之前苹果就比谷歌好啊"
+}
