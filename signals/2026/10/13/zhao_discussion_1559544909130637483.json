@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559544909130637483",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-13T12:34:41.280000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "太集中于小盘股要被套很久",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "太集中于小盘股要被套很久"
+}
