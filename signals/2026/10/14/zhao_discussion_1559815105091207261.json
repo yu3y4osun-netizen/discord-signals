@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559815105091207261",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-14T06:28:21.017000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASML"
+    ],
+    "is_following_zhao": false,
+    "summary": "国内不及预期ASML也不及预期",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "国内不及预期ASML也不及预期"
+}
