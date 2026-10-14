@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559911375948619880",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-14T12:50:53.778000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌今天会不会被大盘带下来",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌今天会不会被大盘带下来"
+}
