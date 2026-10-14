@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559564404004225065",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-13T13:52:09.220000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRCL",
+      "MSTR"
+    ],
+    "is_following_zhao": false,
+    "summary": "买它的 是真得奔溃 太影响心情了 还不如买 mstr和crcl",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "买它的 是真得奔溃  太影响心情了  还不如买  mstr和crcl"
+}
