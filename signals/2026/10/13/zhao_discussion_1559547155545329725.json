@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559547155545329725",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-13T12:43:36.867000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "都很熟了nbiscrwv这些东家都是英伟达",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "都很熟了nbiscrwv这些东家都是英伟达"
+}
