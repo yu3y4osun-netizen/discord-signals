@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559663044110585896",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "violawang",
+  "ts": "2026-10-13T20:24:06.854000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥mu满仓套在高位 夜盘有高点要减些吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥mu满仓套在高位 夜盘有高点要减些吗"
+}
