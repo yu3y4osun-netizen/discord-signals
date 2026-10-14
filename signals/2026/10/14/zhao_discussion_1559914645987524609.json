@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559914645987524609",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-14T13:03:53.416000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "我7月重仓mu，从1200跌到700都回来了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我7月重仓mu，从1200跌到700都回来了"
+}
