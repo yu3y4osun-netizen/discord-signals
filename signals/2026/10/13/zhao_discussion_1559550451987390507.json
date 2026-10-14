@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559550451987390507",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-13T12:56:42.800000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "兄弟，我年初账户腰斩亏了八九万，后面做回来并且盈利了，我吵不是和你们有资金量有利润垫的吵，有一些没回本的如果有利润垫击穿利润垫是必须要止损的，本金在才玩得下去，...",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "兄弟，我年初账户腰斩亏了八九万，后面做回来并且盈利了，我吵不是和你们有资金量有利润垫的吵，有一些没回本的如果有利润垫击穿利润垫是必须要止损的，本金在才玩得下去，别本金没了"
+}
