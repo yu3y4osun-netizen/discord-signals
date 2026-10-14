@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559914365111500841",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-14T13:02:46.450000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "我今年微软从410一路俯冲350",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我今年微软从410一路俯冲350"
+}
