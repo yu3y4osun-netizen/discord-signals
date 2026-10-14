@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559544172220776600",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "civica",
+  "ts": "2026-10-13T12:31:45.587000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TLT"
+    ],
+    "is_following_zhao": true,
+    "summary": "我其中一个短线账户，4成仓位跟了赵哥，还有3成自己买的TLT、IEF、大盘股和卖put之类的，虽然特别像云这种浮亏很多，但自己跟了就跟了我认，现在只想截下来的事...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我其中一个短线账户，4成仓位跟了赵哥，还有3成自己买的TLT、IEF、大盘股和卖put之类的，虽然特别像云这种浮亏很多，但自己跟了就跟了我认，现在只想截下来的事情，要怎么做仔细分析想办法"
+}
