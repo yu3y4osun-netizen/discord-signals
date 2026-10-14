@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559596273164619789",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-13T15:58:47.420000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "谷歌分批卖就好了 能赚就行",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌分批卖就好了 能赚就行"
+}
