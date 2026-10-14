@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559912127962157219",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jugeg",
+  "ts": "2026-10-14T12:53:53.072000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你们上杠杆不得死",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "你们上杠杆不得死"
+}
