@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559467184357515345",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-13T07:25:50.250000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "ib融资年利率5出头 反正也就这两月了 只要融资收益超过1个点就覆盖了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "ib融资年利率5出头 反正也就这两月了 只要融资收益超过1个点就覆盖了"
+}
