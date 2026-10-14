@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559913745990426708",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "slickbacon",
+  "ts": "2026-10-14T13:00:18.840000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "仓位管理真的重要",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "仓位管理真的重要"
+}
