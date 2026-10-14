@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559549861458739291",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-13T12:54:22.007000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "然后问他为什么一个票三十仓位 他说资金小不好做t",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "然后问他为什么一个票三十仓位 他说资金小不好做t"
+}
