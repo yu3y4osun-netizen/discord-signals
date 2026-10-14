@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559553369687855125",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-13T13:08:18.434000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "如果能让新人舒服点的话我只能说我之前账户重仓mu 从1200跌到700再回1100",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "如果能让新人舒服点的话我只能说我之前账户重仓mu 从1200跌到700再回1100"
+}
