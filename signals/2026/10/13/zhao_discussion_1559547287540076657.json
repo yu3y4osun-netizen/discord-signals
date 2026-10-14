@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559547287540076657",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-13T12:44:08.337000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "INTC",
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "我现在就剩intc和nbis了 不过都是亏20多个点 死拿了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我现在就剩intc和nbis了 不过都是亏20多个点 死拿了"
+}
