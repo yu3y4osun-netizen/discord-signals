@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559553300498485370",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-13T13:08:01.938000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "我台积电450 445 440 435 430 425 420都补的期权。补到没钱。就死扛回本盈利",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我台积电450  445  440  435 430  425  420都补的期权。补到没钱。就死扛回本盈利"
+}
