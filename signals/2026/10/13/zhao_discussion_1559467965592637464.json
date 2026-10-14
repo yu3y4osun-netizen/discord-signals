@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559467965592637464",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-13T07:28:56.511000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": true,
+    "summary": "踏马的 难怪最近我买的博通一直在跌，那家伙真是个瘟神。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "踏马的  难怪最近我买的博通一直在跌，那家伙真是个瘟神。"
+}
