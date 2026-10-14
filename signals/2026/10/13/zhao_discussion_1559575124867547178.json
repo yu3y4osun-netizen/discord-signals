@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559575124867547178",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-13T14:34:45.273000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "之前都喊nbis nb，现在跌多了就喊qu",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "之前都喊nbis nb，现在跌多了就喊qu"
+}
