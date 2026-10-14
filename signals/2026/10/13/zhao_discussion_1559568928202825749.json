@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559568928202825749",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-13T14:10:07.873000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "spx冷门股前几天没跌 会跷跷板互换下",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "spx冷门股前几天没跌 会跷跷板互换下"
+}
