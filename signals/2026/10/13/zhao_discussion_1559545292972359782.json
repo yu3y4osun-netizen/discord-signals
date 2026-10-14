@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559545292972359782",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-13T12:36:12.795000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": true,
+    "summary": "yh哥 intc短期是不是回不去120了 我套了一半仓位在这里",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "yh哥 intc短期是不是回不去120了 我套了一半仓位在这里"
+}
