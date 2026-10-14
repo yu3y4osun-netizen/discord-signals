@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559774598894063748",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-10-14T03:47:23.587000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "由于我空仓，怕踏空，内心也觉得这次机会很好 昨晚涨的没忍住开始乱操作，追高、止损，止损后再起飞 正常情况下我肯定不会这么操作尤其是soxl打到200日线 且大家...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "由于我空仓，怕踏空，内心也觉得这次机会很好\n昨晚涨的没忍住开始乱操作，追高、止损，止损后再起飞\n\n正常情况下我肯定不会这么操作尤其是soxl打到200日线 且大家还都重仓这类股票上 \n\n只能说调整心态吧"
+}
