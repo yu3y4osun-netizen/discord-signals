@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559538691016491202",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-10-13T12:09:58.766000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，对您刚发内容有点疑惑，可以帮忙解惑吗？ 这次下跌是资金面造成的短期错杀，还是市场下调存储行业盈利预期？ 我没搞懂的地方在于这次下跌不止是存储，几乎所有板块...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，对您刚发内容有点疑惑，可以帮忙解惑吗？\n这次下跌是资金面造成的短期错杀，还是市场下调存储行业盈利预期？\n\n我没搞懂的地方在于这次下跌不止是存储，几乎所有板块都在下跌，而存储这个又出现一些利空消息，所以才有些疑惑\n\n希望赵哥能解惑，也感谢群友能解惑🙏"
+}
