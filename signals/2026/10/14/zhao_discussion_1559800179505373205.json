@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559800179505373205",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-14T05:29:02.480000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASML"
+    ],
+    "is_following_zhao": false,
+    "summary": "Asml财报",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Asml财报"
+}
