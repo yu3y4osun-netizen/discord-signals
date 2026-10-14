@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559911668790595627",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-14T12:52:03.597000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哎呀正常的，大家都错了而已，错了改就完了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "哎呀正常的，大家都错了而已，错了改就完了"
+}
