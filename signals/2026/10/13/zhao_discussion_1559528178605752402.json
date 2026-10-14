@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559528178605752402",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-13T11:28:12.412000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "我西部数据已经跌成1%仓位了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我西部数据已经跌成1%仓位了"
+}
