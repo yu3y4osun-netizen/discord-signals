@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559540821412290642",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-13T12:18:26.692000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CONL",
+      "META",
+      "TSLL"
+    ],
+    "is_following_zhao": false,
+    "summary": "meta conl bmnr tsll 数不胜数",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "meta conl bmnr tsll 数不胜数"
+}
