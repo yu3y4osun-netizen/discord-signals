@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559914340826611792",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "slickbacon",
+  "ts": "2026-10-14T13:02:40.660000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "btc也没有破8万，看好今晚反弹",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "btc也没有破8万，看好今晚反弹"
+}
