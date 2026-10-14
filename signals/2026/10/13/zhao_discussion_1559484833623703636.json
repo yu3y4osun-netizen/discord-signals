@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559484833623703636",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky2026",
+  "ts": "2026-10-13T08:35:58.163000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "所以盘中单边夜盘反弹的模式切换了是吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "所以盘中单边夜盘反弹的模式切换了是吗"
+}
