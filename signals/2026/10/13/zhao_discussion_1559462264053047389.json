@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559462264053047389",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-13T07:06:17.158000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天开盘会怎么走，看不懂了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "今天开盘会怎么走，看不懂了"
+}
