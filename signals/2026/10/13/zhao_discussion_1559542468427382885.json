@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559542468427382885",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-13T12:24:59.371000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥的小盘股 昨天一开盘感觉不对 全部都清仓了，不敢跟你们说 怕你们嘲讽。就留的大市值股票",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥的小盘股  昨天一开盘感觉不对  全部都清仓了，不敢跟你们说 怕你们嘲讽。就留的大市值股票"
+}
