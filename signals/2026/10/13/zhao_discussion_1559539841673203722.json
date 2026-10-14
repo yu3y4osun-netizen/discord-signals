@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559539841673203722",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-13T12:14:33.104000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还好假期出金了，这次到收益归零就直接平仓",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "还好假期出金了，这次到收益归零就直接平仓"
+}
