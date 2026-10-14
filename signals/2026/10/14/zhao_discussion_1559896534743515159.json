@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559896534743515159",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-14T11:51:55.359000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "今天谷歌直接去365把",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "今天谷歌直接去365把"
+}
