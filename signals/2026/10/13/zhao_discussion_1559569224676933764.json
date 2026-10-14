@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559569224676933764",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-13T14:11:18.558000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "谁家孩子天天哭 谁家赌狗天天输 该轮到我们涨涨了😂",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "谁家孩子天天哭 谁家赌狗天天输 该轮到我们涨涨了😂"
+}
