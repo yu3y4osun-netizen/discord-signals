@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559560293237915751",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanyan379",
+  "ts": "2026-10-13T13:35:49.137000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": true,
+    "summary": "cifr这样跌不是一时半会能涨上去的，又要套很久了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cifr这样跌不是一时半会能涨上去的，又要套很久了"
+}
