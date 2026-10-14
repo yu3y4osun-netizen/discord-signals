@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559548185611997215",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "darkcomtee",
+  "ts": "2026-10-13T12:47:42.454000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "SOXL因为波动率的关系让我有点破防 其他正股还好",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "SOXL因为波动率的关系让我有点破防 其他正股还好"
+}
