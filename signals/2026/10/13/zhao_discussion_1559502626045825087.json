@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559502626045825087",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "awua",
+  "ts": "2026-10-13T09:46:40.207000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "长桥可以 连iren都有😂",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "长桥可以 连iren都有😂"
+}
