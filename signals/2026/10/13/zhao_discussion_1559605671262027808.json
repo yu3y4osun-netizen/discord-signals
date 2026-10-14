@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559605671262027808",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-13T16:36:08.101000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "7月去杠杆 散户资金是收集到政府的账户的 那时候三星海力士晚了一步 没能增持 三星让政府撤退 政府不撤退 股价高不会增持 然后今天才退跌了 才会后续增持",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "7月去杠杆 散户资金是收集到政府的账户的  那时候三星海力士晚了一步 没能增持  三星让政府撤退  政府不撤退 股价高不会增持 然后今天才退跌了 才会后续增持"
+}
