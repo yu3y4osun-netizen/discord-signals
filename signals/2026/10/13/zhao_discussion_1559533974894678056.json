@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559533974894678056",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-13T11:51:14.355000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "咱们群是高级韭菜 咱们都扛不住了 基本到底了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "咱们群是高级韭菜   咱们都扛不住了 基本到底了"
+}
