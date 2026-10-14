@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559770231172497499",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-14T03:30:02.241000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "指数新高不减仓，我们就是在赌突破了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "指数新高不减仓，我们就是在赌突破了"
+}
