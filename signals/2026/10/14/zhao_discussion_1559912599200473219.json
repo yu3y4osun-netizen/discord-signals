@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559912599200473219",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hwangjoey",
+  "ts": "2026-10-14T12:55:45.424000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "CIEN",
+      "CIFR"
+    ],
+    "is_following_zhao": true,
+    "summary": "这Cifr和Cien…..加仓也不是不加也不是",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这Cifr和Cien…..加仓也不是不加也不是"
+}
