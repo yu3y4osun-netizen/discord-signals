@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559911172675993772",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-14T12:50:05.314000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "以后跟单要保持理智一些😂",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "以后跟单要保持理智一些😂"
+}
