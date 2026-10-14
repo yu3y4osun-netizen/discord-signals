@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559907382925205625",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-14T12:35:01.767000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "买crwv的又有福了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "买crwv的又有福了"
+}
