@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559774282559791160",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-14T03:46:08.167000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我觉得赵哥也没有避免“罗素的火鸡”理论",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我觉得赵哥也没有避免“罗素的火鸡”理论"
+}
