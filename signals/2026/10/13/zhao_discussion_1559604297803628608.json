@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559604297803628608",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-13T16:30:40.643000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MUU"
+    ],
+    "is_following_zhao": false,
+    "summary": "是的 反正我940补了点muu",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "是的 反正我940补了点muu"
+}
