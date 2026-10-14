@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559532239526690938",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-13T11:44:20.611000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": true,
+    "summary": "intc 在 Q2 机构持有比例从约 64% 升至约 68.7%，新增名人买入：佩洛西 7 月买入 大约 1 万股成本大致 90～95，陈立武 8 月买入 10...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "intc 在 Q2 机构持有比例从约 64% 升至约 68.7%，新增名人买入：佩洛西 7 月买入 大约 1 万股成本大致 90～95，陈立武 8 月买入 1000 万美金，成本 95，今天美股盘后股价大约 100"
+}
