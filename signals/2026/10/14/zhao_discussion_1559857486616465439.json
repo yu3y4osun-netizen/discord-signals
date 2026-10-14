@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559857486616465439",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-14T09:16:45.560000+00:00",
+  "captured_at": "2026-10-14T21:11:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "继续等待 赵哥还是高仓位",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "继续等待 赵哥还是高仓位"
+}
