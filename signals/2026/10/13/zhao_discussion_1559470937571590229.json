@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559470937571590229",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-13T07:40:45.086000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC",
+      "COIN"
+    ],
+    "is_following_zhao": false,
+    "summary": "就coin跟着btc吗 小矿工不受影响",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "就coin跟着btc吗 小矿工不受影响"
+}
