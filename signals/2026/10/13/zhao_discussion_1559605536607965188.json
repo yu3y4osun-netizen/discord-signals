@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559605536607965188",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-13T16:35:35.997000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 也就是说这次压迫的不光是港A 还有韩国么",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 也就是说这次压迫的不光是港A 还有韩国么"
+}
