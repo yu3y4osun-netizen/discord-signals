@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559476278145450065",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xlucky",
+  "ts": "2026-10-13T08:01:58.378000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "GS",
+      "JPM",
+      "MU",
+      "WFC"
+    ],
+    "is_following_zhao": false,
+    "summary": "下午更新： - 亚洲抛售加剧：KOSPI 暴跌 6.5%、跌破 6000（触发 sidecar 熔断），三星 −7.5%、SK 海力士 −9%；导火索是国产 D...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "下午更新：\n- 亚洲抛售加剧：KOSPI 暴跌 6.5%、跌破 6000（触发 sidecar 熔断），三星 −7.5%、SK 海力士 −9%；导火索是国产 DRAM 进展（CXMT）+ 两家回购额度用完。日经 −2.5%。上午快讯推过亚洲走弱，这波是升级版。\n- 油价小幅回落：布油 ~$105.4（−1.2%）、WTI ~$92.6；期指小幅偏弱（标普 ~−0.1%、纳指 ~−0.2%）；10 年期 ~5.3%。\n- 今晚银行财报夜：JPM ~19:00、GS ~19:30、Citi ~20:00、WFC 盘前（北京时间）；明晚 CPI + BLK 双事件。"
+}
