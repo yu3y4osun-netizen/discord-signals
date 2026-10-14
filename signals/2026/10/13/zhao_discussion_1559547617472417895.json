@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559547617472417895",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-13T12:45:26.999000+00:00",
+  "captured_at": "2026-10-14T10:53:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要不要就一句话说没买，可以卖远期期权赚点时间价值，哪怕卖深度成本上的期权，平仓也不亏，不然就赚时间价值，大市值小市值也是云光存里面挑出来的，哪个优劣也是问过的...",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "主要不要就一句话说没买，可以卖远期期权赚点时间价值，哪怕卖深度成本上的期权，平仓也不亏，不然就赚时间价值，大市值小市值也是云光存里面挑出来的，哪个优劣也是问过的了，选哪个是自己做的决定，天天那里说哪个更厉害哪个更厉害，哪天大厂都不用基本面全部没了"
+}
