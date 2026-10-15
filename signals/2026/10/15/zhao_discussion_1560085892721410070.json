@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560085892721410070",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gldslv",
+  "ts": "2026-10-15T00:24:21.819000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今年是暴跌",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "今年是暴跌"
+}
