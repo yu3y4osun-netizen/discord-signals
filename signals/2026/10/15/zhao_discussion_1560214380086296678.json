@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560214380086296678",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-15T08:54:55.594000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "7月29日韩国也是委员长lee发起救市 开启了一轮政府资金吃撑下的反弹 韩国指数同样的跌幅 同样的委员长 历史这轮是否再次相似",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "7月29日韩国也是委员长lee发起救市 开启了一轮政府资金吃撑下的反弹 韩国指数同样的跌幅 同样的委员长 历史这轮是否再次相似"
+}
