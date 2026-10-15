@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559922010702749717",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-14T13:33:09.301000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "Crwv又怎么了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Crwv又怎么了"
+}
