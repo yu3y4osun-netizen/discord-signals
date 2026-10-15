@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559956165260218431",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-14T15:48:52.382000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥仓位大概是在指数高位的时候加满的，之前我看都是5-6成，在高位的时候加到接近满仓，所以等于重仓接了这波下跌",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥仓位大概是在指数高位的时候加满的，之前我看都是5-6成，在高位的时候加到接近满仓，所以等于重仓接了这波下跌"
+}
