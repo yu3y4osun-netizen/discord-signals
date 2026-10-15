@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560178005064548385",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-15T06:30:23.113000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "满仓中（三天前已经满仓）都是双倍股。 主要是试过几次，这边割肉之后，不到一天时间就反转，不是反弹而是反转。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "满仓中（三天前已经满仓）都是双倍股。  主要是试过几次，这边割肉之后，不到一天时间就反转，不是反弹而是反转。"
+}
