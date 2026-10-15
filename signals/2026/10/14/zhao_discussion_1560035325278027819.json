@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560035325278027819",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-14T21:03:25.601000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不敢想满仓是不是要被打死",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "不敢想满仓是不是要被打死"
+}
