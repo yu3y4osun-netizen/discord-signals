@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560082941760245861",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-15T00:12:38.255000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "英伟达也很惨啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "英伟达也很惨啊"
+}
