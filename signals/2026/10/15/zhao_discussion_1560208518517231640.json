@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560208518517231640",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-15T08:31:38.087000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "之前卖dram的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "之前卖dram的"
+}
