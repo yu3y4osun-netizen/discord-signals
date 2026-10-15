@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560103744623087669",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-15T01:35:18.044000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "0只有苹果还在涨",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "0只有苹果还在涨"
+}
