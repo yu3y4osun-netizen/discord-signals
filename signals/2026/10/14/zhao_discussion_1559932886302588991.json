@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559932886302588991",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ciciwangyao",
+  "ts": "2026-10-14T14:16:22.246000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥没买的票，外面也跌了很多，只是云这次特别惨",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥没买的票，外面也跌了很多，只是云这次特别惨"
+}
