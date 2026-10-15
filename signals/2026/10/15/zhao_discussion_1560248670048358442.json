@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560248670048358442",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "avocadorable0106",
+  "ts": "2026-10-15T11:11:10.958000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥 现在是等PPI 看能不能反弹一点 止损吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 现在是等PPI 看能不能反弹一点 止损吗"
+}
