@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560193863077855303",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-15T07:33:23.958000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "亏40%割肉正确吗。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "亏40%割肉正确吗。"
+}
