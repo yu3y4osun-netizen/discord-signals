@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559974020403826751",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-14T16:59:49.380000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "投票肯定有个党拿下 投票时候不等结果有反弹就会走 然后空开指数或者etf指数的空",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "投票肯定有个党拿下 投票时候不等结果有反弹就会走  然后空开指数或者etf指数的空"
+}
