@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559925582752522284",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "awua",
+  "ts": "2026-10-14T13:47:20.944000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "感觉不是cpi 像是crwv带崩的 存储跟光感觉都还好",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "感觉不是cpi 像是crwv带崩的 存储跟光感觉都还好"
+}
