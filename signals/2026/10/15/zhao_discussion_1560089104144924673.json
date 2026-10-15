@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560089104144924673",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-15T00:37:07.482000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intc 陈立武都是95回购的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "intc 陈立武都是95回购的"
+}
