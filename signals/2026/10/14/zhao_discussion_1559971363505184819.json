@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559971363505184819",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-14T16:49:15.926000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "今天cpi数据前，有刷到btc的看空大单",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "今天cpi数据前，有刷到btc的看空大单"
+}
