@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560232271691255829",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-15T10:06:01.285000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 现在AI债是不是是实在的大利空",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 现在AI债是不是是实在的大利空"
+}
