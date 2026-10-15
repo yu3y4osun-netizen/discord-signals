@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560063781026005023",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dae666",
+  "ts": "2026-10-14T22:56:29.980000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ",
+      "TQQQ"
+    ],
+    "is_following_zhao": true,
+    "summary": "一个是。准备抄底qqq tqqq",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "一个是。准备抄底qqq tqqq"
+}
