@@ -1,0 +1,27 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560064864662065237",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-14T23:00:48.339000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO",
+      "BTC",
+      "META",
+      "MU",
+      "NVDA",
+      "SNDK",
+      "STX",
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "标普500指数下跌1.1%。费城半导体指数收跌4.3%，六连跌创2025年5月以来最长下跌纪录。闪迪跌超5%，希捷科技、西部数据、美光科技跌超4%，英伟达、博通...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "标普500指数下跌1.1%。费城半导体指数收跌4.3%，六连跌创2025年5月以来最长下跌纪录。闪迪跌超5%，希捷科技、西部数据、美光科技跌超4%，英伟达、博通、脸书跌超3%。摩根士丹利跌2.70%，美国银行跌4.71%。黄金下跌1.4%至4100美元附近，比特币跌破82000美元。WTI原油涨1%。"
+}
