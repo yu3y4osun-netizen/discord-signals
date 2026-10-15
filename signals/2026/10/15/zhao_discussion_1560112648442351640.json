@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560112648442351640",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-15T02:10:40.880000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "cbrs的技术路径受到不少质疑，不过还是唯一芯片+云，两个概念都有的标的，而且流通盘小",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cbrs的技术路径受到不少质疑，不过还是唯一芯片+云，两个概念都有的标的，而且流通盘小"
+}
