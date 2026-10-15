@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560269861987418136",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-15T12:35:23.510000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "我7月Mu腰斩",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我7月Mu腰斩"
+}
