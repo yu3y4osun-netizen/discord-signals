@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559948110409498677",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "souyue",
+  "ts": "2026-10-14T15:16:51.956000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥三分之一是您仓位的2.82%，六分之一是1.41%吗，之前是按一个常规仓10%去计算的您总仓位是118.33%，但是您昨天说你仓位是98%，算出来六分之一是...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥三分之一是您仓位的2.82%，六分之一是1.41%吗，之前是按一个常规仓10%去计算的您总仓位是118.33%，但是您昨天说你仓位是98%，算出来六分之一是1.41%"
+}
