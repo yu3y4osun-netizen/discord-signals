@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559963755079532555",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-14T16:19:01.936000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "除了苹果和做空ETF和期权在涨 其他都普跌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "除了苹果和做空ETF和期权在涨  其他都普跌"
+}
