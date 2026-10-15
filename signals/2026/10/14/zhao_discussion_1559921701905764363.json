@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559921701905764363",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-14T13:31:55.678000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU",
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "￼dram和soxl顶住了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "￼dram和soxl顶住了"
+}
