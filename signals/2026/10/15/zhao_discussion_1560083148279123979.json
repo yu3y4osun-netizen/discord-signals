@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560083148279123979",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-15T00:13:27.493000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "英伟达是deepseek",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "英伟达是deepseek"
+}
