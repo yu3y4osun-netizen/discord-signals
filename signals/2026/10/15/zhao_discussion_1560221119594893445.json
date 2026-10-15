@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560221119594893445",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-10-15T09:21:42.418000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就说买房花完了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "就说买房花完了"
+}
