@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559954932814184651",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yingdi9527",
+  "ts": "2026-10-14T15:43:58.544000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥 没有补仓的资金了，现在要出一部分么 做倒t",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 没有补仓的资金了，现在要出一部分么 做倒t"
+}
