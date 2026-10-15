@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559980204380659795",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-14T17:24:23.755000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "看利率决议不加息 有冲高到11月4日里面反弹点出点",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "看利率决议不加息 有冲高到11月4日里面反弹点出点"
+}
