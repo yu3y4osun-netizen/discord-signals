@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560064835927015561",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-14T23:00:41.488000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "三点多赵哥发的单有跟的吗？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "三点多赵哥发的单有跟的吗？"
+}
