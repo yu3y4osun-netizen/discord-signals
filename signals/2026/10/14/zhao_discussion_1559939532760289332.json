@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559939532760289332",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-14T14:42:46.885000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天大多数普跌就是看11点-11点半这个 cpi利空常规的走势 开盘压2小时左右的算法",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "今天大多数普跌就是看11点-11点半这个 cpi利空常规的走势 开盘压2小时左右的算法"
+}
