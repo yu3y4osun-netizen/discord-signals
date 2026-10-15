@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560112570357256264",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-10-15T02:10:22.263000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我也觉得最近光比存强势很多￼",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我也觉得最近光比存强势很多￼"
+}
