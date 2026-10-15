@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559953294904787087",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wallstreetlose",
+  "ts": "2026-10-14T15:37:28.036000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "CRWV 是不是 有点夸张了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "CRWV 是不是 有点夸张了"
+}
