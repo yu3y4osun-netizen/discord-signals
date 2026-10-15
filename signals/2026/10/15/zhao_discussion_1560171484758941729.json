@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560171484758941729",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-15T06:04:28.551000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "后悔没用 你看赵哥的仓位 你还是会进去博的，人性贪婪很难克服",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "后悔没用  你看赵哥的仓位  你还是会进去博的，人性贪婪很难克服"
+}
