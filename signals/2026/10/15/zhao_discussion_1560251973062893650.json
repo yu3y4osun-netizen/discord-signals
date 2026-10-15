@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560251973062893650",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "avocadorable0106",
+  "ts": "2026-10-15T11:24:18.458000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "很多群友应该都 没钱再加仓了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "很多群友应该都 没钱再加仓了"
+}
