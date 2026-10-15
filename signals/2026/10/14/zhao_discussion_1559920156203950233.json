@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559920156203950233",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-14T13:25:47.154000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "快出来个人 骂一下，如果能大反弹 群友会感谢你的",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "快出来个人 骂一下，如果能大反弹  群友会感谢你的"
+}
