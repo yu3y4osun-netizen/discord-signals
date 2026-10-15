@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560109534683594849",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-15T01:58:18.502000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "CIFR",
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr和crwv两个畜生带崩了呗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cifr和crwv两个畜生带崩了呗"
+}
