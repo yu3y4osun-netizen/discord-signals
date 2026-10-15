@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559957316701261916",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-14T15:53:26.907000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr刚才好像有笔40万股的买单",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cifr刚才好像有笔40万股的买单"
+}
