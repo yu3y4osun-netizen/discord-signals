@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560088379591237663",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-15T00:34:14.735000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "怎么可能选iren",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "怎么可能选iren"
+}
