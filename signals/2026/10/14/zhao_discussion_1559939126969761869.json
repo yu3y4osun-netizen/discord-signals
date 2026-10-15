@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559939126969761869",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gldslv",
+  "ts": "2026-10-14T14:41:10.137000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 现在是不是先不看云了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 现在是不是先不看云了"
+}
