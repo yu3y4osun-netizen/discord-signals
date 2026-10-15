@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560219357173256213",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangxing",
+  "ts": "2026-10-15T09:14:42.224000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CONL"
+    ],
+    "is_following_zhao": false,
+    "summary": "conl出来后直接全家去香港转钱",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "conl出来后直接全家去香港转钱"
+}
