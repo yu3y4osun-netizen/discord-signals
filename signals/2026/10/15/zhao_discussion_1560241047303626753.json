@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560241047303626753",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T10:40:53.554000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "ppi就还是影响开盘 利空就还是等11点-11点半",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "ppi就还是影响开盘  利空就还是等11点-11点半"
+}
