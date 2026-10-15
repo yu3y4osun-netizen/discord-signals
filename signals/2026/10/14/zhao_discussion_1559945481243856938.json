@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559945481243856938",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-14T15:06:25.114000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "为啥1000以上都不买mu就是等接近 估值880-900时候出手",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "为啥1000以上都不买mu就是等接近 估值880-900时候出手"
+}
