@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559919520020434958",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-14T13:23:15.476000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "群恐慌指数到位了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "群恐慌指数到位了"
+}
