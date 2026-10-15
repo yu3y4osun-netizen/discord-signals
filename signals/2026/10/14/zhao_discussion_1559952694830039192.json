@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559952694830039192",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-14T15:35:04.967000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大佬们发动下人脉，让黄毛拉一下吧 麻了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "大佬们发动下人脉，让黄毛拉一下吧\n麻了"
+}
