@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560072048737525791",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-14T23:29:21.156000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": true,
+    "summary": "Crwv这样搞，80短期到不了，套老多人了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Crwv这样搞，80短期到不了，套老多人了"
+}
