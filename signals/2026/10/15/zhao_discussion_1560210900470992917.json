@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560210900470992917",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-10-15T08:41:05.989000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还好今年有翻倍的利润垫 这要是进群晚的指定扛不住",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "还好今年有翻倍的利润垫   这要是进群晚的指定扛不住"
+}
