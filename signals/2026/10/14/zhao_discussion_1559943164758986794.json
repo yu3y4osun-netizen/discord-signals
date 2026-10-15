@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559943164758986794",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-10-14T14:57:12.821000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "谢谢赵哥一直不厌其烦地带我们复习知识，在股市也就一两年，脑子不好使，太多东西要学，真金白银也会担惊受怕，学着学着就忘了。在赵哥一次又一次的复习中，温故而知新，记...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "谢谢赵哥一直不厌其烦地带我们复习知识，在股市也就一两年，脑子不好使，太多东西要学，真金白银也会担惊受怕，学着学着就忘了。在赵哥一次又一次的复习中，温故而知新，记忆也更加深刻。就像赵哥以前说上个世纪自己刚做美股时候，有优秀的前辈，能够一路成长起来。🥰"
+}
