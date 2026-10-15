@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559924495861551170",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-14T13:43:01.809000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC",
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "只买大股票，比如台积电 英特尔",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "只买大股票，比如台积电  英特尔"
+}
