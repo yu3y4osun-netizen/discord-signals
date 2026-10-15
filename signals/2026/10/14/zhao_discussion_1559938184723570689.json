@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559938184723570689",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-14T14:37:25.488000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "AMZN"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 想问下现在像aapl amzn这些股 现在是不是也到了高位，不能轻易加了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 想问下现在像aapl amzn这些股 现在是不是也到了高位，不能轻易加了"
+}
