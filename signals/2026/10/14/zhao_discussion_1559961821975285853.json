@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559961821975285853",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-14T16:11:21.048000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "如果按赵哥说的模式，三点半买，夜盘卖，开盘清空，再三点半买，那这天应该是赚钱的😂",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "如果按赵哥说的模式，三点半买，夜盘卖，开盘清空，再三点半买，那这天应该是赚钱的😂"
+}
