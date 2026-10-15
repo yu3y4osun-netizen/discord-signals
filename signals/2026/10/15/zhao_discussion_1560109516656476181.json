@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560109516656476181",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-15T01:58:14.204000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥13层了，理论上已经上了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥13层了，理论上已经上了"
+}
