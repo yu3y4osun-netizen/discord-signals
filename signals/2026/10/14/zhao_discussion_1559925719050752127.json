@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559925719050752127",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-14T13:47:53.440000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "为什么要买这么多云啊",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "为什么要买这么多云啊"
+}
