@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559979988730781787",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-10-14T17:23:32.340000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，如果指数突破8000的话，QQQ能上780吗？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，如果指数突破8000的话，QQQ能上780吗？"
+}
