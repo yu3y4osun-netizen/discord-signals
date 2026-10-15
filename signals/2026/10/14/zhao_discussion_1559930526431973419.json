@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559930526431973419",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-14T14:06:59.609000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我现在还是不是理解为啥会有赵哥满仓的感觉 我一直觉得赵哥的6分之一只是他预计建仓的6分之一",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我现在还是不是理解为啥会有赵哥满仓的感觉 我一直觉得赵哥的6分之一只是他预计建仓的6分之一"
+}
