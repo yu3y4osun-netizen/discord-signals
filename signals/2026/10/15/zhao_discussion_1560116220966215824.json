@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560116220966215824",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-15T02:24:52.636000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "RKLB"
+    ],
+    "is_following_zhao": true,
+    "summary": "顾神买了rklb 这个是真的猛",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "顾神买了rklb 这个是真的猛"
+}
