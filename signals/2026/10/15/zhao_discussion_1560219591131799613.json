@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560219591131799613",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangxing",
+  "ts": "2026-10-15T09:15:38.004000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CONL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我上次3.7说了conl的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我上次3.7说了conl的"
+}
