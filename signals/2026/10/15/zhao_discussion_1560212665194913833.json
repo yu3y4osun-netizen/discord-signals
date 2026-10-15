@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560212665194913833",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-15T08:48:06.732000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "我还是打算买一些qqq远期的put作为对冲，然后等一下，赵哥昨天认为现在到中选开始前还有一波拉升，虽然我不知道他的理由，但是等等看吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我还是打算买一些qqq远期的put作为对冲，然后等一下，赵哥昨天认为现在到中选开始前还有一波拉升，虽然我不知道他的理由，但是等等看吧"
+}
