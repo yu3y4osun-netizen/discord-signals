@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560114179451519070",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-15T02:16:45.901000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "OKLO"
+    ],
+    "is_following_zhao": false,
+    "summary": "就比如两党对核电的态度就不太一样，oklo这些股票肯定受情绪和政策风险影响",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "就比如两党对核电的态度就不太一样，oklo这些股票肯定受情绪和政策风险影响"
+}
