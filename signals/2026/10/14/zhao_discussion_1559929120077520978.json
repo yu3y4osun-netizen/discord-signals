@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559929120077520978",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-14T14:01:24.308000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "谁都没能力狙击mu",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谁都没能力狙击mu"
+}
