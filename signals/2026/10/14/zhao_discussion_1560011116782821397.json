@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560011116782821397",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-14T19:27:13.846000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不少登股悄悄新高了 正好卖了加回半导体",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "不少登股悄悄新高了 正好卖了加回半导体"
+}
