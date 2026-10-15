@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560238797843603559",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-15T10:31:57.241000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 我有个问题想请教一下 就是比如有些时候开盘一个小时能判断是单边下跌行情的时候为什么不买点put对冲或者做波倒t呢🥺",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 我有个问题想请教一下 就是比如有些时候开盘一个小时能判断是单边下跌行情的时候为什么不买点put对冲或者做波倒t呢🥺"
+}
