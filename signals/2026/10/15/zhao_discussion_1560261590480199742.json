@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560261590480199742",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-15T12:02:31.429000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，这种情况你投资过程中经历的多么",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，这种情况你投资过程中经历的多么"
+}
