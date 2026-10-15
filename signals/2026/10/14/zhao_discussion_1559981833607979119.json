@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559981833607979119",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "avocadorable0106",
+  "ts": "2026-10-14T17:30:52.193000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我去年10月初账户新高 然后就一直拿到今年初开始涨的",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我去年10月初账户新高 然后就一直拿到今年初开始涨的"
+}
