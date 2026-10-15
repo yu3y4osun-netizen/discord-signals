@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559988081531297964",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-10-14T17:55:41.814000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "明天反弹一波先入点QQQ CALL 了，这个跌幅机会很少",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "明天反弹一波先入点QQQ CALL 了，这个跌幅机会很少"
+}
