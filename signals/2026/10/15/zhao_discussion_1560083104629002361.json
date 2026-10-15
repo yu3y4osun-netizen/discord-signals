@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560083104629002361",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-15T00:13:17.086000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "amd 75",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "amd 75"
+}
