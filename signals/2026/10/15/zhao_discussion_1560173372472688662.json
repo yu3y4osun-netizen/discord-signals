@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560173372472688662",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-15T06:11:58.617000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "NVDA"
+    ],
+    "is_following_zhao": true,
+    "summary": "英伟达买crwv 成本价在90吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "英伟达买crwv 成本价在90吧"
+}
