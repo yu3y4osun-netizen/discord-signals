@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560087535928090646",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-15T00:30:53.590000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "美股反而涨了点",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "美股反而涨了点"
+}
