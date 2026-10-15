@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559969365443608598",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-14T16:41:19.551000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我感觉那个尖尖不是很明显 得赵哥看看有没有大单",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我感觉那个尖尖不是很明显 得赵哥看看有没有大单"
+}
