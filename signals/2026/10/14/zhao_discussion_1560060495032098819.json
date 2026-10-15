@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560060495032098819",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-14T22:43:26.538000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "美国又要完了，g",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "美国又要完了，g"
+}
