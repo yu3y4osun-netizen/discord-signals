@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559931972724457514",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanged",
+  "ts": "2026-10-14T14:12:44.432000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥我们是不是人多，同一时间买卖 中小盘股，被其他量化盯上了？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥我们是不是人多，同一时间买卖 中小盘股，被其他量化盯上了？"
+}
