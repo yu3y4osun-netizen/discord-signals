@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559988389925621791",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-14T17:56:55.341000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "@yhhaaland123 谷歌又跳水了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "@yhhaaland123 谷歌又跳水了"
+}
