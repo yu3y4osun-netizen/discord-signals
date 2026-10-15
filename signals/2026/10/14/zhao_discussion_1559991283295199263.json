@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559991283295199263",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "1314520",
+  "ts": "2026-10-14T18:08:25.174000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥。后面仓位不够是清一半保另外一半还是就继续持有？ 没子弹了。 这次跟超市一样买太多了。 没选好标的",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥。后面仓位不够是清一半保另外一半还是就继续持有？    没子弹了。 这次跟超市一样买太多了。  没选好标的"
+}
