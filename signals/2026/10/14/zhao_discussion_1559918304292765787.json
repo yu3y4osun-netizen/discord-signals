@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559918304292765787",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-14T13:18:25.624000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是的 我盘前全部清仓割肉了 今年利润回撤大半 认亏重来就是",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "是的 我盘前全部清仓割肉了 今年利润回撤大半 认亏重来就是"
+}
