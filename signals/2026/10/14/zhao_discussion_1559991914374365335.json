@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559991914374365335",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-10-14T18:10:55.635000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "发现规律了夜盘QQQ也是高点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "发现规律了夜盘QQQ也是高点"
+}
