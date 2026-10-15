@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559990340503470274",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-14T18:04:40.395000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "发债要利空三天 主要crwv今天又利空了 连锁反应叠加了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "发债要利空三天 主要crwv今天又利空了 连锁反应叠加了"
+}
