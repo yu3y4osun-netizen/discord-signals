@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559984395119493140",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-14T17:41:02.905000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "spy 720？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "spy 720？"
+}
