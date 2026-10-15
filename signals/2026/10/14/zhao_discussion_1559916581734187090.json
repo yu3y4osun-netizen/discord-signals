@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559916581734187090",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-14T13:11:34.934000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "高位加仓一把亏光",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "高位加仓一把亏光"
+}
