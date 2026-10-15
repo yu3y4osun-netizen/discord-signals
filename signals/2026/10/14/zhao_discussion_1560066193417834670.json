@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560066193417834670",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-14T23:06:05.139000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "等新闻出现爆仓，祭天的，再说吧",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "等新闻出现爆仓，祭天的，再说吧"
+}
