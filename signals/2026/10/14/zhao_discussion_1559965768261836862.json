@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559965768261836862",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-14T16:27:01.916000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥方便问一下您现在仓位如何吗，感觉如果夜盘没办法有高点卖出的话仓位就很快满了😂",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥方便问一下您现在仓位如何吗，感觉如果夜盘没办法有高点卖出的话仓位就很快满了😂"
+}
