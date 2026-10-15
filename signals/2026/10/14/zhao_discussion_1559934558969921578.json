@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559934558969921578",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-14T14:23:01.041000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 没有中选行情了吧",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 没有中选行情了吧"
+}
