@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560079720325054556",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-14T23:59:50.205000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我觉得加了以后可能更好啊，你也不着急马上止盈，就拿着，如果跌了 sell call 也能兜底",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "我觉得加了以后可能更好啊，你也不着急马上止盈，就拿着，如果跌了 sell call 也能兜底"
+}
