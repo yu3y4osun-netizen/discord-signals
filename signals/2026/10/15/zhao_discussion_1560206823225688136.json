@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560206823225688136",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-15T08:24:53.898000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "现在就看赵哥什么时候止损，或者开空对冲了😂",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "现在就看赵哥什么时候止损，或者开空对冲了😂"
+}
