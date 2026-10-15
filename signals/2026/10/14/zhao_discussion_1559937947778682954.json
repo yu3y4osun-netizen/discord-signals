@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559937947778682954",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-14T14:36:28.996000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "ASTS"
+    ],
+    "is_following_zhao": true,
+    "summary": "止损过啊 asts",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "止损过啊 asts"
+}
