@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559970539836280913",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-14T16:45:59.548000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 是不是有可能贝森特指导金融机构从股市抽钱去买债了 然后造成下跌",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 是不是有可能贝森特指导金融机构从股市抽钱去买债了 然后造成下跌"
+}
