@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560076736102662165",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moresugar",
+  "ts": "2026-10-14T23:47:58.711000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "完了，都在去风险",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "完了，都在去风险"
+}
