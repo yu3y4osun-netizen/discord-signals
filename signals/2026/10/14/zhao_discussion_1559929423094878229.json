@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559929423094878229",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-14T14:02:36.553000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我靠 真又可能 是卖信息的人 专门来阻击赵哥的小盘股。大盘股他们没那个实力 真有这种可能",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我靠  真又可能  是卖信息的人  专门来阻击赵哥的小盘股。大盘股他们没那个实力  真有这种可能"
+}
