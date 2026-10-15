@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559928029671723059",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-14T13:57:04.335000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大部分群友基本上都满仓了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "大部分群友基本上都满仓了"
+}
