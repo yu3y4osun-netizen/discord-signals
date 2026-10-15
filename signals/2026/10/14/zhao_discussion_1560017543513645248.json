@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560017543513645248",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-14T19:52:46.098000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "算单边 加上 A股还有个重阳节有减持 今天利空的因素都叠加了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "算单边  加上 A股还有个重阳节有减持 今天利空的因素都叠加了"
+}
