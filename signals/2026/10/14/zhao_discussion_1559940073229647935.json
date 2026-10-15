@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559940073229647935",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "toolplanka9",
+  "ts": "2026-10-14T14:44:55.743000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥的意思现在是走老太太↓楼梯走势了吧 只会一天比一天低",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥的意思现在是走老太太↓楼梯走势了吧  只会一天比一天低"
+}
