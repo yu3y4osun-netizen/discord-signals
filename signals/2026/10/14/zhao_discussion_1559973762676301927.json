@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559973762676301927",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zyttt",
+  "ts": "2026-10-14T16:58:47.933000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "失败是俩党一个都没拿下吗 赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "失败是俩党一个都没拿下吗 赵哥"
+}
