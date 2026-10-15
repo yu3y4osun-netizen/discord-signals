@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560098358041903105",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-15T01:13:53.783000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "这个就不太清楚了 佩洛西买的be是160的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这个就不太清楚了 佩洛西买的be是160的"
+}
