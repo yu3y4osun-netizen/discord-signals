@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560082279622115449",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-15T00:10:00.389000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今年伊朗战争赵哥也很牛逼",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "今年伊朗战争赵哥也很牛逼"
+}
