@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559990011661910057",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liuxingyu",
+  "ts": "2026-10-14T18:03:21.993000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我一天跌了12个点全是正股呀，没有任何杠杆",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "我一天跌了12个点全是正股呀，没有任何杠杆"
+}
