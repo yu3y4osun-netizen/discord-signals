@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559949783194406989",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "awua",
+  "ts": "2026-10-14T15:23:30.779000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "ppi再来一次扛不住啊",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "ppi再来一次扛不住啊"
+}
