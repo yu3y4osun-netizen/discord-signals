@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559943765697765472",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-10-14T14:59:36.096000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "Cbrs都快红了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Cbrs都快红了"
+}
