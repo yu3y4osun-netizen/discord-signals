@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560084966078021715",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-15T00:20:40.890000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没割肉，看赵哥还拿着，就放着了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "没割肉，看赵哥还拿着，就放着了"
+}
