@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560204553561964587",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-15T08:15:52.768000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq今天不反弹 技术面上就去找680了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "qqq今天不反弹 技术面上就去找680了"
+}
