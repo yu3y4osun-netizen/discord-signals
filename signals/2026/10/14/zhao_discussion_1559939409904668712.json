@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559939409904668712",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-14T14:42:17.594000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "融资主要是怕爆仓了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "融资主要是怕爆仓了"
+}
