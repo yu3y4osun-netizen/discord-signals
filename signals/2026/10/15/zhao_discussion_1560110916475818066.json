@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560110916475818066",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-15T02:03:47.947000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "然后bitmain给他投了一笔钱成立了cifr",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "然后bitmain给他投了一笔钱成立了cifr"
+}
