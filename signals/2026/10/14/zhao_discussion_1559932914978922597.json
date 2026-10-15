@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559932914978922597",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-14T14:16:29.083000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "反弹指数就看soxl 差不多125-126出soxl也看个股减点 下周再看看 soxs多空双开",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "反弹指数就看soxl 差不多125-126出soxl也看个股减点 下周再看看 soxs多空双开"
+}
