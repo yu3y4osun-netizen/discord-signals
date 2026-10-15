@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560175082704347177",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moresugar",
+  "ts": "2026-10-15T06:18:46.368000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "490%杠杆",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "490%杠杆"
+}
