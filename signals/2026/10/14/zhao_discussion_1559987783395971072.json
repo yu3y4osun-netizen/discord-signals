@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559987783395971072",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-14T17:54:30.733000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "如果去补7670的话害得把qqq带一点下来",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "如果去补7670的话害得把qqq带一点下来"
+}
