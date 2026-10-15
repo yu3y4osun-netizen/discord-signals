@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559920191406739468",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-14T13:25:55.547000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "群里应该有人暗自出卖赵哥信息的吧 这样也好 让那些人吃亏",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "群里应该有人暗自出卖赵哥信息的吧 这样也好 让那些人吃亏"
+}
