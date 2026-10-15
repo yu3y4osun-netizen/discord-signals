@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559924970593849445",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "civicagility09",
+  "ts": "2026-10-14T13:44:54.994000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "NBis想平仓了，这一波暴跌的太狠了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "NBis想平仓了，这一波暴跌的太狠了"
+}
