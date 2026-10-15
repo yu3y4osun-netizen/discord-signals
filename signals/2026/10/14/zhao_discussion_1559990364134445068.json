@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559990364134445068",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "1314520",
+  "ts": "2026-10-14T18:04:46.029000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "关键后面没钱补仓了。 玩了这么久没发现不够补仓的。 好痛苦。",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "关键后面没钱补仓了。 玩了这么久没发现不够补仓的。 好痛苦。"
+}
