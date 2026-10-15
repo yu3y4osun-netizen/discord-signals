@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560079159307403366",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-14T23:57:36.448000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "按历史规律，中选投票前一周反弹概率大",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "按历史规律，中选投票前一周反弹概率大"
+}
