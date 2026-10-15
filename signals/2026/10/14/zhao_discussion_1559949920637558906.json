@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559949920637558906",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnkdki",
+  "ts": "2026-10-14T15:24:03.548000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "每次不都是这样么，等所有人都受不了，都止损了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "每次不都是这样么，等所有人都受不了，都止损了"
+}
