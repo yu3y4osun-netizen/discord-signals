@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560077282968735826",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-14T23:50:09.094000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS",
+      "CIFR",
+      "CRWV",
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥的几个持仓前几，最近都是大跌iren crwv cbrs cifr",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥的几个持仓前几，最近都是大跌iren crwv cbrs cifr"
+}
