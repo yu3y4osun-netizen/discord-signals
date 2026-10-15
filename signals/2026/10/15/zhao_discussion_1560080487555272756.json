@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560080487555272756",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-15T00:02:53.127000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "是的 赵哥现在策略就是倒T,夜盘上去了把尾盘的出了，我自己跟单的时候有时候会sell call，这样的话我就也不急着卖出导致卖飞，跌的时候也有一定的保险，你可以...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "是的 赵哥现在策略就是倒T,夜盘上去了把尾盘的出了，我自己跟单的时候有时候会sell call，这样的话我就也不急着卖出导致卖飞，跌的时候也有一定的保险，你可以试试"
+}
