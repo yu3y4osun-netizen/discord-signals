@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559978463471865898",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-10-14T17:17:28.690000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "今天spx已经打破了之前的30和60的模式了吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "今天spx已经打破了之前的30和60的模式了吧"
+}
