@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560066338335105069",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-14T23:06:39.690000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq离高点已经5个点了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "qqq离高点已经5个点了"
+}
