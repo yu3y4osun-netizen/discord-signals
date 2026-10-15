@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560191768757149767",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnkdki",
+  "ts": "2026-10-15T07:25:04.633000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "SPY"
+    ],
+    "is_following_zhao": true,
+    "summary": "要稳就是aapl，spy，有色，油占一部分底仓",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "要稳就是aapl，spy，有色，油占一部分底仓"
+}
