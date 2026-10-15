@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559919485261975625",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-10-14T13:23:07.189000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "上涨了 什么都合理 下跌了 怎么说也可以合理😂",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "上涨了 什么都合理 下跌了 怎么说也可以合理😂"
+}
