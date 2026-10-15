@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560220412300759112",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-15T09:18:53.786000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥上融资被套+群友上情绪 这两个指标凑齐了是怎么能忍住不下场的",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥上融资被套+群友上情绪 这两个指标凑齐了是怎么能忍住不下场的"
+}
