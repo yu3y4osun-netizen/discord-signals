@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559924965959139449",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-14T13:44:53.889000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我是怂逼，昨天就割了，今天入了2层soxl",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我是怂逼，昨天就割了，今天入了2层soxl"
+}
