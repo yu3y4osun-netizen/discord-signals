@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560133887542169742",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-15T03:35:04.676000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有没割肉的吗😂",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "有没割肉的吗😂"
+}
