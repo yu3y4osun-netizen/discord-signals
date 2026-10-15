@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560146415685210175",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "civica",
+  "ts": "2026-10-15T04:24:51.618000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我觉得伊朗现在应该开始慌才对，中选前没达成有效协议，你把特朗普逼急了丢了中选，那中选后就可以破罐子破摔了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我觉得伊朗现在应该开始慌才对，中选前没达成有效协议，你把特朗普逼急了丢了中选，那中选后就可以破罐子破摔了"
+}
