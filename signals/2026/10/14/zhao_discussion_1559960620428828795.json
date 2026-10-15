@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559960620428828795",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-10-14T16:06:34.577000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "人生第一次买到腰斩股cifr 刺激",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "人生第一次买到腰斩股cifr 刺激"
+}
