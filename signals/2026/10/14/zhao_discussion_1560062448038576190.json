@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560062448038576190",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yiyicc",
+  "ts": "2026-10-14T22:51:12.171000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "特朗普要完了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "特朗普要完了"
+}
