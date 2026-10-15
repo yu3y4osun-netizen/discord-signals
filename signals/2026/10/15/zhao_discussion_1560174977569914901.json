@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560174977569914901",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-15T06:18:21.302000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "ORCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "有人了解orcl的债么 今天问AI crwv债的事 它说orcl可能会是潜在危险",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "有人了解orcl的债么 今天问AI crwv债的事 它说orcl可能会是潜在危险"
+}
