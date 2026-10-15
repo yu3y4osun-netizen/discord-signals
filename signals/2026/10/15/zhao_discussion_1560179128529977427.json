@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560179128529977427",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-15T06:34:50.968000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我操 兄弟你割肉了啊",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我操 兄弟你割肉了啊"
+}
