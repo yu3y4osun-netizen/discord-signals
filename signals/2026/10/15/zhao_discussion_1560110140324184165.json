@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560110140324184165",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-15T02:00:42.898000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr据业内人说 数据中心的运营能力很垃圾",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cifr据业内人说 数据中心的运营能力很垃圾"
+}
