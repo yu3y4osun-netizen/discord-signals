@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559948347945521246",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-10-14T15:17:48.589000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "变量很多的 前面的股票涨了 卖了 之前的 6分之一比重就下降了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "变量很多的  前面的股票涨了  卖了  之前的 6分之一比重就下降了"
+}
