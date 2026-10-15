@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560256379384635465",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-10-15T11:41:49.007000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 您融资了么 加保证金？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 您融资了么   加保证金？"
+}
