@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559919815185928224",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dae666",
+  "ts": "2026-10-14T13:24:25.849000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "Nbis iren是不错的公司",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Nbis iren是不错的公司"
+}
