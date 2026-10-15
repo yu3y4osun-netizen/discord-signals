@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560173672667553853",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-15T06:13:10.189000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "电话会也没说啥啊。。。咋就突然直线了。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "电话会也没说啥啊。。。咋就突然直线了。"
+}
