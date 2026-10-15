@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560018113989312583",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-14T19:55:02.110000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天单边主要 也逼迫 大陆经理减持 加上cpi利空 就没买盘了 就是重阳节这个休市 几个券商跳出来太晚了 忘记有这个节日了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "今天单边主要 也逼迫 大陆经理减持 加上cpi利空 就没买盘了 就是重阳节这个休市 几个券商跳出来太晚了 忘记有这个节日了"
+}
