@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559964947826606171",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-14T16:23:46.309000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "cpi利空 都在都有个V才会有资金跟随一直没有V就会变收盘最低那个模式 盘尾才有资金进来 夜盘卖",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "cpi利空 都在都有个V才会有资金跟随一直没有V就会变收盘最低那个模式 盘尾才有资金进来 夜盘卖"
+}
