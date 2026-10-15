@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560270097770225746",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-15T12:36:19.725000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "然后我一路猛T MU赚回来了更多",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "然后我一路猛T MU赚回来了更多"
+}
