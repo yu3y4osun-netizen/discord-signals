@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559937261473108223",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-14T14:33:45.368000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "请问赵哥是不是从来没止损过",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "请问赵哥是不是从来没止损过"
+}
