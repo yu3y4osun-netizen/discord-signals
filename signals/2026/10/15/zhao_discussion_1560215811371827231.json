@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560215811371827231",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-15T09:00:36.839000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "把云止损了一部分，把小云换成了nebius，耗到明年",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "把云止损了一部分，把小云换成了nebius，耗到明年"
+}
