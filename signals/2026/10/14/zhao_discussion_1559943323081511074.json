@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559943323081511074",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-14T14:57:50.568000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我能去赵哥养鸡场上班吗 工资💰加仓",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我能去赵哥养鸡场上班吗 工资💰加仓"
+}
