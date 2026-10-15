@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559936816256393247",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "menghaolucky",
+  "ts": "2026-10-14T14:31:59.220000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，能帮忙看看谷歌吗，拿的270115的期权很多，",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，能帮忙看看谷歌吗，拿的270115的期权很多，"
+}
