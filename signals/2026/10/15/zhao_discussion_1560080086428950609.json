@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560080086428950609",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moresugar",
+  "ts": "2026-10-15T00:01:17.491000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "加了sell call就没那么灵活了，我看赵哥有时候会做倒T",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "加了sell call就没那么灵活了，我看赵哥有时候会做倒T"
+}
