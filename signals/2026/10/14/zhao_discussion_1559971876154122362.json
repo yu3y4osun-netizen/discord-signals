@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559971876154122362",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xlucky",
+  "ts": "2026-10-14T16:51:18.151000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "cpi利空落地需要几天？也是3天吗？",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "cpi利空落地需要几天？也是3天吗？"
+}
