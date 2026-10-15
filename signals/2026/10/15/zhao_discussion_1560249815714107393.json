@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560249815714107393",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T11:15:44.106000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "不会 下周三前会出来2-3成 做soxs之类的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "不会 下周三前会出来2-3成 做soxs之类的"
+}
