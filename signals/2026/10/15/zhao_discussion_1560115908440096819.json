@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560115908440096819",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuyingyekong",
+  "ts": "2026-10-15T02:23:38.124000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS",
+      "CIFR",
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "C字头的是不是犯天条了，cifr，crwv，cbrs通通炸了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "C字头的是不是犯天条了，cifr，crwv，cbrs通通炸了"
+}
