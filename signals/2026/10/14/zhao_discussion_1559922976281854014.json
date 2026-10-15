@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559922976281854014",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-14T13:36:59.513000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "跟赵哥卖买的啊",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "跟赵哥卖买的啊"
+}
