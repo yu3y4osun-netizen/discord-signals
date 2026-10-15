@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560114159784558703",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-15T02:16:41.212000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "这个几个云的管理层都不行 nbis算最好的了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这个几个云的管理层都不行 nbis算最好的了"
+}
