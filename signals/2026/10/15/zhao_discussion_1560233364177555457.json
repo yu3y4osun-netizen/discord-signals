@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560233364177555457",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T10:10:21.754000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ARKK",
+      "CRWV"
+    ],
+    "is_following_zhao": true,
+    "summary": "crwv木头姐也是最后收盘买那一套打法",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "crwv木头姐也是最后收盘买那一套打法"
+}
