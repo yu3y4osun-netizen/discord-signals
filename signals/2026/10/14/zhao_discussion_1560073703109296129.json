@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560073703109296129",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-14T23:35:55.589000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "靠台积电救命了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "靠台积电救命了"
+}
