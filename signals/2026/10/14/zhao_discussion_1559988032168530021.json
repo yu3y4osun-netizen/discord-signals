@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559988032168530021",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiekai",
+  "ts": "2026-10-14T17:55:30.045000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "等一下加仓，还是这几个😂",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "等一下加仓，还是这几个😂"
+}
