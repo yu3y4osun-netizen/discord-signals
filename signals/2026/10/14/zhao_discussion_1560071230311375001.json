@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560071230311375001",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-14T23:26:06.028000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我觉得赵哥，价值哥等模式不一样，但都很牛",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我觉得赵哥，价值哥等模式不一样，但都很牛"
+}
