@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560121415678562405",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "daluyazi",
+  "ts": "2026-10-15T02:45:31.152000+00:00",
+  "captured_at": "2026-10-15T21:13:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "BTC 不是说是政府买卖盘吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "BTC 不是说是政府买卖盘吗"
+}
