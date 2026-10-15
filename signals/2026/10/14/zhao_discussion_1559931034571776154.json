@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559931034571776154",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-14T14:09:00.759000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥 这些云公司有什么问题。还能回去么 亏的太多了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 这些云公司有什么问题。还能回去么 亏的太多了"
+}
