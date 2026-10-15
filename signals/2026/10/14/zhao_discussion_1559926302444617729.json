@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559926302444617729",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-14T13:50:12.532000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "除非你梭哈云了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "除非你梭哈云了"
+}
