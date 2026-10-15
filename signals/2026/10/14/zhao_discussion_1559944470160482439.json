@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559944470160482439",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-14T15:02:24.053000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "哪位群友去给特朗普打个电话☎️ 让他喊单cbrs 就可以+30%",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "哪位群友去给特朗普打个电话☎️ 让他喊单cbrs 就可以+30%"
+}
