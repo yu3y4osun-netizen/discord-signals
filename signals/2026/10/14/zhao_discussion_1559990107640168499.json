@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559990107640168499",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-14T18:03:44.876000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "唯一没预期的就是cifr，没想到昨天大跌过了，今天比昨天跌的还多",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "唯一没预期的就是cifr，没想到昨天大跌过了，今天比昨天跌的还多"
+}
