@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560043769137602714",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-14T21:36:58.774000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大部分人都扛不住了已经😂",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "大部分人都扛不住了已经😂"
+}
