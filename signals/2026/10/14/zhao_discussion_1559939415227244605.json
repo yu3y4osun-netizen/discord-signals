@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559939415227244605",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-14T14:42:18.863000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "幸好昨天没加 不然今天融资都没有了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "幸好昨天没加 不然今天融资都没有了"
+}
