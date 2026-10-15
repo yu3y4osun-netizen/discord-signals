@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560071548495208449",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-14T23:27:21.889000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我也割肉了，主要是情绪影响了我判断",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我也割肉了，主要是情绪影响了我判断"
+}
