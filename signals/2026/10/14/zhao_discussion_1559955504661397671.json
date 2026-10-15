@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559955504661397671",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "tangzhe",
+  "ts": "2026-10-14T15:46:14.883000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "小盘股依赖融资，对利率极度敏感，加息预期摆在这，就不会有反转，上去都是反弹。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "小盘股依赖融资，对利率极度敏感，加息预期摆在这，就不会有反转，上去都是反弹。"
+}
