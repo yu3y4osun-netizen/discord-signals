@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560077890467528776",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-14T23:52:33.933000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在都是暴涨暴跌，要不是好的预期拉满，要不坏的拉满，没有中间交易的",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "现在都是暴涨暴跌，要不是好的预期拉满，要不坏的拉满，没有中间交易的"
+}
