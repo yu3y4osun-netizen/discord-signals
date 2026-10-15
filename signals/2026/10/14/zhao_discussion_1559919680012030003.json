@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559919680012030003",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-10-14T13:23:53.621000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果管用的话 卧槽",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "如果管用的话 卧槽"
+}
