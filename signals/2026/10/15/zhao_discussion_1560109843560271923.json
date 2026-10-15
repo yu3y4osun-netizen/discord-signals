@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560109843560271923",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-15T01:59:32.144000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv的cds基本就是接近BBB的spread",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "crwv的cds基本就是接近BBB的spread"
+}
