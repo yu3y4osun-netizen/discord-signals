@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559925811417583677",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-14T13:48:15.462000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv炸了 对nbis算不算长期利好",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "crwv炸了 对nbis算不算长期利好"
+}
