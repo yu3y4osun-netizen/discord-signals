@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560010475587244032",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-14T19:24:40.973000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "我觉得cifr这个买入量应该会有反弹",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我觉得cifr这个买入量应该会有反弹"
+}
