@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559932106073841800",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-14T14:13:16.225000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "cpi利空 都要跌2个小时左右",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "cpi利空 都要跌2个小时左右"
+}
