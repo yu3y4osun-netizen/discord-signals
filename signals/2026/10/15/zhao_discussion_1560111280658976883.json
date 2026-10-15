@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560111280658976883",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-15T02:05:14.775000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "川普（cifr版",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "川普（cifr版"
+}
