@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559934889539665931",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-14T14:24:19.855000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哪还有钱三倍做多了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "哪还有钱三倍做多了"
+}
