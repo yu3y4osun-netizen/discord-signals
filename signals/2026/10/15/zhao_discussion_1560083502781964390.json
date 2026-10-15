@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560083502781964390",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-15T00:14:52.013000+00:00",
+  "captured_at": "2026-10-15T10:59:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "amd被骂了一年",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "amd被骂了一年"
+}
