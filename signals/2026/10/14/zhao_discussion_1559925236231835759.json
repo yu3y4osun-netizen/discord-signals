@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559925236231835759",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-14T13:45:58.327000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "融资成本高",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "融资成本高"
+}
