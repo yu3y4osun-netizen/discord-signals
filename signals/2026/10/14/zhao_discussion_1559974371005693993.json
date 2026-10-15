@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559974371005693993",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "banalaorta",
+  "ts": "2026-10-14T17:01:12.970000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "直接大部分清仓转空嘛",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "直接大部分清仓转空嘛"
+}
