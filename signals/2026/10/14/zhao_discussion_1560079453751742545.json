@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560079453751742545",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moresugar",
+  "ts": "2026-10-14T23:58:46.649000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥机器一检测到就得卖怎么sell call",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥机器一检测到就得卖怎么sell call"
+}
