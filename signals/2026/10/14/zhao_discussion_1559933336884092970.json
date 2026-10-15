@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1559933336884092970",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-14T14:18:09.673000+00:00",
+  "captured_at": "2026-10-15T10:43:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "买点要么是盘中尾盘 要么是 今天这种 数据利空的开盘2小时后的有V的情况11点-11点半左右",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "买点要么是盘中尾盘 要么是 今天这种 数据利空的开盘2小时后的有V的情况11点-11点半左右"
+}
