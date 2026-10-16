@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560656277544112209",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gladsquash4a",
+  "ts": "2026-10-16T14:10:52.158000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "RKLB"
+    ],
+    "is_following_zhao": false,
+    "summary": "卧槽 我真有rklb 这个畜生",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "卧槽 我真有rklb 这个畜生"
+}
