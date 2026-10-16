@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560711380296933578",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-16T17:49:49.678000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "没 机构止损的逻辑不光看pm，还有风控，到了就要止损，但是机构体量太大了，比如nbis，机构止损只能挂现价单或者找投行做block trade，所以要慢慢卖",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "没 机构止损的逻辑不光看pm，还有风控，到了就要止损，但是机构体量太大了，比如nbis，机构止损只能挂现价单或者找投行做block trade，所以要慢慢卖"
+}
