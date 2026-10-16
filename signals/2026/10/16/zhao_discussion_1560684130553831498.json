@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560684130553831498",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-16T16:01:32.833000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要是顾神进了，一进就直线跌",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "主要是顾神进了，一进就直线跌"
+}
