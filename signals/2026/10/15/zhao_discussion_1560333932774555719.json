@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560333932774555719",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-15T16:49:59.176000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX",
+      "VIX"
+    ],
+    "is_following_zhao": false,
+    "summary": "vix是因为spx还没怎么动所以不高吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "vix是因为spx还没怎么动所以不高吧"
+}
