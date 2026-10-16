@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560737378044215439",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-16T19:33:08.024000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "其实要想财富自由永远不是做T，是股票的股息给我们盈利，达到财富自由，以后要配置点带股息的股票，一起努力吧",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "其实要想财富自由永远不是做T，是股票的股息给我们盈利，达到财富自由，以后要配置点带股息的股票，一起努力吧"
+}
