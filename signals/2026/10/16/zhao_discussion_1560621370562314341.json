@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560621370562314341",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hwangjoey",
+  "ts": "2026-10-16T11:52:09.685000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "那个Iren和cifr还要不要动的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "那个Iren和cifr还要不要动的"
+}
