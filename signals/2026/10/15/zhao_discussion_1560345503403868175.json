@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560345503403868175",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "benji527qqq",
+  "ts": "2026-10-15T17:35:57.829000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "感觉达子每次创新高以后，过几天市场都会出现这种大跌，有感觉吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "感觉达子每次创新高以后，过几天市场都会出现这种大跌，有感觉吗"
+}
