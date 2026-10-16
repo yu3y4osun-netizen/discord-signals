@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560302919423762554",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "slickbacon",
+  "ts": "2026-10-15T14:46:45.017000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "错杀云就算了，不至于错杀mu",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "错杀云就算了，不至于错杀mu"
+}
