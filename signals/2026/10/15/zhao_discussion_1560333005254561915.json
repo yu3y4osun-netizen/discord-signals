@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560333005254561915",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T16:46:18.038000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "要看韩国反弹那天晚上美股的力度",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "要看韩国反弹那天晚上美股的力度"
+}
