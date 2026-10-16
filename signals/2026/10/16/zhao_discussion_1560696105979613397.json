@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560696105979613397",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "idrinkwine",
+  "ts": "2026-10-16T16:49:07.997000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，“今天韩国只走了一个企稳K线 救市的资金还没入场 晚上美股也会多一天去多空处理抛压”这句话可不可以理解为说下周一二或许抛压会小一点？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，“今天韩国只走了一个企稳K线 救市的资金还没入场  晚上美股也会多一天去多空处理抛压”这句话可不可以理解为说下周一二或许抛压会小一点？"
+}
