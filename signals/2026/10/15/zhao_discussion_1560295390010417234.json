@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560295390010417234",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bkaaa",
+  "ts": "2026-10-15T14:16:49.865000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren这是完全没有底部了啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "iren这是完全没有底部了啊"
+}
