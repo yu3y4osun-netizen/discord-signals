@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560734923399237772",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-16T19:23:22.791000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥不也经常说嘛，事件没到，到了再看",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥不也经常说嘛，事件没到，到了再看"
+}
