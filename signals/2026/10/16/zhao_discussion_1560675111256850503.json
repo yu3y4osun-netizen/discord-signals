@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560675111256850503",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-16T15:25:42.465000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是的，我已经硬抗本金-20% 就当提前布局以后大涨",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "是的，我已经硬抗本金-20%  就当提前布局以后大涨"
+}
