@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560648578072973343",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-16T13:40:16.461000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "INTC",
+      "MRVL",
+      "MU",
+      "QCOM",
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "费城半导体指数下跌近2%，连续第八天下跌，势将迎来自2006年5月以来最长的连跌纪录；美光科技、迈威尔科技跌超3%，AMD、高通跌2%，英特尔、台积电跌1%。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "费城半导体指数下跌近2%，连续第八天下跌，势将迎来自2006年5月以来最长的连跌纪录；美光科技、迈威尔科技跌超3%，AMD、高通跌2%，英特尔、台积电跌1%。"
+}
