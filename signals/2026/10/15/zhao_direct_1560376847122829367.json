@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560376847122829367",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T19:40:30.754000+00:00",
+  "captured_at": "2026-10-16T11:46:18+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "来过10次 8次的 再碰到不就靠记忆力",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "来过10次 8次的 再碰到不就靠记忆力",
+  "attribution": "direct"
+}
