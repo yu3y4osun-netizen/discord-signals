@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560692131411005595",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepblue1",
+  "ts": "2026-10-16T16:33:20.386000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我有好些票，赵哥买的正股，我跟的双倍- -",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我有好些票，赵哥买的正股，我跟的双倍- -"
+}
