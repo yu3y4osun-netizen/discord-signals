@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560725854231724145",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-16T18:47:20.533000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "我主要是nbis 给我套的厉害",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我主要是nbis 给我套的厉害"
+}
