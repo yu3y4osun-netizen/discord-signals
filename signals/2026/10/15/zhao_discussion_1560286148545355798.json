@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560286148545355798",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fangyi",
+  "ts": "2026-10-15T13:40:06.528000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "每天跌账户缩水，主要怕反弹时间拉锯太长",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "每天跌账户缩水，主要怕反弹时间拉锯太长"
+}
