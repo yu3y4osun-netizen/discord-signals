@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560668091837325395",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-16T14:57:48.905000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "Cbrs又新低",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Cbrs又新低"
+}
