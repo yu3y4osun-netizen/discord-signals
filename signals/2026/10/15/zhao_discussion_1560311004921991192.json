@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560311004921991192",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-15T15:18:52.750000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "🥲再次因为没钱和8开头的MU失之交臂",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "🥲再次因为没钱和8开头的MU失之交臂"
+}
