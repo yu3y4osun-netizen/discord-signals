@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560652662758838328",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-16T13:56:30.326000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": true,
+    "summary": "CoreWeave 三位联合创始人在公司股价崩跌前累计套现逾 33 亿美元",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "CoreWeave 三位联合创始人在公司股价崩跌前累计套现逾 33 亿美元"
+}
