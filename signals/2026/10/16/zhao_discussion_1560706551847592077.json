@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560706551847592077",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-16T17:30:38.486000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "慢慢止损？",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "慢慢止损？"
+}
