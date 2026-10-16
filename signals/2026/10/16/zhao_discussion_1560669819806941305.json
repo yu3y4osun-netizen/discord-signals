@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560669819806941305",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bkaaa",
+  "ts": "2026-10-16T15:04:40.885000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "NVDA"
+    ],
+    "is_following_zhao": true,
+    "summary": "crwv 英伟达有持股 他个人也有持股 成本87左右",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "crwv 英伟达有持股 他个人也有持股 成本87左右"
+}
