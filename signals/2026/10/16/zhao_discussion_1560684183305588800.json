@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560684183305588800",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-16T16:01:45.410000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那说明 大家的股票大涨 牺牲小我 成全大家 我光荣",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那说明  大家的股票大涨  牺牲小我  成全大家  我光荣"
+}
