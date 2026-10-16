@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560352091640299552",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-15T18:02:08.587000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "实不相瞒我就是在一个消息集合群了解到赵哥的，想来学真本领",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "实不相瞒我就是在一个消息集合群了解到赵哥的，想来学真本领"
+}
