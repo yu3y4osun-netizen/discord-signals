@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560289353933127681",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-15T13:52:50.752000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "要止损么赵哥有点顶不住了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "要止损么赵哥有点顶不住了"
+}
