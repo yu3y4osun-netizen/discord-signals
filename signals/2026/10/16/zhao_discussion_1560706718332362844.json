@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560706718332362844",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "regalpuzzlefe",
+  "ts": "2026-10-16T17:31:18.179000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "Soxl是有买盘了吗？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Soxl是有买盘了吗？"
+}
