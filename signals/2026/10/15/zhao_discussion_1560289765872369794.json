@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560289765872369794",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-15T13:54:28.966000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv高层还在卖股，属实有点绷不住了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "crwv高层还在卖股，属实有点绷不住了"
+}
