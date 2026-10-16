@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560681335188885667",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-16T15:50:26.366000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "先到周三看有没有反弹 周三没有很大就要陆续出来点资金 等个节点开soxs",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "先到周三看有没有反弹 周三没有很大就要陆续出来点资金 等个节点开soxs",
+  "attribution": "direct"
+}
