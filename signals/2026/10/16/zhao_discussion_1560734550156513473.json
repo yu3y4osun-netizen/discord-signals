@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560734550156513473",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-16T19:21:53.803000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还好我还年轻 我靠我不敢想我要是现在上有老下有小背房贷车贷被套成这样得多绝望",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "还好我还年轻 我靠我不敢想我要是现在上有老下有小背房贷车贷被套成这样得多绝望"
+}
