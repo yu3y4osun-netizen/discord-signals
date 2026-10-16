@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560676907924848722",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cthylla",
+  "ts": "2026-10-16T15:32:50.824000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "怎么可能抗回去，你还指望iren上50吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "怎么可能抗回去，你还指望iren上50吗"
+}
