@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560731994026156224",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-16T19:11:44.374000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "但是反弹的时候肯定qqq没现在手拿的反弹多吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "但是反弹的时候肯定qqq没现在手拿的反弹多吧"
+}
