@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560721322395566201",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-16T18:29:20.059000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "太恐慌了 周末有点利好就会反弹 有利空反应反而不会太大",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "太恐慌了 周末有点利好就会反弹 有利空反应反而不会太大"
+}
