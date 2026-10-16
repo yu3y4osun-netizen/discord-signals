@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560698785905254412",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-16T16:59:46.941000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "昨晚拉一波mu还是小赚",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "昨晚拉一波mu还是小赚"
+}
