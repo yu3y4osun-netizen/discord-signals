@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560350478997651477",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T17:55:44.103000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "融资的就尽量减个1成不能满融",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "融资的就尽量减个1成不能满融"
+}
