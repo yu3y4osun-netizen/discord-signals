@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560398895849410643",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-15T21:08:07.580000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不知道 再看看有啥新闻，这样一砸别把赵哥的反弹路线砸坏了，不过重点还是看韩国那边的情况",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "不知道 再看看有啥新闻，这样一砸别把赵哥的反弹路线砸坏了，不过重点还是看韩国那边的情况"
+}
