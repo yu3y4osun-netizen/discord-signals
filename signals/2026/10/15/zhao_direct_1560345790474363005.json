@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560345790474363005",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T17:37:06.272000+00:00",
+  "captured_at": "2026-10-16T11:46:18+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "开盘不是云跌 光涨 存涨 后面 云开始涨 光回落点 存回落点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "开盘不是云跌 光涨 存涨  后面  云开始涨   光回落点 存回落点",
+  "attribution": "direct"
+}
