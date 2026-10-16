@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560322212186030122",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T16:03:24.770000+00:00",
+  "captured_at": "2026-10-16T11:46:18+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要很多都在修复今天这个低开",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "主要很多都在修复今天这个低开",
+  "attribution": "direct"
+}
