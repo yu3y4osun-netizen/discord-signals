@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560371008026710189",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "linlin7",
+  "ts": "2026-10-15T19:17:18.605000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "心情舒展很多了 明天开始可以陆续出货做T了 满仓满融干看着账户数字太难受了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "心情舒展很多了 明天开始可以陆续出货做T了 满仓满融干看着账户数字太难受了"
+}
