@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560374841566040255",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-10-15T19:32:32.592000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是不是也可以理解这种形态，也是很少的情况？ 我理解今天除了消化抛压，还有重要的点是利空放尽，盘中没利空了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "是不是也可以理解这种形态，也是很少的情况？\n\n我理解今天除了消化抛压，还有重要的点是利空放尽，盘中没利空了"
+}
