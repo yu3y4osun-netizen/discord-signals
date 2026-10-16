@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560303449449697411",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T14:48:51.385000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "mu在 存储etf这个集合里面 韩国政府出清这两天在到估值区",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "mu在 存储etf这个集合里面  韩国政府出清这两天在到估值区"
+}
