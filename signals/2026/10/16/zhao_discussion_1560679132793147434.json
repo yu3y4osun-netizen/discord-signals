@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560679132793147434",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "avocadorable0106",
+  "ts": "2026-10-16T15:41:41.274000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "之前加仓太多了 这几天我只跟SOXL 一点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "之前加仓太多了 这几天我只跟SOXL 一点"
+}
