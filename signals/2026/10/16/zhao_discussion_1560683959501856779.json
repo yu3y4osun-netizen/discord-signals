@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560683959501856779",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yeahcoco",
+  "ts": "2026-10-16T16:00:52.051000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "我也重仓在nbis 亏本金要的牢牢的 我也想问下 什么时候反弹减出来之类的 赵哥会通知吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我也重仓在nbis 亏本金要的牢牢的 我也想问下 什么时候反弹减出来之类的 赵哥会通知吗"
+}
