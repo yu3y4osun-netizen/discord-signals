@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560629705575764089",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-16T12:25:16.907000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ",
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "估计得买qqq的put，spx受道指影响大，不太跌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "估计得买qqq的put，spx受道指影响大，不太跌"
+}
