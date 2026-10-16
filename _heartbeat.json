@@ -1,16 +1,16 @@
 {
   "schema_version": "0.2",
-  "updated_at": "2026-10-16T12:05:00+08:00",
+  "updated_at": "2026-10-17T04:00:21+08:00",
   "channels": {
     "zhao_discussion": {
       "channel_id": "1529062583364223008",
       "channel_name": "赵哥讨论区",
-      "last_message_id": "1560495124587221114",
-      "last_fetch_at": "2026-10-16T11:43:11+08:00",
-      "last_run_total_new_msgs": 1329,
-      "last_run_signals_pushed": 417,
+      "last_message_id": "1560739665307369617",
+      "last_fetch_at": "2026-10-17T04:00:21+08:00",
+      "last_run_total_new_msgs": 1358,
+      "last_run_signals_pushed": 477,
       "last_run_signals_failed": 0,
-      "note": "2026-10-16 11:30 增量：新消息 1329 条（北京 10-15 21:09 → 10-16 11:30，美股 10/15 全天+盘后），community 信号 417 条 + KOL 直接口径 kol_direct 193 条，失败 0",
+      "note": "2026-10-17 04:00 增量：新消息 1358 条，推送 community 信号 477 条，失败 0 条",
       "last_run_kol_direct_pushed": 193
     }
   }
