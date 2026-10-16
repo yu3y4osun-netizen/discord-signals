@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560682000644317196",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-16T15:53:05.023000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "为什么不等他出了，再买？",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "为什么不等他出了，再买？"
+}
