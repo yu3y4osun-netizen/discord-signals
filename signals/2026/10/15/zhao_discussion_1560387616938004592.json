@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560387616938004592",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-15T20:23:18.478000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "美光一个公司影响整个纳斯达克的2%都有了我记得",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "美光一个公司影响整个纳斯达克的2%都有了我记得"
+}
