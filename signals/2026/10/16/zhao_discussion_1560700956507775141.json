@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560700956507775141",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-10-16T17:08:24.453000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMZN",
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，手里有一些亚马逊和谷歌的期权，是否持有到财报附近呢，刚刚看您说了，指数跌的话，七巨头会出来护下盘🤣",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，手里有一些亚马逊和谷歌的期权，是否持有到财报附近呢，刚刚看您说了，指数跌的话，七巨头会出来护下盘🤣"
+}
