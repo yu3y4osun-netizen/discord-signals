@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560657211892703276",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "eatmybanana",
+  "ts": "2026-10-16T14:14:34.924000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO",
+      "GOOGL",
+      "ORCL",
+      "RKLB"
+    ],
+    "is_following_zhao": false,
+    "summary": "...我rklb googl avgo orcl 都有call和sp，被杀的惨不忍睹好吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "...我rklb googl avgo orcl 都有call和sp，被杀的惨不忍睹好吧"
+}
