@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560341250018910294",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-15T17:19:03.743000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥SOXL是108附近出昨天低加的那一批，还是全部都出啊，之后再100吸 不断重复",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥SOXL是108附近出昨天低加的那一批，还是全部都出啊，之后再100吸 不断重复"
+}
