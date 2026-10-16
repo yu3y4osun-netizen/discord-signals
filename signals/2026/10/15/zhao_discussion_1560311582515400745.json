@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560311582515400745",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-10-15T15:21:10.459000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥现在还有借住ai进行分析吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥现在还有借住ai进行分析吗"
+}
