@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560710972056797285",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-16T17:48:12.346000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 现在是不是可以陆续先卖一点了 今天站上725的概率是不是比较小了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 现在是不是可以陆续先卖一点了 今天站上725的概率是不是比较小了"
+}
