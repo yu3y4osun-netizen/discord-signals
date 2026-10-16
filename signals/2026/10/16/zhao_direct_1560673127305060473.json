@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560673127305060473",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-16T15:17:49.454000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "跌多日子就开soxl",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "跌多日子就开soxl",
+  "attribution": "direct"
+}
