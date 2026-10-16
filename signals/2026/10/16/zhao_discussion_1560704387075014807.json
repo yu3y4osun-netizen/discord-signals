@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560704387075014807",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "whisper123",
+  "ts": "2026-10-16T17:22:02.364000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "割了然后如果涨上去了，也会怪自己为啥不再等一下，所以这种双面性的事情没法说",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "割了然后如果涨上去了，也会怪自己为啥不再等一下，所以这种双面性的事情没法说"
+}
