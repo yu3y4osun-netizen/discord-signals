@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560689749444796448",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-16T16:23:52.481000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "TSLA"
+    ],
+    "is_following_zhao": true,
+    "summary": "我也是，但是特斯拉反而套人解套的最快，不过现在这种行情，还是谷歌这些稳点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我也是，但是特斯拉反而套人解套的最快，不过现在这种行情，还是谷歌这些稳点"
+}
