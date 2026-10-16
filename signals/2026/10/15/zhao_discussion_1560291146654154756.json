@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560291146654154756",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-15T13:59:58.170000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "上上周国庆前美股跌的时候跟着满仓满融 ，赵哥说5号6号（上周一周二）会反弹就陆续减仓 ，减仓了但是又加满一直单边跌到现在",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "上上周国庆前美股跌的时候跟着满仓满融 ，赵哥说5号6号（上周一周二）会反弹就陆续减仓  ，减仓了但是又加满一直单边跌到现在"
+}
