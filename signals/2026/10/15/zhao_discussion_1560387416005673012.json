@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560387416005673012",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-15T20:22:30.572000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "因为大盘股影响SPX啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "因为大盘股影响SPX啊"
+}
