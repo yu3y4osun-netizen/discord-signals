@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560704924982055026",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-16T17:24:10.611000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "这轮全靠谷歌c和mu给我止血了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这轮全靠谷歌c和mu给我止血了"
+}
