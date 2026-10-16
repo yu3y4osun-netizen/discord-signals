@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560309726896455721",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T15:13:48.045000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "像nbis 就是的开盘压下 后面随指数直线",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "像nbis  就是的开盘压下 后面随指数直线"
+}
