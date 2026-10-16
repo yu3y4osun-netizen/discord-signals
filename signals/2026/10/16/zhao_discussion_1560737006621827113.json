@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560737006621827113",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dongreng",
+  "ts": "2026-10-16T19:31:39.470000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "可以的我奶奶当初买A股黄河旋风亏麻了后面留给我大伯。几年后涨回来了。股票传承",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "可以的我奶奶当初买A股黄河旋风亏麻了后面留给我大伯。几年后涨回来了。股票传承"
+}
