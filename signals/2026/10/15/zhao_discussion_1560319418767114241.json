@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560319418767114241",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T15:52:18.767000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "这轮反弹主要看 周四（反弹初期）周五（看明天韩国救市指数情况夜盘要涨点）周一周二就是弱点的反弹 然后周二到周三 要盯着soxs有没有大买单会回调下 后面都属于反...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这轮反弹主要看 周四（反弹初期）周五（看明天韩国救市指数情况夜盘要涨点）周一周二就是弱点的反弹  然后周二到周三 要盯着soxs有没有大买单会回调下  后面都属于反弹了 多空都开   急跌回最低附近在买soxl和个股了"
+}
