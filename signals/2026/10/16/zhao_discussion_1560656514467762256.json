@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560656514467762256",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "simqaq",
+  "ts": "2026-10-16T14:11:48.645000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "但谷歌这个位置有点关键吧，这要跌破这个收敛三角了，不就真下跌了吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "但谷歌这个位置有点关键吧，这要跌破这个收敛三角了，不就真下跌了吗"
+}
