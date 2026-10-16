@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560312058111594578",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T15:23:03.850000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "韩国收盘说要救市 美股先反弹一点点 隔天韩国救市是不是夜盘就高了 他在夜盘基础上再反弹多点",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "韩国收盘说要救市  美股先反弹一点点  隔天韩国救市是不是夜盘就高了 他在夜盘基础上再反弹多点"
+}
