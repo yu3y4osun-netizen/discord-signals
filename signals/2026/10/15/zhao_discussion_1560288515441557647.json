@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560288515441557647",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dae666",
+  "ts": "2026-10-15T13:49:30.840000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "AAPL",
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "应该梭哈苹果➕微软",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "应该梭哈苹果➕微软"
+}
