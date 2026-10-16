@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560348956599390299",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T17:49:41.135000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "很简单 啊 你把自己 当成美国老百姓A 前几个月物价没涨 每个月1万生活费还剩下2000美元 现在 股票跌了 你每月股票型收入缩水了 每月8000生活费 物价涨...",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "很简单 啊 你把自己  当成美国老百姓A     前几个月物价没涨  每个月1万生活费还剩下2000美元  现在 股票跌了 你每月股票型收入缩水了 每月8000生活费 物价涨了还要倒贴3000元支出"
+}
