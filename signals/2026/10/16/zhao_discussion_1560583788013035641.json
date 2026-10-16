@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560583788013035641",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaiagoldin",
+  "ts": "2026-10-16T09:22:49.307000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "tsla friday不是盖的 小心",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "tsla friday不是盖的 小心"
+}
