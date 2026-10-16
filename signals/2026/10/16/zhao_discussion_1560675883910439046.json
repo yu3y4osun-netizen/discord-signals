@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560675883910439046",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-16T15:28:46.680000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "反正我听赵哥的，赵哥说一键清仓我立马清，赵哥不发话我就和赵哥一起杠",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "反正我听赵哥的，赵哥说一键清仓我立马清，赵哥不发话我就和赵哥一起杠"
+}
