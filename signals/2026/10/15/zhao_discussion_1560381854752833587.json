@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560381854752833587",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T20:00:24.666000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "比如预期是五天反弹 第一天达标 第二天达标 第三天达标 第四天不达标了 那就是 变成实际三天反弹",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "比如预期是五天反弹 第一天达标 第二天达标 第三天达标  第四天不达标了 那就是 变成实际三天反弹"
+}
