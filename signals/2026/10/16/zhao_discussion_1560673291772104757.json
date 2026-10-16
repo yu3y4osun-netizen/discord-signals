@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560673291772104757",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-10-16T15:18:28.666000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥能不能有机会开点期权 回点血",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥能不能有机会开点期权 回点血"
+}
