@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560378651139248329",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T19:47:40.865000+00:00",
+  "captured_at": "2026-10-16T11:46:18+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是分批开盘回踩 或者 盘后回踩买点没涨的 占仓",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是分批开盘回踩  或者 盘后回踩买点没涨的 占仓",
+  "attribution": "direct"
+}
