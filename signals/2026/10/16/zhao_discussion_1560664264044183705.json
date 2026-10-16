@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560664264044183705",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-16T14:42:36.288000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "请问赵哥nbis是不是也是这个模式 中间值178左右，低值175 可以高频做一下",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "请问赵哥nbis是不是也是这个模式 中间值178左右，低值175 可以高频做一下"
+}
