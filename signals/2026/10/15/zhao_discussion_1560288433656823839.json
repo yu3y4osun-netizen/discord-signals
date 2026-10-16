@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560288433656823839",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-15T13:49:11.341000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "真应该梭哈谷歌的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "真应该梭哈谷歌的"
+}
