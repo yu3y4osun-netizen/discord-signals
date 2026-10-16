@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560346153516662877",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-15T17:38:32.828000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这次纳指也新高了😂不减仓等于搏突破 风险很大",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这次纳指也新高了😂不减仓等于搏突破 风险很大"
+}
