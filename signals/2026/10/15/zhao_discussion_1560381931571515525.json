@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560381931571515525",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "idrinkwine",
+  "ts": "2026-10-15T20:00:42.981000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥，我最低一笔188.2的nbis是用免税账户买的，今年不出了，打算长持可以吗？我记得你之前说过11月低价买的可以长期拿",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，我最低一笔188.2的nbis是用免税账户买的，今年不出了，打算长持可以吗？我记得你之前说过11月低价买的可以长期拿"
+}
