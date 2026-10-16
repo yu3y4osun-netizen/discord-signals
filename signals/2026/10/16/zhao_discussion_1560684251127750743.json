@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560684251127750743",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-16T16:02:01.580000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq比昨天还低了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "qqq比昨天还低了"
+}
