@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560289734087934023",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T13:54:21.388000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "数据利空的通用模型 压2小时 没V 单边",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "数据利空的通用模型  压2小时 没V 单边"
+}
