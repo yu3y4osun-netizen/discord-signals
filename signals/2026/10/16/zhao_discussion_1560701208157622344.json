@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560701208157622344",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-16T17:09:24.451000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "AMZN",
+      "GOOGL",
+      "QQQ",
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "之前是杀qqq半导体spx还在高位，谷歌亚马逊在涨，如果spx qqq一起猛跌谷歌一样要跌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "之前是杀qqq半导体spx还在高位，谷歌亚马逊在涨，如果spx qqq一起猛跌谷歌一样要跌"
+}
