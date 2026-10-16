@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560672099008512101",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-16T15:13:44.289000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大家还没割肉吗",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "大家还没割肉吗"
+}
