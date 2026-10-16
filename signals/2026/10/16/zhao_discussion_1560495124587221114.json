@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560495124587221114",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-16T03:30:30.299000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "也没涨多少啊。。。😂没有跟车一样飞天",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "也没涨多少啊。。。😂没有跟车一样飞天"
+}
