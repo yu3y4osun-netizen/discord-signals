@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560330162007183362",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-15T16:35:00.155000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果美国中期选举共和党失利、利率上升、通胀反弹、经济衰退",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "如果美国中期选举共和党失利、利率上升、通胀反弹、经济衰退"
+}
