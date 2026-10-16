@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560458293934035017",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-16T01:04:09.187000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "这个特斯拉发布会感觉会很疯狂啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这个特斯拉发布会感觉会很疯狂啊"
+}
