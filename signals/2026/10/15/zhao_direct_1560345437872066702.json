@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560345437872066702",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T17:35:42.205000+00:00",
+  "captured_at": "2026-10-16T11:46:18+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要分时可以光标看看三角震荡平行点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "主要分时可以光标看看三角震荡平行点",
+  "attribution": "direct"
+}
