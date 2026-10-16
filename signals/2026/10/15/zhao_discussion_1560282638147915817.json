@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560282638147915817",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-15T13:26:09.584000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果反弹不知道哪个板块反弹能大一些 不确定新云🥲",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "如果反弹不知道哪个板块反弹能大一些 不确定新云🥲"
+}
