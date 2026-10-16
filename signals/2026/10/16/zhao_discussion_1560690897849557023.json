@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560690897849557023",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jasonic",
+  "ts": "2026-10-16T16:28:26.282000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "可以请教下，如果已经预判到会跌，并且川普要输的话，为什么出的仓位不大一点呢",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "可以请教下，如果已经预判到会跌，并且川普要输的话，为什么出的仓位不大一点呢"
+}
