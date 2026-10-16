@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560683585566937089",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-10-16T15:59:22.898000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那就是等云那些小票反弹了就亏钱走一部分换成别的回本的意思吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那就是等云那些小票反弹了就亏钱走一部分换成别的回本的意思吗"
+}
