@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560684280030560397",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-16T16:02:08.471000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "可以今天就平仓吧 倒也不能说明下周一定就跌",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "可以今天就平仓吧 倒也不能说明下周一定就跌"
+}
