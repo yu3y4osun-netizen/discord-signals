@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560289570862407723",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "flyin88",
+  "ts": "2026-10-15T13:53:42.472000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "tsm怎么也这么砸",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "tsm怎么也这么砸"
+}
