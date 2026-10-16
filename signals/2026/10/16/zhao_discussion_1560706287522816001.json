@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560706287522816001",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-16T17:29:35.466000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "从机构角度来说 现在打到了很多机构的止损位 机构要慢慢liquidate，因为体量太大",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "从机构角度来说 现在打到了很多机构的止损位 机构要慢慢liquidate，因为体量太大"
+}
