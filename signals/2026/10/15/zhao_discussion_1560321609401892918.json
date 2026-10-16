@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560321609401892918",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-15T16:01:01.055000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我还是倾向于做多，然后慢慢t",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我还是倾向于做多，然后慢慢t"
+}
