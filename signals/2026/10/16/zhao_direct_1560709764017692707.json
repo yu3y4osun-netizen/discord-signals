@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560709764017692707",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-16T17:43:24.327000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是该怎么说呢 假如1000个机构 规定是3点最后截止 肯定会参差不齐平仓的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是该怎么说呢 假如1000个机构  规定是3点最后截止  肯定会参差不齐平仓的",
+  "attribution": "direct"
+}
