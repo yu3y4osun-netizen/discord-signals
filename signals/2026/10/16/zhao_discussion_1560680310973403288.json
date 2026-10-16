@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560680310973403288",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "avocadorable0106",
+  "ts": "2026-10-16T15:46:22.174000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 感觉这次跟7月很不一样 政治局面在这了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 感觉这次跟7月很不一样 政治局面在这了"
+}
