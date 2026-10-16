@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560719529666027721",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-16T18:22:12.639000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，今天单边了，下礼拜的话会不会指数直接跌破位然后开始走回调",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，今天单边了，下礼拜的话会不会指数直接跌破位然后开始走回调"
+}
