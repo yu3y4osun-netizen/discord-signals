@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560736880301973585",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-16T19:31:09.353000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "所以各位，别硬刚我了，我上次问麦当劳没少被骂的，家人们以后配点老登，至少亏的时候可以卖老登加仓",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "所以各位，别硬刚我了，我上次问麦当劳没少被骂的，家人们以后配点老登，至少亏的时候可以卖老登加仓"
+}
