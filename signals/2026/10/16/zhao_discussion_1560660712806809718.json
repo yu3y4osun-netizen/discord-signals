@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560660712806809718",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-10-16T14:28:29.607000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，今天的股票只要不破昨天的低点是不是就算站稳了走反弹的走势？￼",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，今天的股票只要不破昨天的低点是不是就算站稳了走反弹的走势？￼"
+}
