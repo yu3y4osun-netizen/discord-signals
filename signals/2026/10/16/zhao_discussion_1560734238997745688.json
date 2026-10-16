@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560734238997745688",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-16T19:20:39.617000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "每个经验都是被套出来的啊",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "每个经验都是被套出来的啊"
+}
