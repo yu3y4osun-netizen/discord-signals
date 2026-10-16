@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560682206689624156",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-16T15:53:54.148000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "TSM"
+    ],
+    "is_following_zhao": true,
+    "summary": "谢谢赵哥，昨晚开盘我就买了谷歌和台积电。心里想的是380卖谷歌，450卖台积电。但是问过赵哥。就赶紧卖了。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谢谢赵哥，昨晚开盘我就买了谷歌和台积电。心里想的是380卖谷歌，450卖台积电。但是问过赵哥。就赶紧卖了。"
+}
