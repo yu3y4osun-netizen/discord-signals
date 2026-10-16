@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560701397043912826",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-10-16T17:10:09.485000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "好的，谢谢赵哥，那还是算了，不博财报了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "好的，谢谢赵哥，那还是算了，不博财报了"
+}
