@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560323622277484687",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "leonard5",
+  "ts": "2026-10-15T16:09:00.962000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥救救孩子",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥救救孩子"
+}
