@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560329712654491794",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T16:33:13.021000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "要到 反弹的极限日期出大部分 开空和剩余的股票多一起拿",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "要到 反弹的极限日期出大部分 开空和剩余的股票多一起拿"
+}
