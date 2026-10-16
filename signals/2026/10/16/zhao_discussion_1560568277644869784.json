@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560568277644869784",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-16T08:21:11.347000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": true,
+    "summary": "另外赵哥曾经说过，特斯拉经常是在利好时，出货",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "另外赵哥曾经说过，特斯拉经常是在利好时，出货"
+}
