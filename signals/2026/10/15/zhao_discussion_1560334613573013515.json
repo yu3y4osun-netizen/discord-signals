@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560334613573013515",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T16:52:41.491000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ARKK",
+      "CRWV"
+    ],
+    "is_following_zhao": true,
+    "summary": "crwv就是开盘前说的 木头姐买了也很多 也开始修复今天跌幅了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "crwv就是开盘前说的 木头姐买了也很多  也开始修复今天跌幅了"
+}
