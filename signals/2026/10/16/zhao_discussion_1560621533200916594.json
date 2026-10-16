@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560621533200916594",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-16T11:52:48.461000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "按说法，今天反弹可能性最大，如果今天都阳痿了，马上跑路",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "按说法，今天反弹可能性最大，如果今天都阳痿了，马上跑路"
+}
