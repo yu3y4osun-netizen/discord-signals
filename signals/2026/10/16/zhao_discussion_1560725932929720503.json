@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560725932929720503",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-16T18:47:39.296000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "Nbis crwv iren，这三个拖累整个账户",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Nbis crwv iren，这三个拖累整个账户"
+}
