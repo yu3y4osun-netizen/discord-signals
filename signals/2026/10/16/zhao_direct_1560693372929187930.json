@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560693372929187930",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-16T16:38:16.387000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "qqq725 跌破的下个支撑在700",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "qqq725 跌破的下个支撑在700",
+  "attribution": "direct"
+}
