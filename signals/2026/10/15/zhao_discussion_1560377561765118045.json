@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560377561765118045",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-15T19:43:21.138000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "明白了 那每次反弹都是逃生机会了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "明白了 那每次反弹都是逃生机会了"
+}
