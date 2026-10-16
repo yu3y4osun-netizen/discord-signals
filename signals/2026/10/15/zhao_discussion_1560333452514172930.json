@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560333452514172930",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T16:48:04.673000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大概就是 这轮反弹到 20 21下周二或者周三 然后 跌3-4个交易日要 美联储利率决议了 再看看多空分布 因为那个下周事件还不知道 下下周怎么走",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "大概就是 这轮反弹到 20 21下周二或者周三 然后 跌3-4个交易日要 美联储利率决议了 再看看多空分布 因为那个下周事件还不知道 下下周怎么走"
+}
