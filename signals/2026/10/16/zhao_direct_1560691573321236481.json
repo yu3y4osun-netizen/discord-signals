@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560691573321236481",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-16T16:31:07.327000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "中选失败都是走 几天反弹几天跌的震荡路线 涨幅和量都比之前要少一半",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "中选失败都是走 几天反弹几天跌的震荡路线 涨幅和量都比之前要少一半",
+  "attribution": "direct"
+}
