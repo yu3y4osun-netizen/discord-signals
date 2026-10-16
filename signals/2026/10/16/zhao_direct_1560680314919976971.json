@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560680314919976971",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-16T15:46:23.115000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "散户就是直接被三方势力吃干抹净的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "散户就是直接被三方势力吃干抹净的",
+  "attribution": "direct"
+}
