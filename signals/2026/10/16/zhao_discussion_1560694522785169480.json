@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560694522785169480",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-16T16:42:50.534000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "而且他没有耐心，不到几天就会割肉",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "而且他没有耐心，不到几天就会割肉"
+}
