@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560736614920101983",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-16T19:30:06.081000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "我要不是经历一次7月份存储的阵痛我也不会这次分配给谷歌和mu比较多仓位了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我要不是经历一次7月份存储的阵痛我也不会这次分配给谷歌和mu比较多仓位了"
+}
