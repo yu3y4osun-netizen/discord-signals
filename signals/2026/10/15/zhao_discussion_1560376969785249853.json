@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560376969785249853",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-15T19:40:59.999000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥里跟那时候就开始玩股票了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥里跟那时候就开始玩股票了"
+}
