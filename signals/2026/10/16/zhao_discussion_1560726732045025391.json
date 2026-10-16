@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560726732045025391",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-16T18:50:49.820000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "玩高波动的小盘股 10次你可以对9次（人开始膨胀）但只要一次大错 就可以让你回到解放前 硬抗还不一定就一定回本，所以合理的止损位是一定要设置的。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "玩高波动的小盘股 10次你可以对9次（人开始膨胀）但只要一次大错 就可以让你回到解放前  硬抗还不一定就一定回本，所以合理的止损位是一定要设置的。"
+}
