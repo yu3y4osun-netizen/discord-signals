@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560655560159006803",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-16T14:08:01.120000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CONL"
+    ],
+    "is_following_zhao": false,
+    "summary": "那他快点割吧 上次他割完conl 就爆拉了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "那他快点割吧 上次他割完conl 就爆拉了"
+}
