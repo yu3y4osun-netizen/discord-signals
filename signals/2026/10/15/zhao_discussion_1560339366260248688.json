@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560339366260248688",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T17:11:34.620000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "lite差不多820就是上轮的启动点附近",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "lite差不多820就是上轮的启动点附近"
+}
