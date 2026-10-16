@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560682075592597585",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fangyi",
+  "ts": "2026-10-16T15:53:22.892000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥，万一没反弹那我们是拿着还是止损？手上还有A股已经￼深套了，有啥建议？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，万一没反弹那我们是拿着还是止损？手上还有A股已经￼深套了，有啥建议？"
+}
