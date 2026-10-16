@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560661641278783632",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-16T14:32:10.972000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "ARKK"
+    ],
+    "is_following_zhao": false,
+    "summary": "木头姐今天买的iam涨了20个点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "木头姐今天买的iam涨了20个点"
+}
