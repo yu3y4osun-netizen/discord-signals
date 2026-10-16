@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560294970383139019",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T14:15:09.818000+00:00",
+  "captured_at": "2026-10-16T11:46:18+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没多少 不是很多 只是把光和存 补点仓位",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "没多少 不是很多 只是把光和存 补点仓位",
+  "attribution": "direct"
+}
