@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560582752707809292",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-16T09:18:42.471000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥实时仓位的账本开不了啦？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥实时仓位的账本开不了啦？"
+}
