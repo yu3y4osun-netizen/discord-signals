@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560306017001013260",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T14:59:03.537000+00:00",
+  "captured_at": "2026-10-16T11:46:18+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "单笔在3500万美元",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "单笔在3500万美元",
+  "attribution": "direct"
+}
