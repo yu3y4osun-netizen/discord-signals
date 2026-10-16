@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560378486126805143",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-10-15T19:47:01.523000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，还有个问题，现在大家的仓位都比较重，减仓的逻辑我理解是减低风险留出操作空间 我这种只有一层仓的 这几天大约控制到几层仓差不多能和大家这几天建仓后同频？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，还有个问题，现在大家的仓位都比较重，减仓的逻辑我理解是减低风险留出操作空间\n\n我这种只有一层仓的 这几天大约控制到几层仓差不多能和大家这几天建仓后同频？"
+}
