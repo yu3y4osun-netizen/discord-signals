@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560380884769706136",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-15T19:56:33.404000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "希望有机会跟着赵哥做空，感觉很刺激",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "希望有机会跟着赵哥做空，感觉很刺激"
+}
