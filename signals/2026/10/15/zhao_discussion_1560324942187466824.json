@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560324942187466824",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-10-15T16:14:15.653000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "涨到6号 然后A股一开门 就暴跌",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "涨到6号  然后A股一开门 就暴跌"
+}
