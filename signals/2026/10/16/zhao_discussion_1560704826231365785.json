@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560704826231365785",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-16T17:23:47.067000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "AAPL",
+      "GOOGL",
+      "MU",
+      "NVDA",
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "为什么 不买台积电 美光 英伟达 谷歌 苹果",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "为什么  不买台积电  美光  英伟达  谷歌  苹果"
+}
