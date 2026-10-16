@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560327767852195921",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-15T16:25:29.344000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "所以赵哥，是不是现在不适合买长期权，不确定因素太多了。有利润，就出。走一步看一步。",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "所以赵哥，是不是现在不适合买长期权，不确定因素太多了。有利润，就出。走一步看一步。"
+}
