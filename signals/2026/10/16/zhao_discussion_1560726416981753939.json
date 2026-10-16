@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560726416981753939",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-16T18:49:34.703000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "我买mu的作用主要是如果要买半导体它相对抗跌点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我买mu的作用主要是如果要买半导体它相对抗跌点"
+}
