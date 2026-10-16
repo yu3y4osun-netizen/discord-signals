@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560675326281916417",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-10-16T15:26:33.731000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "要跌多少才会停 太猛烈了硬扛………….",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "要跌多少才会停 太猛烈了硬扛…………."
+}
