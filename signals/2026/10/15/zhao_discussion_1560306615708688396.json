@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560306615708688396",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-15T15:01:26.280000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 刚才看了下新闻 本次韩国救市和7月那次具体方案好像不太一样，这次力度没上次的强，会不会对反弹有一定的影响",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 刚才看了下新闻 本次韩国救市和7月那次具体方案好像不太一样，这次力度没上次的强，会不会对反弹有一定的影响"
+}
