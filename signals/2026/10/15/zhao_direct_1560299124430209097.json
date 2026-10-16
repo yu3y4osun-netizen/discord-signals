@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560299124430209097",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T14:31:40.220000+00:00",
+  "captured_at": "2026-10-16T11:46:18+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "上去点就会有人抛 然后 程序又接点慢慢磨",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "上去点就会有人抛  然后 程序又接点慢慢磨",
+  "attribution": "direct"
+}
