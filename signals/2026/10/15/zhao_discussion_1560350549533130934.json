@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560350549533130934",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T17:56:00.920000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "3成融资要留1成融资 放着突然低开 让缴纳保证金",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "3成融资要留1成融资 放着突然低开 让缴纳保证金"
+}
