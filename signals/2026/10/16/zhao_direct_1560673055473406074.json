@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560673055473406074",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-16T15:17:32.328000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "反弹多的日子减点 在等开soxs对冲",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "反弹多的日子减点 在等开soxs对冲",
+  "attribution": "direct"
+}
