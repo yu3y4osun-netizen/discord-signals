@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560672890796380261",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-16T15:16:53.066000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥那我们现在的浮亏怎么半呢",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥那我们现在的浮亏怎么半呢"
+}
