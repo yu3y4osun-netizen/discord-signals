@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560368218600640546",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T19:06:13.554000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "QQQ如果收盘是最高附近收 今天这个图是指数上 不断锯齿磨高的标准图 crwv是 个股锯齿磨高的标准图",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "QQQ如果收盘是最高附近收 今天这个图是指数上  不断锯齿磨高的标准图   crwv是 个股锯齿磨高的标准图"
+}
