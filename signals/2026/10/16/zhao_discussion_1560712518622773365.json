@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560712518622773365",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-16T17:54:21.076000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "投行的操作逻辑就是承销机构脱手nbis的需求，放在trading desk那边，配合一些衍生品，确保赚到钱",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "投行的操作逻辑就是承销机构脱手nbis的需求，放在trading desk那边，配合一些衍生品，确保赚到钱"
+}
