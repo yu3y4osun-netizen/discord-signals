@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560734059976466635",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dongreng",
+  "ts": "2026-10-16T19:19:56.935000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "其实国庆节涨很多了只是我没熬住qqq的put低位卖了留到现在13块一张了。晓得要跌但是当时涨得太吓人了put跌得只有3.8。有时最大的对手就是自己",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "其实国庆节涨很多了只是我没熬住qqq的put低位卖了留到现在13块一张了。晓得要跌但是当时涨得太吓人了put跌得只有3.8。有时最大的对手就是自己"
+}
