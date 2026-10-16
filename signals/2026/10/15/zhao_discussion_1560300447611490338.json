@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560300447611490338",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liuxingyu",
+  "ts": "2026-10-15T14:36:55.691000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "恐慌指数才17",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "恐慌指数才17"
+}
