@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560735575718494339",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-16T19:25:58.316000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "正股除了七姐妹以外，其他都应该设定止损",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "正股除了七姐妹以外，其他都应该设定止损"
+}
