@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560633677279527033",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-10-16T12:41:03.835000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "敢买苹果首发当小白鼠",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "敢买苹果首发当小白鼠"
+}
