@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560728233731686532",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-16T18:56:47.850000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "nbis我不懂啊，反正我补仓到解套就行了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "nbis我不懂啊，反正我补仓到解套就行了"
+}
