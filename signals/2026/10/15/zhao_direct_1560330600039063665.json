@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560330600039063665",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T16:36:44.590000+00:00",
+  "captured_at": "2026-10-16T11:46:18+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "时间还一半了 也要处理抛压 是不是上下高位震荡的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "时间还一半了 也要处理抛压 是不是上下高位震荡的",
+  "attribution": "direct"
+}
