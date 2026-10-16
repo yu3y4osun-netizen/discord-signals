@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560323383684628481",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-15T16:08:04.077000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "YANG"
+    ],
+    "is_following_zhao": false,
+    "summary": "yin yang",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "yin yang"
+}
