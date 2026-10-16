@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560334080921305190",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T16:50:34.497000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "等时间接近看soxs soxl单子再看时间区间大致那个左右不一定是那两天会延后也可以",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "等时间接近看soxs  soxl单子再看时间区间大致那个左右不一定是那两天会延后也可以"
+}
