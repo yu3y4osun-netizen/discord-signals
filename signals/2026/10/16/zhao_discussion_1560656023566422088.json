@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560656023566422088",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-16T14:09:51.605000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有一次赵哥进了那个什么药的，然后他也进了，就跌跌跌。赵哥也是无语",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "有一次赵哥进了那个什么药的，然后他也进了，就跌跌跌。赵哥也是无语"
+}
