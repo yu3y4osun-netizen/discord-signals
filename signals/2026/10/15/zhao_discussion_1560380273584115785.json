@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560380273584115785",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T19:54:07.686000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "然后就是明天 韩国资金入场就反弹多点 没入场就反弹少点 要看周一",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "然后就是明天 韩国资金入场就反弹多点 没入场就反弹少点 要看周一"
+}
