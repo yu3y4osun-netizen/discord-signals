@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560719718984192011",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-16T18:22:57.776000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "市场感觉极度恐慌了 外加担心周末利空🙁",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "市场感觉极度恐慌了 外加担心周末利空🙁"
+}
