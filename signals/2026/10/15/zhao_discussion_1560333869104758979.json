@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560333869104758979",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-15T16:49:43.996000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "所以赵哥的计划是20 21 走大部分并且上对冲是吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "所以赵哥的计划是20 21 走大部分并且上对冲是吗"
+}
