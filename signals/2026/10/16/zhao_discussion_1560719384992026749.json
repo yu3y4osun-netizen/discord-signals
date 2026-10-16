@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560719384992026749",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-16T18:21:38.146000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果下周12不反弹我们就走一半是么赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "如果下周12不反弹我们就走一半是么赵哥"
+}
