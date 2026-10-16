@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560371203573547193",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-15T19:18:05.227000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis绿了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "nbis绿了"
+}
