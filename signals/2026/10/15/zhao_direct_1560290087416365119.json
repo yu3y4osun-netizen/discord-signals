@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560290087416365119",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T13:55:45.628000+00:00",
+  "captured_at": "2026-10-16T11:46:18+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一直都走单边 只能最后一个V的节点做补",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "一直都走单边 只能最后一个V的节点做补",
+  "attribution": "direct"
+}
