@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560308872584101931",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-15T15:10:24.361000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "得挪钱出来买mu和谷歌这些",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "得挪钱出来买mu和谷歌这些"
+}
