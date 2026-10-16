@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560734782885859329",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-16T19:22:49.290000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "后视镜懊悔 有什么用呢？ 自己的钱 连止损都不设置 能怪谁 还不是自己贪",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "后视镜懊悔  有什么用呢？  自己的钱  连止损都不设置  能怪谁  还不是自己贪"
+}
