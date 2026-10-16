@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560737929255714927",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-16T19:35:19.443000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "都这么利空了 在开战应该也跌不了太多了吧",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "都这么利空了 在开战应该也跌不了太多了吧"
+}
