@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560334763368251504",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-15T16:53:17.205000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天主要多了个ppi的跳空低开 这个反弹日期就可以多一天把今天当修复 所以下周二还是周三反弹结束要看",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "今天主要多了个ppi的跳空低开 这个反弹日期就可以多一天把今天当修复  所以下周二还是周三反弹结束要看"
+}
