@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560621383212343337",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-16T11:52:12.701000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "FUTU"
+    ],
+    "is_following_zhao": false,
+    "summary": "futu今天有篇文章 不过内容真实性有待考证",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "futu今天有篇文章 不过内容真实性有待考证"
+}
