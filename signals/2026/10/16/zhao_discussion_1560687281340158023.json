@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560687281340158023",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-16T16:14:04.039000+00:00",
+  "captured_at": "2026-10-17T03:49:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "MSFT",
+      "TSM"
+    ],
+    "is_following_zhao": true,
+    "summary": "好好思考，亏钱没问题，学会总结就好了，我五月份亏到账户只剩下4万，自己硬生生做回了16万，盈利了四万多，就微软，谷歌，台积电期权轮流做，虽然现在亏了一大部分了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "好好思考，亏钱没问题，学会总结就好了，我五月份亏到账户只剩下4万，自己硬生生做回了16万，盈利了四万多，就微软，谷歌，台积电期权轮流做，虽然现在亏了一大部分了"
+}
