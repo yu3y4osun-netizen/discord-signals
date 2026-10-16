@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560374908096086117",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangxing",
+  "ts": "2026-10-15T19:32:48.454000+00:00",
+  "captured_at": "2026-10-16T11:33:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天才满仓满融下午发了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "今天才满仓满融下午发了"
+}
