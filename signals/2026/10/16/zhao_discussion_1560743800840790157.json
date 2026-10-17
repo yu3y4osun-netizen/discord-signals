@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560743800840790157",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-16T19:58:39.338000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我感觉各位如果小盘股高波动想做T，不妨可以看一下大佬们买的远期大盘股的期权，一个是别人对股性够了解，一个是期权自带高波动价值，日内做T够你爽一天了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我感觉各位如果小盘股高波动想做T，不妨可以看一下大佬们买的远期大盘股的期权，一个是别人对股性够了解，一个是期权自带高波动价值，日内做T够你爽一天了"
+}
