@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560813187899727925",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-17T00:34:22.502000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "周二三要是不反弹 赵哥割肉",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "周二三要是不反弹 赵哥割肉"
+}
