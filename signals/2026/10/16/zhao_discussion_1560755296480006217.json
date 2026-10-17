@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560755296480006217",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-16T20:44:20.112000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "都是被NBIS套牢的选手",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "都是被NBIS套牢的选手"
+}
