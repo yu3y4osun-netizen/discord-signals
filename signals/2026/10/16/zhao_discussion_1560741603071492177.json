@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560741603071492177",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-16T19:49:55.349000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "自己这种情况尽量不要瞎来 我感觉还是挺赵哥指引",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "自己这种情况尽量不要瞎来 我感觉还是挺赵哥指引"
+}
