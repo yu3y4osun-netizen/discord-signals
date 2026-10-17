@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560820202235629710",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ciciwangyao",
+  "ts": "2026-10-17T01:02:14.850000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "市场太残酷了，追求超额就要承担风险。赵哥这样的百战大神也避不了坑，大家还是对市场心存敬畏",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "市场太残酷了，追求超额就要承担风险。赵哥这样的百战大神也避不了坑，大家还是对市场心存敬畏"
+}
