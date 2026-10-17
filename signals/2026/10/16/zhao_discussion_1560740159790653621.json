@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560740159790653621",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-16T19:44:11.244000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥没操作，看来没有买盘现在",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥没操作，看来没有买盘现在"
+}
