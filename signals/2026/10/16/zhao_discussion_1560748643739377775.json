@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560748643739377775",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-16T20:17:53.975000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不然它也不可能就是说顶着这种借债环境还要一直融资扩产",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "不然它也不可能就是说顶着这种借债环境还要一直融资扩产"
+}
