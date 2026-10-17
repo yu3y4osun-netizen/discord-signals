@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560745623890952193",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-10-16T20:05:53.987000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "我买了iren",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我买了iren"
+}
