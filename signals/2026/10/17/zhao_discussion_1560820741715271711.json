@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560820741715271711",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-17T01:04:23.472000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "昨天跌得没前几天慌",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "昨天跌得没前几天慌"
+}
