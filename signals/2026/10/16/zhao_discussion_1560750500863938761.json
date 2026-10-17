@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560750500863938761",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-16T20:25:16.748000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天指数破位了，但是个股价格没跌破昨天的新低 不要太恐慌了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "今天指数破位了，但是个股价格没跌破昨天的新低 不要太恐慌了"
+}
