@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560819946773020675",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-17T01:01:13.943000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我上周才买了些a股创业板指数，美股真还没有割肉的想法…我之前试过几次下决心割肉，然后整个人乱了，割肉的钱又可能会去乱买，还会遇上割了就反弹 纯个人想法…",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我上周才买了些a股创业板指数，美股真还没有割肉的想法…我之前试过几次下决心割肉，然后整个人乱了，割肉的钱又可能会去乱买，还会遇上割了就反弹\n纯个人想法…"
+}
