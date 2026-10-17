@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560755667722047729",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-16T20:45:48.623000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "Dram跌的比7月大跌还要多",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Dram跌的比7月大跌还要多"
+}
