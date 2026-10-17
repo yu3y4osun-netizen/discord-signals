@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560751298775621794",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-16T20:28:26.985000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE",
+      "MU",
+      "NBIS",
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "Lite nbis mu sndk",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Lite nbis mu sndk"
+}
