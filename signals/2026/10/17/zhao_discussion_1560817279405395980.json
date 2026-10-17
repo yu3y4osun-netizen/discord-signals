@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560817279405395980",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-17T00:50:37.993000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但是我个人看A股下周会反弹，夜盘不知道会不会好点",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "但是我个人看A股下周会反弹，夜盘不知道会不会好点"
+}
