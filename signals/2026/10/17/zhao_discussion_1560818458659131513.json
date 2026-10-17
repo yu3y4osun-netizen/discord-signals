@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560818458659131513",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-17T00:55:19.149000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥还有微信群？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥还有微信群？"
+}
