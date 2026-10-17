@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560818354770415718",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-17T00:54:54.380000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "刚在赵哥的微信群看到有个人说一堆小票，他都割了然后退whop群了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "刚在赵哥的微信群看到有个人说一堆小票，他都割了然后退whop群了"
+}
