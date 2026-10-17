@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560855696520519741",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-17T03:23:17.347000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大意好像是 神童的杠杆太高了，对整个市场都构成风险了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "大意好像是 神童的杠杆太高了，对整个市场都构成风险了"
+}
