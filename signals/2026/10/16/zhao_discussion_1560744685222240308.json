@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560744685222240308",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-16T20:02:10.191000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "GOOGL",
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "没事我谷歌在我这已经是堪比mu的地位了，顾神最好是止损🤣",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "没事我谷歌在我这已经是堪比mu的地位了，顾神最好是止损🤣"
+}
