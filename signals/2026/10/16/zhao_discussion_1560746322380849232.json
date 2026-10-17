@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560746322380849232",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-16T20:08:40.520000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "大佬 像nbis crwv这种公司，一般能回去么",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "大佬 像nbis crwv这种公司，一般能回去么"
+}
