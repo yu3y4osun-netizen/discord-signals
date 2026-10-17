@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560745883040096347",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-16T20:06:55.773000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "我7月份亏的最多的时候mu 盈利亏了几m",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我7月份亏的最多的时候mu 盈利亏了几m"
+}
