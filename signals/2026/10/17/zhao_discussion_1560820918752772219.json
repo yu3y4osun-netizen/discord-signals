@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560820918752772219",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-17T01:05:05.681000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "昨天才是普跌同沉，指数大跌，恐慌指数暴涨",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "昨天才是普跌同沉，指数大跌，恐慌指数暴涨"
+}
