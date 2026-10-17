@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560754774058737676",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-16T20:42:15.557000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哈兰德。我自己末日爆仓过。发誓不买末日。今天极端行情。当我看到你说末日。我想验证你说的对不对。然后模拟买了亏钱了。所以我觉得宣导末日不好。特别是今天这种极端情况...",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "哈兰德。我自己末日爆仓过。发誓不买末日。今天极端行情。当我看到你说末日。我想验证你说的对不对。然后模拟买了亏钱了。所以我觉得宣导末日不好。特别是今天这种极端情况。"
+}
