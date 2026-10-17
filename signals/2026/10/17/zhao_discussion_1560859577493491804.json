@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560859577493491804",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chenxiansheng83",
+  "ts": "2026-10-17T03:38:42.643000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果爆仓了差不多是底部了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "如果爆仓了差不多是底部了"
+}
