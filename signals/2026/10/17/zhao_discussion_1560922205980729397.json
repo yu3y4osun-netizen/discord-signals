@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560922205980729397",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-17T07:47:34.438000+00:00",
+  "captured_at": "2026-10-17T21:00:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "大概也是看着赵哥满仓，自己也卡卡加仓位了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "大概也是看着赵哥满仓，自己也卡卡加仓位了"
+}
