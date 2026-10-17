@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560742337305387009",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-16T19:52:50.404000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果真的有像样的反弹",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "如果真的有像样的反弹"
+}
