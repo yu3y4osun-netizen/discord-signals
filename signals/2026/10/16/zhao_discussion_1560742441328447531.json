@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560742441328447531",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-16T19:53:15.205000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今年7月nb跌到了165 然后反弹回到了224",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "今年7月nb跌到了165 然后反弹回到了224"
+}
