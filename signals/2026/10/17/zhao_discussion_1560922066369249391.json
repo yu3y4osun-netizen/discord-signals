@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560922066369249391",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-10-17T07:47:01.152000+00:00",
+  "captured_at": "2026-10-17T21:00:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "cbrs和iren跟没底一样",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cbrs和iren跟没底一样"
+}
