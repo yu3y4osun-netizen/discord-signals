@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560744694609223900",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-16T20:02:12.429000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "不过直觉告诉我，谷歌应该会破一下200天线，插根深点的针，财报才好把大盘托住",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "不过直觉告诉我，谷歌应该会破一下200天线，插根深点的针，财报才好把大盘托住"
+}
