@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560768928051892305",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-16T21:38:30.132000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "刚醒🫠，如果特斯拉做空20%盈利了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "刚醒🫠，如果特斯拉做空20%盈利了"
+}
