@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560746809452662837",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-16T20:10:36.647000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSFT",
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "我买美光是因为美光实在是太有钱了，利润比微软都要多",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我买美光是因为美光实在是太有钱了，利润比微软都要多"
+}
