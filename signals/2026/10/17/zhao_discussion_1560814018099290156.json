@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560814018099290156",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-17T00:37:40.437000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "LITE",
+      "MRVL",
+      "NBIS",
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "NVDA 212.19 2025-10-29 AMD 267.00 2025-10-29 MRVL 127.48 2025年内高点 LITE Lumentum ...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "NVDA\n212.19\n2025-10-29\nAMD\n267.00\n2025-10-29\nMRVL\n127.48\n2025年内高点\nLITE\nLumentum 鲁门特姆\n496.80\nNBIS\n141.10\n2025-10月中旬"
+}
