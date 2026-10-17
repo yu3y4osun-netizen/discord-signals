@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560743129789890631",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halamadrid9248",
+  "ts": "2026-10-16T19:55:59.347000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "我还有40的iren和100的intc",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我还有40的iren和100的intc"
+}
