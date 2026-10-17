@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560744330250162391",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-16T20:00:45.559000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "我今天偷了个鸡，21.3接的，也接了个台积电",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我今天偷了个鸡，21.3接的，也接了个台积电"
+}
