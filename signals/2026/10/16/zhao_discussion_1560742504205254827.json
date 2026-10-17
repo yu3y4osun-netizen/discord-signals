@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560742504205254827",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-16T19:53:30.196000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "虽然nbis比不了mu",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "虽然nbis比不了mu"
+}
