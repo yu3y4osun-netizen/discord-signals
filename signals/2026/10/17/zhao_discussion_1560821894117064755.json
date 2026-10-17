@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1560821894117064755",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-17T01:08:58.226000+00:00",
+  "captured_at": "2026-10-17T15:15:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "IREN",
+      "NBIS",
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "Nbis iren crwv wdc🫣我的四大王炸",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Nbis iren crwv wdc🫣我的四大王炸"
+}
