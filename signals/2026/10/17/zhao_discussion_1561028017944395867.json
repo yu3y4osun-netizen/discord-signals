@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561028017944395867",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnkdki",
+  "ts": "2026-10-17T14:48:01.976000+00:00",
+  "captured_at": "2026-10-18T13:54:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "CRWV债券收益不降下来或者不能降低风险基本就是继续掉",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "CRWV债券收益不降下来或者不能降低风险基本就是继续掉"
+}
