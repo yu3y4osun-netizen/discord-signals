@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561136478791147613",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-17T21:59:01.057000+00:00",
+  "captured_at": "2026-10-18T13:54:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "完犊子了顶不住了打算全部清仓了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "完犊子了顶不住了打算全部清仓了"
+}
