@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561008798976573501",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnkdki",
+  "ts": "2026-10-17T13:31:39.817000+00:00",
+  "captured_at": "2026-10-18T13:54:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "BTC",
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "我看有说QQQ撑不住706.5这个点下面就没啥支撑了，同意比特币如果83150这条线后面如果突破都突破不了回调很可能能回到70000，因为没有支撑",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我看有说QQQ撑不住706.5这个点下面就没啥支撑了，同意比特币如果83150这条线后面如果突破都突破不了回调很可能能回到70000，因为没有支撑"
+}
