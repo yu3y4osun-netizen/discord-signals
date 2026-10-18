@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561012992714481778",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-17T13:48:19.682000+00:00",
+  "captured_at": "2026-10-18T13:54:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "a家在游说国会，nbis股东8月份买入了5w刀，黄说ai不能只看a和o，还有其他开放模型",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "a家在游说国会，nbis股东8月份买入了5w刀，黄说ai不能只看a和o，还有其他开放模型"
+}
