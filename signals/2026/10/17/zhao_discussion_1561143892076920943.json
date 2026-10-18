@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561143892076920943",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-17T22:28:28.522000+00:00",
+  "captured_at": "2026-10-18T13:54:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "看样子iren要去25.5 21左右才有买盘",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "看样子iren要去25.5 21左右才有买盘"
+}
