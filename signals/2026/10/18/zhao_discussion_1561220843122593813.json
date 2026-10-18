@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561220843122593813",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-18T03:34:15.081000+00:00",
+  "captured_at": "2026-10-18T13:54:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC",
+      "ETH"
+    ],
+    "is_following_zhao": false,
+    "summary": "BTC eth v的更多而已",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "BTC eth v的更多而已"
+}
