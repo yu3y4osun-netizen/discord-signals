@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561551177613836361",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-19T01:26:52.961000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "Soxl到103-105我买点做空",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Soxl到103-105我买点做空"
+}
