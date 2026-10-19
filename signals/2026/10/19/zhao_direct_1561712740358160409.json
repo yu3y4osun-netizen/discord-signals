@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561712740358160409",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T12:08:52.521000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "加上周末暗盘 （机构政府才能买的 低价格买了很多）",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "加上周末暗盘 （机构政府才能买的 低价格买了很多）",
+  "attribution": "direct"
+}
