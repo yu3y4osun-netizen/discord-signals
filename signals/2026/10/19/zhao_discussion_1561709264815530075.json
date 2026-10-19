@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561709264815530075",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gldslv",
+  "ts": "2026-10-19T11:55:03.887000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "太慌了😭",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "太慌了😭"
+}
