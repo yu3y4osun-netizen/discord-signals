@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561732672513118272",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T13:28:04.717000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "尾盘找跌的 夜盘出的模式 盘中找卖点再降降",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "尾盘找跌的 夜盘出的模式 盘中找卖点再降降",
+  "attribution": "direct"
+}
