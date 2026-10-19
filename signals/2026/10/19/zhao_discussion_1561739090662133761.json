@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561739090662133761",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-19T13:53:34.923000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 A家上市会对整体的走势有影响么 比如上市之前猛拉一波之类的",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 A家上市会对整体的走势有影响么 比如上市之前猛拉一波之类的"
+}
