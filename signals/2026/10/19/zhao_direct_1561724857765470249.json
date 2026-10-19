@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561724857765470249",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T12:57:01.536000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是他这个反弹周期 定了是一个5天连锁的事件 当中即使有突发利空 他也会修复",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是他这个反弹周期 定了是一个5天连锁的事件  当中即使有突发利空  他也会修复",
+  "attribution": "direct"
+}
