@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561732248770707619",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-19T13:26:23.689000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，还看好中选8000目标嘛，还是走中选失败？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，还看好中选8000目标嘛，还是走中选失败？"
+}
