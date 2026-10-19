@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561530794797830194",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-19T00:05:53.319000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赶紧买半导体啊 我的soxl",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赶紧买半导体啊 我的soxl"
+}
