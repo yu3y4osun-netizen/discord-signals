@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561714314531045407",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T12:15:07.833000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一般是两轮 就是上周说的 100的股票跌50元了 反弹75-80（有的会一半多点 ）再跌50元二次探底 在反弹75-80",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "一般是两轮  就是上周说的 100的股票跌50元了 反弹75-80（有的会一半多点 ）再跌50元二次探底  在反弹75-80",
+  "attribution": "direct"
+}
