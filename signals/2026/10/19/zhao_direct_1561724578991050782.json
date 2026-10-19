@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561724578991050782",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T12:55:55.071000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没有 先去实习打打基本功、、",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "没有 先去实习打打基本功、、",
+  "attribution": "direct"
+}
