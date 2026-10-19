@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561744366991712316",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-19T14:14:32.898000+00:00",
+  "captured_at": "2026-10-19T22:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌底部震荡5个月了，是不是差不多",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌底部震荡5个月了，是不是差不多"
+}
