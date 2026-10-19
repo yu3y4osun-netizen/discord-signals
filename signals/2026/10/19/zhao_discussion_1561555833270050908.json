@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561555833270050908",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-10-19T01:45:22.956000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我重仓云板块咋办",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我重仓云板块咋办"
+}
