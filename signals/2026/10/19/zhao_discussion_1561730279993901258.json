@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561730279993901258",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-19T13:18:34.296000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ORCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "去年那个明星基金经理是不是做空很多甲骨文",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "去年那个明星基金经理是不是做空很多甲骨文"
+}
