@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561714448153055353",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xlucky",
+  "ts": "2026-10-19T12:15:39.691000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥不说普通散户根本就不知道这种猫腻",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥不说普通散户根本就不知道这种猫腻"
+}
