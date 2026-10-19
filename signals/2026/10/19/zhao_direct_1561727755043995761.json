@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561727755043995761",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T13:08:32.301000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "因为就是多了一个周五 有周末空档期 所以这天得忍住 很多时候都是 周末暗盘去收集周五割肉筹码",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "因为就是多了一个周五 有周末空档期  所以这天得忍住 很多时候都是 周末暗盘去收集周五割肉筹码",
+  "attribution": "direct"
+}
