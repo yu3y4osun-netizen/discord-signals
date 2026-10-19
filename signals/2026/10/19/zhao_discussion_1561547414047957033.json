@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561547414047957033",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-19T01:11:55.657000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "也许是夜盘反弹，开盘不知道",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "也许是夜盘反弹，开盘不知道"
+}
