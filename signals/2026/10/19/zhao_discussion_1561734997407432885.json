@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561734997407432885",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-19T13:37:19.015000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr怎么这么弱",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cifr怎么这么弱"
+}
