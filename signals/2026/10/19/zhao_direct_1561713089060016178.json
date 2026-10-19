@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561713089060016178",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T12:10:15.658000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这轮救市是给各个企业增持",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这轮救市是给各个企业增持",
+  "attribution": "direct"
+}
