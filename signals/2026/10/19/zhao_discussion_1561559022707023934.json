@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561559022707023934",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-19T01:58:03.377000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是的，一波流流动性都砸没了，肯定得有波段，到时候就是赵哥的50%理论了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "是的，一波流流动性都砸没了，肯定得有波段，到时候就是赵哥的50%理论了"
+}
