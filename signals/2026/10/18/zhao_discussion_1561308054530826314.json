@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561308054530826314",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-18T09:20:47.901000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SCHD",
+      "VOO"
+    ],
+    "is_following_zhao": false,
+    "summary": "我看了一下他买的都是voo qqqm schd spmf这种宽基啊 这咋骗钱",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我看了一下他买的都是voo qqqm schd spmf这种宽基啊 这咋骗钱"
+}
