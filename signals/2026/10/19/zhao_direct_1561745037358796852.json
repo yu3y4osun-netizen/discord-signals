@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561745037358796852",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T14:17:12.726000+00:00",
+  "captured_at": "2026-10-19T22:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "出了成本附近个股 在急跌换soxl",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "出了成本附近个股 在急跌换soxl",
+  "attribution": "direct"
+}
