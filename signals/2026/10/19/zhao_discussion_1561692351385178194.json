@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561692351385178194",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-19T10:47:51.411000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "VIX"
+    ],
+    "is_following_zhao": false,
+    "summary": "还是得看vix，这是机构真金白银买出来的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "还是得看vix，这是机构真金白银买出来的"
+}
