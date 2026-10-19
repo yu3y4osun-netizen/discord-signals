@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561716654704951380",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T12:24:25.774000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有溢价转移 溢价买或者不在交易时间外价格锁定之类 就是周五单边下跌 尾盘收个稳住的时候可以博下",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "有溢价转移 溢价买或者不在交易时间外价格锁定之类    就是周五单边下跌 尾盘收个稳住的时候可以博下",
+  "attribution": "direct"
+}
