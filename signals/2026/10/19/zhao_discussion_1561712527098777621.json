@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561712527098777621",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuuumii",
+  "ts": "2026-10-19T12:08:01.676000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥麻烦问问，今天是偏向于看修复，就是小反弹吗。修复完了后面继续会跌的意思还是",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥麻烦问问，今天是偏向于看修复，就是小反弹吗。修复完了后面继续会跌的意思还是"
+}
