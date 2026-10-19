@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561707478889144402",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "frankyin",
+  "ts": "2026-10-19T11:47:58.089000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "课代表总结下赵哥说的啥意思....今天能起来？能到725就企稳了？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "课代表总结下赵哥说的啥意思....今天能起来？能到725就企稳了？"
+}
