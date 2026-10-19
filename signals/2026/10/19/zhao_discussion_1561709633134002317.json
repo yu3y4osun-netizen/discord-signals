@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561709633134002317",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xlucky",
+  "ts": "2026-10-19T11:56:31.701000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "中间赵哥发的你都不跟啊？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "中间赵哥发的你都不跟啊？"
+}
