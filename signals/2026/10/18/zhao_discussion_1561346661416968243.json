@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561346661416968243",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-18T11:54:12.500000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赶紧去更新了，我苹果的whop一直很好，安卓的不好用",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赶紧去更新了，我苹果的whop一直很好，安卓的不好用"
+}
