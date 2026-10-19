@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561557866546991155",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-19T01:53:27.727000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "总归得反弹一波，ai就是崩溃也不能这么一波流",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "总归得反弹一波，ai就是崩溃也不能这么一波流"
+}
