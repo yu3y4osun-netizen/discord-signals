@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561717039289339976",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-19T12:25:57.466000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这周末恐慌度真的拉满",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这周末恐慌度真的拉满"
+}
