@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561656663507738658",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-19T08:26:02.758000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不是大师 我周五又买回去了 现在被套中",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "不是大师 我周五又买回去了 现在被套中"
+}
