@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561734764317253653",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-19T13:36:23.442000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "cbrs直接跳水转跌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cbrs直接跳水转跌"
+}
