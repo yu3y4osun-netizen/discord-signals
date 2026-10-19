@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561712684586766337",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T12:08:39.224000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是周五不是原本是反弹日 韩国不是延迟了 周末又没怎么冲突 就要把周五这个跌幅修复起来",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是周五不是原本是反弹日 韩国不是延迟了 周末又没怎么冲突 就要把周五这个跌幅修复起来",
+  "attribution": "direct"
+}
