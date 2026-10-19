@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561641542202949693",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-19T07:25:57.558000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "AEHG涨了12% 我9%就卖了。。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "AEHG涨了12% 我9%就卖了。。"
+}
