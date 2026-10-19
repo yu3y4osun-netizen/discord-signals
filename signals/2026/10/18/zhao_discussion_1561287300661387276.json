@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561287300661387276",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hellogwh",
+  "ts": "2026-10-18T07:58:19.793000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个周末没有什么利空消息吧",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这个周末没有什么利空消息吧"
+}
