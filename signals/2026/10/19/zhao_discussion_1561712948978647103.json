@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561712948978647103",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gldslv",
+  "ts": "2026-10-19T12:09:42.260000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 请问一下 韩国今天资金进去了嘛？我看今天韩国指数走的不是那种暴涨",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 请问一下 韩国今天资金进去了嘛？我看今天韩国指数走的不是那种暴涨"
+}
