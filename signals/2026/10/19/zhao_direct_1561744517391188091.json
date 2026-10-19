@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561744517391188091",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T14:15:08.756000+00:00",
+  "captured_at": "2026-10-19T22:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在是两个模式结合着",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "现在是两个模式结合着",
+  "attribution": "direct"
+}
