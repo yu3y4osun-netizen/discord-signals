@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561583156430246039",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-19T03:33:57.305000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "操割了一半就涨了服了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "操割了一半就涨了服了"
+}
