@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561723870032171029",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-10-19T12:53:06.042000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥想请教下，如果美国总统输两院是不是意味着接下来2年美国政策面不会有太大变化",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥想请教下，如果美国总统输两院是不是意味着接下来2年美国政策面不会有太大变化"
+}
