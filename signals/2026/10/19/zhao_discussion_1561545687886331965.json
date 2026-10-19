@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561545687886331965",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-10-19T01:05:04.108000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS",
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "这Cbrs和Crwv跟两个小丑一样一样指数上去那么多这两个刚到收盘价格",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这Cbrs和Crwv跟两个小丑一样一样指数上去那么多这两个刚到收盘价格"
+}
