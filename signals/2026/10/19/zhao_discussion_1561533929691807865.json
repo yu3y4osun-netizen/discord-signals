@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561533929691807865",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-19T00:18:20.736000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "比如nbis，连周五179的补仓点都没有到",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "比如nbis，连周五179的补仓点都没有到"
+}
