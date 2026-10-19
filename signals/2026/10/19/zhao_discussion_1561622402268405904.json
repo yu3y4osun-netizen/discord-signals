@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561622402268405904",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-19T06:09:54.242000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "🥴夜盘纳指100，涨了1.5%，要上演大奇迹日吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "🥴夜盘纳指100，涨了1.5%，要上演大奇迹日吗"
+}
