@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561657627606384643",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-19T08:29:52.617000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "要不是我每个月取钱了 就真的差不多亏完了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "要不是我每个月取钱了 就真的差不多亏完了"
+}
