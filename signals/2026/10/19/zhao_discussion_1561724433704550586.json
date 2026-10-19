@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561724433704550586",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanged",
+  "ts": "2026-10-19T12:55:20.432000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥您侄儿是不是，偶尔也会看着量化机器，去做呀？🤔",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥您侄儿是不是，偶尔也会看着量化机器，去做呀？🤔"
+}
