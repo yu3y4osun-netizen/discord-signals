@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561709170586030163",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangxing",
+  "ts": "2026-10-19T11:54:41.421000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "周五是不是都在逼赵哥问要不要止损了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "周五是不是都在逼赵哥问要不要止损了"
+}
