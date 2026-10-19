@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561535604120883263",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-19T00:24:59.951000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "羡慕你们 我还在被套在高位 没办法割肉了hhh",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "羡慕你们 我还在被套在高位 没办法割肉了hhh"
+}
