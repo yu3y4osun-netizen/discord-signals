@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561422918884266067",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-18T16:57:13.697000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "周五时说：从情况来看，资金末进入，要看周一。 最近周二会在反弹时走一部分 （大约1-2成）",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "周五时说：从情况来看，资金末进入，要看周一。  最近周二会在反弹时走一部分      （大约1-2成）"
+}
