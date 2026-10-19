@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561519943638454363",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-18T23:22:46.201000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "Crwv高开4个点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Crwv高开4个点"
+}
