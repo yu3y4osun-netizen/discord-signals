@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561730007997489163",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-19T13:17:29.447000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ORCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "甲骨文又可以了吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "甲骨文又可以了吗"
+}
