@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561718744575905853",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T12:32:44.038000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "富途 老虎之类的指数里面 看的人多又置顶的都看看 他有个头像有个打勾的就是券商请人写的会已发生事实发的 然后个股增减持长桥在增补下 信息 足够了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "富途 老虎之类的指数里面 看的人多又置顶的都看看 他有个头像有个打勾的就是券商请人写的会已发生事实发的 然后个股增减持长桥在增补下 信息 足够了",
+  "attribution": "direct"
+}
