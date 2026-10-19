@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561598663258542091",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-19T04:35:34.421000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "NVDA"
+    ],
+    "is_following_zhao": true,
+    "summary": "辉达（NVIDIA）投资的 AI 云端运算业者 CoreWeave 近期股价低迷，主因市场担忧公司大量举债扩充 AI 基础设施，恐加重财务负担。根据申报文件，C...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "辉达（NVIDIA）投资的 AI 云端运算业者 CoreWeave 近期股价低迷，主因市场担忧公司大量举债扩充 AI 基础设施，恐加重财务负担。根据申报文件，CoreWeave 执行长 Michael Intrator 及其关联实体，自 2025 年 3 月公司上市以来，已累计出售逾 1,000 万股股票，套现近 10 亿美元。"
+}
