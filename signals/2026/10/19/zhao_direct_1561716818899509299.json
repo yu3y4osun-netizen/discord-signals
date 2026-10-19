@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561716818899509299",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T12:25:04.921000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "然后就是新闻不对称性 像美国当地没说打击伊朗 别的国家一直在传播恐慌就是故意了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后就是新闻不对称性 像美国当地没说打击伊朗  别的国家一直在传播恐慌就是故意了",
+  "attribution": "direct"
+}
