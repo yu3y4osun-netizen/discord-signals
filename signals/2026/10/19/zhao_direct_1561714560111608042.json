@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561714560111608042",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T12:16:06.384000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "周五 压最低 就是尾盘他只要小小凹一下稳一下",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "周五 压最低 就是尾盘他只要小小凹一下稳一下",
+  "attribution": "direct"
+}
