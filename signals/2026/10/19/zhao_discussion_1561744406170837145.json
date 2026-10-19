@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561744406170837145",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-19T14:14:42.239000+00:00",
+  "captured_at": "2026-10-19T22:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "你参考一下7月的mu 也是开盘就卖",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "你参考一下7月的mu 也是开盘就卖"
+}
