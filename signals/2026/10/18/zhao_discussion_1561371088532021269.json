@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561371088532021269",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cthylla",
+  "ts": "2026-10-18T13:31:16.378000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "btc瀑布中",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "btc瀑布中"
+}
