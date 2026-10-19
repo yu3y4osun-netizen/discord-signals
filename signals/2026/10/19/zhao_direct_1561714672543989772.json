@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561714672543989772",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T12:16:33.190000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "暗盘资讯周末很多券商都在发",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "暗盘资讯周末很多券商都在发",
+  "attribution": "direct"
+}
