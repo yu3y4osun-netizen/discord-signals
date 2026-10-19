@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561529712268935199",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haojue",
+  "ts": "2026-10-19T00:01:35.224000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥的意思，是不是三星要掏钱？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥的意思，是不是三星要掏钱？"
+}
