@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561732031250038845",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-19T13:25:31.828000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我反而觉得谷歌，走势不错，如果趁着情绪好，是不是容易顶上去",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我反而觉得谷歌，走势不错，如果趁着情绪好，是不是容易顶上去"
+}
