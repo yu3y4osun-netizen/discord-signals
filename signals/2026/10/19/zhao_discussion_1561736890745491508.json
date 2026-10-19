@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561736890745491508",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "tangzhe",
+  "ts": "2026-10-19T13:44:50.422000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "CBRS都可以当传家宝了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "CBRS都可以当传家宝了"
+}
