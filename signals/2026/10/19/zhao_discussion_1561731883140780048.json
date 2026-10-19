@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561731883140780048",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-19T13:24:56.516000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥，我有个疑问，科技上方都是套牢盘，这么容易拉上去么。",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，我有个疑问，科技上方都是套牢盘，这么容易拉上去么。"
+}
