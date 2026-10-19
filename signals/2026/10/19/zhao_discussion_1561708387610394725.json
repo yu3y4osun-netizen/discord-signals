@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561708387610394725",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangxing",
+  "ts": "2026-10-19T11:51:34.745000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大跌买大部分 涨了分批出",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "大跌买大部分 涨了分批出"
+}
