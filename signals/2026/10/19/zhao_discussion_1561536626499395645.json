@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561536626499395645",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-19T00:29:03.705000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "真的发生最差情况的话 soxl就是下一个7709",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "真的发生最差情况的话 soxl就是下一个7709"
+}
