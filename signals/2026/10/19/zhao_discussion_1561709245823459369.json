@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561709245823459369",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-19T11:54:59.359000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "班长新高我们新低就是最好的证明",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "班长新高我们新低就是最好的证明"
+}
