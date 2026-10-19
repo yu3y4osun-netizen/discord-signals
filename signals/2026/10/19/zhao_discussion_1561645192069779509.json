@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561645192069779509",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-19T07:40:27.754000+00:00",
+  "captured_at": "2026-10-19T22:03:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "周五QQQ跌了2.5% 现在才涨1.32% 很正常吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "周五QQQ跌了2.5%   现在才涨1.32%   很正常吧"
+}
