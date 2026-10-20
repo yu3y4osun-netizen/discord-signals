@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561774922425045214",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-19T16:15:57.881000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "好像大崩盘的前一天成交量会低于之前成交量很多，而大涨前一天也会很低，是不是因为买盘枯竭了所以没有成交量，做空的人就像看见了食物一样准备冲锋了，反之亦然",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "好像大崩盘的前一天成交量会低于之前成交量很多，而大涨前一天也会很低，是不是因为买盘枯竭了所以没有成交量，做空的人就像看见了食物一样准备冲锋了，反之亦然"
+}
