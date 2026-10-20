@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561893538898255934",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckfunzhao",
+  "ts": "2026-10-20T00:07:18.252000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "难道要中选过后才能涨了吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "难道要中选过后才能涨了吗"
+}
