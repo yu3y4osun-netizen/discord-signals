@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561749655342293043",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zengshanmei",
+  "ts": "2026-10-19T14:35:33.739000+00:00",
+  "captured_at": "2026-10-20T11:39:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥,这次反弹云不如其他板块了，以后是不是不好再做了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥,这次反弹云不如其他板块了，以后是不是不好再做了"
+}
