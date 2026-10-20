@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561768245705314367",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-19T15:49:26.027000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "每次跌的时候我都怕。怕的要死。割肉。涨的时候我就想追。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "每次跌的时候我都怕。怕的要死。割肉。涨的时候我就想追。"
+}
