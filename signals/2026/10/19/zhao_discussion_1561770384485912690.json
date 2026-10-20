@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561770384485912690",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-19T15:57:55.952000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "我买谷歌期权基本上不看期权盈亏",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我买谷歌期权基本上不看期权盈亏"
+}
