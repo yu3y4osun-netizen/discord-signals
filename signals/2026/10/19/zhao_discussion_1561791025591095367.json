@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561791025591095367",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "violawang",
+  "ts": "2026-10-19T17:19:57.175000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是的 承接也差些了 这几天跟着赵哥一起做下t 谢谢",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "是的 承接也差些了 这几天跟着赵哥一起做下t 谢谢"
+}
