@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561745793281695828",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moodywharf",
+  "ts": "2026-10-19T14:20:12.952000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "宁愿玩大盘股的远期期权短做 也不敢玩小盘股了 。买小盘正骨舍不得T就套牢",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "宁愿玩大盘股的远期期权短做 也不敢玩小盘股了 。买小盘正骨舍不得T就套牢"
+}
