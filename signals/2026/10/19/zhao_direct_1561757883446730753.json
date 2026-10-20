@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561757883446730753",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T15:08:15.472000+00:00",
+  "captured_at": "2026-10-20T11:39:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是上面说的 模式你练习 回踩了 这个怕 那个找新闻就会那样",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是上面说的  模式你练习  回踩了 这个怕 那个找新闻就会那样",
+  "attribution": "direct"
+}
