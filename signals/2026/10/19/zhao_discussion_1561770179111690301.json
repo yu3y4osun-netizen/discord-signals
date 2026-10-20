@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561770179111690301",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bkaaa",
+  "ts": "2026-10-19T15:57:06.987000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "云不就是喜欢暴涨暴跌然后反复磨底让你拿得没脾气了就开始拉 我被前阵子的nbis做得太顺有惯性了 忘了警觉性😂",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "云不就是喜欢暴涨暴跌然后反复磨底让你拿得没脾气了就开始拉 我被前阵子的nbis做得太顺有惯性了 忘了警觉性😂"
+}
