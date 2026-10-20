@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561788939096825917",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "c8641",
+  "ts": "2026-10-19T17:11:39.716000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intc也高台跳水了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "intc也高台跳水了"
+}
