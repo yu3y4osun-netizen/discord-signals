@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561750788840362096",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-19T14:40:03.986000+00:00",
+  "captured_at": "2026-10-20T11:39:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "不知道谷歌在磨什么",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "不知道谷歌在磨什么"
+}
