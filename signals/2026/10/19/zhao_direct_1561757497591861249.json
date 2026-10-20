@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561757497591861249",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T15:06:43.477000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "像soxl盯盯就行",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "像soxl盯盯就行",
+  "attribution": "direct"
+}
