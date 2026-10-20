@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561769070452281446",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-19T15:52:42.662000+00:00",
+  "captured_at": "2026-10-20T11:39:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "群里大神肯定也有，但是我觉得大部分人还没到赵哥水平吧，那些输出情绪叫你割肉的，可以不用慌",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "群里大神肯定也有，但是我觉得大部分人还没到赵哥水平吧，那些输出情绪叫你割肉的，可以不用慌"
+}
