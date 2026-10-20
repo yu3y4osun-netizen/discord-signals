@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561909543795953685",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-20T01:10:54.117000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这周还有反弹吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这周还有反弹吗"
+}
