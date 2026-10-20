@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561762040228614215",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T15:24:46.526000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "和上周四的模型是一样的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "和上周四的模型是一样的",
+  "attribution": "direct"
+}
