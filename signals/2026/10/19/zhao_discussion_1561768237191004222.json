@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561768237191004222",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-19T15:49:23.997000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "我是亲身经历了mu 130-470-310-1200-700-1100",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我是亲身经历了mu 130-470-310-1200-700-1100"
+}
