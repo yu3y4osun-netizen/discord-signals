@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561775474525347901",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-19T16:18:09.512000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "手握的个股的牛熊转折除了个股利空利好之外就看该个股的集合行业etf的大单和成交量就可以了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "手握的个股的牛熊转折除了个股利空利好之外就看该个股的集合行业etf的大单和成交量就可以了"
+}
