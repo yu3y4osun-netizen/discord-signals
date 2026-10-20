@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561759857533657100",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T15:16:06.131000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "上周四的量出来慢慢磨上去模型第一次出来过 这个模型是个5天模型 周五被事件插足了那只能今天做修复",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "上周四的量出来慢慢磨上去模型第一次出来过 这个模型是个5天模型 周五被事件插足了那只能今天做修复",
+  "attribution": "direct"
+}
