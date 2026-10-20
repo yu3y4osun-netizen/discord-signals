@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561770089072689313",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-19T15:56:45.520000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不然有的时候被套住了就没办法拿住了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "不然有的时候被套住了就没办法拿住了"
+}
