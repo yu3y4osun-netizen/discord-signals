@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561761396281180262",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T15:22:12.997000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl如果有6个板块3个板块涨就会涨 算板块贡献系数的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "soxl如果有6个板块3个板块涨就会涨 算板块贡献系数的",
+  "attribution": "direct"
+}
