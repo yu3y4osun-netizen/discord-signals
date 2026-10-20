@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561790541786648698",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "violawang",
+  "ts": "2026-10-19T17:18:01.827000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "好的 那我做t试试 hhh我满仓满融前几天差点强平线 感觉硬件没以前强了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "好的 那我做t试试 hhh我满仓满融前几天差点强平线 感觉硬件没以前强了"
+}
