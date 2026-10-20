@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561757301730316390",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T15:05:56.780000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "具体到时间才知道 只是轮廓",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "具体到时间才知道 只是轮廓",
+  "attribution": "direct"
+}
