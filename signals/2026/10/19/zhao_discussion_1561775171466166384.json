@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561775171466166384",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-19T16:16:57.257000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "SOXL大单我不太会追踪，但是有大单进来，就是押注全面反弹，高点大单进来就是压住全面下跌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "SOXL大单我不太会追踪，但是有大单进来，就是押注全面反弹，高点大单进来就是压住全面下跌"
+}
