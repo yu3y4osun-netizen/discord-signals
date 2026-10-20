@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561756637738311802",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "a6ed2",
+  "ts": "2026-10-19T15:03:18.472000+00:00",
+  "captured_at": "2026-10-20T11:39:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "趙哥好，這次SNDK會反彈到多少附近呀",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "趙哥好，這次SNDK會反彈到多少附近呀"
+}
