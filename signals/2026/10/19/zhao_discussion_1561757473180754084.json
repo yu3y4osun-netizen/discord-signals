@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561757473180754084",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-19T15:06:37.657000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那赵哥你这么说。我感觉还是比较悲观，是吗。但是我感觉美股还是很强劲。一下子就收复了周五的跌幅。",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "那赵哥你这么说。我感觉还是比较悲观，是吗。但是我感觉美股还是很强劲。一下子就收复了周五的跌幅。"
+}
