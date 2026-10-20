@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561751433039188089",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T14:42:37.575000+00:00",
+  "captured_at": "2026-10-20T11:39:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "基本是反弹上去就慢慢减 买集合多空做震荡了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "基本是反弹上去就慢慢减 买集合多空做震荡了",
+  "attribution": "direct"
+}
