@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561763798149505095",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T15:31:45.647000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "减个股的话 时间点就8点半-9点半 A股开盘会回落点 和3-4点 A股收盘后有高点可以减点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "减个股的话 时间点就8点半-9点半 A股开盘会回落点  和3-4点 A股收盘后有高点可以减点",
+  "attribution": "direct"
+}
