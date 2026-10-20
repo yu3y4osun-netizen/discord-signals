@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561762878216998913",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T15:28:06.318000+00:00",
+  "captured_at": "2026-10-20T11:39:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "因为soxl soxs第一轮有过大单出现过",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "因为soxl  soxs第一轮有过大单出现过",
+  "attribution": "direct"
+}
