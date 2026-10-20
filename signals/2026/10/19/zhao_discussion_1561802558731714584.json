@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561802558731714584",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-19T18:05:46.890000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "这尾盘QQQ还能收到725吗 不收到725的话还有后续的反弹吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这尾盘QQQ还能收到725吗 不收到725的话还有后续的反弹吗"
+}
