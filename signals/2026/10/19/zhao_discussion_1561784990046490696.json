@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561784990046490696",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liuxingyu",
+  "ts": "2026-10-19T16:55:58.189000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "群里大佬有人知道cbrs的估值区间吗？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "群里大佬有人知道cbrs的估值区间吗？"
+}
