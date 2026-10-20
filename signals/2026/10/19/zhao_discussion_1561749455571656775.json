@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561749455571656775",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-19T14:34:46.110000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "走势跟QQQ高度一致，还不如买qqq",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "走势跟QQQ高度一致，还不如买qqq"
+}
