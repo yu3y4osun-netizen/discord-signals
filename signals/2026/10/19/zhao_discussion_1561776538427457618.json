@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561776538427457618",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-19T16:22:23.166000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MRVL",
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "SOXL和迈威尔的关系也差不多，SOXL10月9号开跌，迈威尔10月12号才开始跌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "SOXL和迈威尔的关系也差不多，SOXL10月9号开跌，迈威尔10月12号才开始跌"
+}
