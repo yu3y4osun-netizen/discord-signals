@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561787394469134528",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liuxingyu",
+  "ts": "2026-10-19T17:05:31.448000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "AKAM"
+    ],
+    "is_following_zhao": false,
+    "summary": "拿着它感觉有点慌，感觉不如AKAM没有它放心😂",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "拿着它感觉有点慌，感觉不如AKAM没有它放心😂"
+}
