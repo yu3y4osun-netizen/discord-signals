@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561791593890054246",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T17:22:12.668000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在就是 2个模式 收盘附近买 夜盘出 开盘回踩买一次冲高出了 在等收盘买",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "现在就是 2个模式  收盘附近买  夜盘出  开盘回踩买一次冲高出了 在等收盘买",
+  "attribution": "direct"
+}
