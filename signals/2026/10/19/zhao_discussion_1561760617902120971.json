@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561760617902120971",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "a6ed2",
+  "ts": "2026-10-19T15:19:07.417000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我怕拉子的財報像上次那樣暴跌，今天止盈離場了😂",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我怕拉子的財報像上次那樣暴跌，今天止盈離場了😂"
+}
