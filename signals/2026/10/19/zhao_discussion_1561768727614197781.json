@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561768727614197781",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bkaaa",
+  "ts": "2026-10-19T15:51:20.923000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "我22年就买了40多的美光 24年80也卖了🤡",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我22年就买了40多的美光 24年80也卖了🤡"
+}
