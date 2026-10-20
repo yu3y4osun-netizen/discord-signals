@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561758198325715025",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangxing",
+  "ts": "2026-10-19T15:09:30.545000+00:00",
+  "captured_at": "2026-10-20T11:39:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl单盯着✊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl单盯着✊"
+}
