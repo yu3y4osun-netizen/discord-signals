@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561924389191163968",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-20T02:09:53.535000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个时候割肉也没太大意义了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这个时候割肉也没太大意义了"
+}
