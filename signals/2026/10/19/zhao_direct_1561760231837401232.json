@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561760231837401232",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T15:17:35.372000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "连续跌了就要这个慢慢磨上去模型对应几天去消化抛压",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "连续跌了就要这个慢慢磨上去模型对应几天去消化抛压",
+  "attribution": "direct"
+}
