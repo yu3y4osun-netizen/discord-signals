@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561756732814917804",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T15:03:41.140000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "都是soxl参考 115-125是反弹高点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "都是soxl参考 115-125是反弹高点",
+  "attribution": "direct"
+}
