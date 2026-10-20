@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561753809108074538",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-19T14:52:04.074000+00:00",
+  "captured_at": "2026-10-20T11:39:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "从100跌到50，反弹到75-80，这个100的价格对应是开始跌的哪天么？10月8？",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "从100跌到50，反弹到75-80，这个100的价格对应是开始跌的哪天么？10月8？"
+}
