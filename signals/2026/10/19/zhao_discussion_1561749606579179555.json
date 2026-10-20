@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561749606579179555",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-19T14:35:22.113000+00:00",
+  "captured_at": "2026-10-20T11:39:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我感觉财报会猛拉",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我感觉财报会猛拉"
+}
