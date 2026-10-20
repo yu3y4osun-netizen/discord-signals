@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561746405679435810",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-19T14:22:38.959000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "如果是半导体尽力还是买大一点的比如mu",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "如果是半导体尽力还是买大一点的比如mu"
+}
