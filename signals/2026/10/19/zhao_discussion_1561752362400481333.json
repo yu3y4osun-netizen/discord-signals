@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561752362400481333",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "skyeli168",
+  "ts": "2026-10-19T14:46:19.152000+00:00",
+  "captured_at": "2026-10-20T11:39:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 意思是云板块走失败吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 意思是云板块走失败吗"
+}
