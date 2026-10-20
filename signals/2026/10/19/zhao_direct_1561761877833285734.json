@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561761877833285734",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T15:24:07.808000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "先有个预估值 在实际时间在盯着",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "先有个预估值  在实际时间在盯着",
+  "attribution": "direct"
+}
