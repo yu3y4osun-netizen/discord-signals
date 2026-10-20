@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561756201719701577",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T15:01:34.517000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有热情 美中日韩热钱都会去美股",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "有热情 美中日韩热钱都会去美股",
+  "attribution": "direct"
+}
