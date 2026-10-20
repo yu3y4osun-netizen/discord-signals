@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561750421184450592",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-19T14:38:36.330000+00:00",
+  "captured_at": "2026-10-20T11:39:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌至少整理过了，台积电还没开始整理",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌至少整理过了，台积电还没开始整理"
+}
