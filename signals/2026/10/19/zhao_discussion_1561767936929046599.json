@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561767936929046599",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-19T15:48:12.409000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "VIX"
+    ],
+    "is_following_zhao": false,
+    "summary": "vix直线飙升",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "vix直线飙升"
+}
