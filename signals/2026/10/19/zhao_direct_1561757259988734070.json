@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561757259988734070",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T15:05:46.828000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在不是还是5天反弹模式 到了极限跌点到利率决议在反弹 在唱票过程跌（权利交接混乱期） 11月20日后看权利稳定期 赢的一方发言政策 12月10日左右再跌",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "现在不是还是5天反弹模式 到了极限跌点到利率决议在反弹 在唱票过程跌（权利交接混乱期） 11月20日后看权利稳定期 赢的一方发言政策  12月10日左右再跌",
+  "attribution": "direct"
+}
