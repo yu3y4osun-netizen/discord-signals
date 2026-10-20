@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561918843314769921",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-10-20T01:47:51.295000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "大家都割掉cifr和iren了吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "大家都割掉cifr和iren了吗"
+}
