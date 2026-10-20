@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561746646092488708",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-19T14:23:36.278000+00:00",
+  "captured_at": "2026-10-20T11:52:13+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "开盘前反复说了 会 回踩下慢慢磨上去 实际情况一回踩了 又这个怎么了 那个怎么了 大单就是急跌盯着soxl在买",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "开盘前反复说了 会 回踩下慢慢磨上去   实际情况一回踩了  又这个怎么了 那个怎么了 大单就是急跌盯着soxl在买",
+  "attribution": "direct"
+}
