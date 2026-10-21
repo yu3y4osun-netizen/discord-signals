@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561957081500622909",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-10-20T04:19:47.989000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这是为了后面拉升做准备吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这是为了后面拉升做准备吗"
+}
