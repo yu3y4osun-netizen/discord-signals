@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562061812164329606",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-20T11:15:57.725000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "但我买了高价soxl",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "但我买了高价soxl"
+}
