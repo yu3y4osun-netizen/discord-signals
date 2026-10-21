@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562132543493513248",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-10-20T15:57:01.388000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，你的这个模型怎么理解，是一种预测模型呢？还是？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，你的这个模型怎么理解，是一种预测模型呢？还是？"
+}
