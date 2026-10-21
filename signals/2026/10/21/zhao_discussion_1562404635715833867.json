@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562404635715833867",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "helloming",
+  "ts": "2026-10-21T09:58:13.229000+00:00",
+  "captured_at": "2026-10-21T21:02:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "要倒T咧",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "要倒T咧"
+}
