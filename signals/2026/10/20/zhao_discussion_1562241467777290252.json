@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562241467777290252",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-10-20T23:09:50.961000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，模型按理来说是属于数据，数学或者统计分析，很多情况下会有事件催化，这种一般你是如何跟模型结合的呢",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，模型按理来说是属于数据，数学或者统计分析，很多情况下会有事件催化，这种一般你是如何跟模型结合的呢"
+}
