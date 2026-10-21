@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562105113160458291",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T14:08:01.487000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "开盘回踩 冲高就卖不就是",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "开盘回踩 冲高就卖不就是",
+  "attribution": "direct"
+}
