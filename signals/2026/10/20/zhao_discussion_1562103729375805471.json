@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562103729375805471",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-20T14:02:31.567000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "cbrs止跌了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cbrs止跌了"
+}
