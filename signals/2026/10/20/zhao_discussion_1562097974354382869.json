@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562097974354382869",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ciciwangyao",
+  "ts": "2026-10-20T13:39:39.463000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "Iren，有云，有电，有币，概念越多，越有理由砸",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Iren，有云，有电，有币，概念越多，越有理由砸"
+}
