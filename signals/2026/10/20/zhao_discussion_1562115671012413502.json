@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562115671012413502",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hubinchen",
+  "ts": "2026-10-20T14:49:58.675000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "刚进群，可以现在可以买之前赵哥套牢的股票吗？还是等信号再买",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "刚进群，可以现在可以买之前赵哥套牢的股票吗？还是等信号再买"
+}
