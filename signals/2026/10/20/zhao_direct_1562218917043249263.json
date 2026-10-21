@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562218917043249263",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T21:40:14.447000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "上周三 我自己计算就计算到是周三反弹极限日期 周五插队了一个单边 日期就到周四或者周五的夜盘",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "上周三 我自己计算就计算到是周三反弹极限日期  周五插队了一个单边 日期就到周四或者周五的夜盘",
+  "attribution": "direct"
+}
