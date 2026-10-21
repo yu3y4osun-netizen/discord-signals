@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562094904417583286",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-20T13:27:27.533000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "以前也有很多人做空特斯拉这些啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "以前也有很多人做空特斯拉这些啊"
+}
