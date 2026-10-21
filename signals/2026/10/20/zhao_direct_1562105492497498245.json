@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562105492497498245",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T14:09:31.928000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是有篇止损个股进soxl的解释的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是有篇止损个股进soxl的解释的",
+  "attribution": "direct"
+}
