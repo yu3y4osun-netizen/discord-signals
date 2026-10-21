@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562111044766142575",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T14:31:35.692000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "个股每天 回踩那价格那会低肯定是正常",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "个股每天 回踩那价格那会低肯定是正常",
+  "attribution": "direct"
+}
