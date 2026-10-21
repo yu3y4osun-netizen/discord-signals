@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562227992640626760",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T22:16:18.238000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "就像之前那个谁问的 nbis 179买了 163是不是要止损 量化他大单也在 逼迫散户止损 但是他可能179买的165止损然后那个回踩带散户止损 双倍买回来",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就像之前那个谁问的 nbis 179买了 163是不是要止损  量化他大单也在 逼迫散户止损  但是他可能179买的165止损然后那个回踩带散户止损 双倍买回来",
+  "attribution": "direct"
+}
