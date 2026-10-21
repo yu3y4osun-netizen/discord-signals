@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562134812280488007",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T16:06:02.309000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "开盘回踩92.5买了soxl是不是100是短线获利的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "开盘回踩92.5买了soxl是不是100是短线获利的",
+  "attribution": "direct"
+}
