@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561958496436748309",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-20T04:25:25.336000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CONL",
+      "NBIS",
+      "OKLL",
+      "RIOT",
+      "WDCX"
+    ],
+    "is_following_zhao": false,
+    "summary": "IRE NBIL WDCX OKLL RIOT NBIS AEHG CBGR CIFU CONL",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "IRE  NBIL  WDCX  OKLL  RIOT  NBIS  AEHG  CBGR  CIFU  CONL"
+}
