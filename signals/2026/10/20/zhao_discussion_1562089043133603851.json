@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562089043133603851",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-20T13:04:10.094000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "经过这次，我觉得踏空比套牢好",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "经过这次，我觉得踏空比套牢好"
+}
