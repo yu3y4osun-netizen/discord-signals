@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562087635579568139",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-20T12:58:34.507000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我打算死拿了 谢谢yh哥",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我打算死拿了 谢谢yh哥"
+}
