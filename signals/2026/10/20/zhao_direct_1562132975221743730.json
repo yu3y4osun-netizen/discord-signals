@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562132975221743730",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T15:58:44.320000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "根据盘前的委托生成的一个轮廓图 看时间节点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "根据盘前的委托生成的一个轮廓图 看时间节点",
+  "attribution": "direct"
+}
