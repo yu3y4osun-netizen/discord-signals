@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562269879766093846",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-21T01:02:44.907000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥看新闻 是当反指",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥看新闻 是当反指"
+}
