@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562116217454596191",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-10-20T14:52:08.957000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "减点出来soxl soxs做T",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "减点出来soxl  soxs做T"
+}
