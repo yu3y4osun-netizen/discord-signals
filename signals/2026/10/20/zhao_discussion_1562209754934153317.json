@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562209754934153317",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-20T21:03:50.030000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是因为所有人的机器都用一套算法吗？ 我没太明白为什么现实世界会realize算出来的某个模型🤯",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "是因为所有人的机器都用一套算法吗？ 我没太明白为什么现实世界会realize算出来的某个模型🤯"
+}
