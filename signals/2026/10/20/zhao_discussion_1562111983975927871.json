@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562111983975927871",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-20T14:35:19.617000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "我mu和谷歌是赚的最多的，就是留着以防万一",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我mu和谷歌是赚的最多的，就是留着以防万一"
+}
