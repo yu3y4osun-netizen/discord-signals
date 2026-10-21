@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562264710806773784",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yingdi9527",
+  "ts": "2026-10-21T00:42:12.531000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "好哦 赵哥 就是 10.6高点回撤的利润就不惦记回去了 把眼前的反弹目标做好 再慢慢把利润积累起来哈",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "好哦 赵哥 就是 10.6高点回撤的利润就不惦记回去了  把眼前的反弹目标做好 再慢慢把利润积累起来哈"
+}
