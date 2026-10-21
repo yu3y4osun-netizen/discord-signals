@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561957850283253851",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-20T04:22:51.281000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没办法，以前大跌之后，第二天会反弹的，那个会知道一直跌",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "没办法，以前大跌之后，第二天会反弹的，那个会知道一直跌"
+}
