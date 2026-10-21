@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562265263347335191",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T00:44:24.267000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "散户拿不住这个波动",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "散户拿不住这个波动",
+  "attribution": "direct"
+}
