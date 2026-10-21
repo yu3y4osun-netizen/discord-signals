@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562416234408968213",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-21T10:44:18.573000+00:00",
+  "captured_at": "2026-10-21T21:02:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "AMZN",
+      "GOOGL",
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "但谷歌比不过amzn和meta我是真想不明白为什么",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "但谷歌比不过amzn和meta我是真想不明白为什么"
+}
