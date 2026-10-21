@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562226571488526458",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T22:10:39.409000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "把周五的单边演化每个曲率都研究清楚然后让AI算",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "把周五的单边演化每个曲率都研究清楚然后让AI算",
+  "attribution": "direct"
+}
