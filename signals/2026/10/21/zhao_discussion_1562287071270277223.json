@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562287071270277223",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-21T02:11:03.681000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥今天辛苦了 美国那面很晚了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥今天辛苦了 美国那面很晚了"
+}
