@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562133995469275307",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "avocadorable0106",
+  "ts": "2026-10-20T16:02:47.566000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 政权稳定了 是不是股市就回升了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 政权稳定了 是不是股市就回升了"
+}
