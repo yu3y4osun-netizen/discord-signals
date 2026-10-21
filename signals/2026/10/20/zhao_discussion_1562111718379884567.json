@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562111718379884567",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-20T14:34:16.294000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "我把上一波mu和谷歌的钱拿出来t的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我把上一波mu和谷歌的钱拿出来t的"
+}
