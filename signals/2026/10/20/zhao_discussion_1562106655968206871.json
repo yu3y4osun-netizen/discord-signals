@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562106655968206871",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lateonrush77",
+  "ts": "2026-10-20T14:14:09.321000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 只减一到两成仓位做对冲是吧 剩下的仓位还是交给时间",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 只减一到两成仓位做对冲是吧 剩下的仓位还是交给时间"
+}
