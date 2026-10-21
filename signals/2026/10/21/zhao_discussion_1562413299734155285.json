@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562413299734155285",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-21T10:32:38.892000+00:00",
+  "captured_at": "2026-10-21T21:02:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "但soxl两次107突破不上去",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "但soxl两次107突破不上去"
+}
