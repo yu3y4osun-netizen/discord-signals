@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562107382941880521",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yeahcoco",
+  "ts": "2026-10-20T14:17:02.645000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS",
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "不过什么时候出nbis换成soxl 有点拿不准",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "不过什么时候出nbis换成soxl 有点拿不准"
+}
