@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562262803723714712",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T00:34:37.847000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "就像昨天那个soxl是5个每笔都3000万美元的坚决单",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就像昨天那个soxl是5个每笔都3000万美元的坚决单",
+  "attribution": "direct"
+}
