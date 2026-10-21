@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562018384030208082",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-20T08:23:23.651000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl 88直接吉利起飞",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl 88直接吉利起飞"
+}
