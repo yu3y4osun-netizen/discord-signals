@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562097104086638644",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-20T13:36:11.975000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "对的，irwn cifr crwv，52周新低继续",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "对的，irwn cifr crwv，52周新低继续"
+}
