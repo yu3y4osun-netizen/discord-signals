@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562102161574461471",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-20T13:56:17.774000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "新高？ 拿不住吧。。 太考验人性了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "新高？  拿不住吧。。  太考验人性了"
+}
