@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562226146202882153",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-20T22:08:58.013000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "所以我昨天看见那个最低点让人止损的真的很难绷啊",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "所以我昨天看见那个最低点让人止损的真的很难绷啊"
+}
