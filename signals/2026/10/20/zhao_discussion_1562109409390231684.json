@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562109409390231684",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dongreng",
+  "ts": "2026-10-20T14:25:05.788000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "摸了配合soxs轮换",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "摸了配合soxs轮换"
+}
