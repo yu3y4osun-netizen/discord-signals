@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562111920692002899",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zengshanmei",
+  "ts": "2026-10-20T14:35:04.529000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥跑得快是留一部分等财报吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥跑得快是留一部分等财报吗"
+}
