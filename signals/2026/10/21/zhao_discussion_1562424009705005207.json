@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562424009705005207",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-21T11:15:12.348000+00:00",
+  "captured_at": "2026-10-21T21:02:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌又回击球区了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌又回击球区了"
+}
