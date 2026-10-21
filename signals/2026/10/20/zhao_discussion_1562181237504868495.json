@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562181237504868495",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-20T19:10:30.945000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，想问一下最近反弹还是优先半导体反弹嘛，谷歌这个一直感觉很萎靡，按照目前来看是先压制谷歌，等后期再拿谷歌来托大盘嘛",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，想问一下最近反弹还是优先半导体反弹嘛，谷歌这个一直感觉很萎靡，按照目前来看是先压制谷歌，等后期再拿谷歌来托大盘嘛"
+}
