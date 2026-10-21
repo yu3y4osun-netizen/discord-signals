@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561960348578353153",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-20T04:32:46.921000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "GOOGL",
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "一样 小股票明显破位当然要设置。大股票 比如苹果 谷歌 台积电 就没事 迟早涨回去。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "一样  小股票明显破位当然要设置。大股票 比如苹果  谷歌  台积电  就没事  迟早涨回去。"
+}
