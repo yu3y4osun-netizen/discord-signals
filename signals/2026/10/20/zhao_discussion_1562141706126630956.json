@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562141706126630956",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haojue",
+  "ts": "2026-10-20T16:33:25.930000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这两周确实很懵",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这两周确实很懵"
+}
