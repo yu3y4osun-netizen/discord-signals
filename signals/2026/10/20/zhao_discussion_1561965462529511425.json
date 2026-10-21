@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561965462529511425",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-20T04:53:06.182000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我双倍还有一点 今晚大跌账户都没有怎么跌要是满仓人早嘛咯",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我双倍还有一点 今晚大跌账户都没有怎么跌要是满仓人早嘛咯"
+}
