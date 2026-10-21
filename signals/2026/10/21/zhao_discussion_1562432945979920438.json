@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562432945979920438",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-21T11:50:42.922000+00:00",
+  "captured_at": "2026-10-21T21:02:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "Meta就是基本上只投自己内部项目 虽然很多没弄出来砍掉了 但是人才留存率挺高",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Meta就是基本上只投自己内部项目 虽然很多没弄出来砍掉了 但是人才留存率挺高"
+}
