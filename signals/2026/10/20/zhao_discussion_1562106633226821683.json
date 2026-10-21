@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562106633226821683",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yeahcoco",
+  "ts": "2026-10-20T14:14:03.899000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "NBIS",
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥我想问下 像nbis重仓被套的话 有必要搞点出来每天做做soxl吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥我想问下 像nbis重仓被套的话 有必要搞点出来每天做做soxl吗"
+}
