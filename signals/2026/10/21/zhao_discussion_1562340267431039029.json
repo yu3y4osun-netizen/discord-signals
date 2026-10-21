@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562340267431039029",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-21T05:42:26.634000+00:00",
+  "captured_at": "2026-10-21T14:54:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "HYNIX"
+    ],
+    "is_following_zhao": false,
+    "summary": "海力士的fwd pe只有3x了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "海力士的fwd pe只有3x了"
+}
