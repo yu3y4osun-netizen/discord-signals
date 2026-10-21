@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562087660007325760",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-20T12:58:40.331000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我重仓三倍半导体",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我重仓三倍半导体"
+}
