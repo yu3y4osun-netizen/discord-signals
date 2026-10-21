@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562101300760416391",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sanshan",
+  "ts": "2026-10-20T13:52:52.540000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "想的是nbis基本面好一些 会不会在极端行情下更有机会一点 包括修复新高也更有机会 这样的想法",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "想的是nbis基本面好一些 会不会在极端行情下更有机会一点 包括修复新高也更有机会 这样的想法"
+}
