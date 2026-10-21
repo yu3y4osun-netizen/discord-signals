@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562175727854555248",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-20T18:48:37.342000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "BTC",
+      "ETH"
+    ],
+    "is_following_zhao": true,
+    "summary": "他BTC和以太坊都快出完了 就剩一点底仓了 大部分是他自己的tron",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "他BTC和以太坊都快出完了 就剩一点底仓了 大部分是他自己的tron"
+}
