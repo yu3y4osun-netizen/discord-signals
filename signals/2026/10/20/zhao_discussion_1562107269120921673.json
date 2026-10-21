@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562107269120921673",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-20T14:16:35.508000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "感觉iren回踩快把鞋踩烂了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "感觉iren回踩快把鞋踩烂了"
+}
