@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562265663072899196",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T00:45:59.569000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl之前就是检测大单 118他买了他可能108自己损 带出止损单 98之类 双倍买回 和92三倍量买回",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "soxl之前就是检测大单 118他买了他可能108自己损 带出止损单 98之类 双倍买回 和92三倍量买回",
+  "attribution": "direct"
+}
