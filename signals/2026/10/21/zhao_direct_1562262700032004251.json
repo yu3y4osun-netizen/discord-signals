@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562262700032004251",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T00:34:13.125000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "行情极端到 都是算法了 就很容易",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "行情极端到 都是算法了  就很容易",
+  "attribution": "direct"
+}
