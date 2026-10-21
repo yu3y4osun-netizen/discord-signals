@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562113763463663627",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-20T14:42:23.880000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥都被套他每次都能跑掉",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥都被套他每次都能跑掉"
+}
