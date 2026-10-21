@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562116247938924627",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-20T14:52:16.225000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 如何判断是回踩反弹模式 还是单边下跌模式呢 上周连续单边下跌 开盘时候有假回踩（周四除外）",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 如何判断是回踩反弹模式 还是单边下跌模式呢 上周连续单边下跌 开盘时候有假回踩（周四除外）"
+}
