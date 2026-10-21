@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562115448408113173",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-10-20T14:49:05.602000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "CONL",
+      "TSLL"
+    ],
+    "is_following_zhao": true,
+    "summary": "今年重仓tsll，conl吃了两次回撤，都赚回去了，这次分散了又吃了大回撤，看看回去要多久",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "今年重仓tsll，conl吃了两次回撤，都赚回去了，这次分散了又吃了大回撤，看看回去要多久"
+}
