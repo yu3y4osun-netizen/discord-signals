@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562120175606562968",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "spencerft",
+  "ts": "2026-10-20T15:07:52.654000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "NBIS CRWV 我们后面的plan 是什么",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "NBIS CRWV 我们后面的plan 是什么"
+}
