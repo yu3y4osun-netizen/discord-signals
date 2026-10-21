@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562125544034795521",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "allenlove",
+  "ts": "2026-10-20T15:29:12.587000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥 请问现在soxl多少可以加仓啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 请问现在soxl多少可以加仓啊"
+}
