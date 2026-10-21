@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562249069160566796",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-20T23:40:03.272000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPCX"
+    ],
+    "is_following_zhao": false,
+    "summary": "spcx好像要解禁了 感觉可以适量跑一点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "spcx好像要解禁了 感觉可以适量跑一点"
+}
