@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562097754363138050",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnkdki",
+  "ts": "2026-10-20T13:38:47.013000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天恐慌指数还好吧",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "今天恐慌指数还好吧"
+}
