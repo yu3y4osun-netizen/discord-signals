@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562264455486775367",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T00:41:11.658000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "因为这个反弹对我来说没有任何干扰项 每天都在看盘口 真实的永远做不了假 盘口才是最不会说谎的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "因为这个反弹对我来说没有任何干扰项 每天都在看盘口 真实的永远做不了假  盘口才是最不会说谎的",
+  "attribution": "direct"
+}
