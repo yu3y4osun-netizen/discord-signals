@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562136854612934811",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "avocadorable0106",
+  "ts": "2026-10-20T16:14:09.239000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥 我们应该还有1/6 TSLA 现在成本上 出吗？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 我们应该还有1/6 TSLA 现在成本上 出吗？"
+}
