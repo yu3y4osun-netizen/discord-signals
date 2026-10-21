@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562068949171048627",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-20T11:44:19.320000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "UBER"
+    ],
+    "is_following_zhao": true,
+    "summary": "还买了uber",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "还买了uber"
+}
