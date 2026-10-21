@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562211218591322254",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T21:09:38.993000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "算法形成短期又不会改 只是10月6日走失败了 原来增量的市场变成 平量市场就会换模型",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "算法形成短期又不会改 只是10月6日走失败了 原来增量的市场变成 平量市场就会换模型",
+  "attribution": "direct"
+}
