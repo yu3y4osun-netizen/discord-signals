@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562086111516430347",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-20T12:52:31.142000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "而且NBIS债务比CRWV少很多",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "而且NBIS债务比CRWV少很多"
+}
