@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562194097610035331",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-20T20:01:37.033000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天这个位置反弹的话又是到3角区域下缘的反弹",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "今天这个位置反弹的话又是到3角区域下缘的反弹"
+}
