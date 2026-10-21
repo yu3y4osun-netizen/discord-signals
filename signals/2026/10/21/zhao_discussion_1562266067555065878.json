@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562266067555065878",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-21T00:47:36.005000+00:00",
+  "captured_at": "2026-10-21T14:58:10+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq这波能到740吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "qqq这波能到740吗"
+}
