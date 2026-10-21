@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562122083130015756",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiekai",
+  "ts": "2026-10-20T15:15:27.443000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "又说谈判不属实又崩了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "又说谈判不属实又崩了"
+}
