@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562280738320031846",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T01:45:53.788000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要 亚洲都怕A股不按常理出牌 A股开盘不怎么跌又会回去的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "主要 亚洲都怕A股不按常理出牌  A股开盘不怎么跌又会回去的",
+  "attribution": "direct"
+}
