@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562096723231252513",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "flyin88",
+  "ts": "2026-10-20T13:34:41.172000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren，cifr马上腰斩",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "iren，cifr马上腰斩"
+}
