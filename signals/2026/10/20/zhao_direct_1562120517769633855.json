@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562120517769633855",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T15:09:14.232000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl也不是确定昨天99是底部",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "soxl也不是确定昨天99是底部",
+  "attribution": "direct"
+}
