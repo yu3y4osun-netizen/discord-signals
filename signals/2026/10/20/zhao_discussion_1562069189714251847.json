@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562069189714251847",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-20T11:45:16.670000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": true,
+    "summary": "主要佩罗西也买了英特尔",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "主要佩罗西也买了英特尔"
+}
