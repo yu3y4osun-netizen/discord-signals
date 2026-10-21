@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562120258397929616",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "spencerft",
+  "ts": "2026-10-20T15:08:12.393000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "可以SOXS 和 SOXL双开对冲吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "可以SOXS 和 SOXL双开对冲吗"
+}
