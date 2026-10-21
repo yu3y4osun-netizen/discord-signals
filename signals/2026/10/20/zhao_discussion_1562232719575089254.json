@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562232719575089254",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lateonrush77",
+  "ts": "2026-10-20T22:35:05.227000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 符合模型了 是还是按之前画的图 反弹个五天吗 只是因为韩国周五 延缓了一天 然后这五天 减一到两成仓做对冲",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 符合模型了 是还是按之前画的图 反弹个五天吗 只是因为韩国周五 延缓了一天 然后这五天 减一到两成仓做对冲"
+}
