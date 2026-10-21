@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562105910921273386",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T14:11:11.688000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是开盘这个回踩 不要分心 东找西找理由 那么急速 一分心就错过",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是开盘这个回踩 不要分心 东找西找理由 那么急速 一分心就错过",
+  "attribution": "direct"
+}
