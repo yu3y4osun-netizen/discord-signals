@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562415252484915231",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-21T10:40:24.464000+00:00",
+  "captured_at": "2026-10-21T21:02:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "META",
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌的横盘，跳高回落时间都已经超过meta和微软了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌的横盘，跳高回落时间都已经超过meta和微软了"
+}
