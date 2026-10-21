@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562135312895975577",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-20T16:08:01.665000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那时候止损其实就好了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那时候止损其实就好了"
+}
