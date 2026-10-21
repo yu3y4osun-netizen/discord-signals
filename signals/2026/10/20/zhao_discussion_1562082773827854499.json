@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562082773827854499",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wenwater",
+  "ts": "2026-10-20T12:39:15.375000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "开v了 这不正好做多",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "开v了 这不正好做多"
+}
