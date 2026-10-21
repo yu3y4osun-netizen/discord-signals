@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562119745518698507",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T15:06:10.113000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "反弹一半减点 做soxs 在双底了 买soxl和个股",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "反弹一半减点  做soxs 在双底了 买soxl和个股",
+  "attribution": "direct"
+}
