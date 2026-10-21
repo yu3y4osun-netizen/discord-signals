@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562107543063494688",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-20T14:17:40.821000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": true,
+    "summary": "不过我搞的是cbrs 出了一半 拿来Tsoxl",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "不过我搞的是cbrs 出了一半 拿来Tsoxl"
+}
