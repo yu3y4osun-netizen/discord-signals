@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562132577119379540",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-10-20T15:57:09.405000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥请问国庆后这几天spy缩量这么严重就是回流的钱没进的意思吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥请问国庆后这几天spy缩量这么严重就是回流的钱没进的意思吗"
+}
