@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562074740716212277",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-20T12:07:20.132000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "反正看到他把他的INTC期权给平了。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "反正看到他把他的INTC期权给平了。"
+}
