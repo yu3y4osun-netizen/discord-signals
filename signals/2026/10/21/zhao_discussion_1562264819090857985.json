@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562264819090857985",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-10-21T00:42:38.348000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥，按照目前的持仓来看，接下来的情况是不是逢高减之前的仓位，然后个股有机会的话，就像这几天soxl一样做波段？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，按照目前的持仓来看，接下来的情况是不是逢高减之前的仓位，然后个股有机会的话，就像这几天soxl一样做波段？"
+}
