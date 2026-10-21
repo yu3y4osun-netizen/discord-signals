@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562282795093594173",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-10-21T01:54:04.161000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，后面几天怎么看美股走势？ 昨天会员正好到期，刚续上",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，后面几天怎么看美股走势？ 昨天会员正好到期，刚续上"
+}
