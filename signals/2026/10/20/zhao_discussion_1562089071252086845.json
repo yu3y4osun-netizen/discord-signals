@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562089071252086845",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-20T13:04:16.798000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "踏空是赚的",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "踏空是赚的"
+}
