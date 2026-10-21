@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562087316355416135",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-10-20T12:57:18.398000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "去年政府关门不也反弹了两三天",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "去年政府关门不也反弹了两三天"
+}
