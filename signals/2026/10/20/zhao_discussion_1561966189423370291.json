@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561966189423370291",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-10-20T04:55:59.487000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "云利空因素多，但是利好的消息这几天也不时放出来，看不懂了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "云利空因素多，但是利好的消息这几天也不时放出来，看不懂了"
+}
