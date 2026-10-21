@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562070521007579270",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-20T11:50:34.075000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": true,
+    "summary": "你去搜一下就好了 我是看到这条消息又加仓了一部分英特尔",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "你去搜一下就好了 我是看到这条消息又加仓了一部分英特尔"
+}
