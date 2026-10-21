@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562058588443254835",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cthylla",
+  "ts": "2026-10-20T11:03:09.130000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren又52周新低了刚刚",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "iren又52周新低了刚刚"
+}
