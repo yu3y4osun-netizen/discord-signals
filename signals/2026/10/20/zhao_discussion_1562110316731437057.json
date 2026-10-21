@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562110316731437057",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-20T14:28:42.115000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "融资得控制在3成",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "融资得控制在3成"
+}
