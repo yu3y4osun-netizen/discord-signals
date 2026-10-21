@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562216010738704457",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-20T21:28:41.530000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥能持续吗，这种非盘中大涨，感觉容易砸下来",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥能持续吗，这种非盘中大涨，感觉容易砸下来"
+}
