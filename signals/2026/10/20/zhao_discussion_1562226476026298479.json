@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562226476026298479",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-20T22:10:16.649000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "然后让猫哥在最低点160出头止损",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "然后让猫哥在最低点160出头止损"
+}
