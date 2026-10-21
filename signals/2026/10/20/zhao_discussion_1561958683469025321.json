@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561958683469025321",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-20T04:26:09.928000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "太猛了哥们😂",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "太猛了哥们😂"
+}
