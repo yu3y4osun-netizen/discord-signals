@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562211514423967817",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T21:10:49.525000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就和你打网球一样 遇到 不熟悉的对手 先前2局摸清楚对方手法战术体系 然后后面几局做应对反制",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就和你打网球一样  遇到 不熟悉的对手 先前2局摸清楚对方手法战术体系  然后后面几局做应对反制",
+  "attribution": "direct"
+}
