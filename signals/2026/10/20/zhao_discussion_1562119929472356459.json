@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562119929472356459",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xprimes",
+  "ts": "2026-10-20T15:06:53.971000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN",
+      "CONL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 最近coin conl还做吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 最近coin conl还做吗"
+}
