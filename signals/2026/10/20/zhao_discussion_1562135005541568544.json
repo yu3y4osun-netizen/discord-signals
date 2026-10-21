@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562135005541568544",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-10-20T16:06:48.386000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥如果当初光从盘面上看的话，是不是当初6号spy缩量就要走一部分",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥如果当初光从盘面上看的话，是不是当初6号spy缩量就要走一部分"
+}
