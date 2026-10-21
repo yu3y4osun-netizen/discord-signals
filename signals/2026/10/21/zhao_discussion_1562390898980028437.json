@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562390898980028437",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-10-21T09:03:38.136000+00:00",
+  "captured_at": "2026-10-21T21:02:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还咋样还是咋样，下回冲高就减仓，看来不能格局了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "还咋样还是咋样，下回冲高就减仓，看来不能格局了"
+}
