@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562070728285884427",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-20T11:51:23.494000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "BE",
+      "INTC"
+    ],
+    "is_following_zhao": true,
+    "summary": "截至 2026年10月20日，根据美国众议院公开的交易申报记录，南希·佩洛西（Nancy Pelosi）最近一次披露投资交易是在 2026年10月2日。 不过，...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "截至 2026年10月20日，根据美国众议院公开的交易申报记录，南希·佩洛西（Nancy Pelosi）最近一次披露投资交易是在 2026年10月2日。\n\n不过，需要区分两件事：\n\n最新投资披露：10月2日，新增一笔商业房地产相关投资，并非上市股票。\n\n最新股票加仓披露：8月21日，主要涉及 Bloom Energy（BE）和英特尔（INTC），包括股票和看涨期权。"
+}
