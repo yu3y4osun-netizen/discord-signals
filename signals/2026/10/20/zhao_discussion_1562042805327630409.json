@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562042805327630409",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-20T10:00:26.142000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "昨晚收盘没收到725就该跑的 只是反抽不是反弹",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "昨晚收盘没收到725就该跑的 只是反抽不是反弹"
+}
