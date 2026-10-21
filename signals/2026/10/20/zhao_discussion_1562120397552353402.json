@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562120397552353402",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-20T15:08:45.570000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，双开的话直接整个仓位三分一来做吗，还是说也是分一成，然后一成里面的三分一",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，双开的话直接整个仓位三分一来做吗，还是说也是分一成，然后一成里面的三分一"
+}
