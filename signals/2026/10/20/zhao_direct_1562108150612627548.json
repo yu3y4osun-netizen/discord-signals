@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562108150612627548",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T14:20:05.672000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ARKK"
+    ],
+    "is_following_zhao": false,
+    "summary": "等于 木头姐那种等跌换等跌",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "等于 木头姐那种等跌换等跌",
+  "attribution": "direct"
+}
