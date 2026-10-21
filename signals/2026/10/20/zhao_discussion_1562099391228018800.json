@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562099391228018800",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-20T13:45:17.272000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥现在也不加仓了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥现在也不加仓了"
+}
