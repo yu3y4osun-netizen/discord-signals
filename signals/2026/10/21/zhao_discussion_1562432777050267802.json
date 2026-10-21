@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562432777050267802",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-21T11:50:02.646000+00:00",
+  "captured_at": "2026-10-21T21:02:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "和Meta两个企业文化",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "和Meta两个企业文化"
+}
