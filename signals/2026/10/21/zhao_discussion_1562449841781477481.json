@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562449841781477481",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-21T12:57:51.195000+00:00",
+  "captured_at": "2026-10-21T21:02:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPCX"
+    ],
+    "is_following_zhao": false,
+    "summary": "spcx涨就是知道他在开支高的情况下靠ai算力大幅提高营收",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "spcx涨就是知道他在开支高的情况下靠ai算力大幅提高营收"
+}
