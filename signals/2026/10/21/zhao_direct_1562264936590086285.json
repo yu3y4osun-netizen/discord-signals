@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562264936590086285",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T00:43:06.362000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "其实说过大致轮廓 5天反弹X天回调 在X天反弹 在回调",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "其实说过大致轮廓  5天反弹X天回调 在X天反弹  在回调",
+  "attribution": "direct"
+}
