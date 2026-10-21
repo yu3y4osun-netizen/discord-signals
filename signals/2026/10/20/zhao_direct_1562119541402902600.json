@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562119541402902600",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T15:05:21.448000+00:00",
+  "captured_at": "2026-10-21T14:55:27+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "反弹日期到期了分批soxs",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "反弹日期到期了分批soxs",
+  "attribution": "direct"
+}
