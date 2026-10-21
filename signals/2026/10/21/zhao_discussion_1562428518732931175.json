@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562428518732931175",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-21T11:33:07.384000+00:00",
+  "captured_at": "2026-10-21T21:02:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥手上还有谷歌吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥手上还有谷歌吧"
+}
