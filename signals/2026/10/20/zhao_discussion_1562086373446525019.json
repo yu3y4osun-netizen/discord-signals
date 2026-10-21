@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562086373446525019",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-20T12:53:33.591000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哈兰德是从基本面给大家打强心剂了，但股价被逮着杀，融资的能不能扛住，需要自己判断了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "哈兰德是从基本面给大家打强心剂了，但股价被逮着杀，融资的能不能扛住，需要自己判断了"
+}
