@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562107655609122899",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dongreng",
+  "ts": "2026-10-20T14:18:07.654000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "其实大家内心要崩溃的时候也是机构认为散户要低价割肉的时候。这种时候一定要管住自己手",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "其实大家内心要崩溃的时候也是机构认为散户要低价割肉的时候。这种时候一定要管住自己手"
+}
