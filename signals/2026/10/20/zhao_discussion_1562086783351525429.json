@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562086783351525429",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bkaaa",
+  "ts": "2026-10-20T12:55:11.320000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "NVDA"
+    ],
+    "is_following_zhao": true,
+    "summary": "着重看b200 nvda新的blackwell架构 租金持续上涨更能反应算力需求 同理可得crwv 虽然是女大白手套 但是亲爹给卡给得多啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "着重看b200 nvda新的blackwell架构 租金持续上涨更能反应算力需求 同理可得crwv 虽然是女大白手套 但是亲爹给卡给得多啊"
+}
