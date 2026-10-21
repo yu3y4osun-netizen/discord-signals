@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562108562489081923",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dongreng",
+  "ts": "2026-10-20T14:21:43.871000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "听赵哥的慢慢做soxl都回来不少了。赵哥给的价很准",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "听赵哥的慢慢做soxl都回来不少了。赵哥给的价很准"
+}
