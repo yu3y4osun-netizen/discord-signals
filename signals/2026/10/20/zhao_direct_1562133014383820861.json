@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562133014383820861",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T15:58:53.657000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "比如开盘要回踩上去再回落横盘",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "比如开盘要回踩上去再回落横盘",
+  "attribution": "direct"
+}
