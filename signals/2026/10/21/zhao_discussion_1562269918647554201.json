@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562269918647554201",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-21T01:02:54.177000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥看的新闻是有选择的",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥看的新闻是有选择的"
+}
