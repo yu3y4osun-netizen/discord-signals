@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562062130671390851",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ciciwangyao",
+  "ts": "2026-10-20T11:17:13.663000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个点割肉，真的是和挥刀自宫产不多了，太难了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这个点割肉，真的是和挥刀自宫产不多了，太难了"
+}
