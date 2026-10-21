@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562120747848302767",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-20T15:10:09.087000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "其实这个的话是只做中选前双开，后面中选结束还是做单边看涨嘛嘛",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "其实这个的话是只做中选前双开，后面中选结束还是做单边看涨嘛嘛"
+}
