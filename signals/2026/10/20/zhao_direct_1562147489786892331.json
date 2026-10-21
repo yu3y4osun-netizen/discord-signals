@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562147489786892331",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T16:56:24.862000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "要那天脱离模型了说明才有人工干预的量介入",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "要那天脱离模型了说明才有人工干预的量介入",
+  "attribution": "direct"
+}
