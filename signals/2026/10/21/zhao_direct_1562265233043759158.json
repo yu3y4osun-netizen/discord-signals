@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562265233043759158",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T00:44:17.042000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这样波动只有看懂的人有先手权了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这样波动只有看懂的人有先手权了",
+  "attribution": "direct"
+}
