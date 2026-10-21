@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562418232378523732",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-21T10:52:14.926000+00:00",
+  "captured_at": "2026-10-21T21:02:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "逻辑上，年底买做空ETF亏钱概率低",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "逻辑上，年底买做空ETF亏钱概率低"
+}
