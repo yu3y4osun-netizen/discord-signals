@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562103507761234014",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-10-20T14:01:38.730000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要是别的都套牢了 没资金了 这种怎么做啊 割点出来吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "主要是别的都套牢了 没资金了 这种怎么做啊 割点出来吗"
+}
