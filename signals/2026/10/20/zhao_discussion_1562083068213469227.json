@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562083068213469227",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-20T12:40:25.562000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "上周五恐慌大涨35%",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "上周五恐慌大涨35%"
+}
