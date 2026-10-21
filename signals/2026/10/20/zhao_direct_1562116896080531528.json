@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562116896080531528",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T14:54:50.754000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "然后 实际就是开盘看看哪里转弯 soxl 92.5不就是80%大单",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后 实际就是开盘看看哪里转弯 soxl 92.5不就是80%大单",
+  "attribution": "direct"
+}
