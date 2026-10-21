@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562115974235168839",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T14:51:10.969000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "最近就买卖soxl为主 股票 周五前 会减点出来",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "最近就买卖soxl为主 股票 周五前 会减点出来",
+  "attribution": "direct"
+}
