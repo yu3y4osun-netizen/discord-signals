@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562083939126878289",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-20T12:43:53.204000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但是AI还是要发展的我最多被套个一个月",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "但是AI还是要发展的我最多被套个一个月"
+}
