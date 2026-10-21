@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562101371673510041",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hwangjoey",
+  "ts": "2026-10-20T13:53:09.447000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "这他吗Iren cifr",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这他吗Iren cifr"
+}
