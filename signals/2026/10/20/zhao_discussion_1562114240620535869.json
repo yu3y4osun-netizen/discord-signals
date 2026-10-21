@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562114240620535869",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-20T14:44:17.643000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "自己有自己的判断就行了，按赵哥的点位和思路，按自己的操作习惯",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "自己有自己的判断就行了，按赵哥的点位和思路，按自己的操作习惯"
+}
