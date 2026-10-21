@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562100404693770311",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sanshan",
+  "ts": "2026-10-20T13:49:18.901000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "哥我现在nbis 55% iren25% crwv20% 你觉得有必须把iren和crwv都换nbis嘛",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "哥我现在nbis 55% iren25% crwv20% 你觉得有必须把iren和crwv都换nbis嘛"
+}
