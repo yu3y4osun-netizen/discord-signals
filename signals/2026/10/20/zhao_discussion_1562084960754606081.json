@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562084960754606081",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wenwater",
+  "ts": "2026-10-20T12:47:56.779000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这v得好猛",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这v得好猛"
+}
