@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562282251537088514",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T01:51:54.567000+00:00",
+  "captured_at": "2026-10-21T14:58:35+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "像今天榜一的凡拓数创 就是看能不能带情绪",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "像今天榜一的凡拓数创 就是看能不能带情绪",
+  "attribution": "direct"
+}
