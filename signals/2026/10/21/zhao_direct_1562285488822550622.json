@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562285488822550622",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T02:04:46.396000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "A股他主要不会像韩国 跌多了会有救市政策 主要就是做龙虎榜的情绪为主",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "A股他主要不会像韩国 跌多了会有救市政策  主要就是做龙虎榜的情绪为主",
+  "attribution": "direct"
+}
