@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562073772142370878",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-20T12:03:29.206000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "leopold他是不是又快爆仓了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "leopold他是不是又快爆仓了"
+}
