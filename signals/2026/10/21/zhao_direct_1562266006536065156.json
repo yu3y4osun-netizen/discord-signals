@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562266006536065156",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T00:47:21.457000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个模型就是以第一个上涨的下跌算反弹点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这个模型就是以第一个上涨的下跌算反弹点",
+  "attribution": "direct"
+}
