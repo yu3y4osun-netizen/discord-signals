@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562147674369691853",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T16:57:08.870000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "模型的固化 并不是AI运算精确了 而是人工和散户的增量没有了 纯算法维持每天的交易",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "模型的固化 并不是AI运算精确了 而是人工和散户的增量没有了 纯算法维持每天的交易",
+  "attribution": "direct"
+}
