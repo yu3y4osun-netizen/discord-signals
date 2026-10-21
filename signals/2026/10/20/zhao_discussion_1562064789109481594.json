@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562064789109481594",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zengshanmei",
+  "ts": "2026-10-20T11:27:47.484000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": true,
+    "summary": "英伟达持仓都弱了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "英伟达持仓都弱了"
+}
