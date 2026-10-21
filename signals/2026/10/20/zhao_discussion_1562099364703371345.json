@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562099364703371345",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gladsquash4a",
+  "ts": "2026-10-20T13:45:10.948000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "看qqq走势完全不像能守住到样",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "看qqq走势完全不像能守住到样"
+}
