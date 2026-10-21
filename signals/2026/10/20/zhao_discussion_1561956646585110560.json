@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1561956646585110560",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-20T04:18:04.297000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "想也没用，就等赵哥减仓时，我可能全部清空",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "想也没用，就等赵哥减仓时，我可能全部清空"
+}
