@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562052700735017031",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cthylla",
+  "ts": "2026-10-20T10:39:45.391000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv现金流要2030年才有可能转正",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "crwv现金流要2030年才有可能转正"
+}
