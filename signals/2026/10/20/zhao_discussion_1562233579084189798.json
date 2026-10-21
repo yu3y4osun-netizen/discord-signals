@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562233579084189798",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lateonrush77",
+  "ts": "2026-10-20T22:38:30.150000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "谢谢赵哥指明方向 相信大家都安心多了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "谢谢赵哥指明方向 相信大家都安心多了"
+}
