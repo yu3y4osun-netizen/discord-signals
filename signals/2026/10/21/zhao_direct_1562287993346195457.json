@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562287993346195457",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T02:14:43.521000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "也是要休息了 因为夜盘毕竟不能全程看 就是之前说的8点半看到9点45分左右 可以看到韩国开始的情况 然后就3-4点再看看",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "也是要休息了 因为夜盘毕竟不能全程看 就是之前说的8点半看到9点45分左右 可以看到韩国开始的情况 然后就3-4点再看看",
+  "attribution": "direct"
+}
