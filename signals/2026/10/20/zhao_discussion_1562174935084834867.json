@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562174935084834867",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-20T18:45:28.331000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "其实也正常 openai前段时间数学突破太多了 BTC就怕量子计算突破 qday那天把中本聪钱包给抛了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "其实也正常 openai前段时间数学突破太多了 BTC就怕量子计算突破 qday那天把中本聪钱包给抛了"
+}
