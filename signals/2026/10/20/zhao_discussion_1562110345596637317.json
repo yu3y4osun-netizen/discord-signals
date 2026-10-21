@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562110345596637317",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-20T14:28:48.997000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "今天唯一的操作是iren25的时候买了明年六月的call 时间跟赵哥买soxl时间保持一致",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "今天唯一的操作是iren25的时候买了明年六月的call 时间跟赵哥买soxl时间保持一致"
+}
