@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562110827832672377",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T14:30:43.971000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "减个股节点 一个看soxl 115-120这个价格 一个时间看周三周四",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "减个股节点 一个看soxl 115-120这个价格 一个时间看周三周四",
+  "attribution": "direct"
+}
