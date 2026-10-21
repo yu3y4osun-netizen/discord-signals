@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562133569609138359",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T16:01:06.033000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "走链条 几天反弹几天回调",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "走链条  几天反弹几天回调",
+  "attribution": "direct"
+}
