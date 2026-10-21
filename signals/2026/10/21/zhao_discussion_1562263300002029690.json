@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562263300002029690",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yingdi9527",
+  "ts": "2026-10-21T00:36:36.169000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "啊 赵哥收盘时咋没追一笔soxl？ 是分析 盘前还会下压 再买么",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "啊 赵哥收盘时咋没追一笔soxl？ 是分析 盘前还会下压 再买么"
+}
