@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562182830400733226",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-20T19:16:50.721000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌弱的话也没关系，在日线两百天那里晃悠，下面缺口又和50周线差不多，补了的话就放心点，一直没补就很难受，周线破位了的话我还能先跑路",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌弱的话也没关系，在日线两百天那里晃悠，下面缺口又和50周线差不多，补了的话就放心点，一直没补就很难受，周线破位了的话我还能先跑路"
+}
