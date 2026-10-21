@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562119920018399326",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T15:06:51.717000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "100跌50的股票 量能缩量热钱减退情况 只能会75-80一半位置 再回50探底来个轮次",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "100跌50的股票 量能缩量热钱减退情况 只能会75-80一半位置 再回50探底来个轮次",
+  "attribution": "direct"
+}
