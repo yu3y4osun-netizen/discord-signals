@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562133292109660266",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T15:59:59.872000+00:00",
+  "captured_at": "2026-10-21T14:56:14+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是6号说的 有的人邮寄投票 追回来改选了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是6号说的 有的人邮寄投票  追回来改选了",
+  "attribution": "direct"
+}
