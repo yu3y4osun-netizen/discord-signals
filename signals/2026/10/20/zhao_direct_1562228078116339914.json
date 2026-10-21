@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562228078116339914",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T22:16:38.617000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就像盘后模型的直线是突然的 他就是极限时间点去做直线的反弹",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就像盘后模型的直线是突然的  他就是极限时间点去做直线的反弹",
+  "attribution": "direct"
+}
