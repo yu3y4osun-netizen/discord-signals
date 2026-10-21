@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562211046788300841",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T21:08:58.032000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你让机器分析是用那几个数学模型组合的形成的分时图",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "你让机器分析是用那几个数学模型组合的形成的分时图",
+  "attribution": "direct"
+}
