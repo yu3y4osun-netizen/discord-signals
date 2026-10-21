@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562102571420885123",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-20T13:57:55.489000+00:00",
+  "captured_at": "2026-10-21T11:02:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "急跌了就盯着soxl做做T 不然有东找西找理由 有错过",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "急跌了就盯着soxl做做T 不然有东找西找理由 有错过",
+  "attribution": "direct"
+}
