@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562194943898947747",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-20T20:04:58.804000+00:00",
+  "captured_at": "2026-10-21T11:43:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPCX"
+    ],
+    "is_following_zhao": false,
+    "summary": "spcx 营收超预期",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "spcx 营收超预期"
+}
