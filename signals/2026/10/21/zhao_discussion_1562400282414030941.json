@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562400282414030941",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-21T09:40:55.321000+00:00",
+  "captured_at": "2026-10-21T21:02:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是得这么来回甩清掉套牢盘",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "就是得这么来回甩清掉套牢盘"
+}
