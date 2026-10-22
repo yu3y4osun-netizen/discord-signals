@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562460948923547759",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xprimes",
+  "ts": "2026-10-21T13:41:59.344000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "反弹到最后两天了 但是全被云深套了 ：（ 出不去 要跟着做t吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "反弹到最后两天了 但是全被云深套了 ：（ 出不去 要跟着做t吗"
+}
