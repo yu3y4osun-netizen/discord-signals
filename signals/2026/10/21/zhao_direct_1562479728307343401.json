@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562479728307343401",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T14:56:36.698000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "发过几次了 大致就是 下周是小回调 探双底 再反弹下 唱票结果快民主胜利走政权混乱跌11月20日左右 做反弹到12月5日左右 民主说政策稳定期",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "发过几次了 大致就是 下周是小回调 探双底   再反弹下 唱票结果快民主胜利走政权混乱跌11月20日左右  做反弹到12月5日左右 民主说政策稳定期",
+  "attribution": "direct"
+}
