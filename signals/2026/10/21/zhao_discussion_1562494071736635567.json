@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562494071736635567",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-21T15:53:36.438000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥有没有关注这块儿的动向",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥有没有关注这块儿的动向"
+}
