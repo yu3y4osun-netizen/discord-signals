@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562477880561246249",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-21T14:49:16.161000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "应该反弹下继续下杀",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "应该反弹下继续下杀"
+}
