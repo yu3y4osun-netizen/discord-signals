@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562459216717946973",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "a6ed2",
+  "ts": "2026-10-21T13:35:06.354000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "google有點意思",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "google有點意思"
+}
