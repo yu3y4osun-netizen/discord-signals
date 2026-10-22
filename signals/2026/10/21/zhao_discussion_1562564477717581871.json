@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562564477717581871",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiekai",
+  "ts": "2026-10-21T20:33:22.532000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在看割肉的都早了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "现在看割肉的都早了"
+}
