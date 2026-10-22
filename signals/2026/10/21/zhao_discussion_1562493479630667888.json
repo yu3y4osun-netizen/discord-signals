@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562493479630667888",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-10-21T15:51:15.269000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥怎么看oa两家上市，他们估值那么高但是又有那么多债和亏损，以前有过类似这样的巨头上市吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥怎么看oa两家上市，他们估值那么高但是又有那么多债和亏损，以前有过类似这样的巨头上市吗"
+}
