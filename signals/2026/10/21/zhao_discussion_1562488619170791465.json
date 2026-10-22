@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562488619170791465",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kongfu233hahaha",
+  "ts": "2026-10-21T15:31:56.445000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥是不是还有半笔182.8的coin没出",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥是不是还有半笔182.8的coin没出"
+}
