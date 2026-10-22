@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562517293567705220",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-21T17:25:52.954000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "HYNIX",
+      "MU",
+      "SSNLF"
+    ],
+    "is_following_zhao": false,
+    "summary": "目前这个是mu 三星的比海力士先进",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "目前这个是mu 三星的比海力士先进"
+}
