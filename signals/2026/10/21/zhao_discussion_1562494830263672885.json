@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562494830263672885",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-21T15:56:37.285000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是的 赵哥机器要盯着那么多股票数据 忙不过来，不如整理出几个好票 专精点做。",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "是的  赵哥机器要盯着那么多股票数据  忙不过来，不如整理出几个好票  专精点做。"
+}
