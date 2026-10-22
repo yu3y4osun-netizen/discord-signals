@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562480437673205831",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xprimes",
+  "ts": "2026-10-21T14:59:25.824000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 看盘前模型轮廓，今天计划的买点也是在尾盘对不",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 看盘前模型轮廓，今天计划的买点也是在尾盘对不"
+}
