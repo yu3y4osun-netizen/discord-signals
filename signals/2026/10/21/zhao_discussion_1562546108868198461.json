@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562546108868198461",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-21T19:20:23.057000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在这个市场真是特么搞不懂了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "现在这个市场真是特么搞不懂了"
+}
