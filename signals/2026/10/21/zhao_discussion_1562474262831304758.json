@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562474262831304758",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-21T14:34:53.627000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥 资金减少了是因为都去做债了么 还是说赚够了避险",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 资金减少了是因为都去做债了么 还是说赚够了避险"
+}
