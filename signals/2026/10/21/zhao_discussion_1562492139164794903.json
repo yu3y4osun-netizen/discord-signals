@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562492139164794903",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wikitang",
+  "ts": "2026-10-21T15:45:55.677000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "自己真t不明白 因为昨天赵哥说还要反弹两天来着 全卖我也不敢卖 现在已经水下很多了 卖飞涨上去的话 我估计没勇气追高买回来了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "自己真t不明白 因为昨天赵哥说还要反弹两天来着 全卖我也不敢卖 现在已经水下很多了 卖飞涨上去的话 我估计没勇气追高买回来了"
+}
