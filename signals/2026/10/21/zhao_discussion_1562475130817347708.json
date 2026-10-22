@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562475130817347708",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-10-21T14:38:20.571000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，那明年是不是可以买点基本面好的港股，腾讯今天贴破400了，感觉港股真一直走熊，看着快要跌到位了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，那明年是不是可以买点基本面好的港股，腾讯今天贴破400了，感觉港股真一直走熊，看着快要跌到位了"
+}
