@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562469441403490365",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-21T14:15:44.109000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌有点屌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌有点屌"
+}
