@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562490787374174239",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-21T15:40:33.385000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "180赵哥不是出了一次nbis吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "180赵哥不是出了一次nbis吗"
+}
