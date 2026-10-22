@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562563432396488747",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-21T20:29:13.308000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "bex早知道不割了 都快回本了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "bex早知道不割了 都快回本了"
+}
