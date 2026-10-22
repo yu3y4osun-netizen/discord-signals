@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562492950632595529",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-21T15:49:09.146000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在真难啊，反弹也就几个点，没等到暴力反弹",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "现在真难啊，反弹也就几个点，没等到暴力反弹"
+}
