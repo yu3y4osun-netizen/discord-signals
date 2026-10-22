@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562480120894062653",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "violawang",
+  "ts": "2026-10-21T14:58:10.298000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥那美光1050满仓满融还动吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥那美光1050满仓满融还动吗"
+}
