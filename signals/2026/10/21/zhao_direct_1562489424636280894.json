@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562489424636280894",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T15:35:08.483000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "当中时间就自己可以添下 有个下标的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "当中时间就自己可以添下 有个下标的",
+  "attribution": "direct"
+}
