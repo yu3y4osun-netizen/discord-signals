@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562482236329164821",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-21T15:06:34.657000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我今年一直在a股市场定投标普和纳指etf，前阵子清完了，这玩意在a股市场买还有溢价赚",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我今年一直在a股市场定投标普和纳指etf，前阵子清完了，这玩意在a股市场买还有溢价赚"
+}
