@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562480708105277533",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T15:00:30.300000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "8成左右 留点现金出来到周五周一开始分批做点空 对冲下",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "8成左右  留点现金出来到周五周一开始分批做点空 对冲下",
+  "attribution": "direct"
+}
