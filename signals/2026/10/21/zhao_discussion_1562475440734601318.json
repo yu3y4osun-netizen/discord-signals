@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562475440734601318",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-21T14:39:34.461000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这么说的话其实如果有利润垫的话保着利润先了，我清仓等局势稳定了再入场",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "这么说的话其实如果有利润垫的话保着利润先了，我清仓等局势稳定了再入场"
+}
