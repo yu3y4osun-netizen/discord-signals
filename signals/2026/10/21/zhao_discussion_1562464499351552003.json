@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562464499351552003",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-10-21T13:56:05.832000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLL"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥的tsll出了吗，我看着那个记录赵哥仓位的whop群还显示有1/2成的tsll",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥的tsll出了吗，我看着那个记录赵哥仓位的whop群还显示有1/2成的tsll"
+}
