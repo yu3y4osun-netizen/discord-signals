@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562530195112726609",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-21T18:17:08.922000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "AAOI"
+    ],
+    "is_following_zhao": false,
+    "summary": "看不懂今天个股走法😅好多走高的 照这种走法像aaoi这种还没爆的是一会儿还要爆一下吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "看不懂今天个股走法😅好多走高的 照这种走法像aaoi这种还没爆的是一会儿还要爆一下吗"
+}
