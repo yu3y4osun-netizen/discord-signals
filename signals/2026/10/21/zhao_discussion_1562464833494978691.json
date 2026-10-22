@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562464833494978691",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "c8641",
+  "ts": "2026-10-21T13:57:25.498000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": true,
+    "summary": "intc还能加仓吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "intc还能加仓吗"
+}
