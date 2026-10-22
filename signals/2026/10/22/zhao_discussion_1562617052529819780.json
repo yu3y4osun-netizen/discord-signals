@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562617052529819780",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-22T00:02:17.344000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "老美回流全球资金，标普都没冲破8000，长期资金跑债固，然后反弹无力，市场已经走中选失败，迎来一段混乱期行情",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "老美回流全球资金，标普都没冲破8000，长期资金跑债固，然后反弹无力，市场已经走中选失败，迎来一段混乱期行情"
+}
