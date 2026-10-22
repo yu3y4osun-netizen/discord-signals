@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562551296450502737",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-21T19:40:59.873000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMZN",
+      "GOOGL",
+      "MSFT",
+      "SNDK",
+      "STX",
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "从今天开始是ME TA 特斯拉 德州仪器IBM 下周SNDK 希捷 然后微软谷歌 亚马逊因特儿",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "从今天开始是ME TA 特斯拉 德州仪器IBM 下周SNDK 希捷 然后微软谷歌 亚马逊因特儿"
+}
