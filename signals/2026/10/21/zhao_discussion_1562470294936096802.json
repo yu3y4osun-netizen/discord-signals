@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562470294936096802",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-21T14:19:07.607000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "本来以为谷歌在躲meta财报",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "本来以为谷歌在躲meta财报"
+}
