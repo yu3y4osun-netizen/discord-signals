@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562529595205353563",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-21T18:14:45.893000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": true,
+    "summary": "今天有人买了17m的3月份crwv 85 c",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "今天有人买了17m的3月份crwv 85 c"
+}
