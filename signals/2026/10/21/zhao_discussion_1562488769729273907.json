@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562488769729273907",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kongfu233hahaha",
+  "ts": "2026-10-21T15:32:32.341000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN"
+    ],
+    "is_following_zhao": false,
+    "summary": "刚才直接跳过出185的coin了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "刚才直接跳过出185的coin了"
+}
