@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562542790943055956",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdjru9492",
+  "ts": "2026-10-21T19:07:12.002000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这市场，空单没有拿住",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "这市场，空单没有拿住"
+}
