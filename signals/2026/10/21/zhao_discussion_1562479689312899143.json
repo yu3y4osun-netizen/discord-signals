@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562479689312899143",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-21T14:56:27.401000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "BTC突破8.4了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "BTC突破8.4了"
+}
