@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562628756764491858",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-22T00:48:47.851000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "万一割了开空，两头挨打",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "万一割了开空，两头挨打"
+}
