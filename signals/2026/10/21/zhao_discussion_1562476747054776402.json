@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562476747054776402",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-21T14:44:45.912000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "明年 赵哥应该打错字了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "明年 赵哥应该打错字了"
+}
