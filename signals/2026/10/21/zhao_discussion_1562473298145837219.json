@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562473298145837219",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanged",
+  "ts": "2026-10-21T14:31:03.628000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥。以后人工参与进来，是不是就不会有盘前发的预测图了？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥。以后人工参与进来，是不是就不会有盘前发的预测图了？"
+}
