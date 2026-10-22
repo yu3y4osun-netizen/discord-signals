@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562493566549495809",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-21T15:51:35.992000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "记得前两个月我一直建议你们还是买点谷歌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "记得前两个月我一直建议你们还是买点谷歌"
+}
