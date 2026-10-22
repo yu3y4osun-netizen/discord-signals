@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562474403051085908",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T14:35:27.058000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要是走失败了 股票波动增大了 求稳的就不会进场了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "主要是走失败了  股票波动增大了 求稳的就不会进场了",
+  "attribution": "direct"
+}
