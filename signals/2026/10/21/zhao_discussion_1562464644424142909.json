@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562464644424142909",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-21T13:56:40.420000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "Nebius Group NV 高管表示，公司看到的人工智能（AI）算力价格涨幅超过预期。在新云企业商业模式受到越来越多审视的背景下，这一表态释放了乐观信号。 ...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Nebius Group NV 高管表示，公司看到的人工智能（AI）算力价格涨幅超过预期。在新云企业商业模式受到越来越多审视的背景下，这一表态释放了乐观信号。 Nebius 首席营收官 Marc Boroditsky 表示，公司并不处于 CoreWeave 的处境，因为 “我们并没有背负他们那样的债务。” 如果公司在 2027 年上线新算力产能，将会被迅速订满；2028 年也可能出现 “类似的供需动态”，这将支撑长期需求前景，因为企业正争相获取算力资源"
+}
