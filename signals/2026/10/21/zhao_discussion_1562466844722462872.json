@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562466844722462872",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-21T14:05:25.012000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哦哦 我看着图是12点 那就安心等着了 感谢赵哥🙏",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "哦哦 我看着图是12点 那就安心等着了 感谢赵哥🙏"
+}
