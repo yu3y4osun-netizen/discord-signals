@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562502857708671148",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deleter666",
+  "ts": "2026-10-21T16:28:31.177000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "AEHR",
+      "COHR"
+    ],
+    "is_following_zhao": false,
+    "summary": "COHR AEHR 大佬们 还拿着吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "COHR AEHR 大佬们 还拿着吗"
+}
