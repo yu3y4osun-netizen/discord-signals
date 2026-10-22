@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562471290982375590",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "a6ed2",
+  "ts": "2026-10-21T14:23:05.083000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "MSTR"
+    ],
+    "is_following_zhao": false,
+    "summary": "我記得趙哥以前是不是買過mstr 然後小顧買崩了MSTR",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我記得趙哥以前是不是買過mstr   然後小顧買崩了MSTR"
+}
