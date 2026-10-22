@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562483395706093641",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-21T15:11:11.074000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥 像cbrs以及云这种大幅亏损的 是不是只能等了？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 像cbrs以及云这种大幅亏损的 是不是只能等了？"
+}
