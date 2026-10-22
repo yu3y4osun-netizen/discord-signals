@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562476009486553130",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-10-21T14:41:50.062000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "CBRS",
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "Cbrs Crwv开盘直接下杀，真牛逼",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Cbrs Crwv开盘直接下杀，真牛逼"
+}
