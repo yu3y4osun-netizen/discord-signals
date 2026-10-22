@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562564633724985486",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-21T20:33:59.727000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "同时持有soxs soxl么",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "同时持有soxs soxl么"
+}
