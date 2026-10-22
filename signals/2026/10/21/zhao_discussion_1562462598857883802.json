@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562462598857883802",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-21T13:48:32.719000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "按照赵哥画的图走啊 10点出头走",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "按照赵哥画的图走啊 10点出头走"
+}
