@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562477523311394899",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T14:47:50.986000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "A股 港股今天是真空期的 没人来压迫的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "A股 港股今天是真空期的 没人来压迫的",
+  "attribution": "direct"
+}
