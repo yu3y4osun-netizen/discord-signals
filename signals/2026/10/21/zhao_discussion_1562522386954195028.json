@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562522386954195028",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-21T17:46:07.312000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "CBRS除了之前oai的负面谣言，另外就是市场不看好CS5的落地和价格竞争力",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "CBRS除了之前oai的负面谣言，另外就是市场不看好CS5的落地和价格竞争力"
+}
