@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562492322040516772",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kongfu233hahaha",
+  "ts": "2026-10-21T15:46:39.278000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我现在已经全自动跟单躺平了。相信赵叔 都能回来",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我现在已经全自动跟单躺平了。相信赵叔 都能回来"
+}
