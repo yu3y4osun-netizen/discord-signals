@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562477799128957051",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-21T14:48:56.746000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "A股反弹下估计就没了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "A股反弹下估计就没了"
+}
