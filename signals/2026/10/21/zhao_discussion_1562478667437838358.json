@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562478667437838358",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "a6ed2",
+  "ts": "2026-10-21T14:52:23.767000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": true,
+    "summary": "我的SNDK成本1450 看明天能不能回本",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我的SNDK成本1450   看明天能不能回本"
+}
