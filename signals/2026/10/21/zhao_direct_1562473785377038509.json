@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562473785377038509",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-21T14:32:59.793000+00:00",
+  "captured_at": "2026-10-22T09:10:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "相当于A股2015年牛市 南北车合并的当天是缩量的开始一样",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "相当于A股2015年牛市  南北车合并的当天是缩量的开始一样",
+  "attribution": "direct"
+}
