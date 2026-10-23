@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562848507872809051",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-22T15:22:00.598000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "CRWV",
+      "GOOGL",
+      "HYNIX"
+    ],
+    "is_following_zhao": true,
+    "summary": "继续加仓谷歌crwv海力士",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "继续加仓谷歌crwv海力士"
+}
