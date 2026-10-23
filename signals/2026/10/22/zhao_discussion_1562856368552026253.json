@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562856368552026253",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-10-22T15:53:14.730000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我也是稳了两个月一直小仓位做，在9号群里大家喊打满，然后梭哈➕杠杆上去，被深套了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我也是稳了两个月一直小仓位做，在9号群里大家喊打满，然后梭哈➕杠杆上去，被深套了"
+}
