@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562845259720036410",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cthylla",
+  "ts": "2026-10-22T15:09:06.178000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "不是，iren不会真去18吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "不是，iren不会真去18吧"
+}
