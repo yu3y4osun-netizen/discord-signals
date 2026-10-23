@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562880813656313860",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-22T17:30:22.897000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哈哈还有几个兄弟一直喊大家满仓满融呢",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "哈哈还有几个兄弟一直喊大家满仓满融呢"
+}
