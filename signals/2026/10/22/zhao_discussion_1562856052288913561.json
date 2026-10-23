@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562856052288913561",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-22T15:51:59.327000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "别喊梭哈了行吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "别喊梭哈了行吗"
+}
