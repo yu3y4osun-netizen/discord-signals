@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562907498095050883",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "proenmity",
+  "ts": "2026-10-22T19:16:24.963000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "打算看盘后或者夜盘反弹点就割肉走了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "打算看盘后或者夜盘反弹点就割肉走了"
+}
