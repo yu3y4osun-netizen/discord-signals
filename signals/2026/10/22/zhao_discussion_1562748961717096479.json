@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562748961717096479",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangxing",
+  "ts": "2026-10-22T08:46:26.945000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "其实就是做自己 不激进 群里有很多转发赵哥信息的 行情好的时候就会鼓励杠杆期权 跌了就说早走了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "其实就是做自己  不激进 群里有很多转发赵哥信息的 行情好的时候就会鼓励杠杆期权 跌了就说早走了"
+}
