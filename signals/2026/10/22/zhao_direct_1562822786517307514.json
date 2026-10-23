@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562822786517307514",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T13:39:48.149000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "META",
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "meta和tsla是减持披露那么多 二季度跌了很多不可能减持的来到三季度就会减上季度没出的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "meta和tsla是减持披露那么多 二季度跌了很多不可能减持的来到三季度就会减上季度没出的",
+  "attribution": "direct"
+}
