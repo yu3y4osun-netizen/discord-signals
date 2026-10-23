@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562834405230252033",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T14:25:58.266000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "热门行情比如会有1个经理搭载10个下单员 行情差了 下命令 多做多亏 变成1个经理 盯着10个ai",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "热门行情比如会有1个经理搭载10个下单员   行情差了  下命令 多做多亏 变成1个经理 盯着10个ai",
+  "attribution": "direct"
+}
