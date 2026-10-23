@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562728358280957985",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T07:24:34.703000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "每次一样也可以 天数还很多天",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "每次一样也可以 天数还很多天",
+  "attribution": "direct"
+}
