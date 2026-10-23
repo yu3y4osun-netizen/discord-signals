@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562725749163688050",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T07:14:12.641000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "先等今天的轮廓图9点左右看数据推出的结果再看看",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "先等今天的轮廓图9点左右看数据推出的结果再看看",
+  "attribution": "direct"
+}
