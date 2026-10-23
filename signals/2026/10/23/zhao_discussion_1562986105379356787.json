@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562986105379356787",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-23T00:28:46.400000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是以大饼参考",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "就是以大饼参考"
+}
