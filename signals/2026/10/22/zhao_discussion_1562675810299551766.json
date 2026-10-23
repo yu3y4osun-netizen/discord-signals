@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562675810299551766",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dongreng",
+  "ts": "2026-10-22T03:55:46.288000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "我昨天提前全仓干了45块7的soxs睡一觉看赵哥44.3。后悔啊买早了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我昨天提前全仓干了45块7的soxs睡一觉看赵哥44.3。后悔啊买早了"
+}
