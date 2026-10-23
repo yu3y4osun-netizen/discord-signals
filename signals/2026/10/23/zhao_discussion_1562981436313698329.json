@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562981436313698329",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-23T00:10:13.208000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不知道啊 也没止损",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "不知道啊 也没止损"
+}
