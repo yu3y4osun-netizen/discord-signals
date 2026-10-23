@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562751820290588673",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-22T08:57:48.482000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "毕竟新高也是跟着赵哥赚的，亏也一起亏了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "毕竟新高也是跟着赵哥赚的，亏也一起亏了"
+}
