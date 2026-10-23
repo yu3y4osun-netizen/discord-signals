@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562915119770501131",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-22T19:46:42.112000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "有点想把soxl割了 扛不住了要",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "有点想把soxl割了 扛不住了要"
+}
