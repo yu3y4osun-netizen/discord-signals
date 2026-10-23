@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563018328396791829",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-23T02:36:48.966000+00:00",
+  "captured_at": "2026-10-23T11:17:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这些云现金流没了 回本周期变长 很难再买同样多新卡了吧",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "这些云现金流没了 回本周期变长 很难再买同样多新卡了吧"
+}
