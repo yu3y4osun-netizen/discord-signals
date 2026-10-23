@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562717438376804466",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T06:41:11.195000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "也不是要搜集下韩国的开盘数据",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "也不是要搜集下韩国的开盘数据",
+  "attribution": "direct"
+}
