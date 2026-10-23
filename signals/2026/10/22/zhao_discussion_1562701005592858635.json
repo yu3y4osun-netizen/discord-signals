@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562701005592858635",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "spencerft",
+  "ts": "2026-10-22T05:35:53.314000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SCHD",
+      "VOO"
+    ],
+    "is_following_zhao": false,
+    "summary": "FGI below 30买VOO SCHD 胜率好很多",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "FGI below 30买VOO SCHD 胜率好很多"
+}
