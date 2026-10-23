@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562991240264548403",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wenwater",
+  "ts": "2026-10-23T00:49:10.652000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不管了 这个价格太诱人了 进了再说反正止损很小",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "不管了 这个价格太诱人了 进了再说反正止损很小"
+}
