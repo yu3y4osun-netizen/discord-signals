@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562997524007223359",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-23T01:14:08.813000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "11月18日（预计）英伟达财报，数据中心订单与利润预期，不出意外的话应该又是满分，然后收盘跌5cm。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "11月18日（预计）英伟达财报，数据中心订单与利润预期，不出意外的话应该又是满分，然后收盘跌5cm。"
+}
