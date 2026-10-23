@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562732524029878324",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-22T07:41:07.895000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "感谢赵哥了 那目前就这么来了 按轮廓图来尝试累积3成仓空7成仓多了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "感谢赵哥了 那目前就这么来了 按轮廓图来尝试累积3成仓空7成仓多了"
+}
