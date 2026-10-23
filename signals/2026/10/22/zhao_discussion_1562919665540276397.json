@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562919665540276397",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-22T20:04:45.908000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "因为大家都是高位被套 七月是轻仓入场",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "因为大家都是高位被套  七月是轻仓入场"
+}
