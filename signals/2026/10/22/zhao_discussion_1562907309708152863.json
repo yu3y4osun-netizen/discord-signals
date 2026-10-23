@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562907309708152863",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "proenmity",
+  "ts": "2026-10-22T19:15:40.048000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl几块钱涨上来的，如果ai科技行情结束，3倍磨损厉害怕会一直阴跌回几块钱了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl几块钱涨上来的，如果ai科技行情结束，3倍磨损厉害怕会一直阴跌回几块钱了"
+}
