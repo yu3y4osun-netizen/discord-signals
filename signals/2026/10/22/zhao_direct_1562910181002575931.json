@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562910181002575931",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T19:27:04.618000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "我是要熬段时间 到成本附近出来 在做对冲soxs",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我是要熬段时间 到成本附近出来 在做对冲soxs",
+  "attribution": "direct"
+}
