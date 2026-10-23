@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562871659830972548",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-22T16:54:00.455000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 这种走势是量化么",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 这种走势是量化么"
+}
