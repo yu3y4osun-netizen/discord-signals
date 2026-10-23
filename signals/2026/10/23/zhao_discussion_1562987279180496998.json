@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562987279180496998",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wenwater",
+  "ts": "2026-10-23T00:33:26.256000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "感觉韩国企稳了 大仓位cs进去了 赌一个高开",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "感觉韩国企稳了 大仓位cs进去了 赌一个高开"
+}
