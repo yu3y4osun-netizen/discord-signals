@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562818050590249052",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ctttest",
+  "ts": "2026-10-22T13:20:59.016000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一直都在阴跌",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "一直都在阴跌"
+}
