@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562720876388941885",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T06:54:50.881000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "情绪高涨的环境 他可能 比如昨天12点这里 单子是情绪单追高 会让模型失效",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "情绪高涨的环境 他可能 比如昨天12点这里 单子是情绪单追高 会让模型失效",
+  "attribution": "direct"
+}
