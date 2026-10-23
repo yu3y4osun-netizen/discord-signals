@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562836073841823814",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-22T14:32:36.094000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "希望 今天继续按照赵哥的模型来 就完美了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "希望  今天继续按照赵哥的模型来  就完美了"
+}
