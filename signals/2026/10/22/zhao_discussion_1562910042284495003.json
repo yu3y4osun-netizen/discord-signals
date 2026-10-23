@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562910042284495003",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-22T19:26:31.545000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥您现在仓位不是很高吗，也算是大仓位了吧？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥您现在仓位不是很高吗，也算是大仓位了吧？"
+}
