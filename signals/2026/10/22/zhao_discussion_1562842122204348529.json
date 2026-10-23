@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562842122204348529",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "uccu",
+  "ts": "2026-10-22T14:56:38.136000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl最多的一天跌幅是30%",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl最多的一天跌幅是30%"
+}
