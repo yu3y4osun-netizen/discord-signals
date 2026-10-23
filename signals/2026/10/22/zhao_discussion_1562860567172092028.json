@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562860567172092028",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liuxingyu",
+  "ts": "2026-10-22T16:09:55.759000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥现在能不能做空一下做一下对冲，cbrs跌了快40个点了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥现在能不能做空一下做一下对冲，cbrs跌了快40个点了"
+}
