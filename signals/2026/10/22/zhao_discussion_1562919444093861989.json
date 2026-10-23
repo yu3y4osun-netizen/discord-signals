@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562919444093861989",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "linlin7",
+  "ts": "2026-10-22T20:03:53.111000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "今晚不手贱了 最好的结果只能是博明天韩国带飞 反弹回点血然后再割掉2只票 然后割完进军 soxs soxl专注做这俩了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "今晚不手贱了 最好的结果只能是博明天韩国带飞 反弹回点血然后再割掉2只票  然后割完进军 soxs soxl专注做这俩了"
+}
