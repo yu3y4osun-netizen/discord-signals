@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562719882561200162",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-10-22T06:50:53.934000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那赵哥目前我们需要跟踪美债交易情况吗，我看上次加息股票触底的时候美债做了个双肩顶",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "那赵哥目前我们需要跟踪美债交易情况吗，我看上次加息股票触底的时候美债做了个双肩顶"
+}
