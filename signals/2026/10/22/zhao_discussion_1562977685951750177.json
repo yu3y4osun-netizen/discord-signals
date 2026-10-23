@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562977685951750177",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-22T23:55:19.052000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥的计划是每次反弹减掉价格最近的一批，但是现在最近的一批离得都非常远😂这咋弄",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥的计划是每次反弹减掉价格最近的一批，但是现在最近的一批离得都非常远😂这咋弄"
+}
