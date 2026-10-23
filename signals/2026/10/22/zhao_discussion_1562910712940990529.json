@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562910712940990529",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-22T19:29:11.442000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥那么今天目前还是没有v，今天进的soxl需要走吗，还是可能跟昨天一样盘后拉一下？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥那么今天目前还是没有v，今天进的soxl需要走吗，还是可能跟昨天一样盘后拉一下？"
+}
