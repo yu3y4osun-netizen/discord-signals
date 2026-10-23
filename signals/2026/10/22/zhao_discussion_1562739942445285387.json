@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562739942445285387",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-22T08:10:36.583000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥开soxl我就加仓，开soxs就减仓",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥开soxl我就加仓，开soxs就减仓"
+}
