@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562723875408580712",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-10-22T07:06:45.903000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": true,
+    "summary": "股票没到成本的太多了 昨天都没减多少 soxs开少了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "股票没到成本的太多了  昨天都没减多少   soxs开少了"
+}
