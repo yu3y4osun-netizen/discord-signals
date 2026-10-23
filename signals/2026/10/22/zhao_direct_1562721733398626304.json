@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562721733398626304",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T06:58:15.208000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "昨天第二次卖soxl就是这里符合轮廓的诱多模型这个节点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "昨天第二次卖soxl就是这里符合轮廓的诱多模型这个节点",
+  "attribution": "direct"
+}
