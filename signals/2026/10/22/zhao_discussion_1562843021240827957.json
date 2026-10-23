@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562843021240827957",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xlucky",
+  "ts": "2026-10-22T15:00:12.483000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren真的畜生，又新低了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "iren真的畜生，又新低了"
+}
