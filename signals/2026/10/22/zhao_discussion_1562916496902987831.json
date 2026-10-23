@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562916496902987831",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "linlin7",
+  "ts": "2026-10-22T19:52:10.446000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "明天看呗 赵哥没办法看呀",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "明天看呗 赵哥没办法看呀"
+}
