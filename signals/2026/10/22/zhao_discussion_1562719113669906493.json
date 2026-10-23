@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562719113669906493",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-10-22T06:47:50.616000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "话说赵哥之前有次欧债危机和英国养老金出问题，当时美国本地企业的股票受影响小吧",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "话说赵哥之前有次欧债危机和英国养老金出问题，当时美国本地企业的股票受影响小吧"
+}
