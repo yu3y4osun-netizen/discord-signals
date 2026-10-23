@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562849126792568933",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-22T15:24:28.160000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "好像真按照赵哥的模型走呢",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "好像真按照赵哥的模型走呢"
+}
