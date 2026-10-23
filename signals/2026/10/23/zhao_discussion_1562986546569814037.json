@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562986546569814037",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yeahcoco",
+  "ts": "2026-10-23T00:30:31.588000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要是很纠结呀 前面没减仓 因为反弹点位都比我加的低",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "主要是很纠结呀 前面没减仓 因为反弹点位都比我加的低"
+}
