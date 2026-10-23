@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562673649948033025",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-22T03:47:11.220000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "错过了soxs",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "错过了soxs"
+}
