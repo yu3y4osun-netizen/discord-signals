@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562726111459287103",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T07:15:39.019000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "12月6日往后的节点是5:5多空",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "12月6日往后的节点是5:5多空",
+  "attribution": "direct"
+}
