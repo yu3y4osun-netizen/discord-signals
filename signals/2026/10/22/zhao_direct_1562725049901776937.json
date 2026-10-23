@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562725049901776937",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T07:11:25.924000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "像下周要利率决议了 就是 反弹是周四结束就是后面几天的链条就是5天左右的回调",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "像下周要利率决议了 就是 反弹是周四结束就是后面几天的链条就是5天左右的回调",
+  "attribution": "direct"
+}
