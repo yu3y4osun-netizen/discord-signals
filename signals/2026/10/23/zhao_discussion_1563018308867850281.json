@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563018308867850281",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-23T02:36:44.310000+00:00",
+  "captured_at": "2026-10-23T11:17:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "28-29日 可能就是反转时间点",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "28-29日 可能就是反转时间点"
+}
