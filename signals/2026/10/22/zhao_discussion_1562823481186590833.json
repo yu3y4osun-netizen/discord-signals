@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562823481186590833",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ciciwangyao",
+  "ts": "2026-10-22T13:42:33.771000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，今晚12点的样子是不是就是本轮反弹的终止点了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，今晚12点的样子是不是就是本轮反弹的终止点了"
+}
