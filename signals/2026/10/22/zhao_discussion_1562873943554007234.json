@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562873943554007234",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckydong",
+  "ts": "2026-10-22T17:03:04.937000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "本金都腰斩了 要止损吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "本金都腰斩了 要止损吗"
+}
