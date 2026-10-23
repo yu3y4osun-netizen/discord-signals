@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562852103603621930",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sanshan",
+  "ts": "2026-10-22T15:36:17.887000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "应该是震荡反弹上去",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "应该是震荡反弹上去"
+}
