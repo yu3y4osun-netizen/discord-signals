@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562779579419066449",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T10:48:06.774000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "越接近 你只能把全球的数据都录进去",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "越接近 你只能把全球的数据都录进去",
+  "attribution": "direct"
+}
