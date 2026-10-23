@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562718242303123511",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-22T06:44:22.866000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 这种轮廓图是通过时序模型预测出来的吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 这种轮廓图是通过时序模型预测出来的吗"
+}
