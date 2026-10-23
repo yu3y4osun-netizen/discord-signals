@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562858110714912794",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-22T16:00:10.094000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥您这个走势图显示1点很高，会表示量能么",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥您这个走势图显示1点很高，会表示量能么"
+}
