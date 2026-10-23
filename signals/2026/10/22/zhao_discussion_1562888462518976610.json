@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562888462518976610",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-10-22T18:00:46.528000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "轮廓图是对的 只是soxl和spy差的有点多",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "轮廓图是对的  只是soxl和spy差的有点多"
+}
