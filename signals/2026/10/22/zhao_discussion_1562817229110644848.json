@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562817229110644848",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-22T13:17:43.160000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "XLE"
+    ],
+    "is_following_zhao": false,
+    "summary": "低配的就是xle",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "低配的就是xle"
+}
