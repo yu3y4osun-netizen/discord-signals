@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562833436736098399",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T14:22:07.359000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "期权就自己来设好止损速度更快 个人看手速",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "期权就自己来设好止损速度更快 个人看手速",
+  "attribution": "direct"
+}
