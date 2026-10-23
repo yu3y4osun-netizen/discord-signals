@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562733422160642161",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-22T07:44:42.026000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不是应该轮廓最高点卖股票之后开点空单么",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "不是应该轮廓最高点卖股票之后开点空单么"
+}
