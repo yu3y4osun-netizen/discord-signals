@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562889503633313919",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-22T18:04:54.749000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你们满仓的都没走么",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "你们满仓的都没走么"
+}
