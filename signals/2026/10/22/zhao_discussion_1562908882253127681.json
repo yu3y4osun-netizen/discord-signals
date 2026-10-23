@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562908882253127681",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "proenmity",
+  "ts": "2026-10-22T19:21:54.972000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没有，打算今天有点反弹就清了，守好现金，等这轮调整结束，新的行情开始再进来，现在的行情太可怕了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "没有，打算今天有点反弹就清了，守好现金，等这轮调整结束，新的行情开始再进来，现在的行情太可怕了"
+}
