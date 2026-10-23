@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562719266703147069",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T06:48:27.102000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "美国就利率影响债 别的国家的不会影响",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "美国就利率影响债 别的国家的不会影响",
+  "attribution": "direct"
+}
