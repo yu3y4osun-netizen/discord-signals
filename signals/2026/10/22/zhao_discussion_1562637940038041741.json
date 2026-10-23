@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562637940038041741",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-22T01:25:17.314000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "昨天卖了点，现在半仓…开空也不敢，如果夜盘有反弹就空…",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "昨天卖了点，现在半仓…开空也不敢，如果夜盘有反弹就空…"
+}
