@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562727854347780167",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-10-22T07:22:34.556000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，那英特尔这种呢？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，那英特尔这种呢？"
+}
