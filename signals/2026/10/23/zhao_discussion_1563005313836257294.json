@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563005313836257294",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-23T01:45:06.053000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "我都不敢跟昨天收盘说对冲的SOXS",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我都不敢跟昨天收盘说对冲的SOXS"
+}
