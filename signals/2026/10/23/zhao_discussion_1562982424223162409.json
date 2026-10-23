@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562982424223162409",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-23T00:14:08.744000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "v变瀑布",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "v变瀑布"
+}
