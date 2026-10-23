@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562875673654067363",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sxyy",
+  "ts": "2026-10-22T17:09:57.425000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "最近要带止损，别光跟",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "最近要带止损，别光跟"
+}
