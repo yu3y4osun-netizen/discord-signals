@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562917246324711650",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "linlin7",
+  "ts": "2026-10-22T19:55:09.122000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "还好今天有soxs的利润来填soxl的窟窿 个股都有想全部清掉 单做这两个的冲动了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "还好今天有soxs的利润来填soxl的窟窿 个股都有想全部清掉 单做这两个的冲动了"
+}
