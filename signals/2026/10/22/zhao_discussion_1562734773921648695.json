@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562734773921648695",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deleter666",
+  "ts": "2026-10-22T07:50:04.311000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "应该是左侧和右侧的逻辑吧，新低点开空就是右侧，不知道理解对么",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "应该是左侧和右侧的逻辑吧，新低点开空就是右侧，不知道理解对么"
+}
