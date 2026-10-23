@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562635888872136795",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-22T01:17:08.278000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "泄了20多个点，反弹3个点，毫无感觉",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "泄了20多个点，反弹3个点，毫无感觉"
+}
