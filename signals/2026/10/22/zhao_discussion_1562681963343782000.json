@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562681963343782000",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-10-22T04:20:13.288000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "卧槽恒科比关税还低了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "卧槽恒科比关税还低了"
+}
