@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562936709182652559",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanyan379",
+  "ts": "2026-10-22T21:12:29.429000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "想割肉了咋整",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "想割肉了咋整"
+}
