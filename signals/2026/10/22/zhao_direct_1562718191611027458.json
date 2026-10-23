@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562718191611027458",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T06:44:10.780000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "量化人就是跟着行情走作息时间 先有行情再有作息 不是先有作息",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "量化人就是跟着行情走作息时间 先有行情再有作息 不是先有作息",
+  "attribution": "direct"
+}
