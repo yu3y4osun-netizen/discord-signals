@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562832311941201943",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "a6ed2",
+  "ts": "2026-10-22T14:17:39.187000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跌完了 又開始V了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "跌完了  又開始V了"
+}
