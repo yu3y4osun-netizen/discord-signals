@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562863426513145968",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "globle",
+  "ts": "2026-10-22T16:21:17.479000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "那为什么看qqq？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "那为什么看qqq？"
+}
