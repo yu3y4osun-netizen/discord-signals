@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562777992206229555",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T10:41:48.353000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就根据自己仓位来 有赢利点就分批减 在等盘中轮廓图就行了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就根据自己仓位来 有赢利点就分批减 在等盘中轮廓图就行了",
+  "attribution": "direct"
+}
