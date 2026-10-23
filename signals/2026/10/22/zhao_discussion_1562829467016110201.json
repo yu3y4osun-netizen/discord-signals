@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562829467016110201",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deleter666",
+  "ts": "2026-10-22T14:06:20.904000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没啊 下去了啊 赵哥不减仓了么",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "没啊 下去了啊 赵哥不减仓了么"
+}
