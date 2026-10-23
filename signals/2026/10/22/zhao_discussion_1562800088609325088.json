@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562800088609325088",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-22T12:09:36.546000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "做空两头挨打",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "做空两头挨打"
+}
