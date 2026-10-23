@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562854811815256236",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-22T15:47:03.575000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "有没有真梭哈qqq末日c的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "有没有真梭哈qqq末日c的"
+}
