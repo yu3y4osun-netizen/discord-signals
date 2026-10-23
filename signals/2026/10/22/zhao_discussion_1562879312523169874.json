@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562879312523169874",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-22T17:24:24.999000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "be好像是盘后的财报",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "be好像是盘后的财报"
+}
