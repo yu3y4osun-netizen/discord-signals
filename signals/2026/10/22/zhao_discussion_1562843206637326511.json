@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562843206637326511",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-22T15:00:56.685000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "RIOT"
+    ],
+    "is_following_zhao": false,
+    "summary": "我还有个riot",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我还有个riot"
+}
