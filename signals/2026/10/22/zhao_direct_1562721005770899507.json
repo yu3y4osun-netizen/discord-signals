@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562721005770899507",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T06:55:21.728000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就会在顶上去 正是市场30%热钱散了 他模型就按照算法设计好的模型去走",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就会在顶上去  正是市场30%热钱散了  他模型就按照算法设计好的模型去走",
+  "attribution": "direct"
+}
