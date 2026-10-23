@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562826215989973027",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yeahcoco",
+  "ts": "2026-10-22T13:53:25.799000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "每天nbis iren暴击",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "每天nbis iren暴击"
+}
