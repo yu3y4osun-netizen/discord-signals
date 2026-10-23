@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562890399696158752",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-22T18:08:28.387000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPCX"
+    ],
+    "is_following_zhao": false,
+    "summary": "spcx回到财报前了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "spcx回到财报前了"
+}
