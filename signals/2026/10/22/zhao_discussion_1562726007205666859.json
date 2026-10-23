@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562726007205666859",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-22T07:15:14.163000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，可以这么理解吗 目前先逐步按1/6 或者1/3仓积累多空仓位，直到多空比例先7:3,等后面再逐步累积到5:5 ，是这样吗 ？我目前接近空仓了，对仓位管理这...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，可以这么理解吗 目前先逐步按1/6 或者1/3仓积累多空仓位，直到多空比例先7:3,等后面再逐步累积到5:5 ，是这样吗 ？我目前接近空仓了，对仓位管理这块不太理解🫣"
+}
