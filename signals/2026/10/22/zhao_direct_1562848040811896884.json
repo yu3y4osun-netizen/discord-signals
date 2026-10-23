@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562848040811896884",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T15:20:09.242000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他就是时间和 结构一个个完成 没完成就延后时间",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "他就是时间和 结构一个个完成  没完成就延后时间",
+  "attribution": "direct"
+}
