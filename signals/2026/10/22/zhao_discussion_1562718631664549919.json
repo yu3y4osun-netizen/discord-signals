@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562718631664549919",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-10-22T06:45:55.697000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这盘前还有反弹啊",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这盘前还有反弹啊"
+}
