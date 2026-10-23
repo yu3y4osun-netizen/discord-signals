@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562759445400780824",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-10-22T09:28:06.450000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在卧槽情绪很悲观，需要利好刺激",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "现在卧槽情绪很悲观，需要利好刺激"
+}
