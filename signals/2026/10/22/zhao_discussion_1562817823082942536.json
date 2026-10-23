@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562817823082942536",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xlucky",
+  "ts": "2026-10-22T13:20:04.774000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SCO"
+    ],
+    "is_following_zhao": false,
+    "summary": "sco赵哥是不是有一笔",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "sco赵哥是不是有一笔"
+}
