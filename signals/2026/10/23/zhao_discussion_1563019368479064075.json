@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563019368479064075",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-23T02:40:56.941000+00:00",
+  "captured_at": "2026-10-23T11:17:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "￼大Ａ居然救市了😆",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "A股政策"
+    ]
+  },
+  "raw_text": "￼大Ａ居然救市了😆"
+}
