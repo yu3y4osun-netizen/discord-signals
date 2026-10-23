@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562711550245081090",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangxing",
+  "ts": "2026-10-22T06:17:47.355000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "昨天11点开冲赵哥就提醒了是轮廓图直线开冲开始要出了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "昨天11点开冲赵哥就提醒了是轮廓图直线开冲开始要出了"
+}
