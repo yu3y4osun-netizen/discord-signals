@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562703832813936662",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangxing",
+  "ts": "2026-10-22T05:47:07.376000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxs直接起飞赵哥太牛了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxs直接起飞赵哥太牛了"
+}
