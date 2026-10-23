@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562873135215411274",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T16:59:52.214000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "年末要给基民赎回的 要还债的之类",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "年末要给基民赎回的 要还债的之类",
+  "attribution": "direct"
+}
