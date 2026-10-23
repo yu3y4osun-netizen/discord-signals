@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562722196261175388",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T07:00:05.563000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是先有模型 然后 会模型是贴合走线时候在搭配放消息",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是先有模型  然后 会模型是贴合走线时候在搭配放消息",
+  "attribution": "direct"
+}
