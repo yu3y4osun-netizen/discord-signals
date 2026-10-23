@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562755346949218376",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-22T09:11:49.303000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "狂野一点 今天不会见到8开头的soxl吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "狂野一点 今天不会见到8开头的soxl吧"
+}
