@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562879813549695059",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-22T17:26:24.453000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC",
+      "MU",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "所以我不割nbis 和intc了，我有mu的利润垫",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "所以我不割nbis 和intc了，我有mu的利润垫"
+}
