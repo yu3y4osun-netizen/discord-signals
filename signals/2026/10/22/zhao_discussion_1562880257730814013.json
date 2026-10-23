@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562880257730814013",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-22T17:28:10.354000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "KO",
+      "MCD"
+    ],
+    "is_following_zhao": false,
+    "summary": "@Gingjiu 我错了兄弟，当初还是太天真，光买谷歌都还不够，应该跟你再搞点mcd ko的🥲",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "@Gingjiu 我错了兄弟，当初还是太天真，光买谷歌都还不够，应该跟你再搞点mcd ko的🥲"
+}
