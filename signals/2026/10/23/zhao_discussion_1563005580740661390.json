@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563005580740661390",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-23T01:46:09.688000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "低点开空单，等于美国要完",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "低点开空单，等于美国要完"
+}
