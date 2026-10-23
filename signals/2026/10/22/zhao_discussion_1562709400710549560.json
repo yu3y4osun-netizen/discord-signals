@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562709400710549560",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-22T06:09:14.866000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥买可以不跟，但是卖不跟就会后悔👻",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥买可以不跟，但是卖不跟就会后悔👻"
+}
