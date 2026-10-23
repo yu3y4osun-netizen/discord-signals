@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562911394721169510",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T19:31:53.991000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "怕再跌就买对冲 可以熬就韩国看看夜盘减点在对冲",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "怕再跌就买对冲 可以熬就韩国看看夜盘减点在对冲",
+  "attribution": "direct"
+}
