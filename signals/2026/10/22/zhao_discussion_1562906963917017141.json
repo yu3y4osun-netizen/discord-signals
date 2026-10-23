@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562906963917017141",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-22T19:14:17.605000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在进行左侧做多恐怕是很困难",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "现在进行左侧做多恐怕是很困难"
+}
