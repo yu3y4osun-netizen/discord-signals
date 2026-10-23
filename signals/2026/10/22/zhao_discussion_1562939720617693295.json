@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562939720617693295",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-22T21:24:27.411000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "当然是不是最低点我不知道，活下去远远比来回收割更重要，行情清晰了或者赵哥说资金抄底了再做都没问题",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "当然是不是最低点我不知道，活下去远远比来回收割更重要，行情清晰了或者赵哥说资金抄底了再做都没问题"
+}
