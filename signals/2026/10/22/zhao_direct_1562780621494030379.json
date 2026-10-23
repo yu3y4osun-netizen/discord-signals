@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562780621494030379",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T10:52:15.224000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "因为就是站在市场80%是算法固化的基础上没有人工",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "因为就是站在市场80%是算法固化的基础上没有人工",
+  "attribution": "direct"
+}
