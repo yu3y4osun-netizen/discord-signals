@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562875762678173787",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiekai",
+  "ts": "2026-10-22T17:10:18.650000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，股票里面钱都会不会去买黄金啊，黄金有空间吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，股票里面钱都会不会去买黄金啊，黄金有空间吗"
+}
