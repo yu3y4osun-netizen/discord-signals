@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562877925160648745",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-22T17:18:54.226000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我甚至感觉谷歌今天很硬",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我甚至感觉谷歌今天很硬"
+}
