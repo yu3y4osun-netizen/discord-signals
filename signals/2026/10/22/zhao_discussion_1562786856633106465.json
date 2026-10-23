@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562786856633106465",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-22T11:17:01.797000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "周线破位了，估计会把止损盘杀出来",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "周线破位了，估计会把止损盘杀出来"
+}
