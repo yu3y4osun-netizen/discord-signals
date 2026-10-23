@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562707519665610814",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "spencerft",
+  "ts": "2026-10-22T06:01:46.390000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "不反弹你等会就看到200的 NVDA了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "不反弹你等会就看到200的 NVDA了"
+}
