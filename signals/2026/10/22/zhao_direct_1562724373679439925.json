@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562724373679439925",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T07:08:44.700000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "所以就是陆续 高点减股票 开对冲 或者等新低了 尾盘是单边才补股票",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "所以就是陆续 高点减股票 开对冲 或者等新低了  尾盘是单边才补股票",
+  "attribution": "direct"
+}
