@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562764849635922003",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-22T09:49:34.920000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我准备今天开盘就把剩下的GOOGL MONTHLY C CUT了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我准备今天开盘就把剩下的GOOGL MONTHLY C CUT了"
+}
