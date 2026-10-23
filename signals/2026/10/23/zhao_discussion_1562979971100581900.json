@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562979971100581900",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-23T00:04:23.874000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "INTC",
+      "MU",
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "我即便经了一次7月的存储大回调，这次已经提前做了仓位管理和股票管理，在买了大量谷歌和MU赚钱的情况下依然是被NBIS和INTC套了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我即便经了一次7月的存储大回调，这次已经提前做了仓位管理和股票管理，在买了大量谷歌和MU赚钱的情况下依然是被NBIS和INTC套了"
+}
