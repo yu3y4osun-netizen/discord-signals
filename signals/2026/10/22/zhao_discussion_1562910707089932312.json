@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562910707089932312",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-10-22T19:29:10.047000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "spy是对的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "spy是对的"
+}
