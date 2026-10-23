@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562866621243195453",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yeahcoco",
+  "ts": "2026-10-22T16:33:59.162000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "请问下 后续判断还要下跌的话 今天是不是亏出一点？ 已经犹豫几天看赵哥没动我也没动 现在看每天是越来越低了😭",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "请问下 后续判断还要下跌的话 今天是不是亏出一点？\n已经犹豫几天看赵哥没动我也没动 现在看每天是越来越低了😭"
+}
