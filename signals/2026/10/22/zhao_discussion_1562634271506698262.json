@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562634271506698262",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-22T01:10:42.668000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "我也是nbis亏的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我也是nbis亏的"
+}
