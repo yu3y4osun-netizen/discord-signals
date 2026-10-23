@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562997741485953095",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-23T01:15:00.664000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "以后你就是赵哥反🈯️😁",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "以后你就是赵哥反🈯️😁"
+}
