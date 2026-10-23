@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562871895643263078",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lateonrush77",
+  "ts": "2026-10-22T16:54:56.677000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥 一直单边的话 会导致亚洲韩国和a一直跌 然后美股也一直跌吗 昨天的反弹是不是算最后逃生机会了，我们套住的科技只能等后面28号了吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 一直单边的话 会导致亚洲韩国和a一直跌 然后美股也一直跌吗 昨天的反弹是不是算最后逃生机会了，我们套住的科技只能等后面28号了吗"
+}
