@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562879039750938687",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T17:23:19.965000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "看仓位 仓位过大都出 小仓位就出一半",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "看仓位 仓位过大都出 小仓位就出一半",
+  "attribution": "direct"
+}
