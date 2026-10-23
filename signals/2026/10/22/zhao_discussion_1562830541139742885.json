@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562830541139742885",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-22T14:10:36.995000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "可以加仓不赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "可以加仓不赵哥"
+}
