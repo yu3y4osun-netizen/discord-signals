@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562732939765219370",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-22T07:42:47.014000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "感觉目前应该是优先只做soxl soxs最保险 不知道我理解对不对",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "感觉目前应该是优先只做soxl soxs最保险 不知道我理解对不对"
+}
