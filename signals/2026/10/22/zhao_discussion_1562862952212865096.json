@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562862952212865096",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-22T16:19:24.397000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥的模型是v完继续跌下去",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥的模型是v完继续跌下去"
+}
