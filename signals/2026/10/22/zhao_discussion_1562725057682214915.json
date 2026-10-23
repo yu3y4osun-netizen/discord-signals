@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562725057682214915",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-22T07:11:27.779000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥看今晚的走势都能模拟到下周四吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥看今晚的走势都能模拟到下周四吗"
+}
