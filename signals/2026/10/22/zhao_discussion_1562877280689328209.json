@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562877280689328209",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "techotakupoi",
+  "ts": "2026-10-22T17:16:20.572000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": true,
+    "summary": "88成本的CRWV 割了吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "88成本的CRWV 割了吧"
+}
