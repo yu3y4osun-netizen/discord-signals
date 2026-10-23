@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562879563774828726",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-10-22T17:25:24.902000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "美光挺抗跌啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "美光挺抗跌啊"
+}
