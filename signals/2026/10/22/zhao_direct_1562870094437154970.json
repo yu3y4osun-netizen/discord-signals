@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562870094437154970",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T16:47:47.236000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今年就胜选方讲话那波反弹 那个结束就会阴跌到3月15日左右了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "今年就胜选方讲话那波反弹 那个结束就会阴跌到3月15日左右了",
+  "attribution": "direct"
+}
