@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562908342739804161",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-22T19:19:46.342000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "你重仓soxl吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "你重仓soxl吗"
+}
