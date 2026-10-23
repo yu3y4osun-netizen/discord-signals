@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562708098081230919",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-22T06:04:04.295000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "别在单侧接飞刀了 等赵哥说了再说吧",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "别在单侧接飞刀了 等赵哥说了再说吧"
+}
