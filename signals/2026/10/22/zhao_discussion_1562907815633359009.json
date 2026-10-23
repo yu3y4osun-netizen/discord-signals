@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562907815633359009",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-22T19:17:40.670000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "正股已经快触底了，我觉得nbis 140出头的机构入场价还是很吸引人的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "正股已经快触底了，我觉得nbis 140出头的机构入场价还是很吸引人的"
+}
