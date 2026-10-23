@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562880990001631365",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-22T17:31:04.941000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那几个人 就喜欢天天当嘴炮 还怂恿别人贷款加仓的 是真缺德",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那几个人  就喜欢天天当嘴炮  还怂恿别人贷款加仓的  是真缺德"
+}
