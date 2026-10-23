@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562874873641046030",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-22T17:06:46.687000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥 请问是不是到了胜利发言完，不管什么情况都准备清仓了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 请问是不是到了胜利发言完，不管什么情况都准备清仓了"
+}
