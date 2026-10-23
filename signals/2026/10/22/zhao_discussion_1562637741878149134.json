@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562637741878149134",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-22T01:24:30.069000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "不知道赵哥满仓的老太太邻居咋样了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "不知道赵哥满仓的老太太邻居咋样了"
+}
