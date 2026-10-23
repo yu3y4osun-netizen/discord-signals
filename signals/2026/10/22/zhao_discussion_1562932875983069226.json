@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562932875983069226",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-22T20:57:15.523000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "wdc为什么这么跌啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "wdc为什么这么跌啊"
+}
