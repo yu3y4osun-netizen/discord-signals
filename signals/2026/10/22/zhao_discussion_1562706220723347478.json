@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562706220723347478",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-22T05:56:36.698000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXS",
+      "SQQQ"
+    ],
+    "is_following_zhao": true,
+    "summary": "我昨天清仓了 也买了SQQQ SOXS 就是买的很少 大涨没赚到什么。。。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我昨天清仓了 也买了SQQQ SOXS 就是买的很少 大涨没赚到什么。。。"
+}
