@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562909639899877530",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-22T19:24:55.609000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥 高位套的还能涨回来吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 高位套的还能涨回来吗"
+}
