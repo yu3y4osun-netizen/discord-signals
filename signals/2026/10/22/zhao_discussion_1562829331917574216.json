@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562829331917574216",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-22T14:05:48.694000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU",
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "闪迪我感觉没有MU做着舒服",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "闪迪我感觉没有MU做着舒服"
+}
