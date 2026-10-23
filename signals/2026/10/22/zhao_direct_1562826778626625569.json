@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562826778626625569",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T13:55:39.942000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "低了股票太多不确定买啥就soxl弄弄",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "低了股票太多不确定买啥就soxl弄弄",
+  "attribution": "direct"
+}
