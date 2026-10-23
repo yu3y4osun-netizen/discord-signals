@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562843368495521877",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-10-22T15:01:35.275000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在的规律感觉是只要韩国那边跌，美股一定会跌的更厉害。只要韩国夜盘涨，美股夜盘涨。到了开盘，先拉高一下，然后又猛载下去，小幅度磨上去，夜盘在稍微拉下去。开盘在拉...",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "现在的规律感觉是只要韩国那边跌，美股一定会跌的更厉害。只要韩国夜盘涨，美股夜盘涨。到了开盘，先拉高一下，然后又猛载下去，小幅度磨上去，夜盘在稍微拉下去。开盘在拉升，又往新低在走。"
+}
