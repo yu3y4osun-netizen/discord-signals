@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562890769352626177",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-22T18:09:56.520000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "RIOT"
+    ],
+    "is_following_zhao": false,
+    "summary": "准备把riot的仓位换成hims 试试水",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "准备把riot的仓位换成hims 试试水"
+}
