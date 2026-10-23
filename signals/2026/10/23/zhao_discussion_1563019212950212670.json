@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563019212950212670",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-23T02:40:19.860000+00:00",
+  "captured_at": "2026-10-23T11:17:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果半导体真腰斩的话 最惨的是不是存储和光通信",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "光",
+      "半导体",
+      "存储"
+    ]
+  },
+  "raw_text": "如果半导体真腰斩的话 最惨的是不是存储和光通信"
+}
