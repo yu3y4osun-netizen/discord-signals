@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562678317314875404",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-22T04:05:44.007000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "我感觉还好 iren目前几个云里面存活率最高 现金流最好 拿到明年我也拿得住 nbis cifr这种冲高到赵哥说的75我就跑了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我感觉还好 iren目前几个云里面存活率最高 现金流最好 拿到明年我也拿得住 nbis cifr这种冲高到赵哥说的75我就跑了"
+}
