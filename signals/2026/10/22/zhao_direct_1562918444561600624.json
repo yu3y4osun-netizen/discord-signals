@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562918444561600624",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T19:59:54.804000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "就像mu昨天反弹917 突发文件减持 你不确定是不是第二天",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就像mu昨天反弹917 突发文件减持 你不确定是不是第二天",
+  "attribution": "direct"
+}
