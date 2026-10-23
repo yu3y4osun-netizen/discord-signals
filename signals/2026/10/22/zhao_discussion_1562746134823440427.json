@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562746134823440427",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-22T08:35:12.961000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "坐等赵哥指示今日轮廓图",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "坐等赵哥指示今日轮廓图"
+}
