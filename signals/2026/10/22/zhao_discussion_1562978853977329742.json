@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562978853977329742",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-22T23:59:57.531000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但是反弹程度并没有赵哥模型说的那么高",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "但是反弹程度并没有赵哥模型说的那么高"
+}
