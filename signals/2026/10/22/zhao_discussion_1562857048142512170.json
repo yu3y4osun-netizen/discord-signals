@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562857048142512170",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "frankyin",
+  "ts": "2026-10-22T15:55:56.757000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "下周不是多空震荡嘛 都准备清仓啦",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "下周不是多空震荡嘛 都准备清仓啦"
+}
