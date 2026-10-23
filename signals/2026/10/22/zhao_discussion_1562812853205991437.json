@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562812853205991437",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-22T13:00:19.863000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "92.3加了6分之一常规仓soxl 做日内 走势不对在日内撤",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "92.3加了6分之一常规仓soxl 做日内 走势不对在日内撤"
+}
