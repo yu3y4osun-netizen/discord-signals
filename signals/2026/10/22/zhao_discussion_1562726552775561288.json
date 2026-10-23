@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562726552775561288",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-22T07:17:24.237000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "那我的 TQQQ 也要减仓了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "那我的 TQQQ 也要减仓了"
+}
