@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562681488137527330",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-22T04:18:19.990000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "看样子qqq 700见了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "看样子qqq 700见了"
+}
