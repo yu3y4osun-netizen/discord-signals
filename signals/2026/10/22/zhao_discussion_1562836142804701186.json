@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562836142804701186",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-22T14:32:52.536000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "如果不出意外的话，soxl要合股",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "如果不出意外的话，soxl要合股"
+}
