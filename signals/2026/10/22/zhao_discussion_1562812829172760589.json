@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562812829172760589",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-22T13:00:14.133000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "看赵哥要不要止损 反正我就买了2股参与下",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "看赵哥要不要止损 反正我就买了2股参与下"
+}
