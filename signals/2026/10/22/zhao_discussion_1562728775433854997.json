@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562728775433854997",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-10-22T07:26:14.160000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我直接割了 等赵哥说的拉扯新低来了我再买回吧哎哎哎哎哎",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我直接割了 等赵哥说的拉扯新低来了我再买回吧哎哎哎哎哎"
+}
