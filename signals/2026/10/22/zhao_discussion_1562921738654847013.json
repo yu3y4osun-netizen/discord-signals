@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562921738654847013",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-22T20:13:00.177000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "七月几个云动不动反弹十几个点",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "七月几个云动不动反弹十几个点"
+}
