@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562721609788432496",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-10-22T06:57:45.737000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "昨晚割掉的云和半导体要加回去吗 还是等赵哥的机器算出来大概图形再说",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "昨晚割掉的云和半导体要加回去吗 还是等赵哥的机器算出来大概图形再说"
+}
