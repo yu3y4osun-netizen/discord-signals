@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562664347619299360",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dongreng",
+  "ts": "2026-10-22T03:10:13.372000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "NBIS",
+      "SNDK",
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": true,
+    "summary": "这把soxl我等跌到90再把soxs卖了。还好soxl我已经全部解套。闪迪nbis cifr套得最严重就留起吧也没有操作空间",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这把soxl我等跌到90再把soxs卖了。还好soxl我已经全部解套。闪迪nbis cifr套得最严重就留起吧也没有操作空间"
+}
