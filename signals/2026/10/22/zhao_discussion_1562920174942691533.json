@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562920174942691533",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-22T20:06:47.359000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "wdc好像财报可以",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "wdc好像财报可以"
+}
