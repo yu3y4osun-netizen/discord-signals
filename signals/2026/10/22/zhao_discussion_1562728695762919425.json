@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562728695762919425",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-22T07:25:55.165000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "云这几天没怎么反弹，离成本远得很 不知道怎么减",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "云这几天没怎么反弹，离成本远得很 不知道怎么减"
+}
