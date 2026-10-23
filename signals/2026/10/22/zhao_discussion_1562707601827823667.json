@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562707601827823667",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "spencerft",
+  "ts": "2026-10-22T06:02:05.979000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "SOXL 24B 的一个ETF 会自动多杀多",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "SOXL 24B 的一个ETF 会自动多杀多"
+}
