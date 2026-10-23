@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563020647582531596",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-23T02:46:01.903000+00:00",
+  "captured_at": "2026-10-23T11:17:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "如果真回3月 qqq760-550=210 分成三个月跌 每个月跌70点 这个月差不多 690？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "如果真回3月 qqq760-550=210 分成三个月跌 每个月跌70点 这个月差不多 690？"
+}
