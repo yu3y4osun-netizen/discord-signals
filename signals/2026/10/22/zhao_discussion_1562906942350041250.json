@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562906942350041250",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-10-22T19:14:12.463000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "wdc一会儿还有财报",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "wdc一会儿还有财报"
+}
