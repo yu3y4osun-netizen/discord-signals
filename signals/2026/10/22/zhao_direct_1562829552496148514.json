@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562829552496148514",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T14:06:41.284000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "轮廓知道了就qqq盯着转弯反复",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "轮廓知道了就qqq盯着转弯反复",
+  "attribution": "direct"
+}
