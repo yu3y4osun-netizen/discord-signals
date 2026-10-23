@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562830803669614737",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moneywang",
+  "ts": "2026-10-22T14:11:39.587000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "Wdc今天财报",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Wdc今天财报"
+}
