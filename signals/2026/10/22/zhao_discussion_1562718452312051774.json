@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562718452312051774",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-22T06:45:12.936000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "谢谢赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "谢谢赵哥"
+}
