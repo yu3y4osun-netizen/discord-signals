@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563018725991387238",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-23T02:38:23.760000+00:00",
+  "captured_at": "2026-10-23T11:17:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这样想的话是不是不能说明卡折旧变慢了",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "这样想的话是不是不能说明卡折旧变慢了"
+}
