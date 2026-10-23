@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562828357153067101",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xlucky",
+  "ts": "2026-10-22T14:01:56.292000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "前面就说了特斯拉是反骨仔",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "前面就说了特斯拉是反骨仔"
+}
