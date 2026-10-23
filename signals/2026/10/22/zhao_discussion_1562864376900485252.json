@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562864376900485252",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-22T16:25:04.069000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥我们知道市场会往下走为什么不先清仓呢难道要一直在硬扛么",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥我们知道市场会往下走为什么不先清仓呢难道要一直在硬扛么"
+}
