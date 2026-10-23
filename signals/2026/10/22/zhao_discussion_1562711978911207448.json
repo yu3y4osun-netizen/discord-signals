@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562711978911207448",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-22T06:19:29.557000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": true,
+    "summary": "班长难道又是完美操作 最高点附近清仓 然后再全仓SOXS大赚吗😁",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "班长难道又是完美操作 最高点附近清仓 然后再全仓SOXS大赚吗😁"
+}
