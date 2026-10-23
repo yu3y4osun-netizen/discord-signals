@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562828176290480181",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sofia888",
+  "ts": "2026-10-22T14:01:13.171000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "TSLA简直了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "TSLA简直了"
+}
