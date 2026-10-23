@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562728130534441082",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-22T07:23:40.404000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "在回调期开始每天高点开点soxs",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "在回调期开始每天高点开点soxs",
+  "attribution": "direct"
+}
