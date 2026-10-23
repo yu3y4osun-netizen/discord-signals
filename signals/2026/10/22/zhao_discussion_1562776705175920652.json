@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562776705175920652",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hwangjoey",
+  "ts": "2026-10-22T10:36:41.501000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥现在仓位咋样啊兄弟们",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥现在仓位咋样啊兄弟们"
+}
