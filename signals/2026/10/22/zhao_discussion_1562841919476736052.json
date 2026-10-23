@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562841919476736052",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-22T14:55:49.802000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我是没想到今天SOXL能跌17%的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我是没想到今天SOXL能跌17%的"
+}
