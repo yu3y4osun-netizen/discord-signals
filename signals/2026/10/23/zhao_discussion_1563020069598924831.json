@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563020069598924831",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xlucky",
+  "ts": "2026-10-23T02:43:44.101000+00:00",
+  "captured_at": "2026-10-23T11:17:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "拉证券和银行那些死的更快。",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "A股券商",
+      "A股银行"
+    ]
+  },
+  "raw_text": "拉证券和银行那些死的更快。"
+}
