@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562827747045150792",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-22T13:59:30.831000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "卧槽赵哥模型真是对的",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "卧槽赵哥模型真是对的"
+}
