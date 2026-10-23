@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562978807323959298",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-22T23:59:46.408000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "主要是前段时间我想卖了出来T NBIS和INTC",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "主要是前段时间我想卖了出来T NBIS和INTC"
+}
