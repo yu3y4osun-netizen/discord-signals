@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562687208320802880",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kongfu233hahaha",
+  "ts": "2026-10-22T04:41:03.788000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": true,
+    "summary": "soxs赵哥说加1/6。 我也只加了1/6。感觉根本抵不上亏损呀😂",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxs赵哥说加1/6。  我也只加了1/6。感觉根本抵不上亏损呀😂"
+}
