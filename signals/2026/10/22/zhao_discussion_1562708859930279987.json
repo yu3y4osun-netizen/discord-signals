@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562708859930279987",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "corrineq",
+  "ts": "2026-10-22T06:07:05.934000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥在群里明确说了具体时间段的 翻一下聊天记录",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥在群里明确说了具体时间段的 翻一下聊天记录"
+}
