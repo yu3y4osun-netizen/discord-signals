@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1562977185470484524",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-22T23:53:19.728000+00:00",
+  "captured_at": "2026-10-23T10:36:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥今天加的soxl原计划是没有v就今天走掉，但是最后没有走，不知道什么情况",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥今天加的soxl原计划是没有v就今天走掉，但是最后没有走，不知道什么情况"
+}
