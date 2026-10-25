@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563186417838989343",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-23T13:44:44.612000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "天天踩，单边回踩，开盘回踩，踩一天直接😂😂",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "天天踩，单边回踩，开盘回踩，踩一天直接😂😂"
+}
