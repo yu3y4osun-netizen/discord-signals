@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563207567533019280",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T15:08:47.092000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "做多的无论股票还是soxl 你错过了 没卖出 或者怎么又跌了都没事 因为他夜盘都会去拉下",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "做多的无论股票还是soxl  你错过了 没卖出 或者怎么又跌了都没事 因为他夜盘都会去拉下",
+  "attribution": "direct"
+}
