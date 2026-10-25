@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563197976699076702",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-10-23T14:30:40.459000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，加息周期锁钱阴跌的话，反转要靠美联储信号吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，加息周期锁钱阴跌的话，反转要靠美联储信号吗"
+}
