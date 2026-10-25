@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563196228743725208",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-10-23T14:23:43.714000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这存储加起来几万亿市值我觉得不是散户",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "存储"
+    ]
+  },
+  "raw_text": "这存储加起来几万亿市值我觉得不是散户"
+}
