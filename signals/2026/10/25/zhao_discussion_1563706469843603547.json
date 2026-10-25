@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563706469843603547",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-25T00:11:14.672000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有人明白赵哥 这个三七以及五五多空是怎么操作么？ 是全部仓位的比例么",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "有人明白赵哥 这个三七以及五五多空是怎么操作么？ 是全部仓位的比例么"
+}
