@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563223920302235759",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T16:13:45.896000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "美股是t0的 属于流线型 轮廓就是一个完整线条",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "美股是t0的 属于流线型 轮廓就是一个完整线条",
+  "attribution": "direct"
+}
