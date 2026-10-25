@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563206126336475178",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-23T15:03:03.484000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 这个反弹是黑框的两倍对吧？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥  这个反弹是黑框的两倍对吧？"
+}
