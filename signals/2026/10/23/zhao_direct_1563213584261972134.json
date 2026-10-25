@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563213584261972134",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T15:32:41.592000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "平均总仓位会带着之前的利润算的还好看点 亏损比例就会把最近亏损呈现多点 会事实点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "平均总仓位会带着之前的利润算的还好看点  亏损比例就会把最近亏损呈现多点 会事实点",
+  "attribution": "direct"
+}
