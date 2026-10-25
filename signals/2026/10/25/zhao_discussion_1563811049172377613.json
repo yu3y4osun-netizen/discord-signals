@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563811049172377613",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-25T07:06:48.327000+00:00",
+  "captured_at": "2026-10-25T21:00:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "棒子不是说周末要宣布救市政策吗 怎么还没消息",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "A股政策"
+    ]
+  },
+  "raw_text": "棒子不是说周末要宣布救市政策吗 怎么还没消息"
+}
