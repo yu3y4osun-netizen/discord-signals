@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563190796729982997",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-23T14:02:08.621000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "QQQ",
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq拉的比soxl更猛一点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "qqq拉的比soxl更猛一点"
+}
