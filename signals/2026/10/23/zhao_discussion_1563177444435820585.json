@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563177444435820585",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-23T13:09:05.186000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "请问赵哥 之前套住那些股票什么的 不需要割肉吧 扛着能扛解套吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "请问赵哥 之前套住那些股票什么的 不需要割肉吧 扛着能扛解套吗"
+}
