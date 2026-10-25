@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563219351648206910",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-23T15:55:36.644000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "MSFT"
+    ],
+    "is_following_zhao": true,
+    "summary": "佩服。我经常是亏了就一直拿着。赚钱了就跑了。没吃到大利润。微软拿了几个月。期权硬吃磨损。最后450多。几张期权都清仓了。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "佩服。我经常是亏了就一直拿着。赚钱了就跑了。没吃到大利润。微软拿了几个月。期权硬吃磨损。最后450多。几张期权都清仓了。"
+}
