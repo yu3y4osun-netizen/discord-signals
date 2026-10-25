@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563285178993082439",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wenwater",
+  "ts": "2026-10-23T20:17:11.106000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "按照赵哥的图来",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "按照赵哥的图来"
+}
