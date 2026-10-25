@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563202359071346690",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gldslv",
+  "ts": "2026-10-23T14:48:05.298000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": true,
+    "summary": "那就等二次冲高出掉soxl换成soxs",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "那就等二次冲高出掉soxl换成soxs"
+}
