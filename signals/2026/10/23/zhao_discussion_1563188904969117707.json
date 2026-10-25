@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563188904969117707",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-23T13:54:37.590000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "MU",
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "台积电 美光 谷歌 都是很稳的好票 可以睡好觉",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "台积电  美光  谷歌  都是很稳的好票   可以睡好觉"
+}
