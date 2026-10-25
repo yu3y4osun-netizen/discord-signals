@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563188553964322920",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-23T13:53:13.904000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "我之前一直极力推荐你们买谷歌和mu",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我之前一直极力推荐你们买谷歌和mu"
+}
