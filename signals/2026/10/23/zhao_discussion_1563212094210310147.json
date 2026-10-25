@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563212094210310147",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-23T15:26:46.336000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥今天A是救市了么",
+    "filter_reason": "zhao_discuss",
+    "sectors_mentioned": [
+      "A股政策"
+    ]
+  },
+  "raw_text": "赵哥今天A是救市了么"
+}
