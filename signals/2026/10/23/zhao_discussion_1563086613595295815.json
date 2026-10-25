@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563086613595295815",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-23T07:08:09.426000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "说啥的都有，跟随赵哥作就行了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "说啥的都有，跟随赵哥作就行了"
+}
