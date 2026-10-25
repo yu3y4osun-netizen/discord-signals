@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563216146126213241",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-10-23T15:42:52.388000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "Iren感觉已经跌到位了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Iren感觉已经跌到位了"
+}
