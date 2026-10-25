@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563288408195862639",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-10-23T20:30:01.008000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是的 我从7月31号那次大跌之后每天拿的小心翼翼的，也是一直不敢重仓进来，后面这个月9号不小心一下子下单成了重仓，一路跌下来补仓，越补越多。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "是的 我从7月31号那次大跌之后每天拿的小心翼翼的，也是一直不敢重仓进来，后面这个月9号不小心一下子下单成了重仓，一路跌下来补仓，越补越多。"
+}
