@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563223200324784179",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-23T16:10:54.240000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "如果今天收在spy 763左右那是否是一个日k的bull flag向上",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "如果今天收在spy 763左右那是否是一个日k的bull flag向上"
+}
