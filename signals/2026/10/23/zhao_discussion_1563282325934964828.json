@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563282325934964828",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-10-23T20:05:50.884000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这SNXX最近真的是每天开盘的最高点从10.8到9.8再到今天的8.8，每天摸到这个位置就一路砸下来，大部份的半导体都是这样，走缩量下跌，老奶奶下楼梯，每天一层...",
+    "filter_reason": "emotion",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "这SNXX最近真的是每天开盘的最高点从10.8到9.8再到今天的8.8，每天摸到这个位置就一路砸下来，大部份的半导体都是这样，走缩量下跌，老奶奶下楼梯，每天一层套一层人，接住就套住你，不管消息好坏，就是在抽流动性。"
+}
