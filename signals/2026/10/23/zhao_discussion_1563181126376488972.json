@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563181126376488972",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-23T13:23:43.029000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "像今天应该是个小回踩 大拉升",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "像今天应该是个小回踩 大拉升"
+}
