@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563067446028669002",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wenwater",
+  "ts": "2026-10-23T05:51:59.522000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那也是 止损放不亏 没有单边就算了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那也是 止损放不亏 没有单边就算了"
+}
