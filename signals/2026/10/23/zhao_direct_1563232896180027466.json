@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563232896180027466",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T16:49:25.912000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是每天轮廓有个大致时间 什么时候V 然后实际时间就是盯着spx qqqV了做操作 买或者高点了减点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是每天轮廓有个大致时间 什么时候V 然后实际时间就是盯着spx qqqV了做操作 买或者高点了减点",
+  "attribution": "direct"
+}
