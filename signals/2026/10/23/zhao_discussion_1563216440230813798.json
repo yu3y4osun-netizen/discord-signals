@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563216440230813798",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-10-23T15:44:02.508000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，民主党政策不是不支持数据中心吗",
+    "filter_reason": "zhao_discuss",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "赵哥，民主党政策不是不支持数据中心吗"
+}
