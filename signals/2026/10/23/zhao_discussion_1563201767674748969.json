@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563201767674748969",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-23T14:45:44.298000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "没买soxs 现在要不要买一点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "没买soxs 现在要不要买一点"
+}
