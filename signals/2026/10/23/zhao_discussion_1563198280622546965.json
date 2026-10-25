@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563198280622546965",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-10-23T14:31:52.920000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我意思是阴跌到明年的话，到时候要转牛的话得靠美联储和政策吧，除非出现新技术",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我意思是阴跌到明年的话，到时候要转牛的话得靠美联储和政策吧，除非出现新技术"
+}
