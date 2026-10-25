@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563178194796814337",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-23T13:12:04.086000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "好的 谢谢赵哥，这几次加仓都比较高，可能得等反弹几天才能夜盘到差不多的位置",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "好的 谢谢赵哥，这几次加仓都比较高，可能得等反弹几天才能夜盘到差不多的位置"
+}
