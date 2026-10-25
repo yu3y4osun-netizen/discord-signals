@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563375635718475801",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-24T02:16:37.670000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "都跌破8块了",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "都跌破8块了"
+}
