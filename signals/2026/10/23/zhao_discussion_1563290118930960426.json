@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563290118930960426",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-10-23T20:36:48.879000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是的 大部分正股都是在缩量趋势，每天开盘拉升到转弯，就可以开空一点",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "是的 大部分正股都是在缩量趋势，每天开盘拉升到转弯，就可以开空一点"
+}
