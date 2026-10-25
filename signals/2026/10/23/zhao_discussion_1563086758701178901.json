@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563086758701178901",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-23T07:08:44.022000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "加仓了google",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "加仓了google"
+}
