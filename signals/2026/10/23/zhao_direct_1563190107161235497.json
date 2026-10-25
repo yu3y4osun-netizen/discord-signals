@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563190107161235497",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T13:59:24.215000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有些他 大单买可以拆小单走",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "有些他 大单买可以拆小单走",
+  "attribution": "direct"
+}
