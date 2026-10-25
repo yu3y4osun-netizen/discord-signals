@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563188702501670956",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-10-23T13:53:49.318000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是爆出巨鲸就一路下杀",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "就是爆出巨鲸就一路下杀"
+}
