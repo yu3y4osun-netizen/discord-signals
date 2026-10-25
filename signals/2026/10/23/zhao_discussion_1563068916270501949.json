@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563068916270501949",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wenwater",
+  "ts": "2026-10-23T05:57:50.055000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "反正我感觉交易就是带上止损赌 损十次 只要吃一波大的就回来了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "反正我感觉交易就是带上止损赌 损十次 只要吃一波大的就回来了"
+}
