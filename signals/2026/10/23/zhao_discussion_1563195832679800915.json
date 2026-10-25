@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563195832679800915",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-23T14:22:09.285000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "amd intc一模一样走势",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "amd intc一模一样走势"
+}
