@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563177632638566533",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-23T13:09:50.057000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 能不能心理按摩下英特尔 这个不会真要拿到2028年大选才能回去吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 能不能心理按摩下英特尔 这个不会真要拿到2028年大选才能回去吧"
+}
