@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563217718931366034",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T15:49:07.374000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有个大跌后3天差不多减持走70%可以在分批",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "有个大跌后3天差不多减持走70%可以在分批",
+  "attribution": "direct"
+}
