@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563214731475681492",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-23T15:37:15.109000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "CPI如果消息好盘前就该涨了。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "CPI如果消息好盘前就该涨了。"
+}
