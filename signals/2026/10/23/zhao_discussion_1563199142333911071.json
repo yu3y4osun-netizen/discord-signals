@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563199142333911071",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-23T14:35:18.368000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥不是说会反弹到12.5么",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥不是说会反弹到12.5么"
+}
