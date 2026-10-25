@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563229295730495721",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T16:35:07.498000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "7640是关键点要有效跌破才走下行 不然还是横线里面",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "7640是关键点要有效跌破才走下行 不然还是横线里面",
+  "attribution": "direct"
+}
