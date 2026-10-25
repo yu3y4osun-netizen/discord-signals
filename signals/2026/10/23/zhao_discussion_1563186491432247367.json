@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563186491432247367",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "idrinkwine",
+  "ts": "2026-10-23T13:45:02.158000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "LMAO 你说得对，主要是被吓怕了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "LMAO 你说得对，主要是被吓怕了"
+}
