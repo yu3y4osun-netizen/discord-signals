@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563217877971107891",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T15:49:45.292000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "所以最近买 集合为主 不可能都同一天减持",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "所以最近买 集合为主 不可能都同一天减持",
+  "attribution": "direct"
+}
