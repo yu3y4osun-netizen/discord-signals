@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563205394531090513",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T15:00:09.008000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要是看时间和趋势 那个时间是不是对应轮廓模型",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "主要是看时间和趋势 那个时间是不是对应轮廓模型",
+  "attribution": "direct"
+}
