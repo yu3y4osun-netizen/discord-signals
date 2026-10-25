@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563177571917631550",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T13:09:35.580000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是夜盘涨 自己是醒着的可以出一半",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是夜盘涨 自己是醒着的可以出一半",
+  "attribution": "direct"
+}
