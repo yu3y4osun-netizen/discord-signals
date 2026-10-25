@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563176056205213697",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-23T13:03:34.206000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "都是想着最近跌那么多，夜盘反弹幅度太小了，想等高点",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "都是想着最近跌那么多，夜盘反弹幅度太小了，想等高点"
+}
