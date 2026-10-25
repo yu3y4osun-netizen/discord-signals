@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563121256579076198",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-23T09:25:48.957000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "卧槽，应该跑路的",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "卧槽，应该跑路的"
+}
