@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563289136528367737",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-10-23T20:32:54.656000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "建仓41的IREN ，现在每天老奶奶下楼都到24块了，一路补下来，这回去的难度也非常大了。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "建仓41的IREN ，现在每天老奶奶下楼都到24块了，一路补下来，这回去的难度也非常大了。"
+}
