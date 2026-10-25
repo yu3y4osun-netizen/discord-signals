@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563072107544313909",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-23T06:10:30.914000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果按赵哥的理论看 夜盘的反弹冲高之后会逐步下跌？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "如果按赵哥的理论看 夜盘的反弹冲高之后会逐步下跌？"
+}
