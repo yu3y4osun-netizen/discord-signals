@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563186330064912557",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-23T13:44:23.685000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU",
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "nbis 都买了mu有啥不敢买的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "nbis 都买了mu有啥不敢买的"
+}
