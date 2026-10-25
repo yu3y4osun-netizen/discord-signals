@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563186923986616371",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-23T13:46:45.287000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "比特币，金银，半导体",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "比特币，金银，半导体"
+}
