@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563212720298262609",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gldslv",
+  "ts": "2026-10-23T15:29:15.607000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥 尾盘买的夜盘高点没到进货价格是不是也必须止损走 防止单边下跌 我怕韩国情绪不好不高开",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 尾盘买的夜盘高点没到进货价格是不是也必须止损走 防止单边下跌 我怕韩国情绪不好不高开"
+}
