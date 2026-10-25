@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563572376657068164",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hellogwh",
+  "ts": "2026-10-24T15:18:24.365000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没有什么利空怎么跌这么多",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "没有什么利空怎么跌这么多"
+}
