@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563204264640389221",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T14:55:39.621000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我就是的轮廓贴在指数旁边时不时对照下",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我就是的轮廓贴在指数旁边时不时对照下",
+  "attribution": "direct"
+}
