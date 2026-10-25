@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563185994025537537",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "idrinkwine",
+  "ts": "2026-10-23T13:43:03.567000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "Iren竟然直线了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Iren竟然直线了"
+}
