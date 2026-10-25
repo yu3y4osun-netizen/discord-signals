@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563218868380504148",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T15:53:41.424000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "spx这个里面不是有个转折点 是7640",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "spx这个里面不是有个转折点 是7640",
+  "attribution": "direct"
+}
