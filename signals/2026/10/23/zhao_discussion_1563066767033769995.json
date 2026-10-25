@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563066767033769995",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wenwater",
+  "ts": "2026-10-23T05:49:17.637000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "真触底了 crwv继续滚仓",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "真触底了 crwv继续滚仓"
+}
