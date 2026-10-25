@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563197679713124475",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-23T14:29:29.652000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ",
+      "SOXS",
+      "TQQQ"
+    ],
+    "is_following_zhao": true,
+    "summary": "现在买QQQ都难 我TQQQ是小亏走掉了 啥都没了 就SOXS 留着现金了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "现在买QQQ都难 我TQQQ是小亏走掉了 啥都没了 就SOXS 留着现金了"
+}
