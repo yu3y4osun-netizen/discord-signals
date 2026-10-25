@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563217032969719861",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-23T15:46:23.828000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，现在还是不能买long call是吗。就是留着现金。尽量做一些超短线。不要一直拿着长期权。是吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，现在还是不能买long call是吗。就是留着现金。尽量做一些超短线。不要一直拿着长期权。是吗"
+}
