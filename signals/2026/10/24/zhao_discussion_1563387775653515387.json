@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563387775653515387",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-24T03:04:52.056000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "下周继续跟赵哥多空",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "下周继续跟赵哥多空"
+}
