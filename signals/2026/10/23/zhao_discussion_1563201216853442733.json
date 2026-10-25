@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563201216853442733",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-23T14:43:32.972000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "为什么同时持有soxl和soxs啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "为什么同时持有soxl和soxs啊"
+}
