@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563213354367975587",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-23T15:31:46.781000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥，请教下，减仓是直接平均总仓位还是按亏损比例，哪个更合适？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，请教下，减仓是直接平均总仓位还是按亏损比例，哪个更合适？"
+}
