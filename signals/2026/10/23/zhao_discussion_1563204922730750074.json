@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563204922730750074",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dasheng9527",
+  "ts": "2026-10-23T14:58:16.522000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "黄毛忍不住，要开始做多了么",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "黄毛忍不住，要开始做多了么"
+}
