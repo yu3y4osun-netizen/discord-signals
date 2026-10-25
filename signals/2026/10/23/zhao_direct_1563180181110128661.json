@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563180181110128661",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T13:19:57.660000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "昨天最后说了 韩国反弹那个反弹会到一下",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "昨天最后说了 韩国反弹那个反弹会到一下",
+  "attribution": "direct"
+}
