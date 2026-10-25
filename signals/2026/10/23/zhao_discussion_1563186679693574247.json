@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563186679693574247",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-23T13:45:47.043000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "我今天看了篇文章，这次半导体空头操盘的和去年比特币是同一波人",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "我今天看了篇文章，这次半导体空头操盘的和去年比特币是同一波人"
+}
