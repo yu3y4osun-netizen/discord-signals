@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563215284972552255",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T15:39:27.073000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "中选后 讲话胜选方讲话到3月15日左右是阴跌段 3月15日到10月又是东升西落 西落东升 夜盘成交好时候亚洲盘好 夜盘差又回去美股",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "中选后 讲话胜选方讲话到3月15日左右是阴跌段   3月15日到10月又是东升西落 西落东升 夜盘成交好时候亚洲盘好   夜盘差又回去美股",
+  "attribution": "direct"
+}
