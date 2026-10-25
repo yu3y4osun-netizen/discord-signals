@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563194707083792540",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-23T14:17:40.922000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "Crwv iren这两个辣鸡",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Crwv iren这两个辣鸡"
+}
