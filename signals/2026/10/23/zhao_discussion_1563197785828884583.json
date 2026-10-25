@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563197785828884583",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-23T14:29:54.952000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "我留了仓位给QQQ",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我留了仓位给QQQ"
+}
