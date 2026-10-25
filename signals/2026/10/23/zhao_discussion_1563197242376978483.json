@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563197242376978483",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-23T14:27:45.383000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "韭菜不懂啊，赵哥😭",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "韭菜不懂啊，赵哥😭"
+}
