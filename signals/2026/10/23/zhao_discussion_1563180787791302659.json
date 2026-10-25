@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563180787791302659",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-23T13:22:22.304000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 这个模型里面的高度和深度也不准吧",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 这个模型里面的高度和深度也不准吧"
+}
