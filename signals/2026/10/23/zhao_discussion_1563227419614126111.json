@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563227419614126111",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-23T16:27:40.197000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "目前soxl和soxs总值相差不大",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "目前soxl和soxs总值相差不大"
+}
