@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563049666826862616",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-23T04:41:20.630000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "半导体还有一波下杀🥺",
+    "filter_reason": "emotion",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "半导体还有一波下杀🥺"
+}
