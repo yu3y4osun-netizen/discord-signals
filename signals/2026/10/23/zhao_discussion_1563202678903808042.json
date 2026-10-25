@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563202678903808042",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-10-23T14:49:21.552000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "话说赵哥这轮阴跌最后打算怎么积累做多的仓位呢，之前22年拜登在的那轮是看什么信号入场？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "话说赵哥这轮阴跌最后打算怎么积累做多的仓位呢，之前22年拜登在的那轮是看什么信号入场？"
+}
