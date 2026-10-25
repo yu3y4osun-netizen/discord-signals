@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563231744268959845",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-23T16:44:51.275000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "好的谢谢赵哥 极限点位需要具体到了再看是么 像QQQ 700？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "好的谢谢赵哥 极限点位需要具体到了再看是么 像QQQ 700？"
+}
