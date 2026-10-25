@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563089467047284778",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-23T07:19:29.742000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不知道要不要入点金 真是慌",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "不知道要不要入点金  真是慌"
+}
