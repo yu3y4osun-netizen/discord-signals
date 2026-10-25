@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563086388663165000",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-23T07:07:15.798000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我看好多人的观点是半导体还有一波⬇️",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "我看好多人的观点是半导体还有一波⬇️"
+}
