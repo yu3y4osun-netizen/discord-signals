@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563214588865028298",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T15:36:41.108000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "讲话结束就是开始那个 旧的法律 新党派不满意开始互相指责了 到3月15日",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "讲话结束就是开始那个 旧的法律 新党派不满意开始互相指责了 到3月15日",
+  "attribution": "direct"
+}
