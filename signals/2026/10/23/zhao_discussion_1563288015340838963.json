@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563288015340838963",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-23T20:28:27.344000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "Soxl soxs成了王炸组合",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Soxl soxs成了王炸组合"
+}
