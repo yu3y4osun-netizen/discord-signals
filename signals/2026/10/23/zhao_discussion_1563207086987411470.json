@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563207086987411470",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-23T15:06:52.521000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "谢谢赵哥了 希望能尾盘加回了。。。那今天我只是错过了一轮",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "谢谢赵哥了 希望能尾盘加回了。。。那今天我只是错过了一轮"
+}
