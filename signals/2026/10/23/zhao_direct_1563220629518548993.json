@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563220629518548993",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T16:00:41.312000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "最近就是很多股票会有减持 所以最近 全放soxl里面做了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "最近就是很多股票会有减持 所以最近 全放soxl里面做了",
+  "attribution": "direct"
+}
