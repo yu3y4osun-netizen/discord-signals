@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563197824261423221",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "frankyin",
+  "ts": "2026-10-23T14:30:04.115000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "全都清了嘛？ 赵哥不都拿着呢嘛",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "全都清了嘛？ 赵哥不都拿着呢嘛"
+}
