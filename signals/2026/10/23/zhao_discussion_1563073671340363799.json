@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563073671340363799",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wenwater",
+  "ts": "2026-10-23T06:16:43.752000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "冲多了就没机会加仓了 哈哈哈哈",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "冲多了就没机会加仓了 哈哈哈哈"
+}
