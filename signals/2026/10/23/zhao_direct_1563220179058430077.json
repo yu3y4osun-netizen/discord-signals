@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563220179058430077",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T15:58:53.914000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "be分批可以因为减持的第一天会减持多",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "be分批可以因为减持的第一天会减持多",
+  "attribution": "direct"
+}
