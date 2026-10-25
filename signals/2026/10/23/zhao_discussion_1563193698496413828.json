@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563193698496413828",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-23T14:13:40.456000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "割nbis?",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "割nbis?"
+}
