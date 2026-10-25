@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563086950007709707",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-23T07:09:29.633000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "先当反弹处理，该减减",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "先当反弹处理，该减减"
+}
