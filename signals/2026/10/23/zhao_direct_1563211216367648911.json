@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563211216367648911",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T15:23:17.042000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "空不是主要 主要盘中保护下 没怎么跌就仓位比多少一半或者 不开空保护 单做soxl也可以",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "空不是主要 主要盘中保护下  没怎么跌就仓位比多少一半或者 不开空保护 单做soxl也可以",
+  "attribution": "direct"
+}
