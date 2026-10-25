@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563192562502606849",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "banalaorta",
+  "ts": "2026-10-23T14:09:09.614000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "KO"
+    ],
+    "is_following_zhao": true,
+    "summary": "他加仓说是看感觉的 但节奏真的无敌好 他卖掉call然后买ko和brk的时候 就是最低点 直接吃十多个点 然后科技股的call也走了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "他加仓说是看感觉的 但节奏真的无敌好 他卖掉call然后买ko和brk的时候 就是最低点 直接吃十多个点 然后科技股的call也走了"
+}
