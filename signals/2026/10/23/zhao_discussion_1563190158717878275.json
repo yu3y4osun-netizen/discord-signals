@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563190158717878275",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-23T13:59:36.507000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "TQQQ"
+    ],
+    "is_following_zhao": true,
+    "summary": "我没买 就买了TQQQ和SOXL",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我没买 就买了TQQQ和SOXL"
+}
