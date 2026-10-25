@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563207692191797340",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T15:09:16.813000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在就是韩国 A港 都跌很多 他们也会护盘下",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "现在就是韩国 A港 都跌很多  他们也会护盘下",
+  "attribution": "direct"
+}
