@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563199847044087929",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T14:38:06.384000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "像这个前天不是说了 只有这个连板才是说明港股通有资金转化了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "像这个前天不是说了 只有这个连板才是说明港股通有资金转化了",
+  "attribution": "direct"
+}
