@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563210074699075669",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-10-23T15:18:44.847000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥我看上次22年加息，10月中下旬大盘触底反弹，但是为什么连7姐妹里面都有跌到来年1月份的",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥我看上次22年加息，10月中下旬大盘触底反弹，但是为什么连7姐妹里面都有跌到来年1月份的"
+}
