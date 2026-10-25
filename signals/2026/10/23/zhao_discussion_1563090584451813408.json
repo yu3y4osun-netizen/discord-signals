@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563090584451813408",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-10-23T07:23:56.152000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "市场传言：韩国将进行历史性救市 韩国周末将出台历史上最大的平准基金，规模是韩国股市跌1%-3%，预计1000亿美元资金。 韩国过去的稳定基金，规模占市值的比例在...",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "A股政策"
+    ]
+  },
+  "raw_text": "市场传言：韩国将进行历史性救市\n\n韩国周末将出台历史上最大的平准基金，规模是韩国股市跌1%-3%，预计1000亿美元资金。\n\n韩国过去的稳定基金，规模占市值的比例在0.1%-5%之间，算术平均约2.1%；1990年那次约4万亿韩元，占当时市值5%。"
+}
