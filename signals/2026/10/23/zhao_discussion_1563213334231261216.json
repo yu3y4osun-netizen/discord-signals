@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563213334231261216",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-10-23T15:31:41.980000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥，您看谷歌11月12月有修复的可能性吗，还有一部分他的仓位，要是不修复我就全出了，最近已经出了一些",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，您看谷歌11月12月有修复的可能性吗，还有一部分他的仓位，要是不修复我就全出了，最近已经出了一些"
+}
