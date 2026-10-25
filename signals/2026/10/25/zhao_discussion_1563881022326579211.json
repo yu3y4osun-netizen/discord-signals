@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563881022326579211",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yiyicc",
+  "ts": "2026-10-25T11:44:51.227000+00:00",
+  "captured_at": "2026-10-25T21:00:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没有救市政策那周一是不是又要开始跌了",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "A股政策"
+    ]
+  },
+  "raw_text": "没有救市政策那周一是不是又要开始跌了"
+}
