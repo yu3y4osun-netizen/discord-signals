@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563214001264005211",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T15:34:21.013000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "利率决议不好qqq700这个支撑会跌破",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "利率决议不好qqq700这个支撑会跌破",
+  "attribution": "direct"
+}
