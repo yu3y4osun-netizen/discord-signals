@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563214905732243641",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T15:37:56.655000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "在第二年是 东升西落 西落东升 在中选前行情",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "在第二年是 东升西落 西落东升  在中选前行情",
+  "attribution": "direct"
+}
