@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563235997838344194",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T17:01:45.405000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "然后就是上面说的 越单独的东西越测算不了 但是集体事件就能测算 像什么股问什么时候要减持要解禁 他不发公告 你哪里能知道 但是 集合啊指数啊 他这种有模型圈定死了就能测算",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后就是上面说的 越单独的东西越测算不了 但是集体事件就能测算  像什么股问什么时候要减持要解禁 他不发公告 你哪里能知道  但是 集合啊指数啊 他这种有模型圈定死了就能测算",
+  "attribution": "direct"
+}
