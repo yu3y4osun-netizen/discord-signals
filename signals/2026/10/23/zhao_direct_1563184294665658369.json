@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563184294665658369",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T13:36:18.408000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE"
+    ],
+    "is_following_zhao": false,
+    "summary": "be财报规避掉 财报有减持 前几天出了点了 现在出财报 有减持信息只有跌",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "be财报规避掉 财报有减持  前几天出了点了  现在出财报 有减持信息只有跌",
+  "attribution": "direct"
+}
