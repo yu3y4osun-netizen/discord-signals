@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563515937947263080",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-10-24T11:34:08.328000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在市场就是预期失败，到时候再做空还来得及？",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "现在市场就是预期失败，到时候再做空还来得及？"
+}
