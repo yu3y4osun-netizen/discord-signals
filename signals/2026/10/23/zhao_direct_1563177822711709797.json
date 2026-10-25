@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563177822711709797",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-23T13:10:35.374000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "事件不会去触发了 因为人工判断不了 也是在为12月26日 23小时交易做模拟了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "事件不会去触发了 因为人工判断不了  也是在为12月26日 23小时交易做模拟了",
+  "attribution": "direct"
+}
