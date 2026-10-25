@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1563081972178362389",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-23T06:49:42.826000+00:00",
+  "captured_at": "2026-10-25T13:05:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "昨天感觉下杀，都不敢买soxs了……我感觉理想状态是反弹出soxl入soxs",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "昨天感觉下杀，都不敢买soxs了……我感觉理想状态是反弹出soxl入soxs"
+}
