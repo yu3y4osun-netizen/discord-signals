@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564146768860680203",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "avocadorable0106",
+  "ts": "2026-10-26T05:20:50.138000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "Neocloud 不好常拿了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "Neocloud 不好常拿了"
+}
