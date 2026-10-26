@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564084702342684703",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-26T01:14:12.327000+00:00",
+  "captured_at": "2026-10-26T11:45:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "加了点soxl",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "加了点soxl"
+}
