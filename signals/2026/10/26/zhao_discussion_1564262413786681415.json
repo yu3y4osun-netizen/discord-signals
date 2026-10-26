@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564262413786681415",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-26T13:00:22.037000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "SPX",
+      "TSLA"
+    ],
+    "is_following_zhao": true,
+    "summary": "前段时间为什么spx和tsla财报后涨就是因为他把大批量的算力租出去赚钱了",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "前段时间为什么spx和tsla财报后涨就是因为他把大批量的算力租出去赚钱了"
+}
