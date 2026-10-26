@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564166940140765185",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-26T06:40:59.346000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果马斯克说的对，那应该涨才是，其他的新云无法融资，现在已经发展和融资不就更值钱了吗",
+    "filter_reason": "position_action",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "如果马斯克说的对，那应该涨才是，其他的新云无法融资，现在已经发展和融资不就更值钱了吗"
+}
