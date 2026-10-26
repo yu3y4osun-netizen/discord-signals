@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564121202161745922",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-26T03:39:14.562000+00:00",
+  "captured_at": "2026-10-26T11:45:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SPCX"
+    ],
+    "is_following_zhao": false,
+    "summary": "spcx主业要变云商 对新云是大利空",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "spcx主业要变云商 对新云是大利空"
+}
