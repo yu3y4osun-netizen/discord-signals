@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564110587548401735",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zhanglucky",
+  "ts": "2026-10-26T02:57:03.841000+00:00",
+  "captured_at": "2026-10-26T11:45:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "满仓，好在及时把融资卸了，现在只能躺平",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "满仓，好在及时把融资卸了，现在只能躺平"
+}
