@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564090872667177031",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-26T01:38:43.447000+00:00",
+  "captured_at": "2026-10-26T11:45:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "高盛说 做空仓位已经90% 这真不敢空",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "高盛说 做空仓位已经90%  这真不敢空"
+}
