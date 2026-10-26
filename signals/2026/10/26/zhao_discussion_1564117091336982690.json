@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564117091336982690",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-26T03:22:54.465000+00:00",
+  "captured_at": "2026-10-26T11:45:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "老马这是天上抢频谱，地上抢算力。🥹",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "老马这是天上抢频谱，地上抢算力。🥹"
+}
