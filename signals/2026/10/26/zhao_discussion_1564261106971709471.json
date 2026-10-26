@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564261106971709471",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-26T12:55:10.468000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "Amd就是我眼瞅着从100多。到600多的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Amd就是我眼瞅着从100多。到600多的"
+}
