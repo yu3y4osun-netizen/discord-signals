@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564111695113228481",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zhanglucky",
+  "ts": "2026-10-26T03:01:27.905000+00:00",
+  "captured_at": "2026-10-26T11:45:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不敢倒T，不能入金，也不敢融资正T，就这么躺着，每天看一眼，然后等",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "不敢倒T，不能入金，也不敢融资正T，就这么躺着，每天看一眼，然后等"
+}
