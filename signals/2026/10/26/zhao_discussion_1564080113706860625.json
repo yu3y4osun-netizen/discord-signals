@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564080113706860625",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-26T00:55:58.311000+00:00",
+  "captured_at": "2026-10-26T11:45:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": true,
+    "summary": "我还留了一点soxl 但是soxs开始赚了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我还留了一点soxl  但是soxs开始赚了"
+}
