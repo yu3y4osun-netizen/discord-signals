@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564132478766030859",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-26T04:24:03.114000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "特总统 先制造恐慌。制造矛盾 解决恐慌，解决矛盾 立人设",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "特总统\n\n先制造恐慌。制造矛盾\n\n解决恐慌，解决矛盾\n\n立人设"
+}
