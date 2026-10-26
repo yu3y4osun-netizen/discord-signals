@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564245713406267410",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-26T11:54:00.356000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "突然拉升的，是人工介入吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "突然拉升的，是人工介入吗"
+}
