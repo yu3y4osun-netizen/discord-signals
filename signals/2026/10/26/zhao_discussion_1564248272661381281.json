@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564248272661381281",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-26T12:04:10.530000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "骗不骗炮，我的云都动弹不了😆勉强做做T",
+    "filter_reason": "position_action",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "骗不骗炮，我的云都动弹不了😆勉强做做T"
+}
