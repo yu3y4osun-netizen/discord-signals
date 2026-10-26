@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564080070329499699",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-26T00:55:47.969000+00:00",
+  "captured_at": "2026-10-26T11:45:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在阴跌走势一直贴轨杀 根本做不了t",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "现在阴跌走势一直贴轨杀 根本做不了t"
+}
