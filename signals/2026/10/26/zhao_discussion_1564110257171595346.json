@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564110257171595346",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-26T02:55:45.073000+00:00",
+  "captured_at": "2026-10-26T11:45:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "几乎百分之95的人都满仓了吧现在",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "几乎百分之95的人都满仓了吧现在"
+}
