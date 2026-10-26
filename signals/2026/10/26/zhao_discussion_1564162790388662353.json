@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564162790388662353",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-26T06:24:29.968000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "马斯克对iren股东表示😑",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "马斯克对iren股东表示😑"
+}
