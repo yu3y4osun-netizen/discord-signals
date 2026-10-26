@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564168147525963777",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-26T06:45:47.209000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "强如七巨头的微软，不照样被杀的哭爹喊娘",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "强如七巨头的微软，不照样被杀的哭爹喊娘"
+}
