@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564085052529184909",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-26T01:15:35.818000+00:00",
+  "captured_at": "2026-10-26T11:45:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "只看到赵哥说调整作息",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "只看到赵哥说调整作息"
+}
