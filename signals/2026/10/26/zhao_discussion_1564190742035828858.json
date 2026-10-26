@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564190742035828858",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-26T08:15:34.160000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "现在就听赵哥的soxl soxs轮流做",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "现在就听赵哥的soxl soxs轮流做"
+}
