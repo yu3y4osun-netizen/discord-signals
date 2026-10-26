@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564260950180110489",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-26T12:54:33.086000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "我在x↑看到很多大佬说nbis以后会和amd一样",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我在x↑看到很多大佬说nbis以后会和amd一样"
+}
