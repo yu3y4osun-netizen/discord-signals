@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564190841600352372",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-26T08:15:57.898000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "又买了soxl 80再加",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "又买了soxl 80再加"
+}
