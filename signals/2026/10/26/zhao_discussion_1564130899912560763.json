@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564130899912560763",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "pan888",
+  "ts": "2026-10-26T04:17:46.686000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "10月亏麻了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "10月亏麻了"
+}
