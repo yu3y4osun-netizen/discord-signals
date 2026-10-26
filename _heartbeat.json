@@ -8,10 +8,10 @@
       "last_message_id": "1564121437248290888",
       "last_fetch_at": "2026-10-26T11:46:51+08:00",
       "last_run_total_new_msgs": 126,
-      "last_run_signals_pushed": 50,
+      "last_run_signals_pushed": 58,
       "last_run_signals_failed": 0,
-      "note": "2026-10-26 11:46 增量：新消息 126 条，推送 community 信号 50 条，失败 0 条",
-      "last_run_kol_direct_pushed": 193
+      "note": "2026-10-26 11:47 增量：新消息 126 条，推送 community 信号 58 条（首轮 50 + 词表校准补推 8），失败 0 条",
+      "last_run_kol_direct_pushed": 0
     }
   }
 }
