@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564248099021520929",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-26T12:03:29.131000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "群里有人买谷歌的期权吗，如果看谷歌财报。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "群里有人买谷歌的期权吗，如果看谷歌财报。"
+}
