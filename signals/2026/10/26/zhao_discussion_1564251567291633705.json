@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564251567291633705",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-26T12:17:16.031000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "涨到103",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "涨到103"
+}
