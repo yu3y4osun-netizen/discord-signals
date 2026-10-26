@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564237838545846313",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckfunzhao",
+  "ts": "2026-10-26T11:22:42.843000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "微软就是。🫣",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "微软就是。🫣"
+}
