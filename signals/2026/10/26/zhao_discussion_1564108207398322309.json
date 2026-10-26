@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564108207398322309",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-26T02:47:36.369000+00:00",
+  "captured_at": "2026-10-26T11:45:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "暴跌没了 开始阴跌 ，转熊了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "暴跌没了 开始阴跌 ，转熊了"
+}
