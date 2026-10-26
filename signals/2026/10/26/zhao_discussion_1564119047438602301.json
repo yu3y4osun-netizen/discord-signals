@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564119047438602301",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-26T03:30:40.836000+00:00",
+  "captured_at": "2026-10-26T11:45:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "Nb iren crwv 我还留着…",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Nb iren crwv 我还留着…"
+}
