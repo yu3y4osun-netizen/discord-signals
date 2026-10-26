@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564248720999063644",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckystick16",
+  "ts": "2026-10-26T12:05:57.422000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "盘前什么情况？牛回速归村发金的鬼故事？",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "盘前什么情况？牛回速归村发金的鬼故事？"
+}
