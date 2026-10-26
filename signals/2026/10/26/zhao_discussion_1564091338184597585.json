@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564091338184597585",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-26T01:40:34.435000+00:00",
+  "captured_at": "2026-10-26T11:45:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "g狗盛上周还说 可以做多了 这周改成了做空了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "g狗盛上周还说 可以做多了 这周改成了做空了"
+}
