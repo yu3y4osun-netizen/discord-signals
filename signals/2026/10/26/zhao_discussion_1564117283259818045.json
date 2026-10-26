@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564117283259818045",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckystick16",
+  "ts": "2026-10-26T03:23:40.223000+00:00",
+  "captured_at": "2026-10-26T11:45:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我上周最后一键清仓了，周末令人害怕",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "我上周最后一键清仓了，周末令人害怕"
+}
