@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564123333362978918",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-26T03:47:42.680000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "马斯克原话意思是没有电的云要倒闭，nic三家里面iren不缺电，nb经营模式对冲了，CRWV就惨了",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "马斯克原话意思是没有电的云要倒闭，nic三家里面iren不缺电，nb经营模式对冲了，CRWV就惨了"
+}
