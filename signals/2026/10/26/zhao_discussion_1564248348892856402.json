@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564248348892856402",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-26T12:04:28.705000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "Soxl已经到赵哥说的87出的位置…",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Soxl已经到赵哥说的87出的位置…"
+}
