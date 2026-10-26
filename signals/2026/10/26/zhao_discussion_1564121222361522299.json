@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564121222361522299",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-26T03:39:19.378000+00:00",
+  "captured_at": "2026-10-26T11:45:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥都说了要扛一段时间",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥都说了要扛一段时间"
+}
