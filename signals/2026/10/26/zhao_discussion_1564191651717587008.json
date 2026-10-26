@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564191651717587008",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-26T08:19:11.045000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": true,
+    "summary": "soxl我高点出了 留了一点 没想到被扣费了 哈哈 幸亏soxs补回来了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl我高点出了 留了一点 没想到被扣费了  哈哈  幸亏soxs补回来了"
+}
