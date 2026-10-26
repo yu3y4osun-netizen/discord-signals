@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564256230287876147",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-26T12:35:47.776000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要我觉得90，拉回拉扯了很久，是个大压力位",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "主要我觉得90，拉回拉扯了很久，是个大压力位"
+}
