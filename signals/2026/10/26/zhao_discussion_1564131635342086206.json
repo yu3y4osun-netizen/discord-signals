@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564131635342086206",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-26T04:20:42.026000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你这全部现在割肉 也还是赚 我已经一年白干了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "你这全部现在割肉 也还是赚 我已经一年白干了"
+}
