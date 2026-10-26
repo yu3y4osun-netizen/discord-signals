@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564249668844654644",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-26T12:09:43.406000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不追吧，我个人觉得可能反弹上去都是要减仓的😂",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "不追吧，我个人觉得可能反弹上去都是要减仓的😂"
+}
