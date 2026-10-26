@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564202918238757040",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-26T09:03:57.193000+00:00",
+  "captured_at": "2026-10-26T21:01:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "指数涨了，新云板块大跌",
+    "filter_reason": "emotion",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "指数涨了，新云板块大跌"
+}
