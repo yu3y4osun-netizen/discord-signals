@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564121416369053729",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-26T03:40:05.633000+00:00",
+  "captured_at": "2026-10-26T11:45:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "哪天高兴了把nbis iren crwv 全部收购了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "哪天高兴了把nbis iren crwv 全部收购了"
+}
