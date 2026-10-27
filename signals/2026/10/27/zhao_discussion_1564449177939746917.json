@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564449177939746917",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "maodie",
+  "ts": "2026-10-27T01:22:30.081000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl咋不跟欧巴指数了🫠",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl咋不跟欧巴指数了🫠"
+}
