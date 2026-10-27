@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564294775522332693",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky2026",
+  "ts": "2026-10-26T15:08:57.676000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "看不懂了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "看不懂了"
+}
