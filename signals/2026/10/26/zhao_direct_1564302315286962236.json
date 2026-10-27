@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564302315286962236",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-26T15:38:55.296000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是经常讲的 什么价格买了多少占比多少 未来入多少",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是经常讲的 什么价格买了多少占比多少 未来入多少",
+  "attribution": "direct"
+}
