@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564272738036875267",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-26T13:41:23.530000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "HYNIX",
+      "SSNLF"
+    ],
+    "is_following_zhao": false,
+    "summary": "今天主要涨存储 韩国这轮跌主要比例在三星和海力士上面",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "今天主要涨存储  韩国这轮跌主要比例在三星和海力士上面",
+  "attribution": "direct"
+}
