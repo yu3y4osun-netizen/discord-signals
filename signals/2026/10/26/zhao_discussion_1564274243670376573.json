@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564274243670376573",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-26T13:47:22.501000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "现在基本都是原来被套的 soxl不多",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "现在基本都是原来被套的 soxl不多"
+}
