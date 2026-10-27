@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564634082502123571",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-27T13:37:14.764000+00:00",
+  "captured_at": "2026-10-27T21:40:05+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "像nbis就是的 他低点 夜盘 盘前可能153每天都随指数会冲高165附近",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "像nbis就是的 他低点 夜盘 盘前可能153每天都随指数会冲高165附近",
+  "attribution": "direct"
+}
