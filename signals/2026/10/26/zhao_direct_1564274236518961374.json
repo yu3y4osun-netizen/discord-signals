@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564274236518961374",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-26T13:47:20.796000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "下一轮可以81附近三分之一",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "下一轮可以81附近三分之一",
+  "attribution": "direct"
+}
