@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564453268229324883",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-27T01:38:45.282000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我昨天都踏空了 昨天白天出掉后就没玩了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我昨天都踏空了 昨天白天出掉后就没玩了"
+}
