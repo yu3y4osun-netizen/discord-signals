@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564619747889254420",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-10-27T12:40:17.126000+00:00",
+  "captured_at": "2026-10-27T21:40:05+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥今晚soxl要是低开是不是就能进去了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥今晚soxl要是低开是不是就能进去了"
+}
