@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564272865300451459",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-26T13:41:53.872000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl里面存储和光的比例周末就调高了 所以主要做soxl",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "soxl里面存储和光的比例周末就调高了 所以主要做soxl",
+  "attribution": "direct"
+}
