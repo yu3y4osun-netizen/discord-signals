@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564289300663767121",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-10-26T14:47:12.368000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "直线了 今天还走轮廓嘛",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "直线了  今天还走轮廓嘛"
+}
