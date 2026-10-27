@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564298243205111871",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-26T15:22:44.436000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥那么盘中这一根已经走完了，盘后和夜盘就应该不会再拉了吧？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥那么盘中这一根已经走完了，盘后和夜盘就应该不会再拉了吧？"
+}
