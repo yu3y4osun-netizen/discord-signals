@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564632508619034636",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-27T13:30:59.521000+00:00",
+  "captured_at": "2026-10-27T21:40:05+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "其实我还想买nbis 哈哈哈",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "其实我还想买nbis 哈哈哈"
+}
