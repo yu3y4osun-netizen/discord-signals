@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564631934917804126",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-27T13:28:42.740000+00:00",
+  "captured_at": "2026-10-27T21:40:05+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "前面最低说过不用老止损 周期涨的时候慢慢出 波动大 夜盘不是很低 出数据就涨",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "前面最低说过不用老止损 周期涨的时候慢慢出 波动大  夜盘不是很低 出数据就涨",
+  "attribution": "direct"
+}
