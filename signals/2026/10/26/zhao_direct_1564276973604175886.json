@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564276973604175886",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-26T13:58:13.368000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "夜盘开盘不是86.5了 夜盘结束81是一个轮次 韩国消息那个盘前故意拉88是一个轮次",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "夜盘开盘不是86.5了  夜盘结束81是一个轮次  韩国消息那个盘前故意拉88是一个轮次",
+  "attribution": "direct"
+}
