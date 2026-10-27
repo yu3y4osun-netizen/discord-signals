@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564298828419440742",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangxing",
+  "ts": "2026-10-26T15:25:03.962000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl92了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl92了"
+}
