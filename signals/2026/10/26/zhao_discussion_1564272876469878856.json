@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564272876469878856",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-26T13:41:56.535000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是的，我看马斯克的意思是大部分只靠数据中心和算力挣钱的公司最后都要倒闭",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "是的，我看马斯克的意思是大部分只靠数据中心和算力挣钱的公司最后都要倒闭"
+}
