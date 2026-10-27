@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564634129683709973",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-27T13:37:26.013000+00:00",
+  "captured_at": "2026-10-27T21:40:05+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你不要老是 最低点看到 盘中高点每天看不到",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "你不要老是 最低点看到 盘中高点每天看不到",
+  "attribution": "direct"
+}
