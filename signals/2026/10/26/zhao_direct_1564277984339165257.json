@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564277984339165257",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-26T14:02:14.346000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "盘前这个消息 夜盘就知道了盘前发 就是 出一波 压盘中的收盘最低",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "盘前这个消息 夜盘就知道了盘前发 就是 出一波 压盘中的收盘最低",
+  "attribution": "direct"
+}
