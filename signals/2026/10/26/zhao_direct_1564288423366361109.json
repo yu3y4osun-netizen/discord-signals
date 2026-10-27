@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564288423366361109",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-26T14:43:43.204000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要韩国今天抄底规模披露了 明天在披露今天的夜盘都会反弹",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "主要韩国今天抄底规模披露了  明天在披露今天的夜盘都会反弹",
+  "attribution": "direct"
+}
