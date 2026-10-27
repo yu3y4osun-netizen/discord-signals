@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564274507949281372",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-26T13:48:25.510000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "低买了 冲高抛做点正T",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "低买了 冲高抛做点正T",
+  "attribution": "direct"
+}
