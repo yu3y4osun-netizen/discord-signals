@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564273359254982717",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-26T13:43:51.640000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "mu跌到700的时候也说完了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "mu跌到700的时候也说完了"
+}
