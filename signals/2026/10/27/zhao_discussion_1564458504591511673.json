@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564458504591511673",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-27T01:59:33.728000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "KORU"
+    ],
+    "is_following_zhao": false,
+    "summary": "昨天哪个兄弟提了一下koru今天夜盘跟着吃肉了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "昨天哪个兄弟提了一下koru今天夜盘跟着吃肉了"
+}
