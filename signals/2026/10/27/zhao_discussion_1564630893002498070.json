@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564630893002498070",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-27T13:24:34.328000+00:00",
+  "captured_at": "2026-10-27T21:40:05+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "HYNIX"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 盘后海力士财报影响大么",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 盘后海力士财报影响大么"
+}
