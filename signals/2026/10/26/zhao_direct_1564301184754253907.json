@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564301184754253907",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-26T15:34:25.756000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "之前上周文章80的soxl获重要押注一篇文章也是重点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "之前上周文章80的soxl获重要押注一篇文章也是重点",
+  "attribution": "direct"
+}
