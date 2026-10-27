@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564291236347650059",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-10-26T14:54:53.871000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "纳指企稳了感觉",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "纳指企稳了感觉"
+}
