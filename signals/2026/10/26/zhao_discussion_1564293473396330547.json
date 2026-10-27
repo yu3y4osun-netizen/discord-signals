@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564293473396330547",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-26T15:03:47.225000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "Soxs还可以留吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Soxs还可以留吗"
+}
