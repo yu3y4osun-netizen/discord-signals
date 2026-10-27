@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564633292551229505",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-27T13:34:06.425000+00:00",
+  "captured_at": "2026-10-27T21:40:05+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "分批就是了 之前83都买过 不一样出来了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "分批就是了 之前83都买过 不一样出来了",
+  "attribution": "direct"
+}
