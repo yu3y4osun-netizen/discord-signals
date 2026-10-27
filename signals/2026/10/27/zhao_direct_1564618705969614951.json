@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564618705969614951",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-27T12:36:08.713000+00:00",
+  "captured_at": "2026-10-27T21:40:05+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "昨天说了啊 盘后那个大阳线会续涨下",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "昨天说了啊 盘后那个大阳线会续涨下",
+  "attribution": "direct"
+}
