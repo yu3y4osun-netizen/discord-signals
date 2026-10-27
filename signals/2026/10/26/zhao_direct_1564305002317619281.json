@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564305002317619281",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-26T15:49:35.934000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "唱票时候比较混乱时候极限到80附近 都可以埋伏下soxl",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "唱票时候比较混乱时候极限到80附近 都可以埋伏下soxl",
+  "attribution": "direct"
+}
