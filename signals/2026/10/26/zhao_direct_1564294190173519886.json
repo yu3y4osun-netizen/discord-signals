@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564294190173519886",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-26T15:06:38.118000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "只吃一个方向 两头都吃 吃不住",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "只吃一个方向 两头都吃 吃不住",
+  "attribution": "direct"
+}
