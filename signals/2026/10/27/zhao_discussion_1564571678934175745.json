@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564571678934175745",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-27T09:29:16.594000+00:00",
+  "captured_at": "2026-10-27T21:40:05+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "美股做多，解套概率肯定大于做空",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "美股做多，解套概率肯定大于做空"
+}
