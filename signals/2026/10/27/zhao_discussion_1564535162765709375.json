@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564535162765709375",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-27T07:04:10.461000+00:00",
+  "captured_at": "2026-10-27T21:40:05+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天小韩还可以啊 跳水不多",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "今天小韩还可以啊 跳水不多"
+}
