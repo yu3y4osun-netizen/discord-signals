@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564295934916042907",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xprimes",
+  "ts": "2026-10-26T15:13:34.097000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥 soxs 53.5的成本 要不要割掉",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 soxs 53.5的成本 要不要割掉"
+}
