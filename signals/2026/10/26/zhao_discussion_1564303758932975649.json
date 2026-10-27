@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564303758932975649",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yeahcoco",
+  "ts": "2026-10-26T15:44:39.488000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥的意思是 夜盘还能博个大阳线吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥的意思是 夜盘还能博个大阳线吗"
+}
