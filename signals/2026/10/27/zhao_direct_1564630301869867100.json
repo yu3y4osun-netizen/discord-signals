@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564630301869867100",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-27T13:22:13.391000+00:00",
+  "captured_at": "2026-10-27T21:40:05+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "差不多就是盘前高点在多一点点样子 盘前拉了比较多了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "差不多就是盘前高点在多一点点样子 盘前拉了比较多了",
+  "attribution": "direct"
+}
