@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564630546640805969",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-27T13:23:11.749000+00:00",
+  "captured_at": "2026-10-27T21:40:05+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，那今天应该也没啥买的机会吧",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，那今天应该也没啥买的机会吧"
+}
