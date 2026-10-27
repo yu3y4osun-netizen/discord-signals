@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564277291880554569",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky2026",
+  "ts": "2026-10-26T13:59:29.251000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxs起来了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxs起来了"
+}
