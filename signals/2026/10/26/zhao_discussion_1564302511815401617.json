@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564302511815401617",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-10-26T15:39:42.152000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，假新闻看多了，都反着来看了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，假新闻看多了，都反着来看了"
+}
