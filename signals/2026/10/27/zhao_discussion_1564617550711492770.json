@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564617550711492770",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-27T12:31:33.278000+00:00",
+  "captured_at": "2026-10-27T21:40:05+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "蹲赵哥的趋势图",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "蹲赵哥的趋势图"
+}
