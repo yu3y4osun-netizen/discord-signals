@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564274382480875652",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckfunzhao",
+  "ts": "2026-10-26T13:47:55.596000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "我SOXL成本在140🫣",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我SOXL成本在140🫣"
+}
