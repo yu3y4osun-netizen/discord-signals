@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564280316254756905",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-26T14:11:30.318000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但是如果账户小全仓被套确实很难去谈什么基本面分析产业逻辑这些",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "但是如果账户小全仓被套确实很难去谈什么基本面分析产业逻辑这些"
+}
