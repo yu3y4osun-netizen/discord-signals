@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564292145941192806",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-26T14:58:30.735000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "你不是喜欢玩闪迪吗？还没涨多少",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "你不是喜欢玩闪迪吗？还没涨多少"
+}
