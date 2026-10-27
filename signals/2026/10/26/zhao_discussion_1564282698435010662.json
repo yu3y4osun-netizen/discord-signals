@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564282698435010662",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-26T14:20:58.274000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "许个愿，今天单边上涨了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "许个愿，今天单边上涨了"
+}
