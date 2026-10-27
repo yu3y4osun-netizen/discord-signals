@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564296871885803662",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xprimes",
+  "ts": "2026-10-26T15:17:17.488000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "老马的SpaceX跟这些新云现在直接竞争对手，Grok模型表现低于预期，SpaceX大部分算力也租赁给谷歌和Anthropic，老马在基础设施建设方面大幅领先新...",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "老马的SpaceX跟这些新云现在直接竞争对手，Grok模型表现低于预期，SpaceX大部分算力也租赁给谷歌和Anthropic，老马在基础设施建设方面大幅领先新云，SpaceX刚刚通过上市获得800亿美金的融资，又通过发债获得400亿美金融资，自己把钱融完以后，马斯克扭头就疯狂看空竞争对手的融资，把对手的融资扼杀在摇篮当中，商战有时候就是这么朴实无华"
+}
