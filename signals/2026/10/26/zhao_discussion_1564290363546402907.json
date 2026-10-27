@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564290363546402907",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "leonard5",
+  "ts": "2026-10-26T14:51:25.779000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，不看好股票的话为啥不割掉止跌，是因为觉得后续跌幅也比较有限了么",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，不看好股票的话为啥不割掉止跌，是因为觉得后续跌幅也比较有限了么"
+}
