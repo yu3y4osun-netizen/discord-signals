@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564273383502385375",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-26T13:43:57.421000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "lite今天确实可以",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "lite今天确实可以"
+}
