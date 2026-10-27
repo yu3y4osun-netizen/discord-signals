@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564298262989643866",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-26T15:22:49.153000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "就跟大陆基金买卖谷歌一样",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就跟大陆基金买卖谷歌一样",
+  "attribution": "direct"
+}
