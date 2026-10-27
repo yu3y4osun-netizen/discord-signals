@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564295037293166745",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-10-26T15:10:00.087000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "我nvidia也卖飞了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我nvidia也卖飞了"
+}
