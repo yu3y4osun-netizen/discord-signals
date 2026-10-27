@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564565310458306631",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-27T09:03:58.231000+00:00",
+  "captured_at": "2026-10-27T21:40:05+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "开盘暴涨猛拉，先杀一堆最近做空的。然后突然暴跌。杀一堆做多的。最后再拉起来。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "开盘暴涨猛拉，先杀一堆最近做空的。然后突然暴跌。杀一堆做多的。最后再拉起来。"
+}
