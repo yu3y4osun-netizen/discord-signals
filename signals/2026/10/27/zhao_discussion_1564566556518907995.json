@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564566556518907995",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-10-27T09:08:55.315000+00:00",
+  "captured_at": "2026-10-27T21:40:05+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN"
+    ],
+    "is_following_zhao": false,
+    "summary": "coin财报加美联储利率，不知道能不能承受得住🤣",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "coin财报加美联储利率，不知道能不能承受得住🤣"
+}
