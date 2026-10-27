@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564277474362261707",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-26T14:00:12.758000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在在这个第一个跌这里",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "现在在这个第一个跌这里",
+  "attribution": "direct"
+}
