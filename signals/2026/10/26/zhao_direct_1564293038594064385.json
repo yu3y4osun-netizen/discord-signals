@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564293038594064385",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-26T15:02:03.560000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没有啊 最近流动性热钱消退的都是有个多空波动大的过程",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "没有啊 最近流动性热钱消退的都是有个多空波动大的过程",
+  "attribution": "direct"
+}
