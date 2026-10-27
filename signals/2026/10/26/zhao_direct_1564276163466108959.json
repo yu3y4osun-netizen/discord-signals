@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564276163466108959",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-26T13:55:00.216000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "支付宝基金里面就可以看啊",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "支付宝基金里面就可以看啊",
+  "attribution": "direct"
+}
