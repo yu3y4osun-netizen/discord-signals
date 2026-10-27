@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564271842083078212",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-10-26T13:37:49.918000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "特斯拉又可以了，卖啥啥涨",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "特斯拉又可以了，卖啥啥涨"
+}
