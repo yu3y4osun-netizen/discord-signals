@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564273622531707093",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-26T13:44:54.410000+00:00",
+  "captured_at": "2026-10-27T10:35:43+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "云也在soxl里面 但是有2个强力3个平的带一个云板块跌 总统soxl是反弹的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "云也在soxl里面 但是有2个强力3个平的带一个云板块跌 总统soxl是反弹的",
+  "attribution": "direct"
+}
