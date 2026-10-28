@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564674035827343463",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-27T16:16:00.379000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "减的一些就主要下轮堆soxl",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "减的一些就主要下轮堆soxl",
+  "attribution": "direct"
+}
