@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564694703272632401",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zihan2000",
+  "ts": "2026-10-27T17:38:07.882000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 想请问对云大厂怎么看，特别是谷歌最近会反弹吗，我看你说国内减持了",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "赵哥 想请问对云大厂怎么看，特别是谷歌最近会反弹吗，我看你说国内减持了"
+}
