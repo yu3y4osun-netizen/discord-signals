@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564685085381238785",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-27T16:59:54.798000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，想问一下东升西落就是中选后的这段时间，也就是明年A股才有涨势嘛，美股的话中选后都属于缩量，可能得等到下一次大选才有真行情了嘛",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，想问一下东升西落就是中选后的这段时间，也就是明年A股才有涨势嘛，美股的话中选后都属于缩量，可能得等到下一次大选才有真行情了嘛"
+}
