@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564658439869825116",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "leonard5",
+  "ts": "2026-10-27T15:14:02.013000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "手里还有点之前的 soxs",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "手里还有点之前的 soxs"
+}
