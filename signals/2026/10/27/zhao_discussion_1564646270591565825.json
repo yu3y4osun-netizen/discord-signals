@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564646270591565825",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-27T14:25:40.631000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "票都是轮换的 等博通拉起来 400我就卖",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "票都是轮换的\n等博通拉起来 400我就卖"
+}
