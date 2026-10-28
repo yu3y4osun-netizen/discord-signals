@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564672922453282887",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hubinchen",
+  "ts": "2026-10-27T16:11:34.930000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌的模型名字",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌的模型名字"
+}
