@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564672771399745569",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-10-27T16:10:58.916000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "前几天是这个价格减仓的要不要补回来",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "前几天是这个价格减仓的要不要补回来"
+}
