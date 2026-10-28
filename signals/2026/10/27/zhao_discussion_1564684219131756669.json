@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564684219131756669",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "avocadorable0106",
+  "ts": "2026-10-27T16:56:28.268000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 我之前割了些肉 只剩SoXX和一些正股，轻仓的情况下 目前建议如何操作呢？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 我之前割了些肉 只剩SoXX和一些正股，轻仓的情况下 目前建议如何操作呢？"
+}
