@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564688426140307638",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ziqiwen",
+  "ts": "2026-10-27T17:13:11.297000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "确实 那段时间nbis 太赚了 我下手也重",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "确实 那段时间nbis 太赚了  我下手也重"
+}
