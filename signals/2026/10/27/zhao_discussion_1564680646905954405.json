@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564680646905954405",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hubinchen",
+  "ts": "2026-10-27T16:42:16.583000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "稳，跟着赵哥不烧心",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "稳，跟着赵哥不烧心"
+}
