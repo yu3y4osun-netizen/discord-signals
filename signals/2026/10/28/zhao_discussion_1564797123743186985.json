@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564797123743186985",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-28T00:25:06.825000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "我也好奇 反正我是尾盘买了 但是周一白天 86把soxl清掉了😅",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我也好奇 反正我是尾盘买了 但是周一白天 86把soxl清掉了😅"
+}
