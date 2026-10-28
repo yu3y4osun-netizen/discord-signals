@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564640496414892199",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-27T14:02:43.960000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我730和401的时候半导体都进行了回踩",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "我730和401的时候半导体都进行了回踩"
+}
