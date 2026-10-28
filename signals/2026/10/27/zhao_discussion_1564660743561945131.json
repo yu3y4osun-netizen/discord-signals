@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564660743561945131",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-27T15:23:11.256000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，大A龙虎榜，是看机构还是看深（沪）股通专用？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，大A龙虎榜，是看机构还是看深（沪）股通专用？"
+}
