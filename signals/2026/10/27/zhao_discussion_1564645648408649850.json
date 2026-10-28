@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564645648408649850",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-27T14:23:12.291000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我是冲谷歌了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我是冲谷歌了"
+}
