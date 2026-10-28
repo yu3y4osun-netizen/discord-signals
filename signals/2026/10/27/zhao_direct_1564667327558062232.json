@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564667327558062232",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-27T15:49:21.003000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跌的话可能就到7710-7720压力位这里 今天就是 在利率决定前都会预反弹下",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "跌的话可能就到7710-7720压力位这里 今天就是 在利率决定前都会预反弹下",
+  "attribution": "direct"
+}
