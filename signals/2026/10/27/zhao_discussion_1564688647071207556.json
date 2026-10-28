@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564688647071207556",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-10-27T17:14:03.971000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "话说如果川普人为让大盘急跌的话，赵哥你会愿意提前做多吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "话说如果川普人为让大盘急跌的话，赵哥你会愿意提前做多吗"
+}
