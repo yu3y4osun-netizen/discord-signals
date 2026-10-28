@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564671738808238222",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-27T16:06:52.727000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这就是为啥低位不怎么止损 慢慢通过轮廓图走出来",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这就是为啥低位不怎么止损  慢慢通过轮廓图走出来",
+  "attribution": "direct"
+}
