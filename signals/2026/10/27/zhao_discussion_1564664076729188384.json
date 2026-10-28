@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564664076729188384",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-10-27T15:36:25.945000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "就搞soxl吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "就搞soxl吧"
+}
