@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564694122051272705",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ning2206",
+  "ts": "2026-10-27T17:35:49.308000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥 请问一下，我还有一些nbis，之前一份nbis摊薄的成本在209，上周三反弹的时候172出了1/3，最近也加，还有2/3的nbis今天需要再出点吗？看您说...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 请问一下，我还有一些nbis，之前一份nbis摊薄的成本在209，上周三反弹的时候172出了1/3，最近也加，还有2/3的nbis今天需要再出点吗？看您说倍量的又会在170出，还是到利率再看情况？"
+}
