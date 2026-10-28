@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564646309858779278",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-10-27T14:25:49.993000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "到时候meta 谷歌如果是低位 接着入",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "到时候meta 谷歌如果是低位 接着入"
+}
