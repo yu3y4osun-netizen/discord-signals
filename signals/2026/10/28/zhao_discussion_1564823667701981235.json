@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564823667701981235",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-10-28T02:10:35.398000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "明天晚上财报微软和谷歌大家看好哪个",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "明天晚上财报微软和谷歌大家看好哪个"
+}
