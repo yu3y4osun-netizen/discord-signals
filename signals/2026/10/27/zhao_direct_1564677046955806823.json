@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564677046955806823",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-27T16:27:58.288000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "然后像超跌的cbrs那种为啥也是等12点钟 指数12点是高点 没怎么反弹 万一明天利率不好 他又吃跌幅",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后像超跌的cbrs那种为啥也是等12点钟  指数12点是高点 没怎么反弹 万一明天利率不好 他又吃跌幅",
+  "attribution": "direct"
+}
