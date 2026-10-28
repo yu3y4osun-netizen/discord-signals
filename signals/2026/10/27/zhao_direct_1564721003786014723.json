@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564721003786014723",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-27T19:22:38.413000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个很多次150反弹170了 里面存量就是不断短线的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这个很多次150反弹170了 里面存量就是不断短线的",
+  "attribution": "direct"
+}
