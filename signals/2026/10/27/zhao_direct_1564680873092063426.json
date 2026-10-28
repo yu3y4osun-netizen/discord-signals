@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564680873092063426",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-27T16:43:10.510000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在量能比 之前少30-40%就是一直跟轮廓",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "现在量能比 之前少30-40%就是一直跟轮廓",
+  "attribution": "direct"
+}
