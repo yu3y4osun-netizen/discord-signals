@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564695005967159328",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-27T17:39:20.050000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "集合如果100个股票 30个利空 30个平 40个涨 都日内会反弹",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "集合如果100个股票 30个利空  30个平 40个涨 都日内会反弹",
+  "attribution": "direct"
+}
