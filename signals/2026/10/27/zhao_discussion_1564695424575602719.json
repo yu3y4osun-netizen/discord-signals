@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564695424575602719",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-27T17:40:59.854000+00:00",
+  "captured_at": "2026-10-28T10:45:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥所以最安全的就是反复在75-90附近分批买soxl套利，用集合代替个股，适当加大一些soxl的仓位？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥所以最安全的就是反复在75-90附近分批买soxl套利，用集合代替个股，适当加大一些soxl的仓位？"
+}
