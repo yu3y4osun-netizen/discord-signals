@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565001175193882665",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-10-28T13:55:56.482000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "争议的话，按照赵哥给的流程，要回调到11月15日了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "争议的话，按照赵哥给的流程，要回调到11月15日了"
+}
