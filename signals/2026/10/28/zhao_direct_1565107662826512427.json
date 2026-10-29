@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565107662826512427",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T20:59:05.112000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "应该不会的 谷歌减持那么多天了很多人都知道的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "应该不会的 谷歌减持那么多天了很多人都知道的",
+  "attribution": "direct"
+}
