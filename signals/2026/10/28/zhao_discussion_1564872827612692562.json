@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564872827612692562",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-28T05:25:56.034000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "别人资金允许它破位，那它就要往下找买盘，并且会多次测试支撑",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "别人资金允许它破位，那它就要往下找买盘，并且会多次测试支撑"
+}
