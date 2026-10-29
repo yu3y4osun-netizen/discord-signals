@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564861675293769799",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-28T04:41:37.114000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE",
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "刚才不是出了一点MU LITE DRAM 吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "刚才不是出了一点MU  LITE  DRAM 吗"
+}
