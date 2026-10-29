@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565094655031255144",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-28T20:07:23.812000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "微软能不能上600 卖了好买Google",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "微软能不能上600  卖了好买Google"
+}
