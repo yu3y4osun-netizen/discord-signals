@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565118277598978119",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "linlin7",
+  "ts": "2026-10-28T21:41:15.871000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还不用补其他股 满仓也补不回来",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "还不用补其他股 满仓也补不回来"
+}
