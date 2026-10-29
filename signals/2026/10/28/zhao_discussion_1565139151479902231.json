@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565139151479902231",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-28T23:04:12.592000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "谷歌我觉得挺好的 开始进货了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌我觉得挺好的 开始进货了"
+}
