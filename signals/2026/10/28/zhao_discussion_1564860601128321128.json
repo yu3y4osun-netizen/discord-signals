@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564860601128321128",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "uccu",
+  "ts": "2026-10-28T04:37:21.013000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "套路不一样，你想要的是提前布局，然后涨了以后拿住高点卖。但是赵哥是做t的选手，你这个我去年也跟着亏了，还有bmnr之类的。后面我就不跟小票了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "套路不一样，你想要的是提前布局，然后涨了以后拿住高点卖。但是赵哥是做t的选手，你这个我去年也跟着亏了，还有bmnr之类的。后面我就不跟小票了"
+}
