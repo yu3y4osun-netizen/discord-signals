@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564865612444864616",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-28T04:57:15.804000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "很好奇 那个卖赵哥点位信息的大鹅 最近怎么样了 好久没说话了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "很好奇  那个卖赵哥点位信息的大鹅  最近怎么样了  好久没说话了"
+}
