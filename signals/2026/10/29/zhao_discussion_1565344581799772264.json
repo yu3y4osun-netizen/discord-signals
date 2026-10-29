@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565344581799772264",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-10-29T12:40:30.997000+00:00",
+  "captured_at": "2026-10-29T21:04:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥一直还没出手",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥一直还没出手"
+}
