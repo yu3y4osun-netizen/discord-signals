@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565222490223935521",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-10-29T04:35:22.097000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "想买 问赵哥没回，主要最近都做soxl Soxs",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "想买 问赵哥没回，主要最近都做soxl Soxs"
+}
