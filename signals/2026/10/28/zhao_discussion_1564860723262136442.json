@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564860723262136442",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lhxlucky",
+  "ts": "2026-10-28T04:37:50.132000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "班长是托你们还不知道吗？你们没发现班长操作比赵哥牛逼吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "班长是托你们还不知道吗？你们没发现班长操作比赵哥牛逼吗"
+}
