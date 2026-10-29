@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565069343480357107",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-28T18:26:49.068000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "ORCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "甲骨文短线拉升超5%，预计2029财年资本支出将减少，支撑300亿美元以上的自由现金流。到2030财年将额外融资规模限制在200亿美元。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "甲骨文短线拉升超5%，预计2029财年资本支出将减少，支撑300亿美元以上的自由现金流。到2030财年将额外融资规模限制在200亿美元。"
+}
