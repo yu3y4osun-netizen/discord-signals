@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564999510437134347",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-28T13:49:19.573000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "mu很硬",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "mu很硬"
+}
