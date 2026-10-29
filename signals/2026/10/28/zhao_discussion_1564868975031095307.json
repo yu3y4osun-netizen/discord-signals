@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564868975031095307",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-28T05:10:37.507000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还有就是不要相信那些喊着梭哈满仓满融的人，蔫儿坏",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "还有就是不要相信那些喊着梭哈满仓满融的人，蔫儿坏"
+}
