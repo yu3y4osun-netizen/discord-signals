@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564840948783915112",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-28T03:19:15.529000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "CRWV",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr crwv iren 无脑跌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cifr crwv iren 无脑跌"
+}
