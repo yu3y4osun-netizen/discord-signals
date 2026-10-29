@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564952563416178742",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-28T10:42:46.531000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "除了这次失误 赵哥的理论&知识真的很受用 也确实赚到钱了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "除了这次失误 赵哥的理论&知识真的很受用 也确实赚到钱了"
+}
