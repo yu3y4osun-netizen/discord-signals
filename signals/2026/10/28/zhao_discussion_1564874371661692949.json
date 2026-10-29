@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564874371661692949",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-28T05:32:04.164000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "我就是看INTC NBIS破位了才下狠心割掉了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我就是看INTC NBIS破位了才下狠心割掉了"
+}
