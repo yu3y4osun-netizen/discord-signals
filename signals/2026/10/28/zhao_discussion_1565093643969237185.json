@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565093643969237185",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "eatmybanana",
+  "ts": "2026-10-28T20:03:22.756000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "googl崩了我日",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "googl崩了我日"
+}
