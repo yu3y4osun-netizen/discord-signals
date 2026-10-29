@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565069129638215713",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-28T18:25:58.084000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "ORCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "orcl把云都带了波直线",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "orcl把云都带了波直线"
+}
