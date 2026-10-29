@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564954908749467754",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-28T10:52:05.702000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "班长比赵叔牛逼 我就没见过班长问过赵哥问题 一顿操作就把钱赚了 你说牛逼吗？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "班长比赵叔牛逼 我就没见过班长问过赵哥问题 一顿操作就把钱赚了 你说牛逼吗？"
+}
