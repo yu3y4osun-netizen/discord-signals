@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565287428288290888",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-10-29T08:53:24.538000+00:00",
+  "captured_at": "2026-10-29T21:04:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "之前说了的，谷歌容易左右手互搏",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "之前说了的，谷歌容易左右手互搏"
+}
