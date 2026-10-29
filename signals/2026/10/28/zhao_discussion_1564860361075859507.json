@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564860361075859507",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lhxlucky",
+  "ts": "2026-10-28T04:36:23.780000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "bmnr自己看看赵哥多少钱让你们买的",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "bmnr自己看看赵哥多少钱让你们买的"
+}
