@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564872604668661892",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-28T05:25:02.880000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "本质上我们只是为了吃波段，结果被套了个大的",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "本质上我们只是为了吃波段，结果被套了个大的"
+}
