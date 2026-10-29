@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564957607150751768",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-28T11:02:49.051000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我希望能有个不错的反弹到200左右",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我希望能有个不错的反弹到200左右"
+}
