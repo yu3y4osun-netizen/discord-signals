@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565223763786735727",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-10-29T04:40:25.738000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌290这个价格我觉得中长线没问题，大不了后面再跌10个点再补呗￼￼",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌290这个价格我觉得中长线没问题，大不了后面再跌10个点再补呗￼￼"
+}
