@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564954994065678367",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-28T10:52:26.043000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要是还是自己仓位管理和前后交易一致性",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "主要是还是自己仓位管理和前后交易一致性"
+}
