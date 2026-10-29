@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564847552476610655",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-28T03:45:29.972000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "小部分跟赵哥搞点超额收益",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "小部分跟赵哥搞点超额收益"
+}
