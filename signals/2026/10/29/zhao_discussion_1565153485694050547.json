@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565153485694050547",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-29T00:01:10.135000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "因为是大芯片，散热比nvdia的构架差很多，芯片基板和铜线啥的热系数不同，功率变换导致的热胀冷缩会让大芯片的寿命不到两年",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "因为是大芯片，散热比nvdia的构架差很多，芯片基板和铜线啥的热系数不同，功率变换导致的热胀冷缩会让大芯片的寿命不到两年"
+}
