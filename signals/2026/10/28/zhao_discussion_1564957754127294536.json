@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564957754127294536",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-10-28T11:03:24.093000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那时候是不是买期权就猛猛冲就好了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那时候是不是买期权就猛猛冲就好了"
+}
