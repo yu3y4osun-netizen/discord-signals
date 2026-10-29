@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564999331201941585",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T13:48:36.840000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "昨天就是看韩国会在拉下 夜盘 闹钟起来减的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "昨天就是看韩国会在拉下 夜盘 闹钟起来减的",
+  "attribution": "direct"
+}
