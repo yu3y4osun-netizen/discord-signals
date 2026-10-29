@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565107236337098824",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T20:57:23.429000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "反正要睡觉时候 soxs就出掉",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "反正要睡觉时候 soxs就出掉",
+  "attribution": "direct"
+}
