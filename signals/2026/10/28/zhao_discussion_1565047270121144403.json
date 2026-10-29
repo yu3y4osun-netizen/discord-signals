@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565047270121144403",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-28T16:59:06.369000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "突然起飞了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "突然起飞了"
+}
