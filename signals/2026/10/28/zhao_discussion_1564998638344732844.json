@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564998638344732844",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-10-28T13:45:51.650000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，想问一下后续美股缩量的话￼，会不会为了稳指数拉某些特定的板块？￼比如大a拉银行一样？￼",
+    "filter_reason": "zhao_discuss",
+    "sectors_mentioned": [
+      "A股银行"
+    ]
+  },
+  "raw_text": "赵哥，想问一下后续美股缩量的话￼，会不会为了稳指数拉某些特定的板块？￼比如大a拉银行一样？￼"
+}
