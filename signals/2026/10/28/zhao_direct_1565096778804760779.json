@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565096778804760779",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T20:15:50.159000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "韩国只买soxl",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "韩国只买soxl",
+  "attribution": "direct"
+}
