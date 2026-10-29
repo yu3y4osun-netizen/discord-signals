@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564871673335906306",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-28T05:21:20.833000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "算一下嘛，这个位置往上拉，大盘有多少空间，主力有多少钱愿意再往上拉",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "算一下嘛，这个位置往上拉，大盘有多少空间，主力有多少钱愿意再往上拉"
+}
