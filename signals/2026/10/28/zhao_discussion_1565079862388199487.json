@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565079862388199487",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiekai",
+  "ts": "2026-10-28T19:08:36.971000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "已经完了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "已经完了"
+}
