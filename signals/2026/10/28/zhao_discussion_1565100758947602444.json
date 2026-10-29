@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565100758947602444",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-10-28T20:31:39.099000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我可能真有倒霉属性，我财报买的基本都大跳水，买味儿，快手，谷歌，",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我可能真有倒霉属性，我财报买的基本都大跳水，买味儿，快手，谷歌，"
+}
