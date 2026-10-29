@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565009517421400270",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T14:29:05.424000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "加上以色列选举也会进行一半 在有什么利空消息配合",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "加上以色列选举也会进行一半 在有什么利空消息配合",
+  "attribution": "direct"
+}
