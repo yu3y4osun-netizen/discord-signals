@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564953511022821407",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-28T10:46:32.458000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要你们自己没有仓位管理啊",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "主要你们自己没有仓位管理啊"
+}
