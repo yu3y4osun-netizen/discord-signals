@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564960744221577309",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-28T11:15:16.987000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "两个原因 一打压韩国存储企业 二是逼迫新兴云公司运营压力",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云",
+      "存储"
+    ]
+  },
+  "raw_text": "两个原因 一打压韩国存储企业 二是逼迫新兴云公司运营压力"
+}
