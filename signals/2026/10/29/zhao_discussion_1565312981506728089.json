@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565312981506728089",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-29T10:34:56.900000+00:00",
+  "captured_at": "2026-10-29T21:04:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌还需要担心么",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌还需要担心么"
+}
