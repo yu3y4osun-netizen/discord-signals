@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565349514619920566",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-29T13:00:07.073000+00:00",
+  "captured_at": "2026-10-29T21:04:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌要看280了，280-272没什么挂单",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌要看280了，280-272没什么挂单"
+}
