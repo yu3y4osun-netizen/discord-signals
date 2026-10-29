@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564841926707126353",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-28T03:23:08.684000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我也是 自作聪明想去抄赵哥的底",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我也是 自作聪明想去抄赵哥的底"
+}
