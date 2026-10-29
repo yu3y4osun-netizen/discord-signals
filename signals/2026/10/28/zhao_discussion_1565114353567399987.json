@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565114353567399987",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-28T21:25:40.309000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "个股云套了太多了。。云没怎么减呢",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "个股云套了太多了。。云没怎么减呢"
+}
