@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564869974843990097",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-10-28T05:14:35.881000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "图前天直线时间提前了，就没买到，昨天开盘下跌我一度以为时间又提前了，也没加到",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "图前天直线时间提前了，就没买到，昨天开盘下跌我一度以为时间又提前了，也没加到"
+}
