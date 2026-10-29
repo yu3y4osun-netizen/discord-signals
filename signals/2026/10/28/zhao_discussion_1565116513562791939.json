@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565116513562791939",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "linlin7",
+  "ts": "2026-10-28T21:34:15.292000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COHR"
+    ],
+    "is_following_zhao": false,
+    "summary": "刚刚还好没睡 cohr跑在高点 明天睡醒回落 睡觉的兄弟们拍断大腿😂",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "刚刚还好没睡 cohr跑在高点 明天睡醒回落 睡觉的兄弟们拍断大腿😂"
+}
