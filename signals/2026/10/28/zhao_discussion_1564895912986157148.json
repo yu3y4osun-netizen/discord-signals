@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564895912986157148",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-10-28T06:57:40.016000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "爬楼看了下聊天，反正我跟着赵哥是盈利了的，一路走来很感谢赵哥，去年亏损今年回本还盈利，还学了我很多股市知识，感谢赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "爬楼看了下聊天，反正我跟着赵哥是盈利了的，一路走来很感谢赵哥，去年亏损今年回本还盈利，还学了我很多股市知识，感谢赵哥"
+}
