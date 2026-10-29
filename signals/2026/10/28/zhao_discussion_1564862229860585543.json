@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564862229860585543",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepblue1",
+  "ts": "2026-10-28T04:43:49.333000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS",
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "……有亏这么多吗，我也就把利润亏没了，本金都还在的，不至于这样吧，而且像 nbis cbrs 这种我都直接跟的双倍，没有你们说的亏这么离谱啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "……有亏这么多吗，我也就把利润亏没了，本金都还在的，不至于这样吧，而且像 nbis  cbrs 这种我都直接跟的双倍，没有你们说的亏这么离谱啊"
+}
