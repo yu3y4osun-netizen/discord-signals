@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565117584809136152",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T21:38:30.697000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "盘中你即使知道盘后会跌 但是谷歌这个事件没发不会触发的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "盘中你即使知道盘后会跌  但是谷歌这个事件没发不会触发的",
+  "attribution": "direct"
+}
