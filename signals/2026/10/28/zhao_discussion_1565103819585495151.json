@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565103819585495151",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-28T20:43:48.812000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥感觉您没有减掉那么多仓位啊，之前不是已经满仓了？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥感觉您没有减掉那么多仓位啊，之前不是已经满仓了？"
+}
