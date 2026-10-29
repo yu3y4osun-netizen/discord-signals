@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565223432512082031",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "2025tsla",
+  "ts": "2026-10-29T04:39:06.756000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOG",
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "短线就是soxl，goog都在里面",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "短线就是soxl，goog都在里面"
+}
