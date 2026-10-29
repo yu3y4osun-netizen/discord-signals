@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565073889221017671",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-28T18:44:52.857000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl舒服了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl舒服了"
+}
