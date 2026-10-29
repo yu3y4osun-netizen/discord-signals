@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565098098273816809",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T20:21:04.745000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "先谷歌 在以色列投票 韩国获利会出一部分 A股在游资出逃 在pce",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "先谷歌 在以色列投票  韩国获利会出一部分  A股在游资出逃  在pce",
+  "attribution": "direct"
+}
