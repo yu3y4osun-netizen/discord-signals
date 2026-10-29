@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565173267638259844",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-29T01:19:46.518000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "话说lite那个收购会造成反垄断审查之类的事情吗😂",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "话说lite那个收购会造成反垄断审查之类的事情吗😂"
+}
