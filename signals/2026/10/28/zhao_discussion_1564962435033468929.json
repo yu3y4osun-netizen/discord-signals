@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564962435033468929",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangwang888",
+  "ts": "2026-10-28T11:22:00.108000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "哈大哥谷歌等财报后再买是不是比较好",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "哈大哥谷歌等财报后再买是不是比较好"
+}
