@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565011759893451036",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-28T14:38:00.071000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "讲个故事 我当初博meta的财报 然后归零了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "讲个故事 我当初博meta的财报 然后归零了"
+}
