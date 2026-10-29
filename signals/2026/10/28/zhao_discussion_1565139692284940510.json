@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565139692284940510",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-28T23:06:21.530000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "lite七月份和现在吃两波了 很舒服",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "lite七月份和现在吃两波了 很舒服"
+}
