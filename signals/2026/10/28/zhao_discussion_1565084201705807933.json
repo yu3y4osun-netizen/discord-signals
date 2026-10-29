@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565084201705807933",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "eatmybanana",
+  "ts": "2026-10-28T19:25:51.545000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "ORCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我以为甲骨文这个是对硬件的利空解读...我感觉我得去学习一下，没捋明白为啥是利好",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我以为甲骨文这个是对硬件的利空解读...我感觉我得去学习一下，没捋明白为啥是利好"
+}
