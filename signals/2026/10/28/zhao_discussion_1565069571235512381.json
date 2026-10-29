@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565069571235512381",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-28T18:27:43.369000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "懂了 谁支出少谁吃肉 日子变了啊",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "懂了 谁支出少谁吃肉 日子变了啊"
+}
