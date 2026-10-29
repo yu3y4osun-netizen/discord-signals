@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564913889135820874",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "leogibbs",
+  "ts": "2026-10-28T08:09:05.864000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哎呀卖飞了昨天清仓",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "哎呀卖飞了昨天清仓"
+}
