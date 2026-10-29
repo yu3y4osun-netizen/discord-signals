@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565113876318527579",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-28T21:23:46.524000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "SPCX"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv啥时候也能来个spcx收购的利好回点血😂",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "crwv啥时候也能来个spcx收购的利好回点血😂"
+}
