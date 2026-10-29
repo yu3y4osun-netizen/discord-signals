@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565111522890489937",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-10-28T21:14:25.423000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis这价格能进吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "nbis这价格能进吗"
+}
