@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564863762328977501",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-10-28T04:49:54.702000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "回撤了46，现在还是跑赢大盘啊 就是要自己定个底线，保住多少利润和本金",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "回撤了46，现在还是跑赢大盘啊   就是要自己定个底线，保住多少利润和本金"
+}
