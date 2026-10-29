@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565102194020323451",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dae666",
+  "ts": "2026-10-28T20:37:21.247000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "微软当时是回撤了多少，最高最低",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "微软当时是回撤了多少，最高最低"
+}
