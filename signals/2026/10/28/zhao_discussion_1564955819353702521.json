@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564955819353702521",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yeahcoco",
+  "ts": "2026-10-28T10:55:42.807000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "请问下现在赵哥的想法是今晚看情况再加一笔吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "请问下现在赵哥的想法是今晚看情况再加一笔吗"
+}
