@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565303531878097022",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "netman525",
+  "ts": "2026-10-29T09:57:23.933000+00:00",
+  "captured_at": "2026-10-29T21:04:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我买了一手谷子，等赵哥买的时候我好点longcall",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我买了一手谷子，等赵哥买的时候我好点longcall"
+}
