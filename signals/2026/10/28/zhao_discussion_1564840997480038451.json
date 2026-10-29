@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564840997480038451",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-28T03:19:27.139000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS",
+      "CIFR",
+      "CRWV",
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "不是 是冲动买了赵哥套住的IREN CIFR CBRS 以及双倍NBIS CRWV亏掉的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "不是 是冲动买了赵哥套住的IREN CIFR CBRS 以及双倍NBIS CRWV亏掉的"
+}
