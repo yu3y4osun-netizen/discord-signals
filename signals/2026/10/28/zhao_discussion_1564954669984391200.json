@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564954669984391200",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-10-28T10:51:08.776000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥又没全出，这几天不是一直在说，出一点临近批次弄点资金蹲胜选讲话？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥又没全出，这几天不是一直在说，出一点临近批次弄点资金蹲胜选讲话？"
+}
