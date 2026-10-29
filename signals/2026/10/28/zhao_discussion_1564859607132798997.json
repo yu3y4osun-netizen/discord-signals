@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564859607132798997",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lhxlucky",
+  "ts": "2026-10-28T04:33:24.026000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "为什么每次大跌之前让你买？自己想想",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "为什么每次大跌之前让你买？自己想想"
+}
