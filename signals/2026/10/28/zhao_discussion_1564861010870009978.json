@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564861010870009978",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "uccu",
+  "ts": "2026-10-28T04:38:58.703000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "CONL",
+      "MARA",
+      "TSLL"
+    ],
+    "is_following_zhao": true,
+    "summary": "bmnr，conl，mara，甚至tsll，这些之前我刚进群的时候都跟着高买过，后面割肉我还留了底仓警醒自己",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "bmnr，conl，mara，甚至tsll，这些之前我刚进群的时候都跟着高买过，后面割肉我还留了底仓警醒自己"
+}
