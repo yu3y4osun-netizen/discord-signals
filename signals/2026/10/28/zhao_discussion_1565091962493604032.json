@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565091962493604032",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-28T19:56:41.861000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "先猛拉，然后再猛砸",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "先猛拉，然后再猛砸"
+}
