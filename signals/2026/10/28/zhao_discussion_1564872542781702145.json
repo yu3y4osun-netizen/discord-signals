@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564872542781702145",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-28T05:24:48.125000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "对了我最近复盘还有一点感悟就是，分得清价值投资和吃波段的区别，nbis和iren跌破之前那个波段的时候就该跑，不该格局",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "对了我最近复盘还有一点感悟就是，分得清价值投资和吃波段的区别，nbis和iren跌破之前那个波段的时候就该跑，不该格局"
+}
