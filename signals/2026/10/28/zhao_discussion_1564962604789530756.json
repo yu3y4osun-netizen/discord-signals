@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564962604789530756",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-28T11:22:40.581000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "META"
+    ],
+    "is_following_zhao": true,
+    "summary": "非要说的话肯定是META更赚钱",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "非要说的话肯定是META更赚钱"
+}
