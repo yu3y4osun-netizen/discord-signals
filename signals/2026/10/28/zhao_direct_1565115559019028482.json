@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565115559019028482",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T21:30:27.711000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这样 韩国开盘就会兑现一波",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这样 韩国开盘就会兑现一波",
+  "attribution": "direct"
+}
