@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565111487779971235",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-28T21:14:17.052000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MRVL"
+    ],
+    "is_following_zhao": false,
+    "summary": "迈威尔市值我看也就是老漫头的3倍不到，现在收购看来他是真想当唯一光龙头",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "迈威尔市值我看也就是老漫头的3倍不到，现在收购看来他是真想当唯一光龙头"
+}
