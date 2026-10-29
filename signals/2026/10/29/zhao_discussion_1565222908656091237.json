@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565222908656091237",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-10-29T04:37:01.859000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "是的，盘后第十个点还是大盘股",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "是的，盘后第十个点还是大盘股"
+}
