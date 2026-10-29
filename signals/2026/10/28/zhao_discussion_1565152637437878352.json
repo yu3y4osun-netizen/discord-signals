@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565152637437878352",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-28T23:57:47.895000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "问了问cbrs工作的朋友 过段时间准备找机会买点拿一年😇",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "问了问cbrs工作的朋友 过段时间准备找机会买点拿一年😇"
+}
