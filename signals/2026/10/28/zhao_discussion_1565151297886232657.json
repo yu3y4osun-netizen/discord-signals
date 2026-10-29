@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565151297886232657",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-28T23:52:28.521000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "Google cloud报了5500亿的rpo，未来两年，反算下这部分至少1500亿利润，还没算其他业务条线和cloud线未来两年的当期订单",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Google cloud报了5500亿的rpo，未来两年，反算下这部分至少1500亿利润，还没算其他业务条线和cloud线未来两年的当期订单"
+}
