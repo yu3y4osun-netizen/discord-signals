@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564914254790795335",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-28T08:10:33.043000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN"
+    ],
+    "is_following_zhao": false,
+    "summary": "那个时候即便是币股，coin也好很多",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "那个时候即便是币股，coin也好很多"
+}
