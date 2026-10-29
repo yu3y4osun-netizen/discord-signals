@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565196468439093279",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-29T02:51:58.020000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "梭哈梭哈，继续梭哈，拿麻袋装",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "梭哈梭哈，继续梭哈，拿麻袋装"
+}
