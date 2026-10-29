@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565110523194773786",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-28T21:10:27.077000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "MRVL"
+    ],
+    "is_following_zhao": false,
+    "summary": "迈威尔科技盘后直线跳水跌逾11%，Lumentum飙升16%，报道称，迈威尔已就收购Lumentum进入深入谈判阶段。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "迈威尔科技盘后直线跳水跌逾11%，Lumentum飙升16%，报道称，迈威尔已就收购Lumentum进入深入谈判阶段。"
+}
