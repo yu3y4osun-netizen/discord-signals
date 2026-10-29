@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565100005029576759",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T20:28:39.351000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌这个说了2周了 易方达 东方红 但斌那个大湾什么基金 中欧 公募都在减持",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "谷歌这个说了2周了  易方达 东方红 但斌那个大湾什么基金 中欧  公募都在减持",
+  "attribution": "direct"
+}
