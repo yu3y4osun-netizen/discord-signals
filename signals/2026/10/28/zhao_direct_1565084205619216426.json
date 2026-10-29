@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565084205619216426",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T19:25:52.478000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "公告持股变动一堆",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "公告持股变动一堆",
+  "attribution": "direct"
+}
