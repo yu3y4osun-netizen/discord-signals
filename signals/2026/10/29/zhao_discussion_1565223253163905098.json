@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565223253163905098",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-10-29T04:38:23.996000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "是的 纳指定海神针，不会跌太多下去",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "是的 纳指定海神针，不会跌太多下去"
+}
