@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564990330556645548",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-10-28T13:12:50.919000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天不是一大堆事件，应该没图吧，赵哥也不可能未卜先知事件怎么发生呀🤣",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "今天不是一大堆事件，应该没图吧，赵哥也不可能未卜先知事件怎么发生呀🤣"
+}
