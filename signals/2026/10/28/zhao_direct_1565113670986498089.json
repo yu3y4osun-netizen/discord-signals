@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565113670986498089",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T21:22:57.569000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "美国对于 大陆减持 基本会很敏感",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "美国对于  大陆减持 基本会很敏感",
+  "attribution": "direct"
+}
