@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564840359115366421",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-28T03:16:54.941000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intc 我看肯定破前高",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "intc 我看肯定破前高"
+}
