@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565093804850151668",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-28T20:04:01.113000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "盘后六个亿能砸谷歌七个点？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "盘后六个亿能砸谷歌七个点？"
+}
