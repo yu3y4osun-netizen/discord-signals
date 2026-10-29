@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564870313358135397",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-28T05:15:56.589000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "刚刚好国庆就没听赵哥的",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "刚刚好国庆就没听赵哥的"
+}
