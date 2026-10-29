@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564862771680780289",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-28T04:45:58.513000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "这段时间跟赵哥操作的？还是自己操作的啊",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "这段时间跟赵哥操作的？还是自己操作的啊"
+}
