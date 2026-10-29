@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564962536095350915",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-28T11:22:24.203000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌只是我从几个巨头里面选的一个不让我那么费心的而已",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌只是我从几个巨头里面选的一个不让我那么费心的而已"
+}
