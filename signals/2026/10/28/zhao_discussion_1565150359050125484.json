@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565150359050125484",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-28T23:48:44.685000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌这季度fcf为负，但管理层说主要原因是tpu订单先确认库存，收入延期而已",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌这季度fcf为负，但管理层说主要原因是tpu订单先确认库存，收入延期而已"
+}
