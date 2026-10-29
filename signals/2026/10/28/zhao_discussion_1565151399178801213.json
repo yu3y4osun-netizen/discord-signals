@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565151399178801213",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-28T23:52:52.671000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "@黑猫 猫哥，谢谢你昨晚提醒。说你上次博meta财报归零。我才没买谷歌call。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "@黑猫 猫哥，谢谢你昨晚提醒。说你上次博meta财报归零。我才没买谷歌call。"
+}
