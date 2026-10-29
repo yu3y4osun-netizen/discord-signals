@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564860830271541259",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-28T04:38:15.645000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "亏钱难受，能理解。我也亏麻了，但所有的B和S都是自己操作，赵哥等大V都是供参考，另外赵哥是人不是神，不可能一直对",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "亏钱难受，能理解。我也亏麻了，但所有的B和S都是自己操作，赵哥等大V都是供参考，另外赵哥是人不是神，不可能一直对"
+}
