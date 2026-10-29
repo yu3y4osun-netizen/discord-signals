@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565099723386265691",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-28T20:27:32.202000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "指数又跳水了 被Google带下去了？这也太那啥了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "指数又跳水了 被Google带下去了？这也太那啥了"
+}
