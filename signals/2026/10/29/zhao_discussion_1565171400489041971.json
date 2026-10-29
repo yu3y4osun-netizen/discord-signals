@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565171400489041971",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-29T01:12:21.355000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO",
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "上次博通财报大跌两天 谷歌财报连涨两天 这次还会么",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "上次博通财报大跌两天 谷歌财报连涨两天 这次还会么"
+}
