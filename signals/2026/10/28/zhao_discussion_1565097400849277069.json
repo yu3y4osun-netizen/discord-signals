@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565097400849277069",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-28T20:18:18.466000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "明天PCE只要稍微不及预期都会被谷歌的情绪传导",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "明天PCE只要稍微不及预期都会被谷歌的情绪传导"
+}
