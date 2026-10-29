@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565105391191466179",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fangxiaemo",
+  "ts": "2026-10-28T20:50:03.512000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我感觉这两天在跌一跌二次探底然后中选结果反弹了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我感觉这两天在跌一跌二次探底然后中选结果反弹了"
+}
