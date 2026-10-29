@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565287402719936626",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-29T08:53:18.442000+00:00",
+  "captured_at": "2026-10-29T21:04:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "255这里也有缺口",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "255这里也有缺口"
+}
