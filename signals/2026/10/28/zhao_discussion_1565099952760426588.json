@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565099952760426588",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moneywang",
+  "ts": "2026-10-28T20:28:26.889000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "还没见过谷歌一天跌10个点 今天估计……",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "还没见过谷歌一天跌10个点 今天估计……"
+}
