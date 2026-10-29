@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564912864509169665",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-28T08:05:01.574000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSTR"
+    ],
+    "is_following_zhao": false,
+    "summary": "那是你不知道他MSTR的故事",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "那是你不知道他MSTR的故事"
+}
