@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564913137725997068",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-28T08:06:06.714000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN",
+      "MSTR"
+    ],
+    "is_following_zhao": false,
+    "summary": "MSTR和COIN。自己跑了忽悠粉丝硬扛，名曰价值投资",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "MSTR和COIN。自己跑了忽悠粉丝硬扛，名曰价值投资"
+}
