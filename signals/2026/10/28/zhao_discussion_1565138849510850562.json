@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565138849510850562",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-10-28T23:03:00.597000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "昨晚看群友说要买call就查了一下，这次谷歌云收入不错，就不敢赌了",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "昨晚看群友说要买call就查了一下，这次谷歌云收入不错，就不敢赌了"
+}
