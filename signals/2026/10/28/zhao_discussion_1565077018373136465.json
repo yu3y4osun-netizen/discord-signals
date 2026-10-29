@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565077018373136465",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-10-28T18:57:18.905000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "看不懂😵‍💫",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "看不懂😵‍💫"
+}
