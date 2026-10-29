@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564955962207375361",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-28T10:56:16.866000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我们没有办法去100%预测市场，但是要做好自己的仓位管理，突然遇到什么情况自己心里有数",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我们没有办法去100%预测市场，但是要做好自己的仓位管理，突然遇到什么情况自己心里有数"
+}
