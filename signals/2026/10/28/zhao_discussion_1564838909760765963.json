@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564838909760765963",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-28T03:11:09.388000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "群里很多人也很普通 没有像班长 哈兰德一样的技术 大部分都不知道什么时候可以做T自救 如果没人明确提醒什么时候可以买卖 根本就不敢动 也不敢止损或者情绪化交易做...",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "群里很多人也很普通 没有像班长 哈兰德一样的技术 大部分都不知道什么时候可以做T自救 如果没人明确提醒什么时候可以买卖 根本就不敢动 也不敢止损或者情绪化交易做反"
+}
