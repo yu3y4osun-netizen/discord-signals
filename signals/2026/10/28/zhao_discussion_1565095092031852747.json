@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565095092031852747",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-28T20:09:08.001000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "今天跟赵哥卖的差不多了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "今天跟赵哥卖的差不多了"
+}
