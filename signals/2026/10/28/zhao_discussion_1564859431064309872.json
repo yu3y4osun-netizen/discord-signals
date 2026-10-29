@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564859431064309872",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-28T04:32:42.048000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我之前是参考赵哥的信息，根据自己情况跟的，国庆节那会今年利润率几乎40%，现在回撤一半",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我之前是参考赵哥的信息，根据自己情况跟的，国庆节那会今年利润率几乎40%，现在回撤一半"
+}
