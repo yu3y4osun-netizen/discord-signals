@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565099323463827639",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-28T20:25:56.853000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "现在不得不承认顾狗霉逼属性拉满 谷歌这么老登的票都能被他买崩哈哈哈",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "现在不得不承认顾狗霉逼属性拉满 谷歌这么老登的票都能被他买崩哈哈哈"
+}
