@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565301445870362627",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-29T09:49:06.590000+00:00",
+  "captured_at": "2026-10-29T21:04:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "DJI"
+    ],
+    "is_following_zhao": false,
+    "summary": "现在道指涨了 不是好事情",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "现在道指涨了 不是好事情"
+}
