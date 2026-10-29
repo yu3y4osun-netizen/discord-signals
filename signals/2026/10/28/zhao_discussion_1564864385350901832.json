@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564864385350901832",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-28T04:52:23.242000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "PLTR"
+    ],
+    "is_following_zhao": false,
+    "summary": "雅人叔我还经常看 他聊bmnr和pltr",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "雅人叔我还经常看 他聊bmnr和pltr"
+}
