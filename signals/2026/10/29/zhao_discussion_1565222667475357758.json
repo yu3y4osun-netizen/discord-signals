@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565222667475357758",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-10-29T04:36:04.357000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "哦哦，我买了一些谷歌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "哦哦，我买了一些谷歌"
+}
