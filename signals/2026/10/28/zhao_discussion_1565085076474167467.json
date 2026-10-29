@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565085076474167467",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "eatmybanana",
+  "ts": "2026-10-28T19:29:20.106000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA",
+      "ORCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "嗯，这个现金流转正我理解，我SP了不少orcl就是在等这个消息，但是今天英伟达的下跌我没看明白哈哈",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "嗯，这个现金流转正我理解，我SP了不少orcl就是在等这个消息，但是今天英伟达的下跌我没看明白哈哈"
+}
