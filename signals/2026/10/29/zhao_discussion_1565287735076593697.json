@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565287735076593697",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-29T08:54:37.682000+00:00",
+  "captured_at": "2026-10-29T21:04:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "现在只有微软的ai资本货币化是看上去成功上岸的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "现在只有微软的ai资本货币化是看上去成功上岸的"
+}
