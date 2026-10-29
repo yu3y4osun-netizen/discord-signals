@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564868607320526910",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-10-28T05:09:09.838000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "CONL",
+      "TSLL"
+    ],
+    "is_following_zhao": true,
+    "summary": "今年两波过程中腰斩，tsll conl，也就全仓梭哈能亏，正常t都盈利了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "今年两波过程中腰斩，tsll conl，也就全仓梭哈能亏，正常t都盈利了"
+}
