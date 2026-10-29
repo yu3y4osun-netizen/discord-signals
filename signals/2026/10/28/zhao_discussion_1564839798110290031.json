@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564839798110290031",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-28T03:14:41.187000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "换仓到比较强势的股票吧，比如哈哥推荐的龙头",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "换仓到比较强势的股票吧，比如哈哥推荐的龙头"
+}
