@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565218389826207848",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yangkobe",
+  "ts": "2026-10-29T04:19:04.486000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "两个账号，一个做多一个做空，",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "两个账号，一个做多一个做空，"
+}
