@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565299452372328550",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-29T09:41:11.303000+00:00",
+  "captured_at": "2026-10-29T21:04:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": true,
+    "summary": "给QQQ打回700以下我加仓。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "给QQQ打回700以下我加仓。"
+}
