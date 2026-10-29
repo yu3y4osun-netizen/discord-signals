@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565286821850644582",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-29T08:50:59.952000+00:00",
+  "captured_at": "2026-10-29T21:04:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "谷歌我成本305 270准备补一次 210加一次",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌我成本305  270准备补一次  210加一次"
+}
