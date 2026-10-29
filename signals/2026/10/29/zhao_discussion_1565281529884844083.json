@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565281529884844083",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-29T08:29:58.249000+00:00",
+  "captured_at": "2026-10-29T21:04:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我不是大师 我利润都基本吐光了哈哈",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "我不是大师 我利润都基本吐光了哈哈"
+}
