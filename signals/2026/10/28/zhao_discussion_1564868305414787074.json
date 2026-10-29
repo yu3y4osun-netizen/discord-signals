@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564868305414787074",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-28T05:07:57.858000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你仔细想想为什么 当然是亏钱才退群啊 赚钱谁会退群呢",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "你仔细想想为什么   当然是亏钱才退群啊  赚钱谁会退群呢"
+}
