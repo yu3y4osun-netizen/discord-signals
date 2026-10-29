@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564871910578458656",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-10-28T05:22:17.396000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我梭哈一下给大家尝尝咸淡，跌了就是我的功劳",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我梭哈一下给大家尝尝咸淡，跌了就是我的功劳"
+}
