@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565222066288857174",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-29T04:33:41.023000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "之前把科技跑了，换老登还是很舒服的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "之前把科技跑了，换老登还是很舒服的"
+}
