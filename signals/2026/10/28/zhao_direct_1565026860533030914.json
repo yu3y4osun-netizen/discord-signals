@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565026860533030914",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T15:38:00.344000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "60-120分钟讲话 和财报叠加了 直接看结果",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "60-120分钟讲话 和财报叠加了  直接看结果",
+  "attribution": "direct"
+}
