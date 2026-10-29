@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564922984202895473",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-28T08:45:14.297000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他肯定🈶小号在赵哥群里🤦",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "他肯定🈶小号在赵哥群里🤦"
+}
