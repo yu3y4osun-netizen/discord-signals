@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564861055123849297",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-28T04:39:09.254000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "杠满仓的没机会了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "杠满仓的没机会了"
+}
