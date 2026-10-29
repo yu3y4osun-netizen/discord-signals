@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565102042135920756",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckystick16",
+  "ts": "2026-10-28T20:36:45.035000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥好，Soxl 如果有急跌到到您的目标价位，您觉得可能会是明天盘中还是开盘之前？@xiaozhaolucky",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥好，Soxl 如果有急跌到到您的目标价位，您觉得可能会是明天盘中还是开盘之前？@xiaozhaolucky"
+}
