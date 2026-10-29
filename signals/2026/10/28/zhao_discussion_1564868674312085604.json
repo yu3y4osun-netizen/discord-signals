@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564868674312085604",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-10-28T05:09:25.810000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "给个真实的建议给家人们，投资是很长远的事情，别拿吃饭钱来做，拿不住的，赵哥如果满仓的时候，大胆定投指数，亏不到哪里去了，有些群友很有实力的，经历过完整加大黑天鹅...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "给个真实的建议给家人们，投资是很长远的事情，别拿吃饭钱来做，拿不住的，赵哥如果满仓的时候，大胆定投指数，亏不到哪里去了，有些群友很有实力的，经历过完整加大黑天鹅的周期（包括疫情）可能会更好的感受到年化百分之十的难度"
+}
