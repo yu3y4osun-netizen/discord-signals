@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565026076978315408",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-10-28T15:34:53.530000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，今晚几点可能有操作，🤔定个闹钟起来看下",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，今晚几点可能有操作，🤔定个闹钟起来看下"
+}
