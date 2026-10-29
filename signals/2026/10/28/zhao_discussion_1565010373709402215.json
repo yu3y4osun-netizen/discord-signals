@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565010373709402215",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-28T14:32:29.579000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我用的云梯。用了很多年。很稳定",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "我用的云梯。用了很多年。很稳定"
+}
