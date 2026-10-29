@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564862662444064769",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-10-28T04:45:32.469000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "嗯，就是亏了这么多，每次下跌我都是杠杆接飞刀，次次高点不会跑",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "嗯，就是亏了这么多，每次下跌我都是杠杆接飞刀，次次高点不会跑"
+}
