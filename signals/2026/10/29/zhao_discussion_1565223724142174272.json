@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565223724142174272",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-10-29T04:40:16.286000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "上次特斯拉下到200多就一下，差不多3个月又回到400了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "上次特斯拉下到200多就一下，差不多3个月又回到400了"
+}
