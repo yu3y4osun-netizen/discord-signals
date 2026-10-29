@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564862747198492693",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-28T04:45:52.676000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "当然，投资是终身的，我们不可能每天等赵哥点位，要逐步学会自己判断",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "当然，投资是终身的，我们不可能每天等赵哥点位，要逐步学会自己判断"
+}
