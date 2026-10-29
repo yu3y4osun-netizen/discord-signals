@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564956835813793853",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-28T10:59:45.150000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "MU都970了你们要早点买早赚钱了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "MU都970了你们要早点买早赚钱了"
+}
