@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565312932667990160",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-10-29T10:34:45.256000+00:00",
+  "captured_at": "2026-10-29T21:04:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "很多人跟着价值哥买谷歌的call吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "很多人跟着价值哥买谷歌的call吧"
+}
