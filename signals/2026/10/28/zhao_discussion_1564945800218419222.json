@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564945800218419222",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "penglei",
+  "ts": "2026-10-28T10:15:54.059000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一下跌都有人质疑赵哥，一拉升就改口叫赵神😁",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "一下跌都有人质疑赵哥，一拉升就改口叫赵神😁"
+}
