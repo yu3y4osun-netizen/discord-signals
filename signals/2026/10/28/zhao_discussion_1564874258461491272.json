@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564874258461491272",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-28T05:31:37.175000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "大家以后跟赵哥 尽量做右侧交易 破位了果断止损 基本可以避掉大坑",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "大家以后跟赵哥  尽量做右侧交易   破位了果断止损   基本可以避掉大坑"
+}
