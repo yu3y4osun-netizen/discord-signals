@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565103133074653215",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-28T20:41:05.135000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌这个只要不是顶部买的 肯定能回去的 这个应该没啥问题 就看多久了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌这个只要不是顶部买的 肯定能回去的 这个应该没啥问题 就看多久了"
+}
