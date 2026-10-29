@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564990601001312347",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T13:13:55.398000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "今天三个事件 美联储讲话 以色列选举 盘后谷歌微软财报",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "今天三个事件  美联储讲话 以色列选举  盘后谷歌微软财报",
+  "attribution": "direct"
+}
