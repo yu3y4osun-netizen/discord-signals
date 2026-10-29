@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564857575122534494",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lhxlucky",
+  "ts": "2026-10-28T04:25:19.557000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥现在方向指标，跟着赵哥都亏惨了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥现在方向指标，跟着赵哥都亏惨了"
+}
