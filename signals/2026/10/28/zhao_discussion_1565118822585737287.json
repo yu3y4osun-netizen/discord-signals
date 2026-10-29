@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565118822585737287",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "linlin7",
+  "ts": "2026-10-28T21:43:25.806000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "那现在7成仓位 慢慢得减到5成 然后5成做多空吗 赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "那现在7成仓位 慢慢得减到5成 然后5成做多空吗 赵哥"
+}
