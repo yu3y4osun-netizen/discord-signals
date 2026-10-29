@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564957669834621000",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zhanglucky",
+  "ts": "2026-10-28T11:03:03.996000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "刚好可以把融资给卸了，还腾出来一点仓位",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "刚好可以把融资给卸了，还腾出来一点仓位"
+}
