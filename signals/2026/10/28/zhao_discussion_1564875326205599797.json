@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564875326205599797",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-28T05:35:51.745000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是的 赵哥又不是神。如果相信神 不如去相信顾神 那家伙才是真神",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "是的  赵哥又不是神。如果相信神   不如去相信顾神   那家伙才是真神"
+}
