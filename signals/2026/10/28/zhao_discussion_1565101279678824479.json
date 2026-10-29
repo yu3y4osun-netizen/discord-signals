@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565101279678824479",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-10-28T20:33:43.251000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不是尾盘买的，是想着就他没怎么涨了最近，然后a社要上市，会把他被动升值一些，就买了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "不是尾盘买的，是想着就他没怎么涨了最近，然后a社要上市，会把他被动升值一些，就买了"
+}
