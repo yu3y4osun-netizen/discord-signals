@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564954334113042463",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-28T10:49:48.698000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥也会失误的比如这次判断SOXX那个大单资金离场比以前慢了那么一两天",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥也会失误的比如这次判断SOXX那个大单资金离场比以前慢了那么一两天"
+}
