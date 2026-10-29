@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565314042510319619",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-10-29T10:39:09.863000+00:00",
+  "captured_at": "2026-10-29T21:04:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "我是put，看了你们讨论查了下看谷歌业绩好像不错我就出掉了，损失惨重",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我是put，看了你们讨论查了下看谷歌业绩好像不错我就出掉了，损失惨重"
+}
