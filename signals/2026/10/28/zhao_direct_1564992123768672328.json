@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564992123768672328",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T13:19:58.454000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "讲话不好或者以色列选举 Benjamin Netanyahu占优 就减仓和加空保护",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "讲话不好或者以色列选举\nBenjamin Netanyahu占优  就减仓和加空保护",
+  "attribution": "direct"
+}
