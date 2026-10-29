@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565100290955419821",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-28T20:29:47.521000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥，这些基金他们减持是卖谷歌补仓半导体还是不看好谷歌了？",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "赵哥，这些基金他们减持是卖谷歌补仓半导体还是不看好谷歌了？"
+}
