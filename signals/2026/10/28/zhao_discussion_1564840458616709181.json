@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564840458616709181",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-28T03:17:18.664000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我上周五也是情绪化操作了一次，你说要是没机会买回，或者变成真实亏损了，在已经亏损的情况下继续亏损是有多难受，所以这周我就直接空仓了，要是本金腰斩了，还没有后续资...",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我上周五也是情绪化操作了一次，你说要是没机会买回，或者变成真实亏损了，在已经亏损的情况下继续亏损是有多难受，所以这周我就直接空仓了，要是本金腰斩了，还没有后续资金补充，要能怎么回来呢？有人能在这种状态下还能满仓买卖吗？"
+}
