@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565153575762665559",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-10-29T00:01:31.609000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "所以cbrs即使没有工作负荷 也要用dummy token运行，否则会坏很快",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "所以cbrs即使没有工作负荷 也要用dummy token运行，否则会坏很快"
+}
