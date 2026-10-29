@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565110736290840751",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-28T21:11:17.883000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COHR"
+    ],
+    "is_following_zhao": false,
+    "summary": "Cohr",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Cohr"
+}
