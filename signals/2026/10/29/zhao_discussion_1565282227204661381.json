@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565282227204661381",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-29T08:32:44.503000+00:00",
+  "captured_at": "2026-10-29T21:04:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "没想到老登下半场开飞机直接上天了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "没想到老登下半场开飞机直接上天了"
+}
