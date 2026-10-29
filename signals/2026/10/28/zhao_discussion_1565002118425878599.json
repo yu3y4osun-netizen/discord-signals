@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565002118425878599",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-10-28T13:59:41.366000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，美国法案要通过除了两院外还要总统签字，而且总统还能走行政手段直接绕过两院，那这样如果民主党赢后开始倾向于支持医药和保险之类的话，对于这些特朗普政府压制的板...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，美国法案要通过除了两院外还要总统签字，而且总统还能走行政手段直接绕过两院，那这样如果民主党赢后开始倾向于支持医药和保险之类的话，对于这些特朗普政府压制的板块是不是也只是企稳"
+}
