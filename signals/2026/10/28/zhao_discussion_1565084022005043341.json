@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565084022005043341",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "eatmybanana",
+  "ts": "2026-10-28T19:25:08.701000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "但英伟达这个跳水，难道就因为司法部质问收购的事？这个利空这么严重？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "但英伟达这个跳水，难道就因为司法部质问收购的事？这个利空这么严重？"
+}
