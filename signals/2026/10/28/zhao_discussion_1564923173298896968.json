@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564923173298896968",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-28T08:45:59.381000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他周二的操作阶段明显是赵哥的那个图",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "他周二的操作阶段明显是赵哥的那个图"
+}
