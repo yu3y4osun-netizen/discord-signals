@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565003126141096049",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T14:03:41.624000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他胜选 讲话 前半部分 会先说权利怎么交接 这部分就是所以股票都会普反下 后半段才会说 未来规划",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "他胜选 讲话 前半部分 会先说权利怎么交接 这部分就是所以股票都会普反下  后半段才会说 未来规划",
+  "attribution": "direct"
+}
