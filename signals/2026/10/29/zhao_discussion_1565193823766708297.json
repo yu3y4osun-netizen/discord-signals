@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565193823766708297",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-10-29T02:41:27.481000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你们平时止损设置怎么设置的",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "你们平时止损设置怎么设置的"
+}
