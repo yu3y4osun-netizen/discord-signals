@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565115004242370622",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "linlin7",
+  "ts": "2026-10-28T21:28:15.442000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "接下来财报好多啊 云都有财报",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "接下来财报好多啊 云都有财报"
+}
