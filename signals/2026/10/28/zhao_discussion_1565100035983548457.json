@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565100035983548457",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-28T20:28:46.731000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "上次微软 财报跌12% 还历历在目",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "上次微软 财报跌12% 还历历在目"
+}
