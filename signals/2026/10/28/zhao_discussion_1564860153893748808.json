@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564860153893748808",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lhxlucky",
+  "ts": "2026-10-28T04:35:34.384000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "CONL"
+    ],
+    "is_following_zhao": false,
+    "summary": "大跌之前买大涨之前卖conl40多就让买现在4块多",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "大跌之前买大涨之前卖conl40多就让买现在4块多"
+}
