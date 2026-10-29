@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565116859244879974",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "linlin7",
+  "ts": "2026-10-28T21:35:37.709000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "嗯嗯 我没lite我看到赵哥出 我马上看了一下corh大大惊喜",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "嗯嗯 我没lite我看到赵哥出 我马上看了一下corh大大惊喜"
+}
