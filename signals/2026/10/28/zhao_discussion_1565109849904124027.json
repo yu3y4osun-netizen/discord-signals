@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565109849904124027",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-28T21:07:46.552000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE",
+      "MRVL"
+    ],
+    "is_following_zhao": false,
+    "summary": "迈威尔收购lite",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "迈威尔收购lite"
+}
