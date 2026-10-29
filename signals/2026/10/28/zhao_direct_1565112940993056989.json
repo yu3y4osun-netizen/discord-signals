@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565112940993056989",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T21:20:03.525000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "主要是出了等soxl的急跌二次握手在开多点仓位",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "主要是出了等soxl的急跌二次握手在开多点仓位",
+  "attribution": "direct"
+}
