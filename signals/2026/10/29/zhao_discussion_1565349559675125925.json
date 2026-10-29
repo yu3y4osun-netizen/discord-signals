@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565349559675125925",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-29T13:00:17.815000+00:00",
+  "captured_at": "2026-10-29T21:04:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "可能下午就会到272强支撑",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "可能下午就会到272强支撑"
+}
