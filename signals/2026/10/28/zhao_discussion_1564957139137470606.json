@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564957139137470606",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-28T11:00:57.468000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我大部分票都挑着跟的 只是这一次盲目加仓了赵哥那些小票 之前那些小票我基本都极小仓位 结果被那时候的表现冲昏头脑 造成现在这个局面哈哈",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我大部分票都挑着跟的 只是这一次盲目加仓了赵哥那些小票  之前那些小票我基本都极小仓位 结果被那时候的表现冲昏头脑 造成现在这个局面哈哈"
+}
