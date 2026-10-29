@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564869845537923115",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-28T05:14:05.052000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不能让赵哥一口口的喂吧",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "不能让赵哥一口口的喂吧"
+}
