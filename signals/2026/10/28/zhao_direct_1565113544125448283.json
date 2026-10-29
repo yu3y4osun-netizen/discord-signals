@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565113544125448283",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T21:22:27.323000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "他肯定要在下个减持多的英伟达之前反弹下",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "他肯定要在下个减持多的英伟达之前反弹下",
+  "attribution": "direct"
+}
