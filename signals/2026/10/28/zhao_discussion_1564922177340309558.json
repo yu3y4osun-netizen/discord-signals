@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564922177340309558",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-10-28T08:42:01.926000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "他还说存储涨不回来了，美光七百多的时候，然后过了一周左右修复了，他又删帖了",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "光",
+      "存储"
+    ]
+  },
+  "raw_text": "他还说存储涨不回来了，美光七百多的时候，然后过了一周左右修复了，他又删帖了"
+}
