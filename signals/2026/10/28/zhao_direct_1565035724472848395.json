@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565035724472848395",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T16:13:13.672000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你就别盯着这个了 昨天12点冲高要减 你反向追 今天减持你又吃套",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "你就别盯着这个了 昨天12点冲高要减 你反向追  今天减持你又吃套",
+  "attribution": "direct"
+}
