@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564998465153667206",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T13:45:10.358000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他会先压迫 讲话鸽派只是回高点 鹰派就开始在探底",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "他会先压迫  讲话鸽派只是回高点  鹰派就开始在探底",
+  "attribution": "direct"
+}
