@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565119471750877345",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T21:46:00.579000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "现在是3 空（空止盈就是3成现金）7成股票慢慢调换 这周和下周唱票时候跌就都加股票低点 胜选演讲完 应该是英伟达财报前一天11月16日左右看能出的都出一轮",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "现在是3 空（空止盈就是3成现金）7成股票慢慢调换  这周和下周唱票时候跌就都加股票低点  胜选演讲完 应该是英伟达财报前一天11月16日左右看能出的都出一轮",
+  "attribution": "direct"
+}
