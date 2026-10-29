@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565020502509093017",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckystick16",
+  "ts": "2026-10-28T15:12:44.473000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "拉子这票真的鬼，以前有段时间完全跟我反着来，我做多他就跌，我做空就涨，怎么做怎么错…",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "拉子这票真的鬼，以前有段时间完全跟我反着来，我做多他就跌，我做空就涨，怎么做怎么错…"
+}
