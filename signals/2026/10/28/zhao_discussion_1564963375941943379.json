@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564963375941943379",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-28T11:25:44.438000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "它们管理层还是太有眼光了",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "它们管理层还是太有眼光了"
+}
