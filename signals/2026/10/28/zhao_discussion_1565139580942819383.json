@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565139580942819383",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-10-28T23:05:54.984000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "lite也疯了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "lite也疯了"
+}
