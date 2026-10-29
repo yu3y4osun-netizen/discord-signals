@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565225118701981858",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-10-29T04:45:48.775000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我9号前面一直小仓位，稳定跟赵哥做日内，基本不断新高。9号本来打算下小仓位，IB那里下错了，下金额直接下成股数，导致一下子被深套，做错了不认，然后在情绪化，不断...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我9号前面一直小仓位，稳定跟赵哥做日内，基本不断新高。9号本来打算下小仓位，IB那里下错了，下金额直接下成股数，导致一下子被深套，做错了不认，然后在情绪化，不断补仓压成本，吃满这轮下跌行情，核心原因还是自己的问题，没有做到知行合一。"
+}
