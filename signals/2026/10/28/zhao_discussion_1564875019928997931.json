@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564875019928997931",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-28T05:34:38.723000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC",
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "顺带做空了下INTC NBIS 最后INTC回本了 但是NBIS因为仓位太重 还是大亏",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "顺带做空了下INTC NBIS  最后INTC回本了 但是NBIS因为仓位太重 还是大亏"
+}
