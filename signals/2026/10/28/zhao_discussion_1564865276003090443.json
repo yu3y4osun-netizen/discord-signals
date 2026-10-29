@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564865276003090443",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-28T04:55:55.590000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "咋了 踏空了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "咋了  踏空了"
+}
