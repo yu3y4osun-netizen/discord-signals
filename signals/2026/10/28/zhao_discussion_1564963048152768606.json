@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564963048152768606",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-28T11:24:26.287000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO",
+      "GOOGL",
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "准备财报完事 高点谷歌 博通 meta",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "准备财报完事 高点谷歌 博通 meta"
+}
