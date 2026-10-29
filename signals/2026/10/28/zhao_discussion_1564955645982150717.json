@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564955645982150717",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-28T10:55:01.472000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "比如你一开始就知道你承受不了那么大压力就在某个位置止损自己先想清楚",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "比如你一开始就知道你承受不了那么大压力就在某个位置止损自己先想清楚"
+}
