@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565302111590420541",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-10-29T09:51:45.310000+00:00",
+  "captured_at": "2026-10-29T21:04:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "为什么现在盘前都没啥量了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "为什么现在盘前都没啥量了"
+}
