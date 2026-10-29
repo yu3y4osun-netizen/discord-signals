@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565223131713503333",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-10-29T04:37:55.040000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "假如后续资金缩量，￼小票不一定能回去，但是后面大盘股我觉得还是有机会￼",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "假如后续资金缩量，￼小票不一定能回去，但是后面大盘股我觉得还是有机会￼"
+}
