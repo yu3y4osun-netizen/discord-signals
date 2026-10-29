@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564864980711505922",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-28T04:54:45.187000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "币圈收割更可怕",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "crypto"
+    ]
+  },
+  "raw_text": "币圈收割更可怕"
+}
