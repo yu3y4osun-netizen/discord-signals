@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565116952891101197",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T21:36:00.036000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMZN",
+      "GOOGL",
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "然后谷歌 亚马逊哪些也都在soxl里面",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后谷歌 亚马逊哪些也都在soxl里面",
+  "attribution": "direct"
+}
