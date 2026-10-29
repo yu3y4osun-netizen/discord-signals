@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565000738927677442",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T13:54:12.468000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要是 结果出来时候 开始说胜选发言是11月几号 11月5 6 7 号 还是 对选票争议拖11月15 16 17",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "主要是 结果出来时候 开始说胜选发言是11月几号  11月5 6 7 号 还是 对选票争议拖11月15 16 17",
+  "attribution": "direct"
+}
