@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565097300068536351",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T20:17:54.438000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "主要看QQQ是不是下行 因为沃什事件没波动 主要波动在谷歌事件和 以色列事件了 pce是明天的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "主要看QQQ是不是下行 因为沃什事件没波动 主要波动在谷歌事件和 以色列事件了 pce是明天的",
+  "attribution": "direct"
+}
