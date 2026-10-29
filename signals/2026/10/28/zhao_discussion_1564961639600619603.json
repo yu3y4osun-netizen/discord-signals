@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564961639600619603",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-28T11:18:50.462000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有一段反弹就算是不错了，有TACO那最好",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "有一段反弹就算是不错了，有TACO那最好"
+}
