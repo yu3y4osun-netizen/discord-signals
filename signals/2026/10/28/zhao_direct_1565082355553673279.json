@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565082355553673279",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-28T19:18:31.388000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是该怎么说了 他最开始两个记者问的都是看涨方向的 为啥这次不加息啊 通胀情况怎么样 那时候比较鸽派 后面问题没怎么正面回答",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是该怎么说了  他最开始两个记者问的都是看涨方向的 为啥这次不加息啊  通胀情况怎么样 那时候比较鸽派 后面问题没怎么正面回答",
+  "attribution": "direct"
+}
