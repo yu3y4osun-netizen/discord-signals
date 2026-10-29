@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565094037025980559",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "c8641",
+  "ts": "2026-10-28T20:04:56.468000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌咋了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌咋了"
+}
