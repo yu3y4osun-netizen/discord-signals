@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564956921713270825",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-28T11:00:05.630000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但是每次下跌总有人出来说存储要完了我确实没办法",
+    "filter_reason": "emotion",
+    "sectors_mentioned": [
+      "存储"
+    ]
+  },
+  "raw_text": "但是每次下跌总有人出来说存储要完了我确实没办法"
+}
