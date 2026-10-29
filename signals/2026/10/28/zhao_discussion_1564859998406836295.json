@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1564859998406836295",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-28T04:34:57.313000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大伙儿都亏麻了 发泄一下也合理 没必要吵",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "大伙儿都亏麻了 发泄一下也合理 没必要吵"
+}
