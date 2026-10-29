@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565026049853624533",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-28T15:34:47.063000+00:00",
+  "captured_at": "2026-10-29T13:18:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "HYNIX"
+    ],
+    "is_following_zhao": false,
+    "summary": "今天海力士太猛了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "今天海力士太猛了"
+}
