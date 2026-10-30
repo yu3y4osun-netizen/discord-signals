@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565403688938504285",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T16:35:23.237000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就多次加 每次份额少点 原来加一次拆成2次",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就多次加 每次份额少点  原来加一次拆成2次",
+  "attribution": "direct"
+}
