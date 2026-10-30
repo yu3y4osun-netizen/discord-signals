@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565398655693885481",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nymphtea",
+  "ts": "2026-10-29T16:15:23.218000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 我想问下 谷歌这种可不可以唱票前和soxl还有其他个股买多一点 等唱票的时候拉起来一起清了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 我想问下 谷歌这种可不可以唱票前和soxl还有其他个股买多一点 等唱票的时候拉起来一起清了"
+}
