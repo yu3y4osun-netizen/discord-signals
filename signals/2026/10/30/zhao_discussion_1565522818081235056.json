@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565522818081235056",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-30T00:28:45.838000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "其实客观来讲我觉得赵哥唯一的失误就是当时并没及时意识到减持那么大力度",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "其实客观来讲我觉得赵哥唯一的失误就是当时并没及时意识到减持那么大力度"
+}
