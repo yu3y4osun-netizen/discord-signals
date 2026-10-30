@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565740890306388060",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-30T14:55:18.308000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": true,
+    "summary": "amd是第一大持仓",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "amd是第一大持仓"
+}
