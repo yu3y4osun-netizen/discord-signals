@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565682408400093214",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-10-30T11:02:55.135000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这是真的，所以我就知道为什么赵哥不会赌财报￼￼",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "这是真的，所以我就知道为什么赵哥不会赌财报￼￼"
+}
