@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565522585653870745",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-30T00:27:50.423000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥让出的时候，我还可以买个put",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥让出的时候，我还可以买个put"
+}
