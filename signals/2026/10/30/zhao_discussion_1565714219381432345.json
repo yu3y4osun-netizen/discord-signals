@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565714219381432345",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-30T13:09:19.464000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "班长能带我们满仓满融抄大底吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "班长能带我们满仓满融抄大底吗"
+}
