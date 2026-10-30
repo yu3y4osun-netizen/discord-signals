@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565736497213214874",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-30T14:37:50.913000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果胜选发言有反弹的话 反弹后差不多就是阴跌了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "如果胜选发言有反弹的话 反弹后差不多就是阴跌了"
+}
