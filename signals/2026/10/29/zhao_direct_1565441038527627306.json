@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565441038527627306",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T19:03:48.073000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在很多股票不看基本面都是财报发了看减持信息",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "现在很多股票不看基本面都是财报发了看减持信息",
+  "attribution": "direct"
+}
