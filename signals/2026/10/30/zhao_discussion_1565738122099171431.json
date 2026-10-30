@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565738122099171431",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-30T14:44:18.316000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不如和我一样空仓吧 赵哥有T 就看着T 没有就空着哈哈",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "不如和我一样空仓吧 赵哥有T 就看着T 没有就空着哈哈"
+}
