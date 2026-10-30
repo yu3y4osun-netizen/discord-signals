@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565736662808395798",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckystick16",
+  "ts": "2026-10-30T14:38:30.394000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "主要大盘股的市盈率其实不算高，我在想还能跌多少？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "主要大盘股的市盈率其实不算高，我在想还能跌多少？"
+}
