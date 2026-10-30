@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565692126019321987",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-10-30T11:41:31.996000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "这回qqq 到上回的660不会吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这回qqq 到上回的660不会吧"
+}
