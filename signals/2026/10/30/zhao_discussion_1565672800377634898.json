@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565672800377634898",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-30T10:24:44.404000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "大盘还会有新高，但是个股就难说了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "大盘还会有新高，但是个股就难说了"
+}
