@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565673630115962992",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-30T10:28:02.229000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "11月底就减仓清仓，等个反弹吧",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "11月底就减仓清仓，等个反弹吧"
+}
