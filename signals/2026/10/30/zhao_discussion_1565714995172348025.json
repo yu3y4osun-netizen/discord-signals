@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565714995172348025",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckystick16",
+  "ts": "2026-10-30T13:12:24.427000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥说的开盘的抛压是普跌还是只针对开财报的个股？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥说的开盘的抛压是普跌还是只针对开财报的个股？"
+}
