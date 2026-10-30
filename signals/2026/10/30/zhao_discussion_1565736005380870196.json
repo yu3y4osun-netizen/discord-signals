@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565736005380870196",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-30T14:35:53.651000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这是不是二次探底啊",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "这是不是二次探底啊"
+}
