@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565727225498574881",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xprimes",
+  "ts": "2026-10-30T14:01:00.364000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "INTW"
+    ],
+    "is_following_zhao": false,
+    "summary": "拿着intw 被砸懵了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "拿着intw 被砸懵了"
+}
