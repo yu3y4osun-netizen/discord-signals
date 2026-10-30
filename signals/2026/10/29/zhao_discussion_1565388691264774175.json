@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565388691264774175",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-10-29T15:35:47.513000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥。我开盘282买了谷歌一个月到期的call。怎么285点几正股时。我期权2.5。到287的时候只有2.25了。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥。我开盘282买了谷歌一个月到期的call。怎么285点几正股时。我期权2.5。到287的时候只有2.25了。"
+}
