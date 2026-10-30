@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565432490162659610",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "teslaliang",
+  "ts": "2026-10-29T18:29:49.984000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "义父，手里有特斯拉正股，现在要不要出一部分，还是再等等",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "义父，手里有特斯拉正股，现在要不要出一部分，还是再等等"
+}
