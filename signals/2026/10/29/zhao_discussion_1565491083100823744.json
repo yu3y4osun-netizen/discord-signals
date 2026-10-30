@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565491083100823744",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-10-29T22:22:39.629000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 iren高位的还有办法解决吗现在",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 iren高位的还有办法解决吗现在"
+}
