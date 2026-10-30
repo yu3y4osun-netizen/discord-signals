@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565381334321336492",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-29T15:06:33.481000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "有在美国的老哥愿意分享下特斯拉的optimus能力如何么",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "有在美国的老哥愿意分享下特斯拉的optimus能力如何么"
+}
