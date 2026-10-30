@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565373598414413827",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "maodie",
+  "ts": "2026-10-29T14:35:49.097000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "年初做拉子有利润垫了，最后一笔12.4的10.5割了加soxl🥺",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "年初做拉子有利润垫了，最后一笔12.4的10.5割了加soxl🥺"
+}
