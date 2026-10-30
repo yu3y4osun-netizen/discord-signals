@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565712023193657377",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-30T13:00:35.852000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有个疑问，10月跌成这样，怎么新闻没人爆仓，或者基金巨亏呢",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "有个疑问，10月跌成这样，怎么新闻没人爆仓，或者基金巨亏呢"
+}
