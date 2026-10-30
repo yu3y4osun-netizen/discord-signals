@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565682081890050120",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-30T11:01:37.289000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "我看到谷歌财报雷了 就把英特尔清了 就留了一个双倍观察股 也吃了40%",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我看到谷歌财报雷了 就把英特尔清了 就留了一个双倍观察股  也吃了40%"
+}
