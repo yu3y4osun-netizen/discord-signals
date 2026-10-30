@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565558369325158492",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-30T02:50:01.915000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "什么缺存储、缺光，永远缺麦当劳！",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "光",
+      "存储"
+    ]
+  },
+  "raw_text": "什么缺存储、缺光，永远缺麦当劳！"
+}
