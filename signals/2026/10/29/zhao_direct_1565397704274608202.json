@@ -1,0 +1,27 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565397704274608202",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T16:11:36.382000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMZN",
+      "COIN",
+      "INTC",
+      "MSTR",
+      "SBUX",
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "盘后 16:00：亚马逊 (AMZN) 16:00：英特尔 (INTC) 16:00：Strategy (MSTR) 16:05：Sandisk (SNDK) 16:05：AXT (AXTI) 16:05：Reddit (RDDT) 16:...",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "盘后 \n16:00：亚马逊 (AMZN)\n16:00：英特尔 (INTC)\n16:00：Strategy (MSTR)\n16:05：Sandisk (SNDK)\n16:05：AXT (AXTI)\n16:05：Reddit (RDDT)\n16:05：Roblox (RBLX)\n16:10：Coinbase Global (COIN)\n盘后：FSLR, RIVN, GILD, MPWR, DXCM, OSPN, ALHC, ASUR, ACIC, BBIO, CACC, CDNA, FBIZ, HR, MVBF, OSIS, PTCT, RMNI, SKYW, STOK, SXI, TWLO, SBUX, GDDY, PINS, DLR, RKT, EXEL, RMD, SPXC, CVLG, CVSA, ILMN, MDLZ, OLN, SYK, ACCO, ATEC, AX, COLM, CVCO, DVA, EIX, EXPO, FISI, FND, FORR, GDYN, HTGC, INBK, INGM, MFIN, MMSI, PEB, REAL, RYAN, SNDR, SPSC, STRZ, TBBK, TFII, COUR, RSG, IR, MIAX, MTZ, AJG, CUBE, GLPI, WKC, WY, BFAM, CDP, CNO, CUZ, DXC, EMN, ERIE, FHI, IVR, MHK, NPKI, PFSI, PMT, HG, TFSL, FMC, KWR, MERC, OFS, STRT, VLTO, INVX, WTI, ATR, CGAU, MEOH, MTX, T.X, T.BDI, T.AC, LNT, VALE, NEXA, BVN, FDXF, ASBH)~",
+  "attribution": "direct"
+}
