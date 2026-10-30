@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565668020603453543",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-30T10:05:44.817000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "但是苹果权重大 他跌其他也跌 纳指就要破位了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "但是苹果权重大 他跌其他也跌  纳指就要破位了"
+}
