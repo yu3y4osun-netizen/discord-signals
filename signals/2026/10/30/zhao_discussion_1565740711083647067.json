@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565740711083647067",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-10-30T14:54:35.578000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "COIN",
+      "LLY",
+      "PFE",
+      "PLTR"
+    ],
+    "is_following_zhao": false,
+    "summary": "✅ 周一 11/2 • 盘前：万豪 MAR、雅诗兰黛 EL • 盘后：苹果 AAPL、Palantir PLTR、Roku ROKU、Vertex VRTX ✅...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "✅ 周一 11/2\n\n• 盘前：万豪 MAR、雅诗兰黛 EL\n\n• 盘后：苹果 AAPL、Palantir PLTR、Roku ROKU、Vertex VRTX\n\n✅ 周二 11/3\n\n• 盘前：辉瑞 PFE、百胜 YUM、伊顿 ETN\n\n✅ 周三 11/4\n\n• 盘前：卡特彼勒 CAT、ServiceNow NOW\n\n✅ 周四 11/5\n\n• 盘前：礼来 LLY、理想汽车 LI（美股）\n\n• 盘后：Coinbase COIN\n\n✅ 周五 11/6\n\n• 盘前：埃克森美孚 XOM、雪佛龙 CVX"
+}
