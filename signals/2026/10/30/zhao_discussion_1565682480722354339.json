@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565682480722354339",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-10-30T11:03:12.378000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "我之前美光财报也是，直接把美光卖了，换成存储的其他板块￼",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "光",
+      "存储"
+    ]
+  },
+  "raw_text": "我之前美光财报也是，直接把美光卖了，换成存储的其他板块￼"
+}
