@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565501041364173013",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-29T23:02:13.864000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "等nvda再来一次大的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "等nvda再来一次大的"
+}
