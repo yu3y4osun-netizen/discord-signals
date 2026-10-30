@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565510090402824243",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wuhaha007",
+  "ts": "2026-10-29T23:38:11.323000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥出了的，你看赵哥发单频道",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥出了的，你看赵哥发单频道"
+}
