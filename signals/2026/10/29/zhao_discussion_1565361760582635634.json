@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565361760582635634",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-10-29T13:48:46.738000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "STX",
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "wdc和希捷俩家管理层都有点问题",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "wdc和希捷俩家管理层都有点问题"
+}
