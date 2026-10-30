@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565405409655914637",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-29T16:42:13.488000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "98.8怎么判断是支撑的啊 后面没跌破？",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "98.8怎么判断是支撑的啊 后面没跌破？"
+}
