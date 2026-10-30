@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565737509835509821",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-30T14:41:52.341000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "班长这小子天天教唆梭哈梭哈，这次大跌他肯定躲过了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "班长这小子天天教唆梭哈梭哈，这次大跌他肯定躲过了"
+}
