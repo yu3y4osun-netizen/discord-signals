@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565520271970934946",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-30T00:18:38.798000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我前半段就看到他出soxl 就去睡觉了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我前半段就看到他出soxl 就去睡觉了"
+}
