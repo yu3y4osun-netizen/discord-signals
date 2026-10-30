@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565672752990392473",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-10-30T10:24:33.106000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥意思是流动性差了，个股很难回去了，我说的是大盘哈",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥意思是流动性差了，个股很难回去了，我说的是大盘哈"
+}
