@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565540618132922449",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-10-30T01:39:29.701000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天v起来说不定还真是反转",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "今天v起来说不定还真是反转"
+}
