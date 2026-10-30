@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565514651217956905",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wuhaha007",
+  "ts": "2026-10-29T23:56:18.706000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "我是想问赵哥卖出soxs买入soxl是基于哪个大单监测做出的操作",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我是想问赵哥卖出soxs买入soxl是基于哪个大单监测做出的操作"
+}
