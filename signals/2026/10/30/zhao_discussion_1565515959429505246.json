@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565515959429505246",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-30T00:01:30.608000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intc这直接要去64找支撑位了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "intc这直接要去64找支撑位了"
+}
