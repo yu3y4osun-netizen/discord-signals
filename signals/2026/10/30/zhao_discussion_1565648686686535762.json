@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565648686686535762",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-30T08:48:55.252000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天收盘不知道能不能守住700",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "今天收盘不知道能不能守住700"
+}
