@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565525687585083485",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-30T00:40:09.981000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "我Intc 85正股",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我Intc 85正股"
+}
