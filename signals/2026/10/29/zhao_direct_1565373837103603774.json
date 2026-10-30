@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565373837103603774",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T14:36:46.005000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "等下再看看 主要soxl 急跌了 少量 多次加",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "等下再看看 主要soxl 急跌了 少量 多次加",
+  "attribution": "direct"
+}
