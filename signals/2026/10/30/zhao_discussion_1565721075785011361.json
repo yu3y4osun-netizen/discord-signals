@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565721075785011361",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-30T13:36:34.158000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intel这个倒是侧面利好存储了",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "存储"
+    ]
+  },
+  "raw_text": "intel这个倒是侧面利好存储了"
+}
