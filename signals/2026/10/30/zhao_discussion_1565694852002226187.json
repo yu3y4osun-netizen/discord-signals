@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565694852002226187",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-30T11:52:21.921000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "周末去寺庙拜佛，为什么就一直不能成功",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "周末去寺庙拜佛，为什么就一直不能成功"
+}
