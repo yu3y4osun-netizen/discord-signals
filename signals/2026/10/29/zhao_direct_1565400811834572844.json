@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565400811834572844",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T16:23:57.282000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "都是要从基金 变现赎回现金买过节用品的时间",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "都是要从基金 变现赎回现金买过节用品的时间",
+  "attribution": "direct"
+}
