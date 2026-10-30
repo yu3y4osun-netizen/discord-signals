@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565362547639717981",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-10-29T13:51:54.387000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "应该是按照赵哥说的，至少震荡三天吧",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "应该是按照赵哥说的，至少震荡三天吧"
+}
