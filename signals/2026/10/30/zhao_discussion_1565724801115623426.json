@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565724801115623426",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnkdki",
+  "ts": "2026-10-30T13:51:22.346000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "最近就是恶性循环，而且大机构开始把利好说成利好出尽，利空就放大恐惧。然后恐惧带动下跌 ，财报不如预期继续下跌，叠加币安被盗挤兑",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "最近就是恶性循环，而且大机构开始把利好说成利好出尽，利空就放大恐惧。然后恐惧带动下跌 ，财报不如预期继续下跌，叠加币安被盗挤兑"
+}
