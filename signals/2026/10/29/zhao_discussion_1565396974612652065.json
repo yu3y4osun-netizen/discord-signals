@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565396974612652065",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yeahcoco",
+  "ts": "2026-10-29T16:08:42.417000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "请问下赵哥 今天的轮廓图我看后面还有4-6点 是包括了盘后吗 意思高点会在盘后？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "请问下赵哥 今天的轮廓图我看后面还有4-6点 是包括了盘后吗 意思高点会在盘后？"
+}
