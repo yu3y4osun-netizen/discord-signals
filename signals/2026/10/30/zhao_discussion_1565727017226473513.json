@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565727017226473513",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-30T14:00:10.708000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "这就是为啥我让你们先把mu买了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这就是为啥我让你们先把mu买了"
+}
