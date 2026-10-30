@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565520743070957650",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaiagoldin",
+  "ts": "2026-10-30T00:20:31.117000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我觉得有图参考挺好的，别这样搞得赵哥也不发了 自己斟酌一下吧",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我觉得有图参考挺好的，别这样搞得赵哥也不发了 自己斟酌一下吧"
+}
