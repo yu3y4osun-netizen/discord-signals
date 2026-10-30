@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565461562620387362",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-29T20:25:21.398000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "晕，。第一证券只能盘中交易",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "A股券商"
+    ]
+  },
+  "raw_text": "晕，。第一证券只能盘中交易"
+}
