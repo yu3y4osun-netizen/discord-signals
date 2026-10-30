@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565405149910794414",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T16:41:11.560000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "然后 下一步就是盘后再看看那个冲高有没有 有了再出剩下一半 在等下一个轮廓图 那个时间是低点再买",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后 下一步就是盘后再看看那个冲高有没有 有了再出剩下一半  在等下一个轮廓图 那个时间是低点再买",
+  "attribution": "direct"
+}
