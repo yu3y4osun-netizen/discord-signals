@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565729284985716936",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-30T14:09:11.384000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "QQQ 跌5块加一次😌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "QQQ 跌5块加一次😌"
+}
