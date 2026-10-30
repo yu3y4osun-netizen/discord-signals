@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565645009699610667",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-30T08:34:18.590000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "我已经没有iren了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我已经没有iren了"
+}
