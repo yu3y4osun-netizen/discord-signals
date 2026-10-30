@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565725050668187651",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "leonard5",
+  "ts": "2026-10-30T13:52:21.844000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有些人自己完全不动脑不盯盘，自己瞎买输了在这怪赵哥，真的搞笑",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "有些人自己完全不动脑不盯盘，自己瞎买输了在这怪赵哥，真的搞笑"
+}
