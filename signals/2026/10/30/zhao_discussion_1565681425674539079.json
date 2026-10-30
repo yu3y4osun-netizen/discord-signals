@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565681425674539079",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deleter666",
+  "ts": "2026-10-30T10:59:00.835000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "真的吗 intc明年都能看40…",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "真的吗 intc明年都能看40…"
+}
