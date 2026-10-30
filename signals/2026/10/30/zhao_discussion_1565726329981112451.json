@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565726329981112451",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-30T13:57:26.856000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TEM"
+    ],
+    "is_following_zhao": false,
+    "summary": "Tem放了自选，看到财报准备出，不敢买",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Tem放了自选，看到财报准备出，不敢买"
+}
