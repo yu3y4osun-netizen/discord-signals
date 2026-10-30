@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565520919990898741",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-30T00:21:13.298000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "英特尔确实是跌太狠了，10%都可以接受",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "英特尔确实是跌太狠了，10%都可以接受"
+}
