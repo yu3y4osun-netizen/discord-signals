@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565487171614539807",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T22:07:07.058000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "胜选 结束出大部分 12月小做一波就是阴跌到3月15日 那时候做一波 和今年一样国庆出",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "胜选 结束出大部分 12月小做一波就是阴跌到3月15日 那时候做一波 和今年一样国庆出",
+  "attribution": "direct"
+}
