@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565744044796022815",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-30T15:07:50.397000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "事到如今你最对不起的应该是班长 为什么班长跟赵哥能永远赢 你们就亏 所以是你们自己的问题 你们自己要学会反思",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "事到如今你最对不起的应该是班长   为什么班长跟赵哥能永远赢   你们就亏    所以是你们自己的问题  你们自己要学会反思"
+}
