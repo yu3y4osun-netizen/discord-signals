@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565463300085387346",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T20:32:15.642000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "盘中只是属于有规避 不会出很多",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "盘中只是属于有规避 不会出很多",
+  "attribution": "direct"
+}
