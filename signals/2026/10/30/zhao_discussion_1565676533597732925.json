@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565676533597732925",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-30T10:39:34.473000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "讲一个现金流的故事，微软发的债 其实压根没啥 利率极低 苹果现金流那么多 不照样发债。。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "讲一个现金流的故事，微软发的债 其实压根没啥  利率极低 苹果现金流那么多 不照样发债。。"
+}
