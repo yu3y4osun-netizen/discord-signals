@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565737781940985937",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T14:42:57.216000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是随 英特尔走",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是随 英特尔走",
+  "attribution": "direct"
+}
