@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565530199267737652",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-10-30T00:58:05.650000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "QQQ破周五前低了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "QQQ破周五前低了"
+}
