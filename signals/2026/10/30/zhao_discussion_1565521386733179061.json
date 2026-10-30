@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565521386733179061",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-30T00:23:04.578000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "参考图我昨天是加上看群消息，觉得反弹跌幅一半就要减仓",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "参考图我昨天是加上看群消息，觉得反弹跌幅一半就要减仓"
+}
