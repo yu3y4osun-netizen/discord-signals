@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565721702531473530",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T13:39:03.586000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "早上就说下午了 和谷歌那种一样",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "早上就说下午了 和谷歌那种一样",
+  "attribution": "direct"
+}
