@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565400585933557900",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T16:23:03.423000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "阴跌主要开始段就是12月中旬左右 美国这边圣诞节元旦就是美国本土基金减持最厉害时候",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "阴跌主要开始段就是12月中旬左右 美国这边圣诞节元旦就是美国本土基金减持最厉害时候",
+  "attribution": "direct"
+}
