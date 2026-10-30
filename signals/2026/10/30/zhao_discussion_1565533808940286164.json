@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565533808940286164",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-10-30T01:12:26.263000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "万一扫个止损，又上去了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "万一扫个止损，又上去了"
+}
