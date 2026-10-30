@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565461676214460570",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T20:25:48.481000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "后面大家都会陆续知道 大陆重仓的都会财报时候披露再减持了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "后面大家都会陆续知道 大陆重仓的都会财报时候披露再减持了",
+  "attribution": "direct"
+}
