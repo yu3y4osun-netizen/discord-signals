@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565673189319901185",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-30T10:26:17.135000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": true,
+    "summary": "intc我本来是19块钱的成本，每次低于20我就加仓，然后到了80块钱全部卖掉了，这次跟赵哥在100多又买了，结果跌到了比我上次卖还低的位置，其他的股票可能都会...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "intc我本来是19块钱的成本，每次低于20我就加仓，然后到了80块钱全部卖掉了，这次跟赵哥在100多又买了，结果跌到了比我上次卖还低的位置，其他的股票可能都会这样，每开一个财报，就会回到几个月前的位置"
+}
