@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565369110655803436",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liuxingyu",
+  "ts": "2026-10-29T14:17:59.132000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "西部不急吧400拿着也不太着急",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "西部不急吧400拿着也不太着急"
+}
