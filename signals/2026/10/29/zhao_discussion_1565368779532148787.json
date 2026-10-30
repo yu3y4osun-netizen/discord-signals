@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565368779532148787",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-29T14:16:40.186000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥还有一笔wdc也是成本附近出吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥还有一笔wdc也是成本附近出吗"
+}
