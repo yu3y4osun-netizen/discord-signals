@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565742554648154223",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T15:01:55.118000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一直阴跌 突然有个不是常规时间放利好 那个大涨要都出",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "一直阴跌 突然有个不是常规时间放利好 那个大涨要都出",
+  "attribution": "direct"
+}
