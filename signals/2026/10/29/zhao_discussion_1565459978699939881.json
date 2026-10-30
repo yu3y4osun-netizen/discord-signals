@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565459978699939881",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-29T20:19:03.762000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMZN",
+      "GOOGL",
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl不是半导体吗 咋还有亚马逊谷歌啊",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "soxl不是半导体吗 咋还有亚马逊谷歌啊"
+}
