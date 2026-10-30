@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565715146024816681",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ciciwangyao",
+  "ts": "2026-10-30T13:13:00.393000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "确定阴跌，这就销户了，不在这里压路机前捡硬币了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "确定阴跌，这就销户了，不在这里压路机前捡硬币了"
+}
