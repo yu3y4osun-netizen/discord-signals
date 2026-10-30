@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565518024604254309",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-30T00:09:42.984000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": true,
+    "summary": "intc 的ceo自己也套了 吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "intc 的ceo自己也套了 吧"
+}
