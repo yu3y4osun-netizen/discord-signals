@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565372584571175063",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-29T14:31:47.378000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我也是，跟的。7.15元进，7.45元卖。不敢格局",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我也是，跟的。7.15元进，7.45元卖。不敢格局"
+}
