@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565528220386726059",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-30T00:50:13.848000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "大致就是90soxl到 115-120 再到90（双底） 再到120 再到80（政权混乱那个时期会跌破下） 低了 买soxl就是了 90 85 80 75做好分...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "大致就是90soxl到  115-120  再到90（双底）   再到120  再到80（政权混乱那个时期会跌破下）\n低了 买soxl就是了  90  85 80  75做好分批"
+}
