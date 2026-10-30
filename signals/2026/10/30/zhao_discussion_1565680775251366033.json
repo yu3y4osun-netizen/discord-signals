@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565680775251366033",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-30T10:56:25.762000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "新高才能回本，还是很难， 到了55补一次",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "新高才能回本，还是很难， 到了55补一次"
+}
