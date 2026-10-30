@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565740137655304193",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "eatmybanana",
+  "ts": "2026-10-30T14:52:18.862000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TQQQ"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥，今天的低点已经算出了吗，我刚才抄了些tqqq，在犹豫做日内还是长持",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，今天的低点已经算出了吗，我刚才抄了些tqqq，在犹豫做日内还是长持"
+}
