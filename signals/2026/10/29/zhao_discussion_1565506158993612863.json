@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565506158993612863",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-29T23:22:34.002000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "以前做特斯拉做的这么好 q4特斯拉这么厉害怎么就不做了呢",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "以前做特斯拉做的这么好 q4特斯拉这么厉害怎么就不做了呢"
+}
