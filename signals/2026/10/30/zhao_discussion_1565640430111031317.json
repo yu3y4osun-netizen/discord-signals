@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565640430111031317",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-30T08:16:06.731000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "amd那边也有pc端业务，只是占比相对小 估计又是暴跌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "amd那边也有pc端业务，只是占比相对小\n估计又是暴跌"
+}
