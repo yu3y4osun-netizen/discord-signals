@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565566109854335027",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-30T03:20:47.401000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "qday来的话 中本聪的钱包要开始砸盘咯😁",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "qday来的话 中本聪的钱包要开始砸盘咯😁"
+}
