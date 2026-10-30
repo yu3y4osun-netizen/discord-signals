@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565725006032539810",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-30T13:52:11.202000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这轮廓图只是赵哥机器算出来的，真要 100。% 准，赵哥马上买上美国了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "这轮廓图只是赵哥机器算出来的，真要 100。% 准，赵哥马上买上美国了"
+}
