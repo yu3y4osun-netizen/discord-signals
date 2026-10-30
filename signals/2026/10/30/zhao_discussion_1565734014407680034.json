@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565734014407680034",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-30T14:27:58.966000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "川普马斯克之前应该是做空了ai相关",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "川普马斯克之前应该是做空了ai相关"
+}
