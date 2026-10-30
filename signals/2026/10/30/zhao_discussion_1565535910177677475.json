@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565535910177677475",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-30T01:20:47.237000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "遇到intc举债刚好pc单下降现金流更少",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "遇到intc举债刚好pc单下降现金流更少"
+}
