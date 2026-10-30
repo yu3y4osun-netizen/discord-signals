@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565487964253847704",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T22:10:16.038000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "原来特朗普加密政策会被对方挤兑",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "原来特朗普加密政策会被对方挤兑",
+  "attribution": "direct"
+}
