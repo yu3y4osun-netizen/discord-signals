@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565521503376773217",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-30T00:23:32.388000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "TSLL"
+    ],
+    "is_following_zhao": false,
+    "summary": "Tsll我拿了很久很久…前一阵子终于卸掉",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Tsll我拿了很久很久…前一阵子终于卸掉"
+}
