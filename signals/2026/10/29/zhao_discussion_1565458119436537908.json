@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565458119436537908",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jackeysang",
+  "ts": "2026-10-29T20:11:40.479000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌亚麻这种七姐妹能一个个十几个点跌 牛逼",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌亚麻这种七姐妹能一个个十几个点跌 牛逼"
+}
