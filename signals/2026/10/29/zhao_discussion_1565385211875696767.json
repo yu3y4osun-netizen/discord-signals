@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565385211875696767",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-29T15:21:57.962000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哈哈哈哈确实，就是后悔当时18年为什么不听",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "哈哈哈哈确实，就是后悔当时18年为什么不听"
+}
