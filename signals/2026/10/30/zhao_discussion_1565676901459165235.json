@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565676901459165235",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-30T10:41:02.178000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "crwv一家债务风险，整个云的板块都跟着遭殃，这次财报不知道crwv会怎么说",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "crwv一家债务风险，整个云的板块都跟着遭殃，这次财报不知道crwv会怎么说"
+}
