@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565509733425881159",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-29T23:36:46.213000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "好在还有点资金 接着补仓",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "好在还有点资金 接着补仓"
+}
