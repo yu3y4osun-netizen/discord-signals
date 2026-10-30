@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565722665426223115",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-30T13:42:53.158000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr下周又要财报了 你们要避开么",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cifr下周又要财报了 你们要避开么"
+}
