@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565493274628722799",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-29T22:31:22.130000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在主要的问题就是这些云，仓位比较重，不知道怎么处理",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "现在主要的问题就是这些云，仓位比较重，不知道怎么处理"
+}
