@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565539958096142379",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "t1d3c6e",
+  "ts": "2026-10-30T01:36:52.336000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥出手了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥出手了"
+}
