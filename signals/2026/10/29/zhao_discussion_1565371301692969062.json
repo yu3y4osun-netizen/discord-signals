@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565371301692969062",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-29T14:26:41.516000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不会做啊 怎么办 这个月买什么什么就被套",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "不会做啊 怎么办 这个月买什么什么就被套"
+}
