@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565535300736786574",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-10-30T01:18:21.935000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "现在只有苹果一枝独秀",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "现在只有苹果一枝独秀"
+}
