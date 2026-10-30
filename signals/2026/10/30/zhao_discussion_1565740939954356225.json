@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565740939954356225",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-30T14:55:30.145000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN"
+    ],
+    "is_following_zhao": false,
+    "summary": "这不准？coin已经发了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这不准？coin已经发了"
+}
