@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565745820475858997",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sofia888",
+  "ts": "2026-10-30T15:14:53.752000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "LLY"
+    ],
+    "is_following_zhao": false,
+    "summary": "这个好多都不对吧，LLY财报出来都新高了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这个好多都不对吧，LLY财报出来都新高了"
+}
