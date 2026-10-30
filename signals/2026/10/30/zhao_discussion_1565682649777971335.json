@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565682649777971335",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-10-30T11:03:52.684000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "INTC",
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "就像这次英特尔财报，如果是我的话，我会直接卖掉换成Amd或者nvda￼￼",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "就像这次英特尔财报，如果是我的话，我会直接卖掉换成Amd或者nvda￼￼"
+}
