@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565539824000311308",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "uccu",
+  "ts": "2026-10-30T01:36:20.365000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "给他们一点时间，3到6个月后再看。回看微软，也就6月一个月到底，7月回归，2个月",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "给他们一点时间，3到6个月后再看。回看微软，也就6月一个月到底，7月回归，2个月"
+}
