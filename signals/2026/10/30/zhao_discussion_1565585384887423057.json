@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565585384887423057",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-10-30T04:37:22.927000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "soxl居然开始赚钱了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl居然开始赚钱了"
+}
