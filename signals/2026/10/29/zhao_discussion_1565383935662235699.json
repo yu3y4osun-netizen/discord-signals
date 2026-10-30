@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565383935662235699",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-29T15:16:53.689000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "基金都是出借股票给别人做空自己的股票。",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "基金都是出借股票给别人做空自己的股票。"
+}
