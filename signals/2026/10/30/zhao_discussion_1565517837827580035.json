@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565517837827580035",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wuhaha007",
+  "ts": "2026-10-30T00:08:58.453000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥说了日内高点是昨天盘后跌幅的一半，差不多就是20",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥说了日内高点是昨天盘后跌幅的一半，差不多就是20"
+}
