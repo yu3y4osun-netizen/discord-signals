@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565387032212152432",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangxing",
+  "ts": "2026-10-29T15:29:11.964000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我带他去招商银行还闹过",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "A股银行"
+    ]
+  },
+  "raw_text": "我带他去招商银行还闹过"
+}
