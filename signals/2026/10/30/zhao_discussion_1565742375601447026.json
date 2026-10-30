@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565742375601447026",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-30T15:01:12.430000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "相信跟着赵哥学习可以做回来，这次是自己小股票堆多了，之前也做回来了，这次多花点时间把",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "相信跟着赵哥学习可以做回来，这次是自己小股票堆多了，之前也做回来了，这次多花点时间把"
+}
