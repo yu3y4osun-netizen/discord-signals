@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565405870160879698",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T16:44:03.281000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "万一跳101.5 98.8 不就在分两次在买回来博盘后",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "万一跳101.5  98.8 不就在分两次在买回来博盘后",
+  "attribution": "direct"
+}
