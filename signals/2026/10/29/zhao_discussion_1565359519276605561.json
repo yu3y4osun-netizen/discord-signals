@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565359519276605561",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-29T13:39:52.369000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "这个谷歌的put 太狠了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这个谷歌的put 太狠了"
+}
