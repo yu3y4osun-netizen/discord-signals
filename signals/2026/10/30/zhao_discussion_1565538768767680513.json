@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565538768767680513",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ciciwangyao",
+  "ts": "2026-10-30T01:32:08.778000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOG",
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "感觉没啥是安全的，浓眉大眼的goog INTC都能拉稀",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "感觉没啥是安全的，浓眉大眼的goog INTC都能拉稀"
+}
