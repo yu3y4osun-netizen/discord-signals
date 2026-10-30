@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565740275886727209",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-30T14:52:51.819000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "这aapl是不是能空一空了 卡在350这个槛过不去了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这aapl是不是能空一空了 卡在350这个槛过不去了"
+}
