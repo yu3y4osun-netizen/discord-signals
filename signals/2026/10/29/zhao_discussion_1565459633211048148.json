@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565459633211048148",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-29T20:17:41.391000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥为啥同一个价格加了两次",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥为啥同一个价格加了两次"
+}
