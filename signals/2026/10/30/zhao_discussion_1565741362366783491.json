@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565741362366783491",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "avocadorable0106",
+  "ts": "2026-10-30T14:57:10.856000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "AMD新产品项目缺人 年中猎头找我",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "AMD新产品项目缺人 年中猎头找我"
+}
