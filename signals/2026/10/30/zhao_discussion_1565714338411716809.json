@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565714338411716809",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-10-30T13:09:47.843000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "班长今晚 就带大家梭哈 大家今晚必暴富",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "班长今晚  就带大家梭哈    大家今晚必暴富"
+}
