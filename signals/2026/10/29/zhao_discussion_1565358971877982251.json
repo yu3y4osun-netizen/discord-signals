@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565358971877982251",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-29T13:37:41.859000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "META",
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "明年去了 参考微软 meta",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "明年去了 参考微软 meta"
+}
