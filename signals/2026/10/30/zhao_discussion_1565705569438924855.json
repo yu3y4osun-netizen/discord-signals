@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565705569438924855",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-30T12:34:57.157000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥认为最极限去75，那么为什么不选择拿着soxs等到soxl的目标买入价再止盈呢？这样不是能对冲一些",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥认为最极限去75，那么为什么不选择拿着soxs等到soxl的目标买入价再止盈呢？这样不是能对冲一些"
+}
