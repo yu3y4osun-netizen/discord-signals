@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565705890298990695",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xprimes",
+  "ts": "2026-10-30T12:36:13.656000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTW"
+    ],
+    "is_following_zhao": false,
+    "summary": "intw跌50个点 疯狂啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "intw跌50个点 疯狂啊"
+}
