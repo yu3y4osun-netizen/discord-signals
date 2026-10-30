@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565738093670305983",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-30T14:44:11.538000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "黄金暴跌 应该是在卖黄金补流动性吧 每次这种时候 我记得就快结束了。。。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "黄金暴跌  应该是在卖黄金补流动性吧  每次这种时候 我记得就快结束了。。。"
+}
