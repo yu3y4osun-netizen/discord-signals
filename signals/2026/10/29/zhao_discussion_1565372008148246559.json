@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565372008148246559",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-29T14:29:29.948000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "我觉得参考着赵哥点位来回买soxl和soxs也行吧😂但要手快",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我觉得参考着赵哥点位来回买soxl和soxs也行吧😂但要手快"
+}
