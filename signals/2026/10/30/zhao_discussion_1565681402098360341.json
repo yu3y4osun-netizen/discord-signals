@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565681402098360341",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-30T10:58:55.214000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "关键是上了双倍杠杆啊",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "关键是上了双倍杠杆啊"
+}
