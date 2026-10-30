@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565518147245703270",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wuhaha007",
+  "ts": "2026-10-30T00:10:12.224000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "从昨天的盘后的跌幅算的话 在反弹跌幅一半是今天日内一个高点 主要在下午",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "从昨天的盘后的跌幅算的话 在反弹跌幅一半是今天日内一个高点 主要在下午"
+}
