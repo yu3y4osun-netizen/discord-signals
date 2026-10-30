@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565527421812220027",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-10-30T00:47:03.453000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": true,
+    "summary": "夜盘追的soxs都赚不少了🥲",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "夜盘追的soxs都赚不少了🥲"
+}
