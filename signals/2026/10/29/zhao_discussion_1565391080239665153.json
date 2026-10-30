@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565391080239665153",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-29T15:45:17.089000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MRVL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 像mrvl今天因为收购大跌 需要像财报那样等三天观察吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 像mrvl今天因为收购大跌 需要像财报那样等三天观察吗"
+}
