@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565694655734087742",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-30T11:51:35.127000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS",
+      "CRWV",
+      "GOOGL",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "从cbrs，crwv到nbis，再到谷歌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "从cbrs，crwv到nbis，再到谷歌"
+}
