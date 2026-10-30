@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565390186404380694",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-29T15:41:43.982000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC",
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "盘后闪迪，intc财报带着半导体在充一波",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "盘后闪迪，intc财报带着半导体在充一波"
+}
