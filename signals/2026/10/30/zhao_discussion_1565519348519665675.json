@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565519348519665675",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-30T00:14:58.630000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "我mu都卸掉了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我mu都卸掉了"
+}
