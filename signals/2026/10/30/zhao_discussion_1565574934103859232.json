@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565574934103859232",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-10-30T03:55:51.266000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "只要加密合法就行，就像人人都可以抢银行，但是又有多少人敢真的抢",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "A股银行"
+    ]
+  },
+  "raw_text": "只要加密合法就行，就像人人都可以抢银行，但是又有多少人敢真的抢"
+}
