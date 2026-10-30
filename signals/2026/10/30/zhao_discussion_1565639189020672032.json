@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565639189020672032",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-30T08:11:10.832000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intc盘前太恐怖了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "intc盘前太恐怖了"
+}
