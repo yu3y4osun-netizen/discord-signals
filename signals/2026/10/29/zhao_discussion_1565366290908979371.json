@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565366290908979371",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-29T14:06:46.852000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "但是还有美光啊",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "但是还有美光啊"
+}
