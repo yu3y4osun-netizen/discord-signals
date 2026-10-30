@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565537581867860021",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ciciwangyao",
+  "ts": "2026-10-30T01:27:25.799000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BE",
+      "INTC",
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "哈兰德好像是INTC MU BE",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "哈兰德好像是INTC MU BE"
+}
