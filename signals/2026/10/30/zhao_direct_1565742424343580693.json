@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565742424343580693",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T15:01:24.051000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE",
+      "ORCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是那几个现象 lite orcl那种",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是那几个现象  lite orcl那种",
+  "attribution": "direct"
+}
