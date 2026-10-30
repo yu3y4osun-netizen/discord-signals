@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565373789041070112",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-10-29T14:36:34.546000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就那次财报猛跌，感觉就做的少了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "就那次财报猛跌，感觉就做的少了"
+}
