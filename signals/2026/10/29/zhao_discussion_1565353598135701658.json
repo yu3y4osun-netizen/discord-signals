@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565353598135701658",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-29T13:16:20.659000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这么香的直线吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这么香的直线吗"
+}
