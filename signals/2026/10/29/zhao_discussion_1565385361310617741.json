@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565385361310617741",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-29T15:22:33.590000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "现在ai刚起步 未来还是大牛市 相信国运 定投纳指",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "现在ai刚起步  未来还是大牛市 相信国运 定投纳指"
+}
