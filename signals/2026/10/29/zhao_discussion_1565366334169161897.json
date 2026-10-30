@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565366334169161897",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangwang888",
+  "ts": "2026-10-29T14:06:57.166000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MRVL"
+    ],
+    "is_following_zhao": false,
+    "summary": "迈威尔科技大跌！公司据悉拟收购光通信龙头Lumentum，交易最快下周揭晓",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "迈威尔科技大跌！公司据悉拟收购光通信龙头Lumentum，交易最快下周揭晓"
+}
