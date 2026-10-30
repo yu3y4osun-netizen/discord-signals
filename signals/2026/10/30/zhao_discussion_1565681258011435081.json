@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565681258011435081",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-10-30T10:58:20.861000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC",
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "但是英特尔的股票没有特斯拉这么有弹性￼",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "但是英特尔的股票没有特斯拉这么有弹性￼"
+}
