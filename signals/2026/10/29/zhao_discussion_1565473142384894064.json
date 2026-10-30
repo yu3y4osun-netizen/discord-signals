@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565473142384894064",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-29T21:11:22.229000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "BTC",
+      "HOOD"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥hood这种还是看比特币冲高出吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥hood这种还是看比特币冲高出吗"
+}
