@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565372293985603715",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-29T14:30:38.097000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果赵哥，只做N倍宽基收益也是非常可观的。",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "如果赵哥，只做N倍宽基收益也是非常可观的。"
+}
