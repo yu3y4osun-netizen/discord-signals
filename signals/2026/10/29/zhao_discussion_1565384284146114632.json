@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565384284146114632",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-10-29T15:18:16.774000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": true,
+    "summary": "我23年买了笔场内的标普ETF 现在都50%",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我23年买了笔场内的标普ETF   现在都50%"
+}
