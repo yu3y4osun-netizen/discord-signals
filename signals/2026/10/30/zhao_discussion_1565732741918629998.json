@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565732741918629998",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-10-30T14:22:55.581000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "闪迪超预期猛跌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "闪迪超预期猛跌"
+}
