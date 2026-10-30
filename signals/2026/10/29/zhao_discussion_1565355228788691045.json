@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565355228788691045",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yxer6ate",
+  "ts": "2026-10-29T13:22:49.437000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "等赵哥通知买点就完事儿了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "等赵哥通知买点就完事儿了"
+}
