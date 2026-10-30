@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565383218448826419",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-29T15:14:02.692000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "银行确实很多人再炒美股",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "A股银行"
+    ]
+  },
+  "raw_text": "银行确实很多人再炒美股"
+}
