@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565642544157565080",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-30T08:24:30.759000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "缺口下限正好69",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "缺口下限正好69"
+}
