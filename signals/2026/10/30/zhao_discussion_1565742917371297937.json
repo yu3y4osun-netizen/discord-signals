@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565742917371297937",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-30T15:03:21.598000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "中选结果出来就可以考虑清仓了😂",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "中选结果出来就可以考虑清仓了😂"
+}
