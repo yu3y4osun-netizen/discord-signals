@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565521950317740083",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-30T00:25:18.947000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "我在群里发了我mu都出了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我在群里发了我mu都出了"
+}
