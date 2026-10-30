@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565408191347560590",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-29T16:53:16.695000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "又亏钱，又要考试，心态崩了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "又亏钱，又要考试，心态崩了"
+}
