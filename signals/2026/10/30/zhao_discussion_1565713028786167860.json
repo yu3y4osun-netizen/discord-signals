@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565713028786167860",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiekai",
+  "ts": "2026-10-30T13:04:35.604000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天要跌到80以下在买",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "今天要跌到80以下在买"
+}
