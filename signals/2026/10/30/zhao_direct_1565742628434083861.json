@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565742628434083861",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T15:02:12.710000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMZN",
+      "GOOGL",
+      "INTC",
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "然后就是 大盘子财报 基金都在减持 现在 谷歌 intc 亚马逊那样",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后就是 大盘子财报 基金都在减持  现在 谷歌 intc 亚马逊那样",
+  "attribution": "direct"
+}
