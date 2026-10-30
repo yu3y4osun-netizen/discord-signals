@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565737003142615191",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "corrineq",
+  "ts": "2026-10-30T14:39:51.536000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥，soxl可以按90、85、80、75 少量加仓吗？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，soxl可以按90、85、80、75 少量加仓吗？"
+}
