@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565729618957303860",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-10-30T14:10:31.009000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "做空的时候不说，新闻开始宣传做空，反而到尾声",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "做空的时候不说，新闻开始宣传做空，反而到尾声"
+}
