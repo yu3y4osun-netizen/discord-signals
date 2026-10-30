@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565389704906678285",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T15:39:49.184000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "这轮就是胜选讲话快结束出大部分 套牢或者提前像lite那种解放的也会有",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这轮就是胜选讲话快结束出大部分 套牢或者提前像lite那种解放的也会有",
+  "attribution": "direct"
+}
