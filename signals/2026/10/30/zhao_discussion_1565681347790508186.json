@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565681347790508186",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-30T10:58:42.266000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "英特尔应该问题不大吧，时间问题吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "英特尔应该问题不大吧，时间问题吧"
+}
