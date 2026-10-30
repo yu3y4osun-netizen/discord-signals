@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565727992477393097",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T14:04:03.226000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "这段时间都是 有接近的 都在出 然后换soxl集合里",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这段时间都是 有接近的 都在出 然后换soxl集合里",
+  "attribution": "direct"
+}
