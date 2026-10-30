@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565463042194669590",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-10-29T20:31:14.156000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 迪子财报出来是不是存储差不多有修服的预期😭 还是说还得再看到3号结果出来之后稳定下来",
+    "filter_reason": "zhao_discuss",
+    "sectors_mentioned": [
+      "存储"
+    ]
+  },
+  "raw_text": "赵哥 迪子财报出来是不是存储差不多有修服的预期😭 还是说还得再看到3号结果出来之后稳定下来"
+}
