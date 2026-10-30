@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565381990532780033",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-29T15:09:09.934000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "明年1-3月份的阴跌可以出来",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "明年1-3月份的阴跌可以出来"
+}
