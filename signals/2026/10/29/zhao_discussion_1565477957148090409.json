@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565477957148090409",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "violawang",
+  "ts": "2026-10-29T21:30:30.158000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU",
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥手上美光正股挂高位直接换soxl合适吗",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "赵哥手上美光正股挂高位直接换soxl合适吗"
+}
