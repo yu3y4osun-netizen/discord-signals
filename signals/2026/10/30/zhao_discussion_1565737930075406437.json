@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565737930075406437",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sanshan",
+  "ts": "2026-10-30T14:43:32.534000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还是班长厉害 赵哥跟班长学几招两天就回本了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "还是班长厉害 赵哥跟班长学几招两天就回本了"
+}
