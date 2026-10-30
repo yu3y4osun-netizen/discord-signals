@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565530682523123876",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "weilediqiu",
+  "ts": "2026-10-30T01:00:00.867000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "听说是可以做空的 只是不让你我做空",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "听说是可以做空的  只是不让你我做空"
+}
