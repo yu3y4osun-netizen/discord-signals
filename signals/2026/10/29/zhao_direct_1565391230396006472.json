@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565391230396006472",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T15:45:52.889000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE",
+      "MRVL"
+    ],
+    "is_following_zhao": false,
+    "summary": "lite涨 收购可能失败的mrvl就会跌",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "lite涨 收购可能失败的mrvl就会跌",
+  "attribution": "direct"
+}
