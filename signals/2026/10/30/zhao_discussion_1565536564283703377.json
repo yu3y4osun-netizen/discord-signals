@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565536564283703377",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "uccu",
+  "ts": "2026-10-30T01:23:23.188000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMZN",
+      "GOOGL",
+      "META",
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "之前5xx的meta，3xx的msft，就是现在220的amzn，280的googl，等转型完，明年的收益就到手了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "之前5xx的meta，3xx的msft，就是现在220的amzn，280的googl，等转型完，明年的收益就到手了"
+}
