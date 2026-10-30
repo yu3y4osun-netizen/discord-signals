@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565677316011462788",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-30T10:42:41.015000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "微软苹果这些公司实打实的业绩和收入放在那儿，支付能力显而易见啊，这些新云利润率都是负的，连债务的利息都难支付",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "微软苹果这些公司实打实的业绩和收入放在那儿，支付能力显而易见啊，这些新云利润率都是负的，连债务的利息都难支付"
+}
