@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565697321457426634",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-30T12:02:10.685000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "VIX"
+    ],
+    "is_following_zhao": false,
+    "summary": "vix今天不知道会升多少 期货都还没有上20",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "vix今天不知道会升多少 期货都还没有上20"
+}
