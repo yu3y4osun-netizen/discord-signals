@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565522028298113045",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-30T00:25:37.539000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "按我的习惯我之前都会买put保护，赵哥不习惯保护",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "按我的习惯我之前都会买put保护，赵哥不习惯保护"
+}
