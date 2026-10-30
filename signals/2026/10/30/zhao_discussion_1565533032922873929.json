@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565533032922873929",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-30T01:09:21.246000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我记得我刚开始进咱们群的时候赵哥说过今年美股的情况有点像黄金 来得快 去的也快",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我记得我刚开始进咱们群的时候赵哥说过今年美股的情况有点像黄金 来得快 去的也快"
+}
