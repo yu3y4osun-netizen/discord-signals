@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565705917427617863",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-30T12:36:20.124000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "熔断 ？ 跌7个点？ 还是标普 那不至于",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "熔断 ？ 跌7个点？ 还是标普 那不至于"
+}
