@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565737135930085387",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T14:40:23.195000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我反正是这样的 但是自己要把控 现在不太敢让大家买了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我反正是这样的   但是自己要把控 现在不太敢让大家买了",
+  "attribution": "direct"
+}
