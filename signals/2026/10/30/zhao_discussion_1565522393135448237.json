@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565522393135448237",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-10-30T00:27:04.523000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "哎 本身这都是自己操作都明白的东西 跟赵哥后操作被影响的也不像自己了也不像赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "哎 本身这都是自己操作都明白的东西 跟赵哥后操作被影响的也不像自己了也不像赵哥"
+}
