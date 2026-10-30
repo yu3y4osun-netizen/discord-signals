@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565740790171435182",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-30T14:54:54.434000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "amd要是炸了的话",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "amd要是炸了的话"
+}
