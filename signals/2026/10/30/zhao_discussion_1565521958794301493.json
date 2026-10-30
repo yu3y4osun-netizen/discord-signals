@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565521958794301493",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-30T00:25:20.968000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这段主要是赵哥的策略和我们自己不一样",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "这段主要是赵哥的策略和我们自己不一样"
+}
