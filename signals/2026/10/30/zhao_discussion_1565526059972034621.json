@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565526059972034621",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-30T00:41:38.765000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": true,
+    "summary": "这个价格的intc应该还行吧，止损已经没有必要了吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这个价格的intc应该还行吧，止损已经没有必要了吧"
+}
