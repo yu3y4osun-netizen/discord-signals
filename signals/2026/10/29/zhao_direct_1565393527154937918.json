@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565393527154937918",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T15:55:00.479000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "像盘后做空买了就是 上锁 多空都有 空吃到了 就卖出 仅 多这方 就是解锁了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "像盘后做空买了就是 上锁 多空都有   空吃到了 就卖出 仅 多这方 就是解锁了",
+  "attribution": "direct"
+}
