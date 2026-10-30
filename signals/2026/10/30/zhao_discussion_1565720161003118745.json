@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565720161003118745",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "skyeli168",
+  "ts": "2026-10-30T13:32:56.057000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥刚才说不发了，说实际结构。发图太多人赌博了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥刚才说不发了，说实际结构。发图太多人赌博了"
+}
