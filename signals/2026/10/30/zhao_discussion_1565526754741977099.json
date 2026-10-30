@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565526754741977099",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-30T00:44:24.411000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "但是我之前的谷歌是高点出的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "但是我之前的谷歌是高点出的"
+}
