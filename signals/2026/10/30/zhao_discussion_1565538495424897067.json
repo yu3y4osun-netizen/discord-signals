@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565538495424897067",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-30T01:31:03.608000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOG"
+    ],
+    "is_following_zhao": false,
+    "summary": "哈兰德，goog推荐明年6月或者9月的期权嘛",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "哈兰德，goog推荐明年6月或者9月的期权嘛"
+}
