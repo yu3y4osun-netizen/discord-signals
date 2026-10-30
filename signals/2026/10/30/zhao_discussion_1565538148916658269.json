@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565538148916658269",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "uccu",
+  "ts": "2026-10-30T01:29:40.994000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMZN",
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "其实不需要紧张，昨天的谷歌和今天的亚马逊的财报，都说明两个公司的高层做了相似的选择，难道觉得自己比深耕在一个公司里几十年的的精英还要懂吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "其实不需要紧张，昨天的谷歌和今天的亚马逊的财报，都说明两个公司的高层做了相似的选择，难道觉得自己比深耕在一个公司里几十年的的精英还要懂吗"
+}
