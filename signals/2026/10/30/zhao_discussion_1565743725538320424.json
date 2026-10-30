@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565743725538320424",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "oddclan",
+  "ts": "2026-10-30T15:06:34.280000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥前几天好像说的，nvda财报也是个事件，如果阴跌到11月15日，可能这是个启动点，不知道接下来剧本怎么走",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥前几天好像说的，nvda财报也是个事件，如果阴跌到11月15日，可能这是个启动点，不知道接下来剧本怎么走"
+}
