@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565490612646445237",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-29T22:20:47.464000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "Iren这是啥利空干了-13",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Iren这是啥利空干了-13"
+}
