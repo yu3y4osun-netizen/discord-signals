@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565741169101775039",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-10-30T14:56:24.778000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "买一张期权做空一波amd",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "买一张期权做空一波amd"
+}
