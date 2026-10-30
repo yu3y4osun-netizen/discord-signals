@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565526440630554790",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-30T00:43:09.521000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "我今天有机会的话准备t一次intc",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我今天有机会的话准备t一次intc"
+}
