@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565492581406609441",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T22:28:36.853000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "基本到11月中旬出一波",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "基本到11月中旬出一波",
+  "attribution": "direct"
+}
