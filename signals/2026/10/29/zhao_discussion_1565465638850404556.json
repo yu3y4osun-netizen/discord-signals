@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565465638850404556",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "toolplanka9",
+  "ts": "2026-10-29T20:41:33.247000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "只是反弹到中选结束吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "只是反弹到中选结束吗"
+}
