@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565736905218326630",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-30T14:39:28.189000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 如果大厂们的capex阶段性到顶了 是不是半导体也算暂时熄火了",
+    "filter_reason": "zhao_discuss",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "赵哥 如果大厂们的capex阶段性到顶了 是不是半导体也算暂时熄火了"
+}
