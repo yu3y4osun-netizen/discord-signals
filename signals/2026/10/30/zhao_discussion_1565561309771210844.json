@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565561309771210844",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-10-30T03:01:42.972000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMZN",
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "看了，说亚马逊比谷歌稍微好点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "看了，说亚马逊比谷歌稍微好点"
+}
