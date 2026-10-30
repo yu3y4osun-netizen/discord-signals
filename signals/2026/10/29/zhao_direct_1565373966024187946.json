@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565373966024187946",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T14:37:16.742000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "轮廓不是收盘最高 那最受益就是soxl了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "轮廓不是收盘最高  那最受益就是soxl了",
+  "attribution": "direct"
+}
