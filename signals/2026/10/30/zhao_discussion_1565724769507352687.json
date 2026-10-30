@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565724769507352687",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "souyue",
+  "ts": "2026-10-30T13:51:14.810000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": true,
+    "summary": "他买了双倍Intc 比较难受",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "他买了双倍Intc 比较难受"
+}
