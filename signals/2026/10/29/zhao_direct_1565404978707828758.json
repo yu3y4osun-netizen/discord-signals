@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565404978707828758",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T16:40:30.742000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "105.1就是第一个脉冲高点出了 可以101.5附近挂12分之一接回 在98.8再挂个12分之一",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "105.1就是第一个脉冲高点出了 可以101.5附近挂12分之一接回   在98.8再挂个12分之一",
+  "attribution": "direct"
+}
