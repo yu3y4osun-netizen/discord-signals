@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565561649367359529",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-10-30T03:03:03.938000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMZN",
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "亚马逊和谷歌都快到今年三月份的低点了，谷歌270，亚马逊196半斤八两吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "亚马逊和谷歌都快到今年三月份的低点了，谷歌270，亚马逊196半斤八两吧"
+}
