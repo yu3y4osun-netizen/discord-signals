@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565479687587627043",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T21:37:22.727000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "形成现象级了 就是之前热钱都在退",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "形成现象级了 就是之前热钱都在退",
+  "attribution": "direct"
+}
