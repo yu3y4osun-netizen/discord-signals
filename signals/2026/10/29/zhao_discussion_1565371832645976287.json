@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565371832645976287",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-29T14:28:48.105000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": true,
+    "summary": "YH哥，上次你说的CRWV 有大量期权，我跟了一张，昨天赚钱走了，谢谢YH哥",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "YH哥，上次你说的CRWV  有大量期权，我跟了一张，昨天赚钱走了，谢谢YH哥"
+}
