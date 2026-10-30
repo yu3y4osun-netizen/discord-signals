@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565524833486381097",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-10-30T00:36:46.348000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl已经是我目前的重仓- -不过我还有50%的仓位",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl已经是我目前的重仓- -不过我还有50%的仓位"
+}
