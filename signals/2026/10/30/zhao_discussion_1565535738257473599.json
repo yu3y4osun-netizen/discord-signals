@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565535738257473599",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-30T01:20:06.248000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "我没想到intc被我最的存储害了",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "存储"
+    ]
+  },
+  "raw_text": "我没想到intc被我最的存储害了"
+}
