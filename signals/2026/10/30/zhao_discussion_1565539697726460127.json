@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565539697726460127",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xxun",
+  "ts": "2026-10-30T01:35:50.259000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SCHD"
+    ],
+    "is_following_zhao": false,
+    "summary": "SCHD",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "SCHD"
+}
