@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565702046588342317",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-10-30T12:20:57.244000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥千算万算，没算到今天soxl跌二十点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥千算万算，没算到今天soxl跌二十点"
+}
