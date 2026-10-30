@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565538528987840555",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-30T01:31:11.610000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "mu价格很低就不用说了我是怎么都不会卖的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "mu价格很低就不用说了我是怎么都不会卖的"
+}
