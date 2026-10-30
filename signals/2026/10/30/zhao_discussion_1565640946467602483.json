@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565640946467602483",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yinmo888",
+  "ts": "2026-10-30T08:18:09.840000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "以后要学会止损🤣",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "以后要学会止损🤣"
+}
