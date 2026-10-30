@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565733965732519967",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-30T14:27:47.361000+00:00",
+  "captured_at": "2026-10-30T23:22:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "昨天不应该把soxs换成soxl的，至少留着对冲应该😂",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "昨天不应该把soxs换成soxl的，至少留着对冲应该😂"
+}
