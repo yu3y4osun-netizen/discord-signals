@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565486254210949324",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-29T22:03:28.332000+00:00",
+  "captured_at": "2026-10-30T10:36:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMZN",
+      "GOOGL",
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌 英特尔 亚马逊 都是这样",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "谷歌 英特尔 亚马逊 都是这样",
+  "attribution": "direct"
+}
