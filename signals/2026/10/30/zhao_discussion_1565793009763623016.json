@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565793009763623016",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepdigger",
+  "ts": "2026-10-30T18:22:24.555000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "云我下周全割不等反弹了",
+    "filter_reason": "emotion",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "云我下周全割不等反弹了"
+}
