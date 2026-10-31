@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565769038955683871",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-30T16:47:09.469000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是这样反人性，当一根大阳时，以为反转来了，结果继续跌。 今天SOXL低开这样多，以为不会再跌了，或者跌也跌不多，结果一路向下跌。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "就是这样反人性，当一根大阳时，以为反转来了，结果继续跌。   今天SOXL低开这样多，以为不会再跌了，或者跌也跌不多，结果一路向下跌。"
+}
