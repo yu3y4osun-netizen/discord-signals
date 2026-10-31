@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565823882248851549",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-30T20:25:05.129000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "之前看了讲解，A股设立的初衷是给国企融资，吸血用的",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "之前看了讲解，A股设立的初衷是给国企融资，吸血用的"
+}
