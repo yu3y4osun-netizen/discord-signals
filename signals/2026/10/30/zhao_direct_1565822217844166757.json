@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565822217844166757",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T20:18:28.304000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "2次举报证监会贪污的 还被驱逐出境过",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "2次举报证监会贪污的 还被驱逐出境过",
+  "attribution": "direct"
+}
