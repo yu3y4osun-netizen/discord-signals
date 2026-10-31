@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565781598962720861",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-30T17:37:04.008000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没人给赵哥上压力啊。。。我认为赵哥的判断基本上都是准确的，相信赵哥才会跟着买",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "没人给赵哥上压力啊。。。我认为赵哥的判断基本上都是准确的，相信赵哥才会跟着买"
+}
