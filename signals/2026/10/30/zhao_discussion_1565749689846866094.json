@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565749689846866094",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "linlin7",
+  "ts": "2026-10-30T15:30:16.282000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": true,
+    "summary": "只能扛了 等有像前两天的lite 那样突然16cm 没到成本都也都割了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "只能扛了 等有像前两天的lite 那样突然16cm 没到成本都也都割了"
+}
