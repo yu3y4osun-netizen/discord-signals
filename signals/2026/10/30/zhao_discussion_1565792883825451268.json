@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565792883825451268",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haojue",
+  "ts": "2026-10-30T18:21:54.529000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "那现在被套着的云光存龙头，反正基本面也不错，躺平到明年四五月可以吗？赵哥",
+    "filter_reason": "zhao_discuss",
+    "sectors_mentioned": [
+      "云",
+      "光"
+    ]
+  },
+  "raw_text": "那现在被套着的云光存龙头，反正基本面也不错，躺平到明年四五月可以吗？赵哥"
+}
