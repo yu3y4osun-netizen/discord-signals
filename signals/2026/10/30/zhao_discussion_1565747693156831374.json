@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565747693156831374",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-10-30T15:22:20.234000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAOI"
+    ],
+    "is_following_zhao": false,
+    "summary": "Aaoi啥事没有也跌14个点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Aaoi啥事没有也跌14个点"
+}
