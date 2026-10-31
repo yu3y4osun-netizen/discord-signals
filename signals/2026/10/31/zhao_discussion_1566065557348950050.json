@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566065557348950050",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xlucky",
+  "ts": "2026-10-31T12:25:24.963000+00:00",
+  "captured_at": "2026-10-31T21:04:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "只能说赵哥的AI跟这个人画的异曲同工。",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "只能说赵哥的AI跟这个人画的异曲同工。"
+}
