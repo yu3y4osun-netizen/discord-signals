@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565785050040246296",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-30T17:50:46.809000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 苹果财报如果不好的话 是不是也会对半导体造成负面影响 还是说 会分出一部分资金到半导体",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "赵哥 苹果财报如果不好的话 是不是也会对半导体造成负面影响 还是说 会分出一部分资金到半导体"
+}
