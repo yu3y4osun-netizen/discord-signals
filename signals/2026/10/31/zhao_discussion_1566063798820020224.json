@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566063798820020224",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-31T12:18:25.697000+00:00",
+  "captured_at": "2026-10-31T21:04:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "左边是赵哥发的，右边是twitter上的，是一样的看起来",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "左边是赵哥发的，右边是twitter上的，是一样的看起来"
+}
