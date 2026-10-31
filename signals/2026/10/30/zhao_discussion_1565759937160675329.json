@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565759937160675329",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-10-30T16:10:59.432000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "真的要熊市了吗",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "真的要熊市了吗"
+}
