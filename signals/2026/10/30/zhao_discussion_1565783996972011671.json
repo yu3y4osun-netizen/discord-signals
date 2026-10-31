@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565783996972011671",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-10-30T17:46:35.738000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "挺住，历年中选后半年都起飞",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "挺住，历年中选后半年都起飞"
+}
