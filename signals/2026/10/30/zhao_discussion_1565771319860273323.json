@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565771319860273323",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-30T16:56:13.279000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "AAPL TSLA 两大股还在高位，如果他两继续崩，也是一大风险",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "AAPL  TSLA   两大股还在高位，如果他两继续崩，也是一大风险"
+}
