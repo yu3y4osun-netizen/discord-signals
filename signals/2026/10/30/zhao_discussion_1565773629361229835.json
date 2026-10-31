@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565773629361229835",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-30T17:05:23.907000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥 intc 政府那部分是不是很可能已经出了大部分了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 intc 政府那部分是不是很可能已经出了大部分了"
+}
