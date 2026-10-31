@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565933895730462801",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-10-31T03:42:14.387000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": true,
+    "summary": "能不能分批加仓正股 然后买3个月内qqq put对冲 put涨起来卖put",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "能不能分批加仓正股 然后买3个月内qqq put对冲 put涨起来卖put"
+}
