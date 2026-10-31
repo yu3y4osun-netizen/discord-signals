@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565804151907291167",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T19:06:41.049000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "要么就是5-6成抗到11月5日 有点资金 下周五看看什么情况下下周一看什么情况",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "要么就是5-6成抗到11月5日 有点资金 下周五看看什么情况下下周一看什么情况",
+  "attribution": "direct"
+}
