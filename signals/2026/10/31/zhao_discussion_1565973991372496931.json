@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565973991372496931",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-31T06:21:33.933000+00:00",
+  "captured_at": "2026-10-31T21:04:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "AMD 历史上有记录的最大单日跌幅超过 24%，发生在 2005 年 5 月 如果只看近几年的表现，其最大单日跌幅为 17.3%（发生在 2026 年 4 月底...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "AMD 历史上有记录的最大单日跌幅超过 24%，发生在 2005 年 5 月 \n\n如果只看近几年的表现，其最大单日跌幅为 17.3%（发生在 2026 年 4 月底），盘中一度跌超 17.7%，创下自 2017 年以来的最大单日收盘跌幅"
+}
