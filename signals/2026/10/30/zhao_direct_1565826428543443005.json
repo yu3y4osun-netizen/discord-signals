@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565826428543443005",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T20:35:12.213000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "连续三个周五都是这种单边 我每次周末就是睡2天 巴不得快进到周一看夜盘结果",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "连续三个周五都是这种单边 我每次周末就是睡2天 巴不得快进到周一看夜盘结果",
+  "attribution": "direct"
+}
