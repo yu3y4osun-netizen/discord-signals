@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565756827495301122",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-30T15:58:38.030000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "以前赵哥的消息全都要推今天没推",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "以前赵哥的消息全都要推今天没推"
+}
