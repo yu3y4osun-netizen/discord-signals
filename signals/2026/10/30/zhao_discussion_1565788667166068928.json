@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565788667166068928",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-30T18:05:09.199000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "大盘看情况 11月会跌破去杠杆低点啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "大盘看情况 11月会跌破去杠杆低点啊"
+}
