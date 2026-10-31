@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565828898313208011",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaoxulucky001",
+  "ts": "2026-10-30T20:45:01.052000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，为什么是尾盘～7：30这个时间段，而不是尾盘到～8：00？提前30分钟盘后收盘这个时间，有什么原因吗？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，为什么是尾盘～7：30这个时间段，而不是尾盘到～8：00？提前30分钟盘后收盘这个时间，有什么原因吗？"
+}
