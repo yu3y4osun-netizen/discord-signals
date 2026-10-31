@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565752661138219039",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yinmo888",
+  "ts": "2026-10-30T15:42:04.693000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl 也奔-30去了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl 也奔-30去了"
+}
