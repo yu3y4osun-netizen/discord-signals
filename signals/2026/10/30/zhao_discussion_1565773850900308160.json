@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565773850900308160",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-30T17:06:16.726000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥iren这种新云还有得玩吗，想买点长拿了，减少操作",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "赵哥iren这种新云还有得玩吗，想买点长拿了，减少操作"
+}
