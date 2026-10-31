@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565988615266504715",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-31T07:19:40.541000+00:00",
+  "captured_at": "2026-10-31T21:04:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "看看加密 黄金 白银 半导体股 这么多破位的",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "看看加密 黄金 白银 半导体股 这么多破位的"
+}
