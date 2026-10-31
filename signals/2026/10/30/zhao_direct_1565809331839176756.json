@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565809331839176756",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T19:27:16.041000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "因为他要我写 建党100周年是牛市起点 我就付了违约金离开大陆了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "因为他要我写 建党100周年是牛市起点 我就付了违约金离开大陆了",
+  "attribution": "direct"
+}
