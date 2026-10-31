@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565778791509270600",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T17:25:54.659000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是谷歌 起了个头 重仓基金年底要出逃",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是谷歌 起了个头  重仓基金年底要出逃",
+  "attribution": "direct"
+}
