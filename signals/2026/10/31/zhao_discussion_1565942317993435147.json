@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565942317993435147",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "maodie",
+  "ts": "2026-10-31T04:15:42.411000+00:00",
+  "captured_at": "2026-10-31T21:04:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我珠海的，老登要是有先见之明，我也不是红色护照了🥺",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我珠海的，老登要是有先见之明，我也不是红色护照了🥺"
+}
