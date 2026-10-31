@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565813661358887003",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-30T19:44:28.279000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "止损还是自己要操作一下",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "止损还是自己要操作一下"
+}
