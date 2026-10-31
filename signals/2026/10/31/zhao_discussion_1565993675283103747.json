@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565993675283103747",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-10-31T07:39:46.943000+00:00",
+  "captured_at": "2026-10-31T21:04:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那么多资产都破位 别人不傻",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "那么多资产都破位 别人不傻"
+}
