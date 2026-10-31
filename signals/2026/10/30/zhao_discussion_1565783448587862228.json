@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565783448587862228",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-30T17:44:24.993000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intc和谷歌都跌不动了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "intc和谷歌都跌不动了"
+}
