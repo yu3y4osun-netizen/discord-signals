@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565802602845704223",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-30T19:00:31.724000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS",
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 现在的策略还是买soxl吗 nbis那种个股到了日k底还要买吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 现在的策略还是买soxl吗 nbis那种个股到了日k底还要买吗"
+}
