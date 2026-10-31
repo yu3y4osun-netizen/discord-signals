@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565773879006466120",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-30T17:06:23.427000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "学到了一课了，任何时候止损都不晚，之前伊朗战争，关税战我账户都回撤了很多，但是扛过来又赚了，就形成侥幸了，这次可能没有这么幸运了，之前我买的还不是高弹性股票，持...",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "学到了一课了，任何时候止损都不晚，之前伊朗战争，关税战我账户都回撤了很多，但是扛过来又赚了，就形成侥幸了，这次可能没有这么幸运了，之前我买的还不是高弹性股票，持仓体验还好，这次不一样了，有点恐怖了"
+}
