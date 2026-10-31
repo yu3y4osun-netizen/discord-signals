@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565816439481573479",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "eatmybanana",
+  "ts": "2026-10-30T19:55:30.635000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 现在的V是机构调仓还是空头回补 能分辨出来吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 现在的V是机构调仓还是空头回补 能分辨出来吗"
+}
