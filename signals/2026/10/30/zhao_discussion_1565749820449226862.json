@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565749820449226862",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-30T15:30:47.420000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 那3月15以后 正股还有机会回来吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 那3月15以后 正股还有机会回来吗"
+}
