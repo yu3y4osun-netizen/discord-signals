@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565989720457089106",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zhanglucky",
+  "ts": "2026-10-31T07:24:04.039000+00:00",
+  "captured_at": "2026-10-31T21:04:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我自己复盘总结是，仓位管理没做好，还有就是没遵守交易纪律，上头了，再有就是还是贪了。交易是自己做的，只怪自己认知的局限性，怪不得旁人。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我自己复盘总结是，仓位管理没做好，还有就是没遵守交易纪律，上头了，再有就是还是贪了。交易是自己做的，只怪自己认知的局限性，怪不得旁人。"
+}
