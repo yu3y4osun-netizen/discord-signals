@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565774775593209941",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-10-30T17:09:57.190000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我前段时间做量化回测，用很简单￼的策略￼￼跌5% 加一笔，然后这一笔的成本涨5%就出，不设置任何止损，年收益相比，设置止损高不少￼￼￼￼￼",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我前段时间做量化回测，用很简单￼的策略￼￼跌5% 加一笔，然后这一笔的成本涨5%就出，不设置任何止损，年收益相比，设置止损高不少￼￼￼￼￼"
+}
