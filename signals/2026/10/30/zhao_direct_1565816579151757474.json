@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565816579151757474",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T19:56:03.935000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是2006那个小布什 那会 20年前事情了 就是 唱票前一周压最低 然后对手胜选讲话起来了一波",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是2006那个小布什 那会  20年前事情了 就是 唱票前一周压最低 然后对手胜选讲话起来了一波",
+  "attribution": "direct"
+}
