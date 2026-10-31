@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565748807181017392",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T15:26:45.838000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "阴跌不是一直跌就是几个时间段 忽涨忽跌 时间长了就陷进去了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "阴跌不是一直跌就是几个时间段 忽涨忽跌  时间长了就陷进去了",
+  "attribution": "direct"
+}
