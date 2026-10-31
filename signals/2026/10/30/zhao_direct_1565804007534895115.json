@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565804007534895115",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T19:06:06.628000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是后面财报要么都规避 等隔天盘中基金减完进",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是后面财报要么都规避 等隔天盘中基金减完进",
+  "attribution": "direct"
+}
