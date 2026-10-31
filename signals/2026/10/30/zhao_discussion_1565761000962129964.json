@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565761000962129964",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-10-30T16:15:13.062000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CONL"
+    ],
+    "is_following_zhao": false,
+    "summary": "以前做的CONL都跌破3块去了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "以前做的CONL都跌破3块去了"
+}
