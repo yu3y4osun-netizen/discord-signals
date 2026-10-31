@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565748252660469864",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yinmo888",
+  "ts": "2026-10-30T15:24:33.630000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个玩意 还没到极度恐慌 是假的吧",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这个玩意 还没到极度恐慌 是假的吧"
+}
