@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565796576872497364",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-30T18:36:35.020000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我还真能去，我在新泽西，离赵哥很近应该",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我还真能去，我在新泽西，离赵哥很近应该"
+}
