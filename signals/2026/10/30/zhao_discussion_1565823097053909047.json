@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565823097053909047",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-30T20:21:57.924000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "要不是赵哥是澳门人 就不是驱逐出境了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "要不是赵哥是澳门人 就不是驱逐出境了"
+}
