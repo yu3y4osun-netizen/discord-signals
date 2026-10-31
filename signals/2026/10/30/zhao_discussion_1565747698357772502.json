@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565747698357772502",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-10-30T15:22:21.474000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "班长大跌的时候就满仓🈳😅",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "班长大跌的时候就满仓🈳😅"
+}
