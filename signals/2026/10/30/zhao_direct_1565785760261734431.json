@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565785760261734431",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T17:53:36.139000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "amd 他总环境是ai这个总的大板块 你 谷歌 跌 他跟跌一天",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "amd 他总环境是ai这个总的大板块  你 谷歌 跌 他跟跌一天",
+  "attribution": "direct"
+}
