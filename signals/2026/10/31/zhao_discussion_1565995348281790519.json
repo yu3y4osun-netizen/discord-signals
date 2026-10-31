@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565995348281790519",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zhanglucky",
+  "ts": "2026-10-31T07:46:25.817000+00:00",
+  "captured_at": "2026-10-31T21:04:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不过，我不怪赵哥，是我自己起了贪念，才造成今天这个局面的",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "不过，我不怪赵哥，是我自己起了贪念，才造成今天这个局面的"
+}
