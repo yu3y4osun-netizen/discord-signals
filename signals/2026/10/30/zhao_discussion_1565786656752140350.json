@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565786656752140350",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "heimao",
+  "ts": "2026-10-30T17:57:09.879000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "我的tqqq已经骂了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我的tqqq已经骂了"
+}
