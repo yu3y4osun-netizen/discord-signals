@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565748836822024203",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T15:26:52.905000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是 访华A股最高点一样",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是 访华A股最高点一样",
+  "attribution": "direct"
+}
