@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565788807293440071",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T18:05:42.608000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果就1只可以买就是量很低了 看能不能带吸引眼球",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "如果就1只可以买就是量很低了 看能不能带吸引眼球",
+  "attribution": "direct"
+}
