@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565779767167553678",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-10-30T17:29:47.274000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "感觉之前半死不活的股票要复苏一下了 赵哥觉得医疗这些咋样 诺和诺德 hims这些",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "感觉之前半死不活的股票要复苏一下了 赵哥觉得医疗这些咋样 诺和诺德 hims这些"
+}
