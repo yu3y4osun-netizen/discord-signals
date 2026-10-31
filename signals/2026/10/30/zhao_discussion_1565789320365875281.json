@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565789320365875281",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-10-30T18:07:44.934000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这还有可能反弹吗收盘的时候",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这还有可能反弹吗收盘的时候"
+}
