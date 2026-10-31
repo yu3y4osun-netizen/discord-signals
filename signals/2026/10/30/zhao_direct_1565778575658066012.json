@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565778575658066012",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T17:25:03.196000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl 因为几次了都是高位只是接个小仓位 要跌了才增大",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "soxl 因为几次了都是高位只是接个小仓位 要跌了才增大",
+  "attribution": "direct"
+}
