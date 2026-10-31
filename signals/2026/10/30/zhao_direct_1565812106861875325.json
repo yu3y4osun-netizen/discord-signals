@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565812106861875325",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T19:38:17.658000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "因为我手上 还有10多个都在soxl 所以 我这轮就是个股都没补 soxl的量就是差不多和套住股票相对相等了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "因为我手上 还有10多个都在soxl  所以 我这轮就是个股都没补 soxl的量就是差不多和套住股票相对相等了",
+  "attribution": "direct"
+}
