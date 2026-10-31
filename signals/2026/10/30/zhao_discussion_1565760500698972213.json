@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565760500698972213",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yorryskyy",
+  "ts": "2026-10-30T16:13:13.790000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "强平完了可以v了吧",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "强平完了可以v了吧"
+}
