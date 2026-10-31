@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565822916673798396",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "skyeli168",
+  "ts": "2026-10-30T20:21:14.918000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "驱逐出境 赵哥入美籍了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "驱逐出境 赵哥入美籍了"
+}
