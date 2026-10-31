@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565782753629446215",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-30T17:41:39.302000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "下个礼拜，咱们三个云都是财报，真遭不住了感觉",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "下个礼拜，咱们三个云都是财报，真遭不住了感觉"
+}
