@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565819108069478481",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-30T20:06:06.876000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一般尾盘有V 盘后就不会怎么跌下去了 除非有突发利空",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "一般尾盘有V 盘后就不会怎么跌下去了 除非有突发利空"
+}
