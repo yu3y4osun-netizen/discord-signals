@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565783958229221460",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-10-30T17:46:26.501000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那我们为什么不早点走呢赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "那我们为什么不早点走呢赵哥"
+}
