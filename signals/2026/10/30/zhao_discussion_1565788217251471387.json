@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565788217251471387",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-30T18:03:21.931000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "A港没有救市",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "A股政策"
+    ]
+  },
+  "raw_text": "A港没有救市"
+}
