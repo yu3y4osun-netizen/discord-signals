@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565771508561748009",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-30T16:56:58.269000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "tsla 还有点 就是会不会被民主党搞他 如果民主党横扫的话",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "tsla 还有点 就是会不会被民主党搞他 如果民主党横扫的话"
+}
