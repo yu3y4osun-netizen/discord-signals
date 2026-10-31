@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565785785729286325",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-30T17:53:42.211000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "也就是说amd也出减持信息的话 还是跌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "也就是说amd也出减持信息的话 还是跌"
+}
