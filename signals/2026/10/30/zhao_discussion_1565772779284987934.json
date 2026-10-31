@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565772779284987934",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-10-30T17:02:01.233000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": true,
+    "summary": "继续止损一部分。准备换qqq",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "继续止损一部分。准备换qqq"
+}
