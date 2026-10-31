@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565797118491369637",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-30T18:38:44.152000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥，这举步维艰的一周辛苦了，不单要承受亏损，还这样耐心的解答同学们的问题和心理按摩，实属不易！ 顺祝周末愉快！ 顺祝11月所有人雄起！",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，这举步维艰的一周辛苦了，不单要承受亏损，还这样耐心的解答同学们的问题和心理按摩，实属不易！\n\n顺祝周末愉快！\n\n顺祝11月所有人雄起！"
+}
