@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565757805435027589",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-10-30T16:02:31.189000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我刚好2点15分出门，回到差不多7点打开电脑才看到",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "我刚好2点15分出门，回到差不多7点打开电脑才看到"
+}
