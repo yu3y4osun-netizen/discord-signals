@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565804179421794466",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-10-30T19:06:47.609000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "这amd肯定减",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这amd肯定减"
+}
