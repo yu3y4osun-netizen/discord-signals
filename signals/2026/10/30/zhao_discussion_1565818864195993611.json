@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565818864195993611",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sofia888",
+  "ts": "2026-10-30T20:05:08.732000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "链上很有优势啊",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "crypto"
+    ]
+  },
+  "raw_text": "链上很有优势啊"
+}
