@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565770608770425067",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "bkaaa",
+  "ts": "2026-10-30T16:53:23.742000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis不是长协 crwv才是",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "nbis不是长协 crwv才是"
+}
