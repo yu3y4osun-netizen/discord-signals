@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565811267766194368",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-30T19:34:57.602000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "我感觉英伟达这个价格不错 财报前应该能涨涨",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我感觉英伟达这个价格不错 财报前应该能涨涨"
+}
