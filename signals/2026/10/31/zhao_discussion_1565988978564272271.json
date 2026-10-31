@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565988978564272271",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-10-31T07:21:07.158000+00:00",
+  "captured_at": "2026-10-31T21:04:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "买了赵哥的云 赵哥不割我不割",
+    "filter_reason": "zhao_discuss",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "买了赵哥的云 赵哥不割我不割"
+}
