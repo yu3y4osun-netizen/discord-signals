@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565885599393648681",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-10-31T00:30:19.643000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "ARM",
+      "QCOM"
+    ],
+    "is_following_zhao": false,
+    "summary": "费城半导体指数 (.SOX.US)$ 大跌7.2%，30只成份股中29只下跌。高通跌11.12%，AMD跌10.88%，Arm Holdings跌9.97%，德...",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "费城半导体指数 (.SOX.US)$ 大跌7.2%，30只成份股中29只下跌。高通跌11.12%，AMD跌10.88%，Arm Holdings跌9.97%，德州仪器跌3.4%。"
+}
