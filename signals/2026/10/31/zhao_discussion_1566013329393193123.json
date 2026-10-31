@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566013329393193123",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hhui888",
+  "ts": "2026-10-31T08:57:52.848000+00:00",
+  "captured_at": "2026-10-31T21:04:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有没有人可以回测一下，赵哥盘前发的那个预测走势应该是这个人发的https://x.com/IntradayCycles",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "有没有人可以回测一下，赵哥盘前发的那个预测走势应该是这个人发的https://x.com/IntradayCycles"
+}
