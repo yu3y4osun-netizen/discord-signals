@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565825042179301617",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "avocadorable0106",
+  "ts": "2026-10-30T20:29:41.678000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥 我看你这几天有些没到成本的 单 也小割肉跑了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 我看你这几天有些没到成本的 单 也小割肉跑了"
+}
