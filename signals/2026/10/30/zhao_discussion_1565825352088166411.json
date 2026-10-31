@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565825352088166411",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "avocadorable0106",
+  "ts": "2026-10-30T20:30:55.566000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我看你前面有些做倒T的 报税麻烦吗",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "我看你前面有些做倒T的 报税麻烦吗"
+}
