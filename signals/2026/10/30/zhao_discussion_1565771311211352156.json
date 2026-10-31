@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565771311211352156",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-10-30T16:56:11.217000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "VIX"
+    ],
+    "is_following_zhao": false,
+    "summary": "vix竟然还没有过上周的高点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "vix竟然还没有过上周的高点"
+}
