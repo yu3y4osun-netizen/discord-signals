@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565782029952622704",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T17:38:46.764000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "5成多股票 然后1.5成soxl 尾盘会加点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "5成多股票 然后1.5成soxl  尾盘会加点",
+  "attribution": "direct"
+}
