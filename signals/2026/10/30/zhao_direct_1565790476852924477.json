@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565790476852924477",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T18:12:20.662000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "而且几乎人也没怎么休息 你得盯着韩国 A股开盘 确定不低开买 尾盘韩国升了卖",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "而且几乎人也没怎么休息  你得盯着韩国 A股开盘 确定不低开买   尾盘韩国升了卖",
+  "attribution": "direct"
+}
