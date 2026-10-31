@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565995461448302594",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zhanglucky",
+  "ts": "2026-10-31T07:46:52.798000+00:00",
+  "captured_at": "2026-10-31T21:04:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "要是当时我不是眼红在云上吃大肉的人，也不会被套进去的",
+    "filter_reason": "emotion",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "要是当时我不是眼红在云上吃大肉的人，也不会被套进去的"
+}
