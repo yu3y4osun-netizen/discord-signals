@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565812712821366940",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-30T19:40:42.130000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥 还真没发出来加仓点位啊",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 还真没发出来加仓点位啊"
+}
