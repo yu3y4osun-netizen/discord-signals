@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565803894108328187",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-30T19:05:39.585000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "nvda都跌了5%",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "nvda都跌了5%"
+}
