@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565808966234022010",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T19:25:48.874000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我差不多就是6月时候想公告写篇让大家减基金文章的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我差不多就是6月时候想公告写篇让大家减基金文章的",
+  "attribution": "direct"
+}
