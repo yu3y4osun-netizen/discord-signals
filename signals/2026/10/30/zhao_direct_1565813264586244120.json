@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565813264586244120",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T19:42:53.681000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "我想发个 可以尾盘-7点半 都可以 个股如果是收盘附近最低 财报时间不临近的 都可以少量加点 留个3成现金 一定要留现金不要全都上 等下周苹果 amd时候在 应对",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我想发个 可以尾盘-7点半 都可以 个股如果是收盘附近最低 财报时间不临近的 都可以少量加点 留个3成现金 一定要留现金不要全都上 等下周苹果 amd时候在 应对",
+  "attribution": "direct"
+}
