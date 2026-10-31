@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565749344026755104",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moneywang",
+  "ts": "2026-10-30T15:28:53.832000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那估计也反弹不了多少了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那估计也反弹不了多少了"
+}
