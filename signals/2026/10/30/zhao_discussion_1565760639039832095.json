@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565760639039832095",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-30T16:13:46.773000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "唉 现在真到了二次探底又不敢买了啊 苦也",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "唉 现在真到了二次探底又不敢买了啊 苦也"
+}
