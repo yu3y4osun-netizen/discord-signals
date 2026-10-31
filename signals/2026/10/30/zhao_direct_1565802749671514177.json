@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565802749671514177",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T19:01:06.730000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "差不多的 因为我个股多 等于加soxl加所有了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "差不多的  因为我个股多 等于加soxl加所有了",
+  "attribution": "direct"
+}
