@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565786452430688297",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T17:56:21.165000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是你拿谷歌来说 私募盘后出跌了跌幅 公募 在开盘后继续减又有跌幅",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是你拿谷歌来说  私募盘后出跌了跌幅  公募 在开盘后继续减又有跌幅",
+  "attribution": "direct"
+}
