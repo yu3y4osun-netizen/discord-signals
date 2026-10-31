@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565794719437553900",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-30T18:29:12.173000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 我今天开了nbis的看跌期权对冲，下周到期 155的，您看我今天是否应该平仓呢？周一会不会有反弹呢",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 我今天开了nbis的看跌期权对冲，下周到期 155的，您看我今天是否应该平仓呢？周一会不会有反弹呢"
+}
