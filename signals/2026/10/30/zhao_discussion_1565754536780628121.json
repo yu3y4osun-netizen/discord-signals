@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565754536780628121",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-30T15:49:31.881000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC",
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "今天intc这波下跌倒是把我前几天t mu赚的钱又给我跌没了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "今天intc这波下跌倒是把我前几天t mu赚的钱又给我跌没了"
+}
