@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565821452895264889",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-10-30T20:15:25.926000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还是希望这次之后群友能更深刻理解到仓位控制的重要性",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "还是希望这次之后群友能更深刻理解到仓位控制的重要性"
+}
