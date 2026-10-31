@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566065356488052738",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-31T12:24:37.074000+00:00",
+  "captured_at": "2026-10-31T21:04:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "不知道，反正这个博主的轮廓图跟赵哥画的是一样",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "不知道，反正这个博主的轮廓图跟赵哥画的是一样"
+}
