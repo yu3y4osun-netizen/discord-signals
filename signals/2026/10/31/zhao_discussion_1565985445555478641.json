@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565985445555478641",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yinmo888",
+  "ts": "2026-10-31T07:07:04.823000+00:00",
+  "captured_at": "2026-10-31T21:04:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "没啥好猜疑的 赵哥的做法像是 网格交易。如果市场往上就很牛逼。市场这次是大幅向下，没法这个策略是失效的。所以越套越重",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "没啥好猜疑的 赵哥的做法像是 网格交易。如果市场往上就很牛逼。市场这次是大幅向下，没法这个策略是失效的。所以越套越重"
+}
