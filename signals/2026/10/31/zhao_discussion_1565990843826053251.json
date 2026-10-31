@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565990843826053251",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yinmo888",
+  "ts": "2026-10-31T07:28:31.871000+00:00",
+  "captured_at": "2026-10-31T21:04:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大户 不止损有赌的资本 股票的可能只占用人家资产配置的一小部分 我们小散 尽力保护好本金",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "大户 不止损有赌的资本 股票的可能只占用人家资产配置的一小部分 我们小散 尽力保护好本金"
+}
