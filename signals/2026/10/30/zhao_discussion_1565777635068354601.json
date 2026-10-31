@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565777635068354601",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-10-30T17:21:18.942000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这是我自己的一些思考，我认为下跌行情有下跌行情的做法，首先止损要做好，然后如果你割的话，至少也要有对冲的做法",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这是我自己的一些思考，我认为下跌行情有下跌行情的做法，首先止损要做好，然后如果你割的话，至少也要有对冲的做法"
+}
