@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565785911550148682",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chenxiansheng83",
+  "ts": "2026-10-30T17:54:12.209000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "QQQ快4个点了😂",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "QQQ快4个点了😂"
+}
