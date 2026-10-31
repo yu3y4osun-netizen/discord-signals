@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565784609772404769",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "linlin7",
+  "ts": "2026-10-30T17:49:01.841000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥会加 但是估计不会发出来",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥会加 但是估计不会发出来"
+}
