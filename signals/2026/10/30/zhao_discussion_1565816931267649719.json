@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565816931267649719",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-30T19:57:27.886000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不知道为什么那么多人 100 买那么多",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "不知道为什么那么多人 100 买那么多"
+}
