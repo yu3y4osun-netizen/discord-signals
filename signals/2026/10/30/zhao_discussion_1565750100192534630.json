@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565750100192534630",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "tigerxiaoyu",
+  "ts": "2026-10-30T15:31:54.116000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSTR"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥你好，我去年跟着做，买的mstr和bmnr总共亏了约两万美元，之后我向平台要求退会员费且已退费。退费后，忘记了取消自动续费，导致本月七日自动扣款一年的会员费...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥你好，我去年跟着做，买的mstr和bmnr总共亏了约两万美元，之后我向平台要求退会员费且已退费。退费后，忘记了取消自动续费，导致本月七日自动扣款一年的会员费299.9美元，能否退我11个月的会员费？"
+}
