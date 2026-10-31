@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565769726213230755",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-10-30T16:49:53.324000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl75 被吃了就会急跌一下",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl75 被吃了就会急跌一下"
+}
