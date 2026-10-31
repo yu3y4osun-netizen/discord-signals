@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565781286008651831",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-10-30T17:35:49.394000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "ok，我也是八月份进群的，我看之前赵哥在期权频道里也发过一些粗略",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "ok，我也是八月份进群的，我看之前赵哥在期权频道里也发过一些粗略"
+}
