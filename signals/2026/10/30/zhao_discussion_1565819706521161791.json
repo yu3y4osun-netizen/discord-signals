@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565819706521161791",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-10-30T20:08:29.558000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis尾盘w底",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "nbis尾盘w底"
+}
