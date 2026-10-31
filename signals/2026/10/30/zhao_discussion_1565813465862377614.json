@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565813465862377614",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-10-30T19:43:41.669000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "好的赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "好的赵哥"
+}
