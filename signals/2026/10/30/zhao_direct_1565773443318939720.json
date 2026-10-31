@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565773443318939720",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-10-30T17:04:39.551000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "这个谷歌已经打过样了 早上intc就说了 开盘的公募还会出",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这个谷歌已经打过样了 早上intc就说了 开盘的公募还会出",
+  "attribution": "direct"
+}
