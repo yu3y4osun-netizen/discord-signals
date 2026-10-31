@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1565816077404086442",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-10-30T19:54:04.309000+00:00",
+  "captured_at": "2026-10-31T11:47:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我小小减仓了一下",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "我小小减仓了一下"
+}
