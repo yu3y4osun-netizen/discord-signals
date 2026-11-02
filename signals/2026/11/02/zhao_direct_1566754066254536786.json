@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566754066254536786",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T10:01:18.278000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我周末没上过这个软件 就是韩国开盘才上来的 本来就想发周末暗盘的那句",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我周末没上过这个软件 就是韩国开盘才上来的 本来就想发周末暗盘的那句",
+  "attribution": "direct"
+}
