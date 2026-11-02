@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566685307020120237",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-11-02T05:28:04.799000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "日k图为啥不行，没带仓位不是也能说明加仓了吗？",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "日k图为啥不行，没带仓位不是也能说明加仓了吗？"
+}
