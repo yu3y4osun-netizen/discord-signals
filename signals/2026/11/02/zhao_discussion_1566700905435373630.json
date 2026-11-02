@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566700905435373630",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-02T06:30:03.751000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "另外我想提个小小的要求 就是以后如果赵哥转发其他信息 能不能提示下 ，因为这个转发 谁也不知道消息质量如何 盲目相信的 胜率就更难看了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "另外我想提个小小的要求 就是以后如果赵哥转发其他信息 能不能提示下 ，因为这个转发 谁也不知道消息质量如何 盲目相信的 胜率就更难看了"
+}
