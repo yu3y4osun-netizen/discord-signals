@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566514346526507199",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-11-01T18:08:44.641000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大家别吵了，等赵哥吧，让家人们闭嘴，伯努利方程还有流体力学方程傅立叶我用AI算一下赵哥明天几点出来",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "大家别吵了，等赵哥吧，让家人们闭嘴，伯努利方程还有流体力学方程傅立叶我用AI算一下赵哥明天几点出来"
+}
