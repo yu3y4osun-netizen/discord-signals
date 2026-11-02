@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566429833549053963",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-11-01T12:32:55.177000+00:00",
+  "captured_at": "2026-11-02T11:27:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "班长也替赵哥回答了"
+  },
+  "raw_text": "班长也替赵哥回答了"
+}
