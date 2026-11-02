@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566765920939151502",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-11-02T10:48:24.655000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我上周五应该是陪赵哥聊的最晚的一波人",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我上周五应该是陪赵哥聊的最晚的一波人"
+}
