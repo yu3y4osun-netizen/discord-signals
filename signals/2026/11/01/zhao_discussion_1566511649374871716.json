@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566511649374871716",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "maychen5518",
+  "ts": "2026-11-01T17:58:01.590000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MRNA",
+      "TSLA"
+    ],
+    "is_following_zhao": true,
+    "summary": "珍惜吧。赵哥的高光不是一般人能比。就如同当初不是退休，我不会知道MRNA，不会在特斯拉启动时，一直跟到顶．．虽然币也损失了，但只要控制仓位，盈亏比依然很好。总有...",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "珍惜吧。赵哥的高光不是一般人能比。就如同当初不是退休，我不会知道MRNA，不会在特斯拉启动时，一直跟到顶．．虽然币也损失了，但只要控制仓位，盈亏比依然很好。总有赌性强的人，用杠杆损失来乱搅。熬过眼前就好了，别搅别人"
+}
