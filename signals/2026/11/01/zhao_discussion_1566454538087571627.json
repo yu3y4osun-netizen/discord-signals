@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566454538087571627",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zeldalucky",
+  "ts": "2026-11-01T14:11:05.198000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我对赵哥前边的一些票没啥说的，但现在这么多东西被扒出来，总得解释一下吧",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我对赵哥前边的一些票没啥说的，但现在这么多东西被扒出来，总得解释一下吧"
+}
