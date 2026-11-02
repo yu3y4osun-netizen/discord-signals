@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566653378896076841",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wow233",
+  "ts": "2026-11-02T03:21:12.541000+00:00",
+  "captured_at": "2026-11-02T11:37:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥 晒出几个符合你操作记录的历史订单 和现在的部分持仓",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 晒出几个符合你操作记录的历史订单 和现在的部分持仓"
+}
