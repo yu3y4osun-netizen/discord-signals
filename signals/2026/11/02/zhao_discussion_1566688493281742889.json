@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566688493281742889",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-02T05:40:44.463000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "看得出来赵哥还是在满足大家的要求，希望最终能有一个好结果",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "看得出来赵哥还是在满足大家的要求，希望最终能有一个好结果"
+}
