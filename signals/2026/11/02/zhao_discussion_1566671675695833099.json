@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566671675695833099",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-11-02T04:33:54.838000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": true,
+    "summary": "周五抄底的那些人又赚到了，我是7快才割2倍闪迪",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "周五抄底的那些人又赚到了，我是7快才割2倍闪迪"
+}
