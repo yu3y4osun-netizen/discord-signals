@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566461681704632592",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hellogwh",
+  "ts": "2026-11-01T14:39:28.369000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "抱歉，不看班长的话，只看赵哥的发单消息",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "抱歉，不看班长的话，只看赵哥的发单消息"
+}
