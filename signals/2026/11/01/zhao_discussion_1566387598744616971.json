@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566387598744616971",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haojue",
+  "ts": "2026-11-01T09:45:05.615000+00:00",
+  "captured_at": "2026-11-02T11:23:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在什么情况？"
+  },
+  "raw_text": "现在什么情况？"
+}
