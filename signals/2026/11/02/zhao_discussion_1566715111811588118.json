@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566715111811588118",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-11-02T07:26:30.815000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥有说不敢让大家再买了吧……不是所有人无限子弹",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥有说不敢让大家再买了吧……不是所有人无限子弹"
+}
