@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566477130395685006",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "pan888",
+  "ts": "2026-11-01T15:40:51.624000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "恐慌有时候不动，还得是量化",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "恐慌有时候不动，还得是量化"
+}
