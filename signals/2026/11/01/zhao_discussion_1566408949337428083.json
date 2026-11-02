@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566408949337428083",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-01T11:09:55.993000+00:00",
+  "captured_at": "2026-11-02T11:25:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "🫣我怀疑是有个深度回调，企稳后，猛涨"
+  },
+  "raw_text": "🫣我怀疑是有个深度回调，企稳后，猛涨"
+}
