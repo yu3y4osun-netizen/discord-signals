@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566446851723624470",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-11-01T13:40:32.626000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "后悔啊 哥 我本来也准备减仓的",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "后悔啊 哥 我本来也准备减仓的"
+}
