@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566718797975392267",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deleter666",
+  "ts": "2026-11-02T07:41:09.665000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥我就想问你，盈亏同源，买你信号跟你的人，cifr这天天操作都没发",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥我就想问你，盈亏同源，买你信号跟你的人，cifr这天天操作都没发"
+}
