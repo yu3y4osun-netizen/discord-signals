@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566660523746140163",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-11-02T03:49:36.006000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "群聊加了那么多 赵哥这里确实学了点东西……",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "群聊加了那么多 赵哥这里确实学了点东西……"
+}
