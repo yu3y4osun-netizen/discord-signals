@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566625759311958190",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wuhaha007",
+  "ts": "2026-11-02T01:31:27.519000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，可以给大家解释下么，都直接一点",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，可以给大家解释下么，都直接一点"
+}
