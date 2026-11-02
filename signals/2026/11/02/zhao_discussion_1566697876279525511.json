@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566697876279525511",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-11-02T06:18:01.544000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "群里刚才骂赵哥不是实盘的，太凶了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "群里刚才骂赵哥不是实盘的，太凶了"
+}
