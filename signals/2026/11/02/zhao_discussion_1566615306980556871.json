@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566615306980556871",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T00:49:55.489000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "cbrs没吃到？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cbrs没吃到？"
+}
