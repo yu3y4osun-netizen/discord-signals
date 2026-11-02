@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566702007161593907",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moneywang",
+  "ts": "2026-11-02T06:34:26.423000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥你要是在美国还是早点休息吧 开盘了带大家做做 回点本 最近真的太难了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥你要是在美国还是早点休息吧 开盘了带大家做做 回点本 最近真的太难了"
+}
