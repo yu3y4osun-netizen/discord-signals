@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566638601591193672",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T02:22:29.357000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥我只是想请问一下 为什么不带止损 没有别的意思 我觉得像你这么优秀的交易员应该会有严格的止损吧 麻烦解释一下 我不是串子也不是黑子",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥我只是想请问一下 为什么不带止损 没有别的意思 我觉得像你这么优秀的交易员应该会有严格的止损吧 麻烦解释一下 我不是串子也不是黑子"
+}
