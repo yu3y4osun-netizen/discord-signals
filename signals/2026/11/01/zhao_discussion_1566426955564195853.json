@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566426955564195853",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-01T12:21:29.012000+00:00",
+  "captured_at": "2026-11-02T11:27:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那我这种跟班长已经满融了咋办 兄弟们 下周反弹要割吗"
+  },
+  "raw_text": "那我这种跟班长已经满融了咋办 兄弟们 下周反弹要割吗"
+}
