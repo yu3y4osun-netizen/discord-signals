@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566728444614803508",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-11-02T08:19:29.603000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "有个问题赵哥 之前因为跟您 ，看您仓位都打满了，我也就跟着打满了，那没有钱买SOXL ，那要怎么办呢？卖掉一些亏的去做吗？那不卖的话，那也没法回血，就死扛吗？ ...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "有个问题赵哥 之前因为跟您 ，看您仓位都打满了，我也就跟着打满了，那没有钱买SOXL ，那要怎么办呢？卖掉一些亏的去做吗？那不卖的话，那也没法回血，就死扛吗？ 主要就对这个问题有疑惑， 也没钱不想再充钱了，也不想融资，求解答。"
+}
