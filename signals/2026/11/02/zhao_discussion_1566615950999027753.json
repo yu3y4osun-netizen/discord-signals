@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566615950999027753",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T00:52:29.035000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "叫你35止损iren 你不是喷的更厉害吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "叫你35止损iren 你不是喷的更厉害吗"
+}
