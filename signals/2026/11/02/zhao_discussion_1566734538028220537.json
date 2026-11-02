@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566734538028220537",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "pan888",
+  "ts": "2026-11-02T08:43:42.386000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "还要看别的啊，新高的位置，还有利率会义，谷歌财报暴雷",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "还要看别的啊，新高的位置，还有利率会义，谷歌财报暴雷"
+}
