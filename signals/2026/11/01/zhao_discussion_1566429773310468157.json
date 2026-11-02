@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566429773310468157",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-11-01T12:32:40.815000+00:00",
+  "captured_at": "2026-11-02T11:27:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥替班长回答了吗"
+  },
+  "raw_text": "赵哥替班长回答了吗"
+}
