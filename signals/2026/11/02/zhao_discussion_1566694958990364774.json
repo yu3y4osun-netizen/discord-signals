@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566694958990364774",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gallagherg",
+  "ts": "2026-11-02T06:06:26.008000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "其实我觉得不遮挡金额也没什么太大的问题 我不相信赵哥只有一个账户的 而且我们看到了金额又能怎么样呢。像那个老哥一样",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "其实我觉得不遮挡金额也没什么太大的问题 我不相信赵哥只有一个账户的 而且我们看到了金额又能怎么样呢。像那个老哥一样"
+}
