@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566715567912652862",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "t1d3c6e",
+  "ts": "2026-11-02T07:28:19.558000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "很多没控制￼仓位，一下高位满仓了，是很容易亏的",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "很多没控制￼仓位，一下高位满仓了，是很容易亏的"
+}
