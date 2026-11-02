@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566722176453840949",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deleter666",
+  "ts": "2026-11-02T07:54:35.157000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLL"
+    ],
+    "is_following_zhao": true,
+    "summary": "从tsll到现在对吧，也是跟了一年的人",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "从tsll到现在对吧，也是跟了一年的人"
+}
