@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566636264231403581",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xunlock",
+  "ts": "2026-11-02T02:13:12.087000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ASTS",
+      "CIFR",
+      "IREN",
+      "OKLO"
+    ],
+    "is_following_zhao": true,
+    "summary": "cifr asts iren oklo 不都套一半多了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cifr  asts  iren oklo  不都套一半多了"
+}
