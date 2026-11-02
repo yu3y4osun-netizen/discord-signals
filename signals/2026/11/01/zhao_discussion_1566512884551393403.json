@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566512884551393403",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "maychen5518",
+  "ts": "2026-11-01T18:02:56.079000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "TSLL"
+    ],
+    "is_following_zhao": false,
+    "summary": "不明白，自己的选择，为什么骂别人？我只记得别人的好处。如果不是因为币，他继续带大家赢利，像是tsll 从10元到顶，无失误。大家会去关注他的道德问题？反正我不会",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "不明白，自己的选择，为什么骂别人？我只记得别人的好处。如果不是因为币，他继续带大家赢利，像是tsll 从10元到顶，无失误。大家会去关注他的道德问题？反正我不会"
+}
