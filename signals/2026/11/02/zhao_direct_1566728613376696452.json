@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566728613376696452",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T08:20:09.839000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE",
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "所以有一段时间 把能出的我都在出 lite mu 之类 有些 离差不多砍点资金出来",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "所以有一段时间 把能出的我都在出 lite  mu 之类 有些 离差不多砍点资金出来",
+  "attribution": "direct"
+}
