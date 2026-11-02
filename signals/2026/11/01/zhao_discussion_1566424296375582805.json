@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566424296375582805",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-11-01T12:10:55.012000+00:00",
+  "captured_at": "2026-11-02T11:26:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "班长值得学习 满仓满融就是干"
+  },
+  "raw_text": "班长值得学习 满仓满融就是干"
+}
