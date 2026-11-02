@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566441705543307275",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-01T13:20:05.681000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我问他为什么只能说IV太高",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我问他为什么只能说IV太高"
+}
