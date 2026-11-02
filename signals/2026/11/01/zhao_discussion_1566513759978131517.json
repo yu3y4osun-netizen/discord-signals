@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566513759978131517",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-11-01T18:06:24.797000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "兄弟们别喷我 我不是赵哥小号或者超级脑残粉 我当时在长桥关注赵哥就是因为赵哥发的是实盘 给的是精准点位，你就算差一点买也是有收益的。而且他的资金你去看他的免佣增...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "兄弟们别喷我 我不是赵哥小号或者超级脑残粉 我当时在长桥关注赵哥就是因为赵哥发的是实盘 给的是精准点位，你就算差一点买也是有收益的。而且他的资金你去看他的免佣增长的速率应该能看出来很恐怖的"
+}
