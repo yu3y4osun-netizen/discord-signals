@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566423463437009048",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-11-01T12:07:36.424000+00:00",
+  "captured_at": "2026-11-02T11:25:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "如果班长是赵哥 你应该满仓满融干云"
+  },
+  "raw_text": "如果班长是赵哥 你应该满仓满融干云"
+}
