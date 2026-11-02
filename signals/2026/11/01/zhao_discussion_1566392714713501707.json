@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566392714713501707",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-01T10:05:25.357000+00:00",
+  "captured_at": "2026-11-02T11:24:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "他要再出来说满仓满融不跟不怕你就骂他就行了"
+  },
+  "raw_text": "他要再出来说满仓满融不跟不怕你就骂他就行了"
+}
