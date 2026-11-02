@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566616981069627423",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-11-02T00:56:34.623000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你看戏没问题，但是不要发表一些影响小散户的建议，不是底部割不割肉的问题，而是小股票市值不大的要止损，我们没法判断底部，在普跌行情要不就换成基本面好的M7，帮助他...",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "你看戏没问题，但是不要发表一些影响小散户的建议，不是底部割不割肉的问题，而是小股票市值不大的要止损，我们没法判断底部，在普跌行情要不就换成基本面好的M7，帮助他们"
+}
