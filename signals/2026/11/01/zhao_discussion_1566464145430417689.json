@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566464145430417689",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-01T14:49:15.767000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他3月20号就说满仓满融了 330才到最低点",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "他3月20号就说满仓满融了 330才到最低点"
+}
