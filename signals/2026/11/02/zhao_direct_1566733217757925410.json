@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566733217757925410",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T08:38:27.609000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "然后那时候美光很急 我有个机器就是叫这个名字我就复制了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后那时候美光很急  我有个机器就是叫这个名字我就复制了",
+  "attribution": "direct"
+}
