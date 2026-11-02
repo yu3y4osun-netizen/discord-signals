@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566427428425965661",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-11-01T12:23:21.751000+00:00",
+  "captured_at": "2026-11-02T11:27:25+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "被你们搞的  实在绷不住了🤣🤣🤣    还好现在美国差不多刚天亮  赵哥还在睡觉"
+  },
+  "raw_text": "被你们搞的  实在绷不住了🤣🤣🤣    还好现在美国差不多刚天亮  赵哥还在睡觉"
+}
