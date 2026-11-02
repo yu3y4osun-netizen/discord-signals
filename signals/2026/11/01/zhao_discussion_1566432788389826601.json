@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566432788389826601",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-01T12:44:39.666000+00:00",
+  "captured_at": "2026-11-02T11:28:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你们就只拿一个截图的错误来完全否定赵哥吗？"
+  },
+  "raw_text": "你们就只拿一个截图的错误来完全否定赵哥吗？"
+}
