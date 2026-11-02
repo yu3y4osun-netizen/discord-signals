@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566709591322919014",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-02T07:04:34.628000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一直缩量，直到砸出带血筹码吧",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "一直缩量，直到砸出带血筹码吧"
+}
