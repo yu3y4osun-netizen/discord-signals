@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566430751644197020",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-01T12:36:34.068000+00:00",
+  "captured_at": "2026-11-02T11:28:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "明天再说吧 等赵哥解释"
+  },
+  "raw_text": "明天再说吧 等赵哥解释"
+}
