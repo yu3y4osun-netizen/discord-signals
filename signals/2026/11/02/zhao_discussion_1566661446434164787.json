@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566661446434164787",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-02T03:53:15.992000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 好像可以可以管理员自己主动退款 能麻烦你退一下两个月的月费加一年的年费给我吗@xiaozhaolucky",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 好像可以可以管理员自己主动退款 能麻烦你退一下两个月的月费加一年的年费给我吗@xiaozhaolucky"
+}
