@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566617708223668246",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-11-02T00:59:27.990000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "对啊，所以说不能发表底部割肉这类发言呀，支撑位破了就没有支撑，往下探流动性了，这时候可以换成好的大盘股，哪怕要买回来，大盘股站稳了再买都没问题",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "对啊，所以说不能发表底部割肉这类发言呀，支撑位破了就没有支撑，往下探流动性了，这时候可以换成好的大盘股，哪怕要买回来，大盘股站稳了再买都没问题"
+}
