@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566609299273285825",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-11-02T00:26:03.140000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "而且赵哥只有月费...又没有集资或者资金托管。。。",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "而且赵哥只有月费...又没有集资或者资金托管。。。"
+}
