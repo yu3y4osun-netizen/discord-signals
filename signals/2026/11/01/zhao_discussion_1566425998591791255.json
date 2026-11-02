@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566425998591791255",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-01T12:17:40.852000+00:00",
+  "captured_at": "2026-11-02T11:26:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "班长都不敢拿赵哥当反指 你敢？"
+  },
+  "raw_text": "班长都不敢拿赵哥当反指 你敢？"
+}
