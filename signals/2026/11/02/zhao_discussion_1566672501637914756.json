@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566672501637914756",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-11-02T04:37:11.758000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "好像周五赵哥在跟一个群友讨论 说可以买soxl",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "好像周五赵哥在跟一个群友讨论 说可以买soxl"
+}
