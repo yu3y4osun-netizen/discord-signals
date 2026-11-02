@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566400860341403789",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-11-01T10:37:47.426000+00:00",
+  "captured_at": "2026-11-02T11:25:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "问问群里的同学，有几个人能拿着91的NVDA"
+  },
+  "raw_text": "问问群里的同学，有几个人能拿着91的NVDA"
+}
