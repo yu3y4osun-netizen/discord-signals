@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566605419671986280",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xlucky",
+  "ts": "2026-11-02T00:10:38.171000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥发的图就是这个人的，但是赵哥说是他自己用数据跑出来的。这个人发的时候是那天8.57分，赵哥是8.59分，关键这个人还发了另外一张走势相反的图，赵哥没有发到群...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥发的图就是这个人的，但是赵哥说是他自己用数据跑出来的。这个人发的时候是那天8.57分，赵哥是8.59分，关键这个人还发了另外一张走势相反的图，赵哥没有发到群里来。"
+}
