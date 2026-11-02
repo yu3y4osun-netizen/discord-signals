@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566698172858765353",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-11-02T06:19:12.254000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "我周五自己买大盘去了 心碎",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我周五自己买大盘去了 心碎"
+}
