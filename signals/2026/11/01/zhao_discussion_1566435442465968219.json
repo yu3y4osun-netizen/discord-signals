@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566435442465968219",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-01T12:55:12.447000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我今年也基本不看群，只是每天看看赵哥有没有什么回答有用的知识点",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我今年也基本不看群，只是每天看看赵哥有没有什么回答有用的知识点"
+}
