@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566639250865127477",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-02T02:25:04.156000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 讲道理哈兰德退费了他也没到期 你何必踢他呢 就因为他让你解释吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 讲道理哈兰德退费了他也没到期 你何必踢他呢 就因为他让你解释吗"
+}
