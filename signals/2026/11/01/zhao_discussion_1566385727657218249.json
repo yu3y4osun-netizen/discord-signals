@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566385727657218249",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-01T09:37:39.513000+00:00",
+  "captured_at": "2026-11-02T11:23:18+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我不就喷他不能一直让人满仓满融买杠杆吗"
+  },
+  "raw_text": "我不就喷他不能一直让人满仓满融买杠杆吗"
+}
