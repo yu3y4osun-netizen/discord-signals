@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566427253594660925",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-11-01T12:22:40.068000+00:00",
+  "captured_at": "2026-11-02T11:27:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSTR"
+    ],
+    "is_following_zhao": false,
+    "summary": "网页版搜记录，去年他做过mstr"
+  },
+  "raw_text": "网页版搜记录，去年他做过mstr"
+}
