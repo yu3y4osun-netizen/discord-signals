@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566711876602044440",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T07:13:39.481000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "5-7号是开始讲的时间还不知道那天 讲到1.5周 17号是英伟达财报 准备避开",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "5-7号是开始讲的时间还不知道那天  讲到1.5周 17号是英伟达财报 准备避开",
+  "attribution": "direct"
+}
