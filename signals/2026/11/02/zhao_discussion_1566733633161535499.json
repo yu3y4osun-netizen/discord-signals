@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566733633161535499",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-02T08:40:06.649000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "不是吧，民主党在的时候英伟达起来的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "不是吧，民主党在的时候英伟达起来的"
+}
