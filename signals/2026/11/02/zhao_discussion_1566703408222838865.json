@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566703408222838865",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-11-02T06:40:00.462000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，这个群现在人太多了不好管理，建议是以后关键点位和思路都发公告，群里的消息定期查看然后处理一下大家都有疑问的点就好，众口难调你只需要选择相信你的那部分人就可...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，这个群现在人太多了不好管理，建议是以后关键点位和思路都发公告，群里的消息定期查看然后处理一下大家都有疑问的点就好，众口难调你只需要选择相信你的那部分人就可以了"
+}
