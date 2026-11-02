@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566640244969836586",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xunlock",
+  "ts": "2026-11-02T02:29:01.169000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "再说长桥的手续费这么贵，为什么还要在长桥做。我们这种开不了美国券商的只能忍着。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "再说长桥的手续费这么贵，为什么还要在长桥做。我们这种开不了美国券商的只能忍着。"
+}
