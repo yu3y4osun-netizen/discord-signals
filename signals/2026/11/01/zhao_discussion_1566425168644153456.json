@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566425168644153456",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-11-01T12:14:22.977000+00:00",
+  "captured_at": "2026-11-02T11:26:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "为什么班长可以跟上"
+  },
+  "raw_text": "为什么班长可以跟上"
+}
