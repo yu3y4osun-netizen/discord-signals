@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566490001657827339",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "avocadorable0106",
+  "ts": "2026-11-01T16:32:00.372000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个图什么意思 你们别吓我 赵哥是班长吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "这个图什么意思 你们别吓我 赵哥是班长吗"
+}
