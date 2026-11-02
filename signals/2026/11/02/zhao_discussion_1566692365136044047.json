@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566692365136044047",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "slickbacon",
+  "ts": "2026-11-02T05:56:07.585000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "2500万做T免佣金4万港币？",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "2500万做T免佣金4万港币？"
+}
