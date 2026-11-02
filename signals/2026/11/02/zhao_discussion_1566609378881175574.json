@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566609378881175574",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-02T00:26:22.120000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "因为我主要是买的美光和谷歌🤣",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "因为我主要是买的美光和谷歌🤣"
+}
