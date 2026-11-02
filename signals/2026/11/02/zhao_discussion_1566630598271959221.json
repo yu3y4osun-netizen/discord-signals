@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566630598271959221",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-11-02T01:50:41.217000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有个别人弄的，赵哥发言合集，不用爬楼 我是每天睡醒看",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "有个别人弄的，赵哥发言合集，不用爬楼 我是每天睡醒看"
+}
