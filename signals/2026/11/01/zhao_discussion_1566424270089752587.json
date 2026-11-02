@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566424270089752587",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-11-01T12:10:48.745000+00:00",
+  "captured_at": "2026-11-02T11:26:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "王星啥时候梭哈的soxl？这群消息好难搜历史记录"
+  },
+  "raw_text": "王星啥时候梭哈的soxl？这群消息好难搜历史记录"
+}
