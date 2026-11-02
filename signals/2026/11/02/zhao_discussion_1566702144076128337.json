@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566702144076128337",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-02T06:34:59.066000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥以后能提醒我们止损吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥以后能提醒我们止损吗"
+}
