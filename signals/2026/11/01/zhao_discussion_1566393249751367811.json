@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566393249751367811",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-01T10:07:32.920000+00:00",
+  "captured_at": "2026-11-02T11:24:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没有舔，只是赵哥是为数不多给大家讲逻辑的。至于对不对，都要自己过脑子"
+  },
+  "raw_text": "没有舔，只是赵哥是为数不多给大家讲逻辑的。至于对不对，都要自己过脑子"
+}
