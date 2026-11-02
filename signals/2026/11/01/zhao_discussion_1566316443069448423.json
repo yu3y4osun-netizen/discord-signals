@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566316443069448423",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-11-01T05:02:20.780000+00:00",
+  "captured_at": "2026-11-02T11:22:57+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我是这样想的，11月中之后，赵哥会将主要精力集中在指数合集里，我比较喜欢。"
+  },
+  "raw_text": "我是这样想的，11月中之后，赵哥会将主要精力集中在指数合集里，我比较喜欢。"
+}
