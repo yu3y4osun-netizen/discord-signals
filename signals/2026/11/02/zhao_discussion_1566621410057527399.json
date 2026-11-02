@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566621410057527399",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-11-02T01:14:10.576000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "我拿英伟达5090卡搭建的量化",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我拿英伟达5090卡搭建的量化"
+}
