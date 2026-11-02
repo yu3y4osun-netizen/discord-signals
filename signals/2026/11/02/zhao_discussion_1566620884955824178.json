@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566620884955824178",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-11-02T01:12:05.382000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "我发了spx十一月份的走势轮廓图 希望赵🈹不要偷我图 或者可以把图反一下发群里装逼",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我发了spx十一月份的走势轮廓图 希望赵🈹不要偷我图 或者可以把图反一下发群里装逼"
+}
