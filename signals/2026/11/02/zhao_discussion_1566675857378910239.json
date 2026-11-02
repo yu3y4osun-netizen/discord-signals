@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566675857378910239",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-11-02T04:50:31.829000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我不是赵哥我不能说话？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我不是赵哥我不能说话？"
+}
