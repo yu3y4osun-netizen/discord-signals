@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566476723631952104",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-11-01T15:39:14.644000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我记得他本人 当时说过了 10.6左右会是高点 然后开始减仓位 但后来又没这么做",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "我记得他本人 当时说过了 10.6左右会是高点 然后开始减仓位 但后来又没这么做"
+}
