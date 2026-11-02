@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566388972215861301",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-01T09:50:33.076000+00:00",
+  "captured_at": "2026-11-02T11:23:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他倒啥歉啊 天天嘲讽群友 还搞什么群友恐慌指数恶心人"
+  },
+  "raw_text": "他倒啥歉啊 天天嘲讽群友 还搞什么群友恐慌指数恶心人"
+}
