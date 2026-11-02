@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566732942590349425",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T08:37:22.004000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那个图上问几成我记得是你问的那天人很疲惫了 我是看他问什么哥什么的我就回答了7成",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "那个图上问几成我记得是你问的那天人很疲惫了 我是看他问什么哥什么的我就回答了7成",
+  "attribution": "direct"
+}
