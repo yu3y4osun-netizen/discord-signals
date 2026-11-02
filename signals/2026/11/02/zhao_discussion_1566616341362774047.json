@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566616341362774047",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-11-02T00:54:02.105000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那就行了呀，底部恐慌性割肉，那如果宏观不好，现在普跌就应该换股票，而不是去继续持有小股票",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那就行了呀，底部恐慌性割肉，那如果宏观不好，现在普跌就应该换股票，而不是去继续持有小股票"
+}
