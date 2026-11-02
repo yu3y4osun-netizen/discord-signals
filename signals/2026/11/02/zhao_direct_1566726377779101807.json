@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566726377779101807",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T08:11:16.831000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "很多次了 5-6次 没怎么执行",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "很多次了  5-6次 没怎么执行",
+  "attribution": "direct"
+}
