@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566454078681125038",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shiminmin11",
+  "ts": "2026-11-01T14:09:15.667000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "为什么又开始跟单了？ 这不是不长记性吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "为什么又开始跟单了？ 这不是不长记性吗"
+}
