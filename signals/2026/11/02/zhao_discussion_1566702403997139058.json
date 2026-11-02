@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566702403997139058",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "trtrggg",
+  "ts": "2026-11-02T06:36:01.036000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，去年你明确说过离开长桥交易的，作为美国人，你其他的交易软件实盘也发一下吧，找个金额最少的",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，去年你明确说过离开长桥交易的，作为美国人，你其他的交易软件实盘也发一下吧，找个金额最少的"
+}
