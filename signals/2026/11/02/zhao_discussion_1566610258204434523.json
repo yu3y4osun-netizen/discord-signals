@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566610258204434523",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T00:29:51.767000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "感觉大家现在都太激进了 虽然都亏钱了 我自己也亏了很多 如果是假的 我们就止损 别再扩大止损就好了 认了就行",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "感觉大家现在都太激进了 虽然都亏钱了 我自己也亏了很多 如果是假的 我们就止损 别再扩大止损就好了 认了就行"
+}
