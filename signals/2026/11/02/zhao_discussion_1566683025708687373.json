@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566683025708687373",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-11-02T05:19:00.892000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果你觉得两边群都转，我们这里赵哥不发消息不就行了吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "如果你觉得两边群都转，我们这里赵哥不发消息不就行了吗"
+}
