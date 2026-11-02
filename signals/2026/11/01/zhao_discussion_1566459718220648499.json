@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566459718220648499",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-01T14:31:40.238000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他和啊宝是唯二带人天天梭哈的",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "他和啊宝是唯二带人天天梭哈的"
+}
