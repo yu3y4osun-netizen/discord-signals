@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566440822495379489",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luka996",
+  "ts": "2026-11-01T13:16:35.146000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你们得考虑下自己的资金比例，可能赵哥炒股只占有财富的 10% ？没了还能再充值。很多博主的优势就是无限马丁。我们个人还是要注意下。",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "你们得考虑下自己的资金比例，可能赵哥炒股只占有财富的 10% ？没了还能再充值。很多博主的优势就是无限马丁。我们个人还是要注意下。"
+}
