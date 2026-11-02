@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566447751208636517",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-01T13:44:07.080000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哈兰德不说我还不知道，原来当事人的感觉和我问AI为什么针对你的原因差不多",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "哈兰德不说我还不知道，原来当事人的感觉和我问AI为什么针对你的原因差不多"
+}
