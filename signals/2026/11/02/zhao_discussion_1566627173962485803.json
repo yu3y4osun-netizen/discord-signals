@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566627173962485803",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-02T01:37:04.798000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "哈兰德买了美光",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "哈兰德买了美光"
+}
