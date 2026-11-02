@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566615084275474483",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-11-02T00:49:02.392000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "INTC",
+      "NVDA",
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "过了明天 账户只留qqq谷歌英伟达，和一点Intc",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "过了明天 账户只留qqq谷歌英伟达，和一点Intc"
+}
