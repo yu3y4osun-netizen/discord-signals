@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566619253812109473",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-02T01:05:36.487000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "上周soxl70-78买的 不涨的挺好",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "上周soxl70-78买的 不涨的挺好"
+}
