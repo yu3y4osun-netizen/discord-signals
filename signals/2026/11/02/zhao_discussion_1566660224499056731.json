@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566660224499056731",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hao88",
+  "ts": "2026-11-02T03:48:24.660000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "费城半导体上周刚好打在那个位置，会反弹点的，不会一下子掉下去的",
+    "filter_reason": "emotion",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "费城半导体上周刚好打在那个位置，会反弹点的，不会一下子掉下去的"
+}
