@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566699804300419103",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moneywang",
+  "ts": "2026-11-02T06:25:41.220000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "确实发不发实盘 都是赵哥个人的权利 不是义务 也没法律规定一定要晒实盘 赵哥愿意出来澄清 也算给愿意跟的人一个交代",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "确实发不发实盘 都是赵哥个人的权利 不是义务 也没法律规定一定要晒实盘 赵哥愿意出来澄清 也算给愿意跟的人一个交代"
+}
