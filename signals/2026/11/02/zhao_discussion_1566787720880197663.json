@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566787720880197663",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-02T12:15:02.166000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，麦威尔收购lite，这是什么玩的。1700亿市值吃800亿市值，哪里来的钱",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，麦威尔收购lite，这是什么玩的。1700亿市值吃800亿市值，哪里来的钱"
+}
