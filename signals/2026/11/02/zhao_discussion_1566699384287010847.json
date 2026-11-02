@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566699384287010847",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-02T06:24:01.081000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "这群一开始建的时候，赵哥已经明说他只是挑一部分觉得可以的持仓分享给你们了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "这群一开始建的时候，赵哥已经明说他只是挑一部分觉得可以的持仓分享给你们了"
+}
