@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566674808492531753",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-02T04:46:21.755000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 你看看我上面说的 很简单",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 你看看我上面说的 很简单"
+}
