@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566721185532878859",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T07:50:38.903000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "当天里面芯片跌了 韩国买点存 买点光 就又会起来 就是博不会都利空",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "当天里面芯片跌了  韩国买点存 买点光 就又会起来 就是博不会都利空",
+  "attribution": "direct"
+}
