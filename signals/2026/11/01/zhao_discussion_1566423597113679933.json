@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566423597113679933",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-11-01T12:08:08.295000+00:00",
+  "captured_at": "2026-11-02T11:25:55+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "腰斩不要怕 没满仓的直接满"
+  },
+  "raw_text": "腰斩不要怕 没满仓的直接满"
+}
