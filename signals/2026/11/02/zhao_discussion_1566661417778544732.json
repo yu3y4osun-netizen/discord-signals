@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566661417778544732",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "tommytian0827",
+  "ts": "2026-11-02T03:53:09.160000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "从长桥到x再到这里，从来不怀疑赵哥是假的，每笔投资都可能会导致亏损，感觉赵哥不是每次都能预测准确，那是不可能的事，但概率还是比普通人自己看要好很多",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "从长桥到x再到这里，从来不怀疑赵哥是假的，每笔投资都可能会导致亏损，感觉赵哥不是每次都能预测准确，那是不可能的事，但概率还是比普通人自己看要好很多"
+}
