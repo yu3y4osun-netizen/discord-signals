@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566428777016332319",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-11-01T12:28:43.280000+00:00",
+  "captured_at": "2026-11-02T11:27:41+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哥能不能查一下 赵哥就是班长吗"
+  },
+  "raw_text": "哥能不能查一下 赵哥就是班长吗"
+}
