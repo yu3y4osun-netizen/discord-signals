@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566668545138495569",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T04:21:28.455000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "嗯 还是把去年的拿到现在的都跌很低的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "嗯 还是把去年的拿到现在的都跌很低的",
+  "attribution": "direct"
+}
