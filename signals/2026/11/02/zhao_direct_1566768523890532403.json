@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566768523890532403",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T10:58:45.247000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "不一样 cbrs是次新股 就是原始股 都被抛售了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "不一样  cbrs是次新股  就是原始股 都被抛售了",
+  "attribution": "direct"
+}
