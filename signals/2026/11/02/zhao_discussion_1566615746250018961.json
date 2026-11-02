@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566615746250018961",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T00:51:40.219000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "谁也没说一定要止损 说的都建议该止损就止损",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "谁也没说一定要止损 说的都建议该止损就止损"
+}
