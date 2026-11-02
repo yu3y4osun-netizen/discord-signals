@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566608896984875103",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-02T00:24:27.227000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那我下次也来带你们做末日，复制粘贴不就完了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那我下次也来带你们做末日，复制粘贴不就完了"
+}
