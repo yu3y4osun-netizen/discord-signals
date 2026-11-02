@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566424392164966462",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-01T12:11:17.850000+00:00",
+  "captured_at": "2026-11-02T11:26:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "要么soxl 要么soxs 两边赚"
+  },
+  "raw_text": "要么soxl 要么soxs 两边赚"
+}
