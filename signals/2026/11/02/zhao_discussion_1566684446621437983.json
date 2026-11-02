@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566684446621437983",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "slickbacon",
+  "ts": "2026-11-02T05:24:39.664000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "关键没有仓位，让人满仓",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "关键没有仓位，让人满仓"
+}
