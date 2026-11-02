@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566653919487336469",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-11-02T03:23:21.428000+00:00",
+  "captured_at": "2026-11-02T11:37:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "真正的高手不止损",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "真正的高手不止损"
+}
