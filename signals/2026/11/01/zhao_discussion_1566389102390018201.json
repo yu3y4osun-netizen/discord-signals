@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566389102390018201",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-01T09:51:04.112000+00:00",
+  "captured_at": "2026-11-02T11:23:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他连儿子都能看到直线了"
+  },
+  "raw_text": "他连儿子都能看到直线了"
+}
