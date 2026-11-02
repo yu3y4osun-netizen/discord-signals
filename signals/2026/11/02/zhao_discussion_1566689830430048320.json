@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566689830430048320",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "whisper123",
+  "ts": "2026-11-02T05:46:03.264000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "他们想要看赵哥买了多少",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "他们想要看赵哥买了多少"
+}
