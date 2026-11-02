@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566748890193985569",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T09:40:44.209000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是第二轮这次 我其实想拿一段的和比第一轮更好点 心态差了 第三轮就比较急回补",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是第二轮这次 我其实想拿一段的和比第一轮更好点 心态差了   第三轮就比较急回补",
+  "attribution": "direct"
+}
