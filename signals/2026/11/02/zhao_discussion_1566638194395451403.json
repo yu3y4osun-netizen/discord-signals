@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566638194395451403",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-11-02T02:20:52.274000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "那赵哥最近的行情您为什么不带大伙做下空单，以及为什么不买70的soxl",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "那赵哥最近的行情您为什么不带大伙做下空单，以及为什么不买70的soxl"
+}
