@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566653664183984151",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fastspeed",
+  "ts": "2026-11-02T03:22:20.559000+00:00",
+  "captured_at": "2026-11-02T11:37:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我想知道roit，诺基亚，wqtm这些被套半年了，怎么处理",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我想知道roit，诺基亚，wqtm这些被套半年了，怎么处理"
+}
