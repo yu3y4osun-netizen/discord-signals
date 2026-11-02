@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566636087240294450",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-02T02:12:29.889000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "昨天有群友发了这个 有点没信心了 赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "昨天有群友发了这个 有点没信心了 赵哥"
+}
