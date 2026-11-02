@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566427485153792172",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-01T12:23:35.276000+00:00",
+  "captured_at": "2026-11-02T11:27:27+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "看班长赚太多了 我跟赵哥学不会 想学学班长的"
+  },
+  "raw_text": "看班长赚太多了 我跟赵哥学不会 想学学班长的"
+}
