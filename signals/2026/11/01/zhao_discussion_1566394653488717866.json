@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566394653488717866",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-01T10:13:07.597000+00:00",
+  "captured_at": "2026-11-02T11:24:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "🫠我也没办法，这段时间做什么都提不起兴趣，9倍做多家务"
+  },
+  "raw_text": "🫠我也没办法，这段时间做什么都提不起兴趣，9倍做多家务"
+}
