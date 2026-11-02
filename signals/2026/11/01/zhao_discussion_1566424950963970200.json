@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566424950963970200",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-01T12:13:31.078000+00:00",
+  "captured_at": "2026-11-02T11:26:34+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "梭哈是一种智慧 可惜我学不会 只学会了最笨的空仓 这样涨跌都和我无关了 等行情确定了再买一样的😁"
+  },
+  "raw_text": "梭哈是一种智慧 可惜我学不会 只学会了最笨的空仓 这样涨跌都和我无关了 等行情确定了再买一样的😁"
+}
