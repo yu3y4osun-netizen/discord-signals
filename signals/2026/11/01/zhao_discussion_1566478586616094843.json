@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566478586616094843",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ctttest",
+  "ts": "2026-11-01T15:46:38.814000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥不是澳门人吗？还被证监会禁止入境？我一听就笑了。",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥不是澳门人吗？还被证监会禁止入境？我一听就笑了。"
+}
