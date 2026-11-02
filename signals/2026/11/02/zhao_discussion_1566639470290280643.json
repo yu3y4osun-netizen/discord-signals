@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566639470290280643",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xunlock",
+  "ts": "2026-11-02T02:25:56.471000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，你这么超短线T来T去的到时候报税怎么报啊？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，你这么超短线T来T去的到时候报税怎么报啊？"
+}
