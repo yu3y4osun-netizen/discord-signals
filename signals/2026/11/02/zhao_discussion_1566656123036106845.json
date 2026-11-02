@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566656123036106845",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "spencerft",
+  "ts": "2026-11-02T03:32:06.795000+00:00",
+  "captured_at": "2026-11-02T11:37:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "你最多 QQQ的空单炸了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "你最多 QQQ的空单炸了"
+}
