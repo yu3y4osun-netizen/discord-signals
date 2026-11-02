@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566622230291419208",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zhanglucky",
+  "ts": "2026-11-02T01:17:26.135000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "从退休，到赚哥，以为到赵哥这就要好起来了，哎……就这么点背嘛",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "从退休，到赚哥，以为到赵哥这就要好起来了，哎……就这么点背嘛"
+}
