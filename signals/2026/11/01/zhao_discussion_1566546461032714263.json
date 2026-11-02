@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566546461032714263",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-11-01T20:16:21.336000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "天塌了吗，我第一天就进群了，这次十月也亏了很多，主要是仓位太高了，确实是以为会有中选行情，我还是不太愿意相信班长和赵哥是同一个人",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "天塌了吗，我第一天就进群了，这次十月也亏了很多，主要是仓位太高了，确实是以为会有中选行情，我还是不太愿意相信班长和赵哥是同一个人"
+}
