@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566723752685735997",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T08:00:50.960000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是 知道了走失败了 其实我也发过了 要减 就是我很多仓位要去抗的没法出",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是 知道了走失败了 其实我也发过了 要减 就是我很多仓位要去抗的没法出",
+  "attribution": "direct"
+}
