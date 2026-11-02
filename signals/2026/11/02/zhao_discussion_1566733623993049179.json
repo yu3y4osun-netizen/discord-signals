@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566733623993049179",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "pan888",
+  "ts": "2026-11-02T08:40:04.463000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "咋搞成加仓，赵哥，我想不通",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "咋搞成加仓，赵哥，我想不通"
+}
