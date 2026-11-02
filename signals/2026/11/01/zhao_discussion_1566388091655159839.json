@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566388091655159839",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-11-01T09:47:03.134000+00:00",
+  "captured_at": "2026-11-02T11:23:34+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "AMD和intel一样，个人业务一坨💩"
+  },
+  "raw_text": "AMD和intel一样，个人业务一坨💩"
+}
