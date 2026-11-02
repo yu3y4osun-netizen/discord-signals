@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566642495444615280",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lateonrush77",
+  "ts": "2026-11-02T02:37:57.724000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 如果您有空看下我私信可以吗 我这边也申请退款了 麻烦通过一下呢 我打算不玩美股了 被美股伤心了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 如果您有空看下我私信可以吗 我这边也申请退款了 麻烦通过一下呢 我打算不玩美股了 被美股伤心了"
+}
