@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566476776979300565",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "pan888",
+  "ts": "2026-11-01T15:39:27.363000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "10月7号大A开盘前夕，必要跑干净的，你知我知大家都知，赵哥不会不知？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "10月7号大A开盘前夕，必要跑干净的，你知我知大家都知，赵哥不会不知？"
+}
