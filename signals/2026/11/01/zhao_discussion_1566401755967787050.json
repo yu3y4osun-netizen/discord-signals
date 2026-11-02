@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566401755967787050",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-11-01T10:41:20.960000+00:00",
+  "captured_at": "2026-11-02T11:25:17+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "所以不要问赵哥为什么不止损，因为人家🈶足够的子弹补仓"
+  },
+  "raw_text": "所以不要问赵哥为什么不止损，因为人家🈶足够的子弹补仓"
+}
