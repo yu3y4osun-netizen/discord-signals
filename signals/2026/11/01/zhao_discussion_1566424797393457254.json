@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566424797393457254",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shiminmin11",
+  "ts": "2026-11-01T12:12:54.464000+00:00",
+  "captured_at": "2026-11-02T11:26:31+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我的认知是赵哥是有东西的 但是人 是交易员 就会犯错 但是为了群 为了人设 就得虚空造牌 创造了wangxing这样的角..."
+  },
+  "raw_text": "我的认知是赵哥是有东西的 但是人 是交易员 就会犯错 但是为了群 为了人设 就得虚空造牌 创造了wangxing这样的角色"
+}
