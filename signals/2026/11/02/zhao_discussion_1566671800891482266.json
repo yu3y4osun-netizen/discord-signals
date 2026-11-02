@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566671800891482266",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T04:34:24.687000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 如果你想发实盘 就直接截图发一下 金额可以打码 是你自己的隐私",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 如果你想发实盘 就直接截图发一下 金额可以打码 是你自己的隐私"
+}
