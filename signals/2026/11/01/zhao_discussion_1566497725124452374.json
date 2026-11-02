@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566497725124452374",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-01T17:02:41.790000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "我唯一做的对的就是坚持买了MU和谷歌到10月",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我唯一做的对的就是坚持买了MU和谷歌到10月"
+}
