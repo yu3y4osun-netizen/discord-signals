@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566677852974485576",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-02T04:58:27.616000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "主要就是赵哥发一下实时录屏交割单持仓呗 这么简单",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "主要就是赵哥发一下实时录屏交割单持仓呗 这么简单"
+}
