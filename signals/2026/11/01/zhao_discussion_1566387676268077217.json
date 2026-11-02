@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566387676268077217",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haojue",
+  "ts": "2026-11-01T09:45:24.098000+00:00",
+  "captured_at": "2026-11-02T11:23:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "下周是不是有点恐慌"
+  },
+  "raw_text": "下周是不是有点恐慌"
+}
