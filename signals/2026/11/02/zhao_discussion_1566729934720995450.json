@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566729934720995450",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "corrineq",
+  "ts": "2026-11-02T08:25:24.872000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "你们都跟着赵哥赚过钱的呢，我都是新进群的，股市亏钱多正常，最后算总账",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "你们都跟着赵哥赚过钱的呢，我都是新进群的，股市亏钱多正常，最后算总账"
+}
