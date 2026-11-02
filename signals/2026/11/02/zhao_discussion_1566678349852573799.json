@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566678349852573799",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-11-02T05:00:26.081000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "😇以后跟单确实得谨慎不少",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "😇以后跟单确实得谨慎不少"
+}
