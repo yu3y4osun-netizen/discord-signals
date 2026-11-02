@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566764179359137813",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T10:41:29.430000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "因为有些头像很特殊 才周五肯定有记忆啊",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "因为有些头像很特殊 才周五肯定有记忆啊",
+  "attribution": "direct"
+}
