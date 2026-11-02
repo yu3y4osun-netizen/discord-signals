@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566653432952004772",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T03:21:25.429000+00:00",
+  "captured_at": "2026-11-02T11:37:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥 我们现在留下的人是还愿意相信你的 也没串子 该退的也都退的差不多了 如果有止损或者你觉得应该止损了的话 可以不可以跟我们说一下",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 我们现在留下的人是还愿意相信你的 也没串子 该退的也都退的差不多了 如果有止损或者你觉得应该止损了的话 可以不可以跟我们说一下"
+}
