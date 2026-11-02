@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566396513947615253",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meiyoumeiyou",
+  "ts": "2026-11-01T10:20:31.165000+00:00",
+  "captured_at": "2026-11-02T11:24:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "本来我是跟着赵哥，结果这个班长天天喊梭哈。"
+  },
+  "raw_text": "本来我是跟着赵哥，结果这个班长天天喊梭哈。"
+}
