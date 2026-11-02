@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566586048249729186",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xlucky",
+  "ts": "2026-11-01T22:53:39.664000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "看今天赵哥会不会把长桥所有的信息清空，把他x上的所以信息清空，把这个群解散，如果都做了，那么大家都懂得……我跟相信赵哥，从长桥跟到x从x再跟到这里，如果赵哥没有...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "看今天赵哥会不会把长桥所有的信息清空，把他x上的所以信息清空，把这个群解散，如果都做了，那么大家都懂得……我跟相信赵哥，从长桥跟到x从x再跟到这里，如果赵哥没有骗我们那么请赵哥出来解释一下，所谓的轮廓图是哪里来的，那个方程式的图是不是网上随便截的，还有那个流体力学的方程式怎么应用在量化里面的。@xiaozhaoluck"
+}
