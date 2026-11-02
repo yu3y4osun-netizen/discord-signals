@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566702683459559547",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-02T06:37:07.665000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我的意思是，其实不方便直说叫你直接割肉止损￼￼",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我的意思是，其实不方便直说叫你直接割肉止损￼￼"
+}
