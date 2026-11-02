@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566698192756670505",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "daluyazi",
+  "ts": "2026-11-02T06:19:16.998000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "以后赵哥说英文吧，中文交代可能有问题",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "以后赵哥说英文吧，中文交代可能有问题"
+}
