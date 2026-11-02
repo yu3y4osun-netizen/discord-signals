@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566562202779910365",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-11-01T21:18:54.461000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "还是想为赵哥解释一句，虽然我自己也亏了很多，但是赵哥从来没叫人梭哈什么的。这个假设的前提就是你们认为wangxing是所谓赵哥小号",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "还是想为赵哥解释一句，虽然我自己也亏了很多，但是赵哥从来没叫人梭哈什么的。这个假设的前提就是你们认为wangxing是所谓赵哥小号"
+}
