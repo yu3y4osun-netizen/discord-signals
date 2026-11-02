@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566703168165908526",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moneywang",
+  "ts": "2026-11-02T06:39:03.228000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "周五75买了点soxl也是慌的很",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "周五75买了点soxl也是慌的很"
+}
