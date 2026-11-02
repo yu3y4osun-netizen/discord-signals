@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566439219646300262",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-01T13:10:12.997000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "有些人真的需要理智一些 从去年到现在整体表现客观事实看，赵哥的单成功概率还是很高的，只是因为之前太信任，导致在他失误后也没选择止损，导致造成亏损，其实本来每个人...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "有些人真的需要理智一些 从去年到现在整体表现客观事实看，赵哥的单成功概率还是很高的，只是因为之前太信任，导致在他失误后也没选择止损，导致造成亏损，其实本来每个人的风险承受能力不一样的 我是不能承受连最后一点利润都没有了还硬扛的 所以止损了 目前看这个决定很正确"
+}
