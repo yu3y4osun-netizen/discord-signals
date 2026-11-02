@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566383290758205504",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-01T09:27:58.511000+00:00",
+  "captured_at": "2026-11-02T11:23:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "我之前发我的谷歌 MU期权单子的时候他不还是像个懦夫一样在那一句话不敢说"
+  },
+  "raw_text": "我之前发我的谷歌 MU期权单子的时候他不还是像个懦夫一样在那一句话不敢说"
+}
