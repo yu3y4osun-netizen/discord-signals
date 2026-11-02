@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566515395978854411",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-11-01T18:12:54.850000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我从两三月份美伊打仗开始跟。我相信赵哥看错了中选行情。人又不是神？不能犯错？ 我不相信你们那些揣测没什么意思",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我从两三月份美伊打仗开始跟。我相信赵哥看错了中选行情。人又不是神？不能犯错？  我不相信你们那些揣测没什么意思"
+}
