@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566622032047906889",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-02T01:16:38.870000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天夜盘反弹，感觉高点出，等盘中抛压下跌时，买回来",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "今天夜盘反弹，感觉高点出，等盘中抛压下跌时，买回来"
+}
