@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566400192419209379",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-01T10:35:08.181000+00:00",
+  "captured_at": "2026-11-02T11:25:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "以前微软，meta被人骂死，后来不是慢慢起来了"
+  },
+  "raw_text": "以前微软，meta被人骂死，后来不是慢慢起来了"
+}
