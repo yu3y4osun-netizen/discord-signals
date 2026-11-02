@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566703263485534349",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-11-02T06:39:25.954000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是反向思路啊，玩意川普开始拉票，剧情反转一下，突然反弹，群里肯定有人说为什么低点割肉",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "就是反向思路啊，玩意川普开始拉票，剧情反转一下，突然反弹，群里肯定有人说为什么低点割肉"
+}
