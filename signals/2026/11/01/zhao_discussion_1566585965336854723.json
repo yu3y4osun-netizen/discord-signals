@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566585965336854723",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wyyy1888666",
+  "ts": "2026-11-01T22:53:19.896000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "完全可以跟大家说止损就好了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "完全可以跟大家说止损就好了"
+}
