@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566611416746688603",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-02T00:34:27.985000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "你跟赵哥多久了 我问一下？你自己不会对比wangxing和赵哥这两个账号的说话语气吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "你跟赵哥多久了 我问一下？你自己不会对比wangxing和赵哥这两个账号的说话语气吗"
+}
