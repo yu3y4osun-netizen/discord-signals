@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566692933166694611",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-02T05:58:23.014000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥目前重点就是直接明确证明是实盘交易不就好了 金额啥的如果敏感直接隐藏就好了 而不是去录屏有争议的部分",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥目前重点就是直接明确证明是实盘交易不就好了 金额啥的如果敏感直接隐藏就好了 而不是去录屏有争议的部分"
+}
