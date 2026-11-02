@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566701480876974152",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-02T06:32:20.947000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "我本来想着最后结局应该是冲高一波，结果spy8000碰都没碰到",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我本来想着最后结局应该是冲高一波，结果spy8000碰都没碰到"
+}
