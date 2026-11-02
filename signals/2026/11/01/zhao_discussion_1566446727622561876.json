@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566446727622561876",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "pan888",
+  "ts": "2026-11-01T13:40:03.038000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "在31700的位置不减仓，并且仓位搞那么重，我看不懂，我当时快减完了，然后看赵哥还不断的加，心里3个问号？😁",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "在31700的位置不减仓，并且仓位搞那么重，我看不懂，我当时快减完了，然后看赵哥还不断的加，心里3个问号？😁"
+}
