@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566459205949456425",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hellogwh",
+  "ts": "2026-11-01T14:29:38.103000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是，价值哥都是分厂分散风险的，不然那天谷歌大跌不是一下子清零了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "就是，价值哥都是分厂分散风险的，不然那天谷歌大跌不是一下子清零了"
+}
