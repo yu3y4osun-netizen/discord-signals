@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566624005417345098",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-11-02T01:24:29.358000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥，别管他们，同意下我的退费申请，还有30美金，看看可不可以不亏了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，别管他们，同意下我的退费申请，还有30美金，看看可不可以不亏了"
+}
