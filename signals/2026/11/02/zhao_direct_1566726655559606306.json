@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566726655559606306",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T08:12:23.059000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有一天 9点半起来 他8点半开始跌了 算了在 休息下 4点夜盘快结束起来 在看下低开低走了 又算了 在接了个盘中单边",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "有一天  9点半起来 他8点半开始跌了 算了在 休息下 4点夜盘快结束起来  在看下低开低走了 又算了 在接了个盘中单边",
+  "attribution": "direct"
+}
