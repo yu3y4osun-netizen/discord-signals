@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566617640766808137",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-02T00:59:11.907000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有小票大仓位如果有反弹尽早走了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "有小票大仓位如果有反弹尽早走了"
+}
