@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566614681416769567",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-11-02T00:47:26.343000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哥，小股票没有底部，破位了就破位了，不是M7",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "哥，小股票没有底部，破位了就破位了，不是M7"
+}
