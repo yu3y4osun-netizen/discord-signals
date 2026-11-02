@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566440159438708881",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-01T13:13:57.061000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那只能祝福你了 至少从目前走势看 我及时止损还是很正确的 现在就算我接回来 也离我止损有起码40%的涨幅距离",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那只能祝福你了 至少从目前走势看 我及时止损还是很正确的 现在就算我接回来 也离我止损有起码40%的涨幅距离"
+}
