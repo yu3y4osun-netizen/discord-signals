@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566514386770595861",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-11-01T18:08:54.236000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "你们退会员不完了。一直在这里bb。 我相信赵哥有失误。你们这种只能赚不能亏。谁愿意带你们",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "你们退会员不完了。一直在这里bb。 我相信赵哥有失误。你们这种只能赚不能亏。谁愿意带你们"
+}
