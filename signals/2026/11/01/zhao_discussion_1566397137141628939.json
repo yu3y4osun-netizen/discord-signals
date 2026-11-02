@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566397137141628939",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-11-01T10:22:59.746000+00:00",
+  "captured_at": "2026-11-02T11:24:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "cbrs利润有那么多吗"
+  },
+  "raw_text": "cbrs利润有那么多吗"
+}
