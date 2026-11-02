@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566659704778657795",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "spencerft",
+  "ts": "2026-11-02T03:46:20.749000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QLD",
+      "SSO"
+    ],
+    "is_following_zhao": false,
+    "summary": "如果长拿 QLD SSO这种好一点 两倍的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "如果长拿 QLD SSO这种好一点 两倍的"
+}
