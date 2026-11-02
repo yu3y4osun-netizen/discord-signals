@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566430654915285013",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meiyoumeiyou",
+  "ts": "2026-11-01T12:36:11.006000+00:00",
+  "captured_at": "2026-11-02T11:28:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥现在在睡觉，周末他要睡觉呢"
+  },
+  "raw_text": "赵哥现在在睡觉，周末他要睡觉呢"
+}
