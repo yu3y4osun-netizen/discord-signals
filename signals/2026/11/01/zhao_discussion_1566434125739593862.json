@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566434125739593862",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-11-01T12:49:58.515000+00:00",
+  "captured_at": "2026-11-02T11:29:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥重仓的云"
+  },
+  "raw_text": "赵哥重仓的云"
+}
