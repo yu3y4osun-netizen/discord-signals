@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566700930248736879",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-11-02T06:30:09.667000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "OKLO",
+      "TSLA"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥那天买了oklo hims 还有2个特斯拉双倍",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥那天买了oklo hims 还有2个特斯拉双倍"
+}
