@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566697872160854038",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-11-02T06:18:00.562000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥我们买了云的还有希望可以回本吗……",
+    "filter_reason": "zhao_discuss",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "赵哥我们买了云的还有希望可以回本吗……"
+}
