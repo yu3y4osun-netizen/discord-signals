@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566562458406224043",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-11-01T21:19:55.407000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "群刚建就进来的朋友应该有印象，赵哥一开始不发仓位，后来被传的太多了，一直有人梭哈，才开始发仓位",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "群刚建就进来的朋友应该有印象，赵哥一开始不发仓位，后来被传的太多了，一直有人梭哈，才开始发仓位"
+}
