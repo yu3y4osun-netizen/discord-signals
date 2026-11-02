@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566315242244415601",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xlucky",
+  "ts": "2026-11-01T04:57:34.481000+00:00",
+  "captured_at": "2026-11-02T11:22:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "满仓满融梭哈soxl  根本不带慌的"
+  },
+  "raw_text": "满仓满融梭哈soxl  根本不带慌的"
+}
