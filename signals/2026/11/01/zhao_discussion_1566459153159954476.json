@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566459153159954476",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jeanalist",
+  "ts": "2026-11-01T14:29:25.517000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "跟赵哥的仓位20%左右，这轮回撤主要是nbis麻了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "跟赵哥的仓位20%左右，这轮回撤主要是nbis麻了"
+}
