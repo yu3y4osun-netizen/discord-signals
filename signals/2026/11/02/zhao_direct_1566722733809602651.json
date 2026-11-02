@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566722733809602651",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T07:56:48.041000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "然后就是每天也在看他盘口 还每天加所以判断没到底要等财报 转债那天10.35还是每天都在看的 一直到7 他自己就是跌去年价格了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后就是每天也在看他盘口 还每天加所以判断没到底要等财报  转债那天10.35还是每天都在看的  一直到7  他自己就是跌去年价格了",
+  "attribution": "direct"
+}
