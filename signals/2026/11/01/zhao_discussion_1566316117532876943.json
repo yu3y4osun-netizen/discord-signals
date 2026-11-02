@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566316117532876943",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-11-01T05:01:03.166000+00:00",
+  "captured_at": "2026-11-02T11:22:55+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但自己还是要看情况止损，我是上上周四那天清了一波"
+  },
+  "raw_text": "但自己还是要看情况止损，我是上上周四那天清了一波"
+}
