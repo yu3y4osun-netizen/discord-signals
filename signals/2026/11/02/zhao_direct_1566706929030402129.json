@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566706929030402129",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T06:53:59.888000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一开始人数少 没有转发的 然后行情涨就会有很多个转发的 是个几部分的 有 转发后再修改点内容的 也有盯着你 群体性在攻击的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "一开始人数少  没有转发的  然后行情涨就会有很多个转发的 是个几部分的 有 转发后再修改点内容的 也有盯着你 群体性在攻击的",
+  "attribution": "direct"
+}
