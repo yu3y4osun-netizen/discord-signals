@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566665911920885793",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T04:11:00.647000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "上周五还是那个反弹通道就是还是看到胜选讲话时候都出",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "上周五还是那个反弹通道就是还是看到胜选讲话时候都出",
+  "attribution": "direct"
+}
