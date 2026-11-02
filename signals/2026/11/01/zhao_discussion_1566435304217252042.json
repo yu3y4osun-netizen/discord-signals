@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566435304217252042",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "uccu",
+  "ts": "2026-11-01T12:54:39.486000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我甚至都不打开群看消息啊哈哈，最多群友说什么直线的消息从通知弹出来时候，如果我买了就转过去瞅一眼盘",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我甚至都不打开群看消息啊哈哈，最多群友说什么直线的消息从通知弹出来时候，如果我买了就转过去瞅一眼盘"
+}
