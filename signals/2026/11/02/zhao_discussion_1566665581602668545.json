@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566665581602668545",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T04:09:41.893000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": true,
+    "summary": "@xiaozhaolucky 赵哥我们高位的仓位要减仓或者止损吗 还是一直扛着？ 纳指感觉要回调到2.5w左右才开始上涨 还有7%的跌幅",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "@xiaozhaolucky 赵哥我们高位的仓位要减仓或者止损吗  还是一直扛着？ 纳指感觉要回调到2.5w左右才开始上涨 还有7%的跌幅"
+}
