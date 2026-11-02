@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566680997901369375",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moodywharf",
+  "ts": "2026-11-02T05:10:57.425000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你是个光脸还是麻子呀，人家用得着向你证明，别把自己太当回事。。。。",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "你是个光脸还是麻子呀，人家用得着向你证明，别把自己太当回事。。。。"
+}
