@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566506412178276363",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-11-01T17:37:12.945000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我从来只看群发的 发布不看群里的消息那个就没说过满仓满融",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我从来只看群发的  发布不看群里的消息那个就没说过满仓满融"
+}
