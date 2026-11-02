@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566434856186159256",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-01T12:52:52.667000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我也从进群以来全程只是参考 基本不参与加密 和那些小票 只是10.6之后自己贪心上头补仓了那些小票造成利润回撤 其他时间基本都是盈利的",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "我也从进群以来全程只是参考 基本不参与加密 和那些小票 只是10.6之后自己贪心上头补仓了那些小票造成利润回撤 其他时间基本都是盈利的"
+}
