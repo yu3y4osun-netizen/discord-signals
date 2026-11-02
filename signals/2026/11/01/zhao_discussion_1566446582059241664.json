@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566446582059241664",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deleter666",
+  "ts": "2026-11-01T13:39:28.333000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "WDC"
+    ],
+    "is_following_zhao": false,
+    "summary": "买WDC",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "买WDC"
+}
