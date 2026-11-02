@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566426770113167547",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "skyeli168",
+  "ts": "2026-11-01T12:20:44.797000+00:00",
+  "captured_at": "2026-11-02T11:27:05+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "大家别落井下石，群里还是有想继续有赵哥信息参考的。 至少还是能听到学到外面接触不到的东西。手长在自己身上。我也亏，但是不..."
+  },
+  "raw_text": "大家别落井下石，群里还是有想继续有赵哥信息参考的。\n至少还是能听到学到外面接触不到的东西。手长在自己身上。我也亏，但是不至于满仓满融干"
+}
