@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566677835656077384",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "violawang",
+  "ts": "2026-11-02T04:58:23.487000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "哎呀这不就是愿意信就信不愿意信就不信 大家都亏着正常 赵哥这做点资料整合 大家伙抱团取暖得了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "哎呀这不就是愿意信就信不愿意信就不信 大家都亏着正常 赵哥这做点资料整合 大家伙抱团取暖得了"
+}
