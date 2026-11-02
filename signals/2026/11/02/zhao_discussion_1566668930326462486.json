@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566668930326462486",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T04:23:00.291000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "毕竟我们重仓",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "毕竟我们重仓"
+}
