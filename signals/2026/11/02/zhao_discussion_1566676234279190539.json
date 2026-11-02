@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566676234279190539",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-11-02T04:52:01.689000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我给你看，你给老子补仓我考虑下",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "我给你看，你给老子补仓我考虑下"
+}
