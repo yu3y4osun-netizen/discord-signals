@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566656037153669171",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "spencerft",
+  "ts": "2026-11-02T03:31:46.319000+00:00",
+  "captured_at": "2026-11-02T11:37:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "SPX delta = X",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "SPX delta = X"
+}
