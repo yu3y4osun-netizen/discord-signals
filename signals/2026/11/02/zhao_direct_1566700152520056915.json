@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566700152520056915",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T06:27:04.242000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我只能说 我现在就是soxl三成去补那下面所有套很深的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我只能说 我现在就是soxl三成去补那下面所有套很深的",
+  "attribution": "direct"
+}
