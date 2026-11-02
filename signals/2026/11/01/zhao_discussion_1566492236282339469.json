@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566492236282339469",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-01T16:40:53.148000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我炒美股也就两年我也是跟着赵哥学宏观的东西学到不少",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我炒美股也就两年我也是跟着赵哥学宏观的东西学到不少"
+}
