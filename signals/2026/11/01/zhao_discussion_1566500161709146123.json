@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566500161709146123",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "axialclump",
+  "ts": "2026-11-01T17:12:22.717000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "上错号那时候还买做空美光不告诉大家",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "上错号那时候还买做空美光不告诉大家"
+}
