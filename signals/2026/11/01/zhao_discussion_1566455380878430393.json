@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566455380878430393",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-11-01T14:14:26.135000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我25年初就在长桥跟赵哥做过 那时候hims真的做得很准 也是一路下行 但是日内的反弹确实做得很准",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我25年初就在长桥跟赵哥做过 那时候hims真的做得很准 也是一路下行 但是日内的反弹确实做得很准"
+}
