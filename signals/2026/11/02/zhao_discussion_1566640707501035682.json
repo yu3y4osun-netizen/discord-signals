@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566640707501035682",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "avocadorable0106",
+  "ts": "2026-11-02T02:30:51.445000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "IB这些收费这么低，而且直接出税单 可以报税的时候download给会计。你为什么要选长桥这么手续费 换汇 这么高的平台呢",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "IB这些收费这么低，而且直接出税单 可以报税的时候download给会计。你为什么要选长桥这么手续费 换汇 这么高的平台呢"
+}
