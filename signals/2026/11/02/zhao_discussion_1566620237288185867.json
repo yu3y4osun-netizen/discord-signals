@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566620237288185867",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-11-02T01:09:30.966000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "我听了赵哥 中选暴力拉升 spx8000 中选回流",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我听了赵哥 中选暴力拉升 spx8000 中选回流"
+}
