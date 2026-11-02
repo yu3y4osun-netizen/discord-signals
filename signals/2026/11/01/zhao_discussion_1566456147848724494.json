@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566456147848724494",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-01T14:17:28.995000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但是市场不是牛市的时候他做不好了",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "但是市场不是牛市的时候他做不好了"
+}
