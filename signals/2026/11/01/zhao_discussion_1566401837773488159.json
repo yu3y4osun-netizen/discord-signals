@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566401837773488159",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lokka4096",
+  "ts": "2026-11-01T10:41:40.464000+00:00",
+  "captured_at": "2026-11-02T11:25:22+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "自己跟单也可以止损"
+  },
+  "raw_text": "自己跟单也可以止损"
+}
