@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566713610036838501",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T07:20:32.764000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "韩国 存和光都是会加的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "韩国 存和光都是会加的",
+  "attribution": "direct"
+}
