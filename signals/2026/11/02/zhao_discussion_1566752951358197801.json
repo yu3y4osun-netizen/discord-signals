@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566752951358197801",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-11-02T09:56:52.466000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥其实也不用操作太频繁，谨慎一些隔几周甚至几月找个好时间段，搞个高仓位进去吃一波出来",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥其实也不用操作太频繁，谨慎一些隔几周甚至几月找个好时间段，搞个高仓位进去吃一波出来"
+}
