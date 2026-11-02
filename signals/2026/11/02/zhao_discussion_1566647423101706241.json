@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566647423101706241",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shanshan33",
+  "ts": "2026-11-02T02:57:32.569000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "镜哥也一直喊两倍做多赵哥，我也被影响了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "镜哥也一直喊两倍做多赵哥，我也被影响了"
+}
