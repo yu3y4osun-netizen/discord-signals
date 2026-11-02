@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566651735181758485",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zdhhhh",
+  "ts": "2026-11-02T03:14:40.649000+00:00",
+  "captured_at": "2026-11-02T11:37:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "@xiaozhaolucky 赵哥可以发实盘和交割单出来吗？我之前那么相信你 现在我都想从10楼跳下去了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "@xiaozhaolucky  赵哥可以发实盘和交割单出来吗？我之前那么相信你 现在我都想从10楼跳下去了"
+}
