@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566426337491685427",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xlucky",
+  "ts": "2026-11-01T12:19:01.652000+00:00",
+  "captured_at": "2026-11-02T11:26:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "必须的。满仓满融，根本无惧"
+  },
+  "raw_text": "必须的。满仓满融，根本无惧"
+}
