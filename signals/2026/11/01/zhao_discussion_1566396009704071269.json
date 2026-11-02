@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566396009704071269",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-11-01T10:18:30.944000+00:00",
+  "captured_at": "2026-11-02T11:24:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "可是他为什么总是t呢"
+  },
+  "raw_text": "可是他为什么总是t呢"
+}
