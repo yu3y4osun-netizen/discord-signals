@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566762297219747903",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T10:34:00.693000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "对 因为有几个退的也说了 像soxl高位买很多 有些转发的周五让止损了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "对 因为有几个退的也说了  像soxl高位买很多  有些转发的周五让止损了",
+  "attribution": "direct"
+}
