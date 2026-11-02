@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566697501933969429",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-11-02T06:16:32.293000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥折腾一下今天都别睡觉了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥折腾一下今天都别睡觉了"
+}
