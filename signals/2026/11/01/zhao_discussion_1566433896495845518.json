@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566433896495845518",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "uccu",
+  "ts": "2026-11-01T12:49:03.859000+00:00",
+  "captured_at": "2026-11-02T11:29:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CONL"
+    ],
+    "is_following_zhao": true,
+    "summary": "各位现在找这些出来，其实就是最近亏太多想找人背个锅，我刚进来跟着赚多亏少，后来跟conl之类的小票赶上了去年年末的行情亏..."
+  },
+  "raw_text": "各位现在找这些出来，其实就是最近亏太多想找人背个锅，我刚进来跟着赚多亏少，后来跟conl之类的小票赶上了去年年末的行情亏了，后来是只做参考做自己能拿住的不盲跟的，这轮行情2个账户，一个回撤10%，一个15%，本年盈利各自还有25%，50%。"
+}
