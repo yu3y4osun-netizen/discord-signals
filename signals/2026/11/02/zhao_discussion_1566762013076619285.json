@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566762013076619285",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-11-02T10:32:52.948000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥意思是有人想把这边的蛋糕引流走？所以故意策划抹黑？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥意思是有人想把这边的蛋糕引流走？所以故意策划抹黑？"
+}
