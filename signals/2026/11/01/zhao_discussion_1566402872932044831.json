@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566402872932044831",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-11-01T10:45:47.265000+00:00",
+  "captured_at": "2026-11-02T11:25:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "胜率那么高为什么不带下做空？"
+  },
+  "raw_text": "胜率那么高为什么不带下做空？"
+}
