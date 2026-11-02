@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566752373827969097",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-02T09:54:34.772000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "怎么说，要是赵哥真是说的那样，我今天看到肯定解散群，肯定不会在群里解释这些",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "怎么说，要是赵哥真是说的那样，我今天看到肯定解散群，肯定不会在群里解释这些"
+}
