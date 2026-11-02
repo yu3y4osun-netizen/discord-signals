@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566396870316785695",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-11-01T10:21:56.130000+00:00",
+  "captured_at": "2026-11-02T11:24:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "止损再低点买"
+  },
+  "raw_text": "止损再低点买"
+}
