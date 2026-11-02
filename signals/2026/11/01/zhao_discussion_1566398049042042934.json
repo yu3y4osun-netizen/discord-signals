@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566398049042042934",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kaiagoldin",
+  "ts": "2026-11-01T10:26:37.160000+00:00",
+  "captured_at": "2026-11-02T11:25:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "哈哈 cifr 周一盘前财报吧 来看看会怎么样"
+  },
+  "raw_text": "哈哈 cifr 周一盘前财报吧 来看看会怎么样"
+}
