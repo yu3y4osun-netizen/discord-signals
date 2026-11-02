@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566715088092532747",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T07:26:25.160000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "也不用在乎那一天 这几天财报还有个amd还会有差不多机会",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "也不用在乎那一天 这几天财报还有个amd还会有差不多机会",
+  "attribution": "direct"
+}
