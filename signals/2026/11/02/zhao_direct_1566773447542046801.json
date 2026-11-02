@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566773447542046801",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T11:18:19.137000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "盘后苹果财报看看 不好的话盘后再跳 和谷歌那天一样",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "盘后苹果财报看看 不好的话盘后再跳 和谷歌那天一样",
+  "attribution": "direct"
+}
