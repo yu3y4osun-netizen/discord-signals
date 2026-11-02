@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566721412243128407",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deleter666",
+  "ts": "2026-11-02T07:51:32.955000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥 既然群里的fans 都是拥护你的系统，gemini量化体系就不能扔个操作对话接口出来吗，我们盈亏自负啊，这一个票突然不管了，算啥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 既然群里的fans 都是拥护你的系统，gemini量化体系就不能扔个操作对话接口出来吗，我们盈亏自负啊，这一个票突然不管了，算啥"
+}
