@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566424131493175307",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-01T12:10:15.701000+00:00",
+  "captured_at": "2026-11-02T11:26:14+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "哥们，你的soxl是跟王星梭哈的吗@大V天龙"
+  },
+  "raw_text": "哥们，你的soxl是跟王星梭哈的吗@大V天龙"
+}
