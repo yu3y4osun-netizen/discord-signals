@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566620760443846657",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "corrineq",
+  "ts": "2026-11-02T01:11:35.696000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "周五我还在群里问了赵哥，点位都跟了，除了70附近的睡着了没买入",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "周五我还在群里问了赵哥，点位都跟了，除了70附近的睡着了没买入"
+}
