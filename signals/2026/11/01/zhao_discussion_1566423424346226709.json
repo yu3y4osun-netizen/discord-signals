@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566423424346226709",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shiminmin11",
+  "ts": "2026-11-01T12:07:27.104000+00:00",
+  "captured_at": "2026-11-02T11:25:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但我还是要强调赵哥的贡献"
+  },
+  "raw_text": "但我还是要强调赵哥的贡献"
+}
