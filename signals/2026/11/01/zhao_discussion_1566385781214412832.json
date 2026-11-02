@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566385781214412832",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-01T09:37:52.282000+00:00",
+  "captured_at": "2026-11-02T11:23:21+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你天天梭哈"
+  },
+  "raw_text": "你天天梭哈"
+}
