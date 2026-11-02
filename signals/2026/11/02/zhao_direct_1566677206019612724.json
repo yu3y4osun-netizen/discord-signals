@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566677206019612724",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T04:55:53.370000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我就这一个群 很早就知道有转发 但是我没去管这些 现在也只想把到胜选那轮过了再看",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我就这一个群 很早就知道有转发 但是我没去管这些 现在也只想把到胜选那轮过了再看",
+  "attribution": "direct"
+}
