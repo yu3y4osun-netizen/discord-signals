@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566700721561272422",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-11-02T06:29:19.912000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": true,
+    "summary": "这是赵哥一个日内的免佣 赵哥这天做了4笔交易 免佣增长94刀 大概每笔交易佣金23刀-24刀。佣金计算是0.003刀每股，赵哥大概每次交易是8000股，所以单次...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这是赵哥一个日内的免佣 赵哥这天做了4笔交易 免佣增长94刀 大概每笔交易佣金23刀-24刀。佣金计算是0.003刀每股，赵哥大概每次交易是8000股，所以单次买或者卖平均就是1.6w股，按最便宜的特斯拉双倍来买，单次买的金额就是8万多刀，你要按赵哥每次加仓的比例来算，赵哥的金额应该快上千万了"
+}
