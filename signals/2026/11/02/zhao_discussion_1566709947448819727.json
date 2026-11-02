@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566709947448819727",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T07:05:59.535000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要是没止损 心里拿着不放心",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "主要是没止损 心里拿着不放心"
+}
