@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566659338163060777",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-11-02T03:44:53.341000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "82.953成本的soxl 亏一点的 要不走了？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "82.953成本的soxl 亏一点的 要不走了？"
+}
