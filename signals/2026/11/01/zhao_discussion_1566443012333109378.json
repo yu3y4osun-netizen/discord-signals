@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566443012333109378",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shiminmin11",
+  "ts": "2026-11-01T13:25:17.244000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSTR"
+    ],
+    "is_following_zhao": true,
+    "summary": "我有点绷不住了 本来还想理性的 真的有点恶心我了 去年和赵做bull和mstr没止损 基本把之前做的全吐回去了 但是我那个时候也只是觉得市场不好 外加自己仓位没...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我有点绷不住了 本来还想理性的 真的有点恶心我了 去年和赵做bull和mstr没止损 基本把之前做的全吐回去了 但是我那个时候也只是觉得市场不好 外加自己仓位没控制好 没有自己的体系所以我就默默去学习 没有在跟单 但是今天才发现人品真的很重要 不应该这样搞的"
+}
