@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566459179722612767",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-01T14:29:31.850000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在还帮他说话的只能说是还没从前两年的牛市里出来",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "现在还帮他说话的只能说是还没从前两年的牛市里出来"
+}
