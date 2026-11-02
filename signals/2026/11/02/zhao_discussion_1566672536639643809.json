@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566672536639643809",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-11-02T04:37:20.103000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "亏完了兄弟，也别跟单了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "亏完了兄弟，也别跟单了"
+}
