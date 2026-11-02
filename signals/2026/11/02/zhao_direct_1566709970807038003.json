@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566709970807038003",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T07:06:05.104000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是 说的方案包括我自己就是的 加70-80的soxl等于补仓了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是 说的方案包括我自己就是的   加70-80的soxl等于补仓了",
+  "attribution": "direct"
+}
