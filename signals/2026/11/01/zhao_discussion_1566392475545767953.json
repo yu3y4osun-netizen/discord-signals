@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566392475545767953",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-01T10:04:28.335000+00:00",
+  "captured_at": "2026-11-02T11:23:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "无论赵哥，价值哥，可乐。每个人情况，本金不一，关键是学习优点，形成自己的交易习惯"
+  },
+  "raw_text": "无论赵哥，价值哥，可乐。每个人情况，本金不一，关键是学习优点，形成自己的交易习惯"
+}
