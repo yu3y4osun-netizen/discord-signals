@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566787951340556320",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T12:15:57.112000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "阴跌周期就是这种 一直阴跌 一个特殊时间段的16%拉升",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "阴跌周期就是这种 一直阴跌 一个特殊时间段的16%拉升",
+  "attribution": "direct"
+}
