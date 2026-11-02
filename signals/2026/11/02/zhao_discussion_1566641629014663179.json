@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566641629014663179",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-11-02T02:34:31.151000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我没懂，这亏了钱又没到赵哥这边，也没收取手续费什么的，可以选择退会员费😂",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我没懂，这亏了钱又没到赵哥这边，也没收取手续费什么的，可以选择退会员费😂"
+}
