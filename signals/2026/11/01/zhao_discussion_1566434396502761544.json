@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566434396502761544",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "uccu",
+  "ts": "2026-11-01T12:51:03.070000+00:00",
+  "captured_at": "2026-11-02T11:29:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "TSLL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我就跟点tsll和soxl，也没重仓"
+  },
+  "raw_text": "我就跟点tsll和soxl，也没重仓"
+}
