@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566456605271134329",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deleter666",
+  "ts": "2026-11-01T14:19:18.053000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NOK"
+    ],
+    "is_following_zhao": false,
+    "summary": "NOK 这种票 就不管了 消失了嘛",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "NOK 这种票 就不管了 消失了嘛"
+}
