@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566718968994074656",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-02T07:41:50.439000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "本身建群那会，赵哥就说了只会挑他觉得可以的发",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "本身建群那会，赵哥就说了只会挑他觉得可以的发"
+}
