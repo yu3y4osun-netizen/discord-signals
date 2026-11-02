@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566761850681565287",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-02T10:32:14.230000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那些梭哈三倍做多的也是自己脑子有问题",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那些梭哈三倍做多的也是自己脑子有问题"
+}
