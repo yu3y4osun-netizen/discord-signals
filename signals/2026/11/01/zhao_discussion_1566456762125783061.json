@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566456762125783061",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jacy36",
+  "ts": "2026-11-01T14:19:55.450000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "NOK",
+      "WDC"
+    ],
+    "is_following_zhao": true,
+    "summary": "Nok Bull wdc我都是自己止损的…",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Nok Bull wdc我都是自己止损的…"
+}
