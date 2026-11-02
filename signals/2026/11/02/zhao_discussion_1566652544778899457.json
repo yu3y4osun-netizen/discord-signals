@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566652544778899457",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-02T03:17:53.672000+00:00",
+  "captured_at": "2026-11-02T11:37:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 我想知道您能发下实盘操作记录吗 这也不是什么隐私啥的，隐藏掉金额什么的 能让人知道是实盘 这样大家也不会在群里吵成这样了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 我想知道您能发下实盘操作记录吗 这也不是什么隐私啥的，隐藏掉金额什么的 能让人知道是实盘 这样大家也不会在群里吵成这样了"
+}
