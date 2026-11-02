@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566634212197540031",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "snoopydog93",
+  "ts": "2026-11-02T02:05:02.844000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "给兄弟们会员费退了加仓吧",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "给兄弟们会员费退了加仓吧"
+}
