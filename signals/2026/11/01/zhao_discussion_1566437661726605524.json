@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566437661726605524",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-01T13:04:01.560000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "兄弟们，反正我就只说一句话，大家来这个群是为了赚钱，虽然现在有很多人质疑赵哥，￼但是我想说的是那些质疑的小丑并不能带你回本也不能带你赚钱，因为他们自己也亏很多。...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "兄弟们，反正我就只说一句话，大家来这个群是为了赚钱，虽然现在有很多人质疑赵哥，￼但是我想说的是那些质疑的小丑并不能带你回本也不能带你赚钱，因为他们自己也亏很多。￼所以如果你想继续赚钱并且相信赵哥的话，就不要相信他们这些跳楼小丑的话。"
+}
