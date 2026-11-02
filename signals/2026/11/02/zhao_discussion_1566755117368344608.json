@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566755117368344608",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-02T10:05:28.883000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我看赵哥从韩国开盘一直搞到现在",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我看赵哥从韩国开盘一直搞到现在"
+}
