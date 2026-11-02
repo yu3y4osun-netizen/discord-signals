@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566514107723554831",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-11-01T18:07:47.706000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "29号这张图，后面老外又发了张180度相反的，他没看到，就没发",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "29号这张图，后面老外又发了张180度相反的，他没看到，就没发"
+}
