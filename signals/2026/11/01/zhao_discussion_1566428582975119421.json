@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566428582975119421",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiekai",
+  "ts": "2026-11-01T12:27:57.017000+00:00",
+  "captured_at": "2026-11-02T11:27:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "暗盘不是涨了吗，明天有肉吃了"
+  },
+  "raw_text": "暗盘不是涨了吗，明天有肉吃了"
+}
