@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566508261979590800",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-11-01T17:44:33.972000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "被套一大堆是的，这个不否认，但通过这几个月，我自己的记录，是差不多的，而且我的记录比另外两个同学还要高仓位",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "被套一大堆是的，这个不否认，但通过这几个月，我自己的记录，是差不多的，而且我的记录比另外两个同学还要高仓位"
+}
