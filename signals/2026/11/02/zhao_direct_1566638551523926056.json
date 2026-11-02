@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566638551523926056",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T02:22:17.420000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一开始不穿刺就不知道结果 就细菌 病毒和激素药都出混着 主要一点点肿胀没啥关系 就是有几天没怎么睡觉复发了加上听觉少一半",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "一开始不穿刺就不知道结果  就细菌 病毒和激素药都出混着 主要一点点肿胀没啥关系 就是有几天没怎么睡觉复发了加上听觉少一半",
+  "attribution": "direct"
+}
