@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566395140451344475",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-11-01T10:15:03.698000+00:00",
+  "captured_at": "2026-11-02T11:24:25+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哥们，你能分析下赵哥为什么不做止损吗？ 因为才亏他一年利润？"
+  },
+  "raw_text": "哥们，你能分析下赵哥为什么不做止损吗？ 因为才亏他一年利润？"
+}
