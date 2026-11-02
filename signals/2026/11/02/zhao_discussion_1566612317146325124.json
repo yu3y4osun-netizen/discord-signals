@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566612317146325124",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-11-02T00:38:02.657000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哥，我想退的，我30美金可以去洗一脚的，能不能让赵哥同意一下退款",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "哥，我想退的，我30美金可以去洗一脚的，能不能让赵哥同意一下退款"
+}
