@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566627021474373823",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "echoms",
+  "ts": "2026-11-02T01:36:28.442000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那自己称自己叫赵哥 是怎么回事？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "那自己称自己叫赵哥 是怎么回事？"
+}
