@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566762651722457159",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-11-02T10:35:25.213000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥周五盘后75买入的时候没有播报一下",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥周五盘后75买入的时候没有播报一下"
+}
