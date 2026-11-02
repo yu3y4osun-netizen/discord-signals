@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566509590894477393",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "maychen5518",
+  "ts": "2026-11-01T17:49:50.810000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "当初狂骂退休时，就觉得有天会轮到赵哥。成年人为自己行为买单。任何一个被骂的能力都比大家强太多了。总是觉得别人的错，发泄有用？下次还会走老路",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "当初狂骂退休时，就觉得有天会轮到赵哥。成年人为自己行为买单。任何一个被骂的能力都比大家强太多了。总是觉得别人的错，发泄有用？下次还会走老路"
+}
