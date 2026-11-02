@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566683793711173744",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-02T05:22:03.998000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没加杠杆也亏很多啊",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "没加杠杆也亏很多啊"
+}
