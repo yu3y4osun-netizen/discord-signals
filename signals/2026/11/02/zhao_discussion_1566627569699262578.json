@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566627569699262578",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-11-02T01:38:39.149000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我想看看你的算力卡",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "我想看看你的算力卡"
+}
