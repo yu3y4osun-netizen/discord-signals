@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566689133345247404",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-02T05:43:17.066000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在最主要的是需要确认赵哥确实是实盘下单 而不是虚拟盘 目前录屏说明不了最最重要的这一点",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "现在最主要的是需要确认赵哥确实是实盘下单 而不是虚拟盘 目前录屏说明不了最最重要的这一点"
+}
