@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566389911160889355",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meiyoumeiyou",
+  "ts": "2026-11-01T09:54:16.938000+00:00",
+  "captured_at": "2026-11-02T11:23:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "咋飞，本金都亏完了😭"
+  },
+  "raw_text": "咋飞，本金都亏完了😭"
+}
