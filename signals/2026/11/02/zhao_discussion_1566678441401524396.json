@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566678441401524396",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "violawang",
+  "ts": "2026-11-02T05:00:47.908000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "跟单自己负责的呢 就像咱们a股找投顾不也是盈亏自负 中选反弹减点仓 账户加点钱 右侧加点就回来了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "跟单自己负责的呢 就像咱们a股找投顾不也是盈亏自负 中选反弹减点仓 账户加点钱 右侧加点就回来了"
+}
