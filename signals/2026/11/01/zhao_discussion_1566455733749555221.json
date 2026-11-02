@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566455733749555221",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-01T14:15:50.266000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那个时候是真的赵哥现在不是了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "那个时候是真的赵哥现在不是了"
+}
