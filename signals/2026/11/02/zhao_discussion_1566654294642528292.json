@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566654294642528292",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-11-02T03:24:50.872000+00:00",
+  "captured_at": "2026-11-02T11:37:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "要到本金的时候就该止损了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "要到本金的时候就该止损了"
+}
