@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566458810867130499",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-11-01T14:28:03.908000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "说实话 这种精准日内点位让我花30刀 就算他是编的也无所谓😂 还是自己太贪了 一直想上仓位 交易的按钮都是在自己手里的。赵哥就算是忽悠人 也比那种华尔街阿宝之类...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "说实话 这种精准日内点位让我花30刀 就算他是编的也无所谓😂 还是自己太贪了 一直想上仓位 交易的按钮都是在自己手里的。赵哥就算是忽悠人 也比那种华尔街阿宝之类的好太多了"
+}
