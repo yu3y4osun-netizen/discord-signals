@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566451263716069478",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-01T13:58:04.527000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "他之前买个MU涨一点点就卖",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "他之前买个MU涨一点点就卖"
+}
