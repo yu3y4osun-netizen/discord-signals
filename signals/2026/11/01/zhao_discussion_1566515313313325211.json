@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566515313313325211",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-11-01T18:12:35.141000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥周末确实不出来说话的 我是觉得还没实锤之前不应该有这么多的怨气 毕竟之前很多实打实的点位也是让我们有浮盈的。现在在这里对赵哥释放怨气跟当时喷刘翔那群人有什么...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥周末确实不出来说话的 我是觉得还没实锤之前不应该有这么多的怨气 毕竟之前很多实打实的点位也是让我们有浮盈的。现在在这里对赵哥释放怨气跟当时喷刘翔那群人有什么区别…而且我觉得想要拉人加仓满融没必要开个名声很不好的小号来，这不符合逻辑"
+}
