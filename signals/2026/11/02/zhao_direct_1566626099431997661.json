@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566626099431997661",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T01:32:48.610000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "轮廓图基本就是按照量去推导的 后面有人用走势图去做期权或者参考错了就没有发了 当中动作有和轮廓走势不一样要人工看",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "轮廓图基本就是按照量去推导的 后面有人用走势图去做期权或者参考错了就没有发了 当中动作有和轮廓走势不一样要人工看",
+  "attribution": "direct"
+}
