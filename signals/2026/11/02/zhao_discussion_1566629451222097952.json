@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566629451222097952",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-11-02T01:46:07.739000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "意思是赵哥的一切都是假的吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "意思是赵哥的一切都是假的吗"
+}
