@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566625763514384417",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T01:31:28.521000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥群里觉得你骗大家，一是X上也有人发走势图，二是他们觉得你和wangxing是一个人，三是说你小票不止损",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥群里觉得你骗大家，一是X上也有人发走势图，二是他们觉得你和wangxing是一个人，三是说你小票不止损"
+}
