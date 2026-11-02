@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566671420195340429",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deleter666",
+  "ts": "2026-11-02T04:32:53.922000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "牛逼 赵哥不买你也敢买",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "牛逼 赵哥不买你也敢买"
+}
