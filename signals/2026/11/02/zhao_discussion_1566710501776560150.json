@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566710501776560150",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T07:08:11.697000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "ok 等你指挥了赵哥 拿着很慌lol",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "ok 等你指挥了赵哥 拿着很慌lol"
+}
