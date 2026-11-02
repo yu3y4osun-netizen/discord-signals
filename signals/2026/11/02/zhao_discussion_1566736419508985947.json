@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566736419508985947",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "pan888",
+  "ts": "2026-11-02T08:51:10.966000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ",
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "我给个建议，你后面多做七姐妹和纳指标普，少做小票，不然只会继续轮回",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我给个建议，你后面多做七姐妹和纳指标普，少做小票，不然只会继续轮回"
+}
