@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566710404237762581",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moneywang",
+  "ts": "2026-11-02T07:07:48.442000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "纳指快到200ma了 这次会破位嘛",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "纳指快到200ma了 这次会破位嘛"
+}
