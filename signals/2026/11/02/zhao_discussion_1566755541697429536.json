@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566755541697429536",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-02T10:07:10.051000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "真的赵哥如大家前面所说是真实，我要真是赵哥，我肯定选择不做任何解释回答，反正解散群走了。",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "真的赵哥如大家前面所说是真实，我要真是赵哥，我肯定选择不做任何解释回答，反正解散群走了。"
+}
