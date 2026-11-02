@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566384522411380828",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-01T09:32:52.160000+00:00",
+  "captured_at": "2026-11-02T11:23:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "嘴欠就嘴欠咯，最多骂回去，有的人借这个存了把这群掀了的心思啥意思？还是说真有傻子跟然后亏了？就算这样发群里闹又是啥意思？"
+  },
+  "raw_text": "嘴欠就嘴欠咯，最多骂回去，有的人借这个存了把这群掀了的心思啥意思？还是说真有傻子跟然后亏了？就算这样发群里闹又是啥意思？"
+}
