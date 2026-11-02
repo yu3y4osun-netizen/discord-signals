@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566717311925223565",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yinmo888",
+  "ts": "2026-11-02T07:35:15.363000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "其实对于我这种 满仓玩过ffai的人来说 这点算啥😭",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "其实对于我这种 满仓玩过ffai的人来说 这点算啥😭"
+}
