@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566673429933850625",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T04:40:53.081000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是群里信息 有人做专卖生意的 他信息转发 卖这个信息 然后 有些信息在改改",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是群里信息 有人做专卖生意的 他信息转发 卖这个信息 然后 有些信息在改改",
+  "attribution": "direct"
+}
