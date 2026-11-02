@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566640127093252097",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xunlock",
+  "ts": "2026-11-02T02:28:33.065000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "而且您不是说已经退出长桥了嘛？那长桥为什么还有最近的勋章记录。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "而且您不是说已经退出长桥了嘛？那长桥为什么还有最近的勋章记录。"
+}
