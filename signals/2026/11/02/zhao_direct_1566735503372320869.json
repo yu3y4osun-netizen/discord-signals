@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566735503372320869",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T08:47:32.542000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "能减的几个减过了 然后没减的基本都是回调太多了 就没加仓 我是上周开始就用soxl加剩下那10几个",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "能减的几个减过了 然后没减的基本都是回调太多了 就没加仓 我是上周开始就用soxl加剩下那10几个",
+  "attribution": "direct"
+}
