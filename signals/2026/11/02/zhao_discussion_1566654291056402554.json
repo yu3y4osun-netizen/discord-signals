@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566654291056402554",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fastspeed",
+  "ts": "2026-11-02T03:24:50.017000+00:00",
+  "captured_at": "2026-11-02T11:37:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "吃了几个点，就在那吹牛带节奏，一把下杀20多个点",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "吃了几个点，就在那吹牛带节奏，一把下杀20多个点"
+}
