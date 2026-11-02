@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566782735966670881",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-02T11:55:13.670000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "等赵哥醒，我要问一句，最近机构都在下调AI科技股的估值，是他们集体压制股价么",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "等赵哥醒，我要问一句，最近机构都在下调AI科技股的估值，是他们集体压制股价么"
+}
