@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566652890469371976",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "linlin7",
+  "ts": "2026-11-02T03:19:16.091000+00:00",
+  "captured_at": "2026-11-02T11:37:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 如果真的像群友说那样子 你跟班长同一个人或同一伙 那我从此不会再相信任何一个人 这件事情对我的打击非常大 昨晚到现在 我已经24小时没睡了 你知道我一直跟...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 如果真的像群友说那样子 你跟班长同一个人或同一伙 那我从此不会再相信任何一个人 这件事情对我的打击非常大 昨晚到现在  我已经24小时没睡了 你知道我一直跟崇拜你的"
+}
