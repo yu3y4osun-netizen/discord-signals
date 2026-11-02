@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566763412422140017",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-11-02T10:38:26.578000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "会被转发走 跟单的人多 然后就变成那个时间买盘很多，被盯上了所以故意砸 这样吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "会被转发走 跟单的人多 然后就变成那个时间买盘很多，被盯上了所以故意砸 这样吗"
+}
