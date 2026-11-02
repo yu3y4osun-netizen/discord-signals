@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566442217516703796",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-01T13:22:07.745000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "他看我每次MU赚钱期权赚钱都要出来跟我对线",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "他看我每次MU赚钱期权赚钱都要出来跟我对线"
+}
