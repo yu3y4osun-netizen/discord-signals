@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566710342157860975",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T07:07:33.641000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "看买的多不多 多的话出三分之一t一下 75-80 最好amd财报盘后看看买",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "看买的多不多 多的话出三分之一t一下  75-80 最好amd财报盘后看看买",
+  "attribution": "direct"
+}
