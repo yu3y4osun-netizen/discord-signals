@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566612604514734231",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "corrineq",
+  "ts": "2026-11-02T00:39:11.171000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "没跟的就不能把亏损算赵哥头上吧。我跟了亏损能接受。相信赵哥继续跟",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "没跟的就不能把亏损算赵哥头上吧。我跟了亏损能接受。相信赵哥继续跟"
+}
