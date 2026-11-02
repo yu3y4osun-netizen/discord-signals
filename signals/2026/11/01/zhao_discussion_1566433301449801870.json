@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566433301449801870",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-11-01T12:46:41.989000+00:00",
+  "captured_at": "2026-11-02T11:29:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这人为什么要抄袭赵哥的图"
+  },
+  "raw_text": "这人为什么要抄袭赵哥的图"
+}
