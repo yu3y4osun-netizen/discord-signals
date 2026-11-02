@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566423285145796772",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shiminmin11",
+  "ts": "2026-11-01T12:06:53.916000+00:00",
+  "captured_at": "2026-11-02T11:25:47+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我只是客观陈述 但是不可否认的点是赵哥的很多思维是让我学习很多  但我也不想让群友有认知的偏差"
+  },
+  "raw_text": "我只是客观陈述 但是不可否认的点是赵哥的很多思维是让我学习很多  但我也不想让群友有认知的偏差"
+}
