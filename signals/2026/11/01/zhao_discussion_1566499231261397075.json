@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566499231261397075",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lifeiyv",
+  "ts": "2026-11-01T17:08:40.881000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "存储上半年的大涨 赵死都不去做，等末尾行情了 才去做",
+    "filter_reason": "emotion",
+    "sectors_mentioned": [
+      "存储"
+    ]
+  },
+  "raw_text": "存储上半年的大涨 赵死都不去做，等末尾行情了 才去做"
+}
