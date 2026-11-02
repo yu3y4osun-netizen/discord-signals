@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566455583417311393",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-11-01T14:15:14.424000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我有话说：我进来一年，赵哥在盘中操作特别低点准确率非常高的。卖点也是。 但股市整体下行，你看很多基金不是一样，亏本着。",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我有话说：我进来一年，赵哥在盘中操作特别低点准确率非常高的。卖点也是。  但股市整体下行，你看很多基金不是一样，亏本着。"
+}
