@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566428910051139606",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meiyoumeiyou",
+  "ts": "2026-11-01T12:29:14.998000+00:00",
+  "captured_at": "2026-11-02T11:27:48+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥是赵哥，班长是班长，班长就是哪个天天喊梭哈的"
+  },
+  "raw_text": "赵哥是赵哥，班长是班长，班长就是哪个天天喊梭哈的"
+}
