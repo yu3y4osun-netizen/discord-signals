@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566721025599737917",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T07:50:00.772000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "因为小盘票 都有随机利空 你一直买 他又一直随机发 没有 soxl有性价比",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "因为小盘票 都有随机利空 你一直买 他又一直随机发  没有 soxl有性价比",
+  "attribution": "direct"
+}
