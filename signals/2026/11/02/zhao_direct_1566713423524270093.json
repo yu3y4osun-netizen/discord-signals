@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566713423524270093",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T07:19:48.296000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是周五他那样跌 那时候就是感觉周末暗盘和韩国会加的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是周五他那样跌 那时候就是感觉周末暗盘和韩国会加的",
+  "attribution": "direct"
+}
