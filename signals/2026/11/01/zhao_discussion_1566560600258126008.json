@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566560600258126008",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "pingping89",
+  "ts": "2026-11-01T21:12:32.390000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "周末消息放量 长桥骂到推特 推特骂到whop whop付费骂 这下可以解散了？",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "周末消息放量 长桥骂到推特 推特骂到whop  whop付费骂 这下可以解散了？"
+}
