@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566652096923570227",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T03:16:06.895000+00:00",
+  "captured_at": "2026-11-02T11:37:36+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "周五我是和你聊最后的 那时候我就说的soxl我是盘后才会买的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "周五我是和你聊最后的 那时候我就说的soxl我是盘后才会买的",
+  "attribution": "direct"
+}
