@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566630209183293511",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-02T01:49:08.451000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我等赵哥给个解释啊 我尊重赵哥啊 一字信任啊",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我等赵哥给个解释啊 我尊重赵哥啊 一字信任啊"
+}
