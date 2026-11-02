@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566394438408871957",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "merlinmo",
+  "ts": "2026-11-01T10:12:16.318000+00:00",
+  "captured_at": "2026-11-02T11:24:18+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你亏的是本金，赵哥亏的是1年利润。心态能一样吗？"
+  },
+  "raw_text": "你亏的是本金，赵哥亏的是1年利润。心态能一样吗？"
+}
