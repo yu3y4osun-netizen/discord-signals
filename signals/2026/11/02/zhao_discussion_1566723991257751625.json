@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566723991257751625",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-02T08:01:47.840000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "￼看到你的操作，我收回我刚刚骂你的话，以后还是把钱存银行吧￼￼￼",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "A股银行"
+    ]
+  },
+  "raw_text": "￼看到你的操作，我收回我刚刚骂你的话，以后还是把钱存银行吧￼￼￼"
+}
