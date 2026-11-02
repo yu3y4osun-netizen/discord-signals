@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566756744879677492",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fangxiaemo",
+  "ts": "2026-11-02T10:11:56.912000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "只要行情不再这么极端，相信跟着赵哥回本应该是很快的，主要这次我记住的教训就是一定要记得设置自己能承担的能力范围内止损，这怪不了任何人",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "只要行情不再这么极端，相信跟着赵哥回本应该是很快的，主要这次我记住的教训就是一定要记得设置自己能承担的能力范围内止损，这怪不了任何人"
+}
