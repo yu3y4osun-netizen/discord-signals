@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566403303485472891",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lokka4096",
+  "ts": "2026-11-01T10:47:29.917000+00:00",
+  "captured_at": "2026-11-02T11:25:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "只会跟单哪来的思考"
+  },
+  "raw_text": "只会跟单哪来的思考"
+}
