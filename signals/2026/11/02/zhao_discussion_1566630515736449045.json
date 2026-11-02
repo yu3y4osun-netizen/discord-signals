@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566630515736449045",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dogunder111",
+  "ts": "2026-11-02T01:50:21.539000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "上面好几层确实被套着了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "上面好几层确实被套着了"
+}
