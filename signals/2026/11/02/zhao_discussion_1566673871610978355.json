@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566673871610978355",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deleter666",
+  "ts": "2026-11-02T04:42:38.385000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哎呀算了赵哥这把年纪做解释这件事就是苍白的了，随便一张图都可以证明，何必那么多口舌，比如纽约的天空",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "哎呀算了赵哥这把年纪做解释这件事就是苍白的了，随便一张图都可以证明，何必那么多口舌，比如纽约的天空"
+}
