@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566733628174503939",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-02T08:40:05.460000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "英特尔这种股票是不是短期不能拿了？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "英特尔这种股票是不是短期不能拿了？"
+}
