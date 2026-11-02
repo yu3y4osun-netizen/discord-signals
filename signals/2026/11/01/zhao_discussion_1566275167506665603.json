@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566275167506665603",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meiyoumeiyou",
+  "ts": "2026-11-01T02:18:19.919000+00:00",
+  "captured_at": "2026-11-02T11:22:40+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "班长，多少人听着你梭，都跳楼了，你比赵哥还牛啊😂天天梭，怎么像个盘子哥一样的话术"
+  },
+  "raw_text": "班长，多少人听着你梭，都跳楼了，你比赵哥还牛啊😂天天梭，怎么像个盘子哥一样的话术"
+}
