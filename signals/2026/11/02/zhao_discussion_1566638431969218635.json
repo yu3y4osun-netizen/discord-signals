@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566638431969218635",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fastspeed",
+  "ts": "2026-11-02T02:21:48.916000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他只做下跌的，所以我们跟的老是被套",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "他只做下跌的，所以我们跟的老是被套"
+}
