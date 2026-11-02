@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566451976521383957",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-01T14:00:54.473000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我刚开始是发现赵哥喜欢买TSLL这种明确下行，或者震荡平台的股，个人尤其是想不通为啥是明确下行的为啥还一通买，就觉得可能不适合我 之后就再也没怎么跟TSLL了 ...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我刚开始是发现赵哥喜欢买TSLL这种明确下行，或者震荡平台的股，个人尤其是想不通为啥是明确下行的为啥还一通买，就觉得可能不适合我 之后就再也没怎么跟TSLL了 一直挑着买"
+}
