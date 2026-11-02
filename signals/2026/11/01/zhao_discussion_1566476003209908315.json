@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566476003209908315",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "pan888",
+  "ts": "2026-11-01T15:36:22.882000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥在恐慌点去低吸还是挺准的，特别牛市和震荡市，熊市做做日内当天结算也还行",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥在恐慌点去低吸还是挺准的，特别牛市和震荡市，熊市做做日内当天结算也还行"
+}
