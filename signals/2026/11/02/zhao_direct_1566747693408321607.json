@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566747693408321607",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T09:35:58.873000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "然后有了10月16日的 对10月23日和上周那次就感觉更明显了 因为当时是留了心眼 只是说了公式 没说这个是全部解释",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后有了10月16日的 对10月23日和上周那次就感觉更明显了  因为当时是留了心眼 只是说了公式 没说这个是全部解释",
+  "attribution": "direct"
+}
