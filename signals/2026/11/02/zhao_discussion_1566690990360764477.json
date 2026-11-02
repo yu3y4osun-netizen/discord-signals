@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566690990360764477",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-02T05:50:39.813000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我不理解为什么还要骂人",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我不理解为什么还要骂人"
+}
