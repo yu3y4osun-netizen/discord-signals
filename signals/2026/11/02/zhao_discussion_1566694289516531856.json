@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566694289516531856",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "leokin",
+  "ts": "2026-11-02T06:03:46.393000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我想问下是这个赵哥就是网络上的那个赵哥，还是说他只是二道？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我想问下是这个赵哥就是网络上的那个赵哥，还是说他只是二道？"
+}
