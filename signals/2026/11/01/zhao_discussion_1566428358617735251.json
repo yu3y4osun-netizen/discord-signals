@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566428358617735251",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-11-01T12:27:03.526000+00:00",
+  "captured_at": "2026-11-02T11:27:34+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "说了下跌趋势赵哥没有很准啊 上涨趋势还是可以的"
+  },
+  "raw_text": "说了下跌趋势赵哥没有很准啊 上涨趋势还是可以的"
+}
