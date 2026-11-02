@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566445496778883264",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-11-01T13:35:09.582000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还有赵哥如果在美国为什么会使用长桥呢",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "还有赵哥如果在美国为什么会使用长桥呢"
+}
