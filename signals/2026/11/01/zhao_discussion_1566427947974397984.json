@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566427947974397984",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-11-01T12:25:25.621000+00:00",
+  "captured_at": "2026-11-02T11:27:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren 那些不都是地雷吗"
+  },
+  "raw_text": "iren 那些不都是地雷吗"
+}
