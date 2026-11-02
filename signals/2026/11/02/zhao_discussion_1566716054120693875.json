@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566716054120693875",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yinmo888",
+  "ts": "2026-11-02T07:30:15.479000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "前面 全仓止损了 目前1成仓 慢慢来",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "前面 全仓止损了 目前1成仓 慢慢来"
+}
