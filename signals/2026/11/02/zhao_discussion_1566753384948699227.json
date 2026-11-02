@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566753384948699227",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-11-02T09:58:35.842000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "观点就是赵哥之前都太准了。容易让别人重仓。失误一次容易回撤比较多",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "观点就是赵哥之前都太准了。容易让别人重仓。失误一次容易回撤比较多"
+}
