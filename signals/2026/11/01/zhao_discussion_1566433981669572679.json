@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566433981669572679",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "skyeli168",
+  "ts": "2026-11-01T12:49:24.166000+00:00",
+  "captured_at": "2026-11-02T11:29:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "美股量化圈应该也有讨论群吧 赵哥也不可能闭门造车"
+  },
+  "raw_text": "美股量化圈应该也有讨论群吧 赵哥也不可能闭门造车"
+}
