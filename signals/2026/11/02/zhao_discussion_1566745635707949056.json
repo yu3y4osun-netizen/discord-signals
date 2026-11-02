@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566745635707949056",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-11-02T09:27:48.279000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 关于这个数学草稿，我也看到了，您说蓝色部分修改了，但是看起来只是改了个颜色，内容跟原图还是一样的，并没有任何的改变",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 关于这个数学草稿，我也看到了，您说蓝色部分修改了，但是看起来只是改了个颜色，内容跟原图还是一样的，并没有任何的改变"
+}
