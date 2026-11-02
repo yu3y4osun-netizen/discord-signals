@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566397181219446787",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zhanglucky",
+  "ts": "2026-11-01T10:23:10.255000+00:00",
+  "captured_at": "2026-11-02T11:24:56+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在就是不确定行情，怕哪天突然直线，然后卖飞了又难受"
+  },
+  "raw_text": "现在就是不确定行情，怕哪天突然直线，然后卖飞了又难受"
+}
