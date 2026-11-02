@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566315750308974754",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gingjiu",
+  "ts": "2026-11-01T04:59:35.613000+00:00",
+  "captured_at": "2026-11-02T11:22:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "SOXL三倍的话磨损很厉害，没亏多少考虑一下止损或者换股票了"
+  },
+  "raw_text": "SOXL三倍的话磨损很厉害，没亏多少考虑一下止损或者换股票了"
+}
