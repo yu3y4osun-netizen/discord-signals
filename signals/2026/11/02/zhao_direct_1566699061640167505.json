@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566699061640167505",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T06:22:44.156000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我主要还有个 不想发金额 就是我们这个群说的也会转发出去",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我主要还有个 不想发金额 就是我们这个群说的也会转发出去",
+  "attribution": "direct"
+}
