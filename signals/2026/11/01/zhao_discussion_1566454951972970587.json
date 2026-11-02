@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566454951972970587",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-11-01T14:12:43.876000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "感觉让子弹飞一会吧 赵哥的点位确实很精准 最近有可能是被更高级的量化模型给狙击了？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "感觉让子弹飞一会吧 赵哥的点位确实很精准 最近有可能是被更高级的量化模型给狙击了？"
+}
