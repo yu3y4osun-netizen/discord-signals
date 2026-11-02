@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566434282736582707",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-11-01T12:50:35.946000+00:00",
+  "captured_at": "2026-11-02T11:29:33+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那你不行啊 我们跟赵哥都重仓云"
+  },
+  "raw_text": "那你不行啊 我们跟赵哥都重仓云"
+}
