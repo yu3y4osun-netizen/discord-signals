@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566703054374576179",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T06:38:36.098000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是有一个 就是上周五 我是感觉就是压最低 他周末暗盘进",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是有一个 就是上周五 我是感觉就是压最低 他周末暗盘进",
+  "attribution": "direct"
+}
