@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566691329784676424",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-11-02T05:52:00.738000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这是赵哥长桥的帖子 我就是当时看这个知道不是模拟单才跟的",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "这是赵哥长桥的帖子 我就是当时看这个知道不是模拟单才跟的"
+}
