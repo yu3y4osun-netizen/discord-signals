@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566448083305369691",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-01T13:45:26.258000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "六号哪怕是七号提醒我们减仓",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "六号哪怕是七号提醒我们减仓"
+}
