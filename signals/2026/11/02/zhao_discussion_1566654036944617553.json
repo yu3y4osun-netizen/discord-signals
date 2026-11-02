@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566654036944617553",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "pan888",
+  "ts": "2026-11-02T03:23:49.432000+00:00",
+  "captured_at": "2026-11-02T11:37:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在不是谈止损的事，而是加仓挽回损失，现在止损不是纯韭菜吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "现在不是谈止损的事，而是加仓挽回损失，现在止损不是纯韭菜吗"
+}
