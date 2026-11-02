@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566672180618465303",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-11-02T04:35:55.221000+00:00",
+  "captured_at": "2026-11-02T21:01:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你别引战我啊，我之前都说我空仓了那波回弹，然后周五上午又打满了Axtx我人都跌傻了，21买进去，13.5割肉…………………………",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "你别引战我啊，我之前都说我空仓了那波回弹，然后周五上午又打满了Axtx我人都跌傻了，21买进去，13.5割肉…………………………"
+}
