@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566606525882044648",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-11-02T00:15:01.912000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "用ai再次跑脚本拉了“不用翻墙美股发布”数据，大家也可以复核一下，我这里看到的是zhao哥前面胜率基本每个月稳定在70以上，这个月胜率跌到36。我是觉得没必要说...",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "用ai再次跑脚本拉了“不用翻墙美股发布”数据，大家也可以复核一下，我这里看到的是zhao哥前面胜率基本每个月稳定在70以上，这个月胜率跌到36。我是觉得没必要说跌太狠就抹黑，其实zhao哥的仓位说1/6并不是严格意义上总仓位的1/6如果直接挂单容易被套，而且1/6仓位或者1/12仓位最好要结合下自己的判断看要不要跟"
+}
