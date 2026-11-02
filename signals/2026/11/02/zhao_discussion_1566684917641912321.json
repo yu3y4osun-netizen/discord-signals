@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566684917641912321",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-11-02T05:26:31.964000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你们昨晚可不是这样的，不过我支持赵哥自证下交易记录，然后把这些人都踢了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "你们昨晚可不是这样的，不过我支持赵哥自证下交易记录，然后把这些人都踢了"
+}
