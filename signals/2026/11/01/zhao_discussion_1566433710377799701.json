@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566433710377799701",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-11-01T12:48:19.485000+00:00",
+  "captured_at": "2026-11-02T11:29:15+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他怎么好意思抄袭赵哥的轮廓图啊"
+  },
+  "raw_text": "他怎么好意思抄袭赵哥的轮廓图啊"
+}
