@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566634342653100197",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-11-02T02:05:33.947000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "阴阳怪气个什么啊。搞得你们自己买能赚多少一样。黑天鹅行情怪赵哥干嘛",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "阴阳怪气个什么啊。搞得你们自己买能赚多少一样。黑天鹅行情怪赵哥干嘛"
+}
