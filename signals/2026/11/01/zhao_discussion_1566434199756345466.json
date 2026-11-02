@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566434199756345466",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "uccu",
+  "ts": "2026-11-01T12:50:16.162000+00:00",
+  "captured_at": "2026-11-02T11:29:29+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我承受不了波动，为什么要买呢"
+  },
+  "raw_text": "我承受不了波动，为什么要买呢"
+}
