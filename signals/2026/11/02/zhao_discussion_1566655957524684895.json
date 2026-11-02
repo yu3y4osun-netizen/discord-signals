@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566655957524684895",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T03:31:27.334000+00:00",
+  "captured_at": "2026-11-02T11:37:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "CBRS",
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥 想请教 cifr iren cbrs这些小票要止损吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 想请教 cifr iren cbrs这些小票要止损吗"
+}
