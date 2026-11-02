@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566425640956072007",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-11-01T12:16:15.585000+00:00",
+  "captured_at": "2026-11-02T11:26:46+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没梭哈的直接梭哈"
+  },
+  "raw_text": "没梭哈的直接梭哈"
+}
