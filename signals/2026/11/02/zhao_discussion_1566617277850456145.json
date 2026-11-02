@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566617277850456145",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-02T00:57:45.381000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你说的好像我没止损一样",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "你说的好像我没止损一样"
+}
