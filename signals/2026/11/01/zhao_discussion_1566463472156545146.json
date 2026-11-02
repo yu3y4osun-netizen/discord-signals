@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566463472156545146",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "occde3312",
+  "ts": "2026-11-01T14:46:35.246000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我最后说一次吧 上涨趋势跟随赵哥没问题，但下跌趋势自己不做好止损跟着赵哥真的别把本金亏没了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我最后说一次吧 上涨趋势跟随赵哥没问题，但下跌趋势自己不做好止损跟着赵哥真的别把本金亏没了"
+}
