@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566406196607455284",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-01T10:58:59.691000+00:00",
+  "captured_at": "2026-11-02T11:25:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "散户最有意思的一个点就是眼看要亏到本金都不愿意止损 这个想法解不了的"
+  },
+  "raw_text": "散户最有意思的一个点就是眼看要亏到本金都不愿意止损 这个想法解不了的"
+}
