@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566727297996689481",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-11-02T08:14:56.228000+00:00",
+  "captured_at": "2026-11-02T21:01:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，amd 财报之前拿一下 soxs 可以不",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，amd 财报之前拿一下 soxs 可以不"
+}
