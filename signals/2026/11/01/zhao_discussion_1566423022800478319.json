@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566423022800478319",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiafengshen",
+  "ts": "2026-11-01T12:05:51.368000+00:00",
+  "captured_at": "2026-11-02T11:25:45+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥可是我的信仰啊，如果连他都弄虚作假，我真不知道该说什么了。"
+  },
+  "raw_text": "赵哥可是我的信仰啊，如果连他都弄虚作假，我真不知道该说什么了。"
+}
