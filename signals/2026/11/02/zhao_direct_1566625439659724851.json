@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566625439659724851",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T01:30:11.308000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没见过啊",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "没见过啊",
+  "attribution": "direct"
+}
