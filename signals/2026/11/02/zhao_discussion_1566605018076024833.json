@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566605018076024833",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-02T00:09:02.423000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "长桥崩了吗，周一8点了，怎么没夜盘动态",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "长桥崩了吗，周一8点了，怎么没夜盘动态"
+}
