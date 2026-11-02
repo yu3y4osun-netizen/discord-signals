@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566644555309387898",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "htjmf",
+  "ts": "2026-11-02T02:46:08.834000+00:00",
+  "captured_at": "2026-11-02T11:02:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "现在生死存亡了，还是希望赵哥能正面回复下，比如晒下实盘，如果真的如此持仓和亏损，大家不会说什么",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "现在生死存亡了，还是希望赵哥能正面回复下，比如晒下实盘，如果真的如此持仓和亏损，大家不会说什么"
+}
