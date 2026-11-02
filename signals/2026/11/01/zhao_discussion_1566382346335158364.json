@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566382346335158364",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-01T09:24:13.343000+00:00",
+  "captured_at": "2026-11-02T11:23:02+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我去澳门都不敢让人把把梭哈"
+  },
+  "raw_text": "我去澳门都不敢让人把把梭哈"
+}
