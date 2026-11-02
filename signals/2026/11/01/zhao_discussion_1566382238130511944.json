@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566382238130511944",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "halandhaha",
+  "ts": "2026-11-01T09:23:47.545000+00:00",
+  "captured_at": "2026-11-02T11:22:59+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "天天让人满仓满融买SOXL这是人干的事情吗"
+  },
+  "raw_text": "天天让人满仓满融买SOXL这是人干的事情吗"
+}
