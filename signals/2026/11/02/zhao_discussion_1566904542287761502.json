@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566904542287761502",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-11-02T19:59:14.560000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN",
+      "MRNA"
+    ],
+    "is_following_zhao": false,
+    "summary": "mrna每天走的跟以前的iren一样😅",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "mrna每天走的跟以前的iren一样😅"
+}
