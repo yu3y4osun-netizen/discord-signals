@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566850686895792159",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-02T16:25:14.434000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "英特尔看了你的图后面那个大阳线没规避财报 还有就是各种小票和云 全买齐了",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "英特尔看了你的图后面那个大阳线没规避财报 还有就是各种小票和云 全买齐了"
+}
