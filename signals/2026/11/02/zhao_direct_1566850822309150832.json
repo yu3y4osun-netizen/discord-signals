@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566850822309150832",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T16:25:46.719000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "我记得你那天说英特尔双倍是8成来着",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我记得你那天说英特尔双倍是8成来着",
+  "attribution": "direct"
+}
