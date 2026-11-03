@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566926443684962465",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T21:26:16.260000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "今天财报就2家不及预期 差苹果没发了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "今天财报就2家不及预期 差苹果没发了",
+  "attribution": "direct"
+}
