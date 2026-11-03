@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566816951362261054",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "corrineq",
+  "ts": "2026-11-02T14:11:11.256000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "好的，谢谢赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "好的，谢谢赵哥"
+}
