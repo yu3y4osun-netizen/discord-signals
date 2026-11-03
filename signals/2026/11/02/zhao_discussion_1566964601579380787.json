@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566964601579380787",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-02T23:57:53.811000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "STX",
+      "WDC"
+    ],
+    "is_following_zhao": true,
+    "summary": "上次出了个东芝增产的新闻，wdc和stx居然跌那么多，连带同板块也一起跌就很不对劲",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "上次出了个东芝增产的新闻，wdc和stx居然跌那么多，连带同板块也一起跌就很不对劲"
+}
