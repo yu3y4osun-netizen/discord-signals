@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566825057987199024",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hellogwh",
+  "ts": "2026-11-02T14:43:24.026000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "给自己设定个多少个点就止损，我就是这样",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "给自己设定个多少个点就止损，我就是这样"
+}
