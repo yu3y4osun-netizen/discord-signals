@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566974351738151113",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-03T00:36:38.430000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "看了下07年，8月份金融危机就开始了，spy撑到11月中旬才掉，今年这个比07年还早",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "看了下07年，8月份金融危机就开始了，spy撑到11月中旬才掉，今年这个比07年还早"
+}
