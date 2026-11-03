@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566900698958790700",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-02T19:43:58.239000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在不敏感是因为信贷环境已经恶化了，油价跌下去新云的借贷成本也不会降低，两者之间有一整条逻辑链要市场和美联储慢慢验证",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "现在不敏感是因为信贷环境已经恶化了，油价跌下去新云的借贷成本也不会降低，两者之间有一整条逻辑链要市场和美联储慢慢验证"
+}
