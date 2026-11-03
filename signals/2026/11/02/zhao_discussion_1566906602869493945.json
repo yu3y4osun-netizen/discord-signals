@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566906602869493945",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-02T20:07:25.841000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "杠杆etf就是个反应动量持续性的指标，本身价格高低不和正股挂钩",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "杠杆etf就是个反应动量持续性的指标，本身价格高低不和正股挂钩"
+}
