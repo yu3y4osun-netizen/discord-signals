@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566824256661364853",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "moneywang",
+  "ts": "2026-11-02T14:40:12.975000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MRVL",
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "迈威尔这得稀释多少股份才能买得起老馒头啊😂",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "迈威尔这得稀释多少股份才能买得起老馒头啊😂"
+}
