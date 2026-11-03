@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566866944454426819",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-11-02T17:29:50.538000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，今天去闲鱼看了下，他们是走api发消息，发不出图片",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，今天去闲鱼看了下，他们是走api发消息，发不出图片"
+}
