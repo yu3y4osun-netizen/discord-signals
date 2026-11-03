@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566874727409123522",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-02T18:00:46.139000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE",
+      "MRVL"
+    ],
+    "is_following_zhao": false,
+    "summary": "市场不看好的另一个原因是收购价值比很接近，属于类似蛇吞象的收购，收购完成后lite的价值占到mrvl市值的1/3",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "市场不看好的另一个原因是收购价值比很接近，属于类似蛇吞象的收购，收购完成后lite的价值占到mrvl市值的1/3"
+}
