@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566823115135131711",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-02T14:35:40.814000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "得知道你仓位什么情况啊",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "得知道你仓位什么情况啊"
+}
