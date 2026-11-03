@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566997135163924571",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-03T02:07:10.422000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "polymarket上民主党入主的概率昨天已经70%多了，如果真的两院易主，后面半年你会看到很多美国的政策推翻再被两党反复争吵，这些都不利于股市",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "polymarket上民主党入主的概率昨天已经70%多了，如果真的两院易主，后面半年你会看到很多美国的政策推翻再被两党反复争吵，这些都不利于股市"
+}
