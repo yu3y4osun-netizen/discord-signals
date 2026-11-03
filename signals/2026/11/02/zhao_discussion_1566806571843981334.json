@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566806571843981334",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T13:29:56.586000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥iren也继续拿着吗 财报会不会大爆雷啊 还是说已经提前消化了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥iren也继续拿着吗 财报会不会大爆雷啊 还是说已经提前消化了"
+}
