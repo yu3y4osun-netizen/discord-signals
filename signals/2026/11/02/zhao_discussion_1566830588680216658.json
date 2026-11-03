@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566830588680216658",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T15:05:22.646000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOG",
+      "INTC",
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "goog nvda intc这种",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "goog nvda intc这种"
+}
