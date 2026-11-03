@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566961540589162507",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-02T23:45:44.014000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "NFLX"
+    ],
+    "is_following_zhao": false,
+    "summary": "奈飞，其实也算半个老登，不懂为啥这么软",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "奈飞，其实也算半个老登，不懂为啥这么软"
+}
