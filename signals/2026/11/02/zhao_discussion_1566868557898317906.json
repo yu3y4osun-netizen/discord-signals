@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566868557898317906",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-02T17:36:15.213000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥今天这后半场估计就剩下震荡磨期权了吧，不会再V了吧",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥今天这后半场估计就剩下震荡磨期权了吧，不会再V了吧"
+}
