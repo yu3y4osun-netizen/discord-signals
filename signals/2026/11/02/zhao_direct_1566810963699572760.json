@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566810963699572760",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T13:47:23.686000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "随指数 最近都正T做做 最好还是soxl集合",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "随指数 最近都正T做做   最好还是soxl集合",
+  "attribution": "direct"
+}
