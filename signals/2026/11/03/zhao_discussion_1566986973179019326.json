@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566986973179019326",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-03T01:26:47.616000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是个很差的长期信号，说明hyperscaler也借不到钱了，我感觉新云只会更差",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "是个很差的长期信号，说明hyperscaler也借不到钱了，我感觉新云只会更差"
+}
