@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566839064693571806",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T15:39:03.485000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是韩国时候是高点的就都是这个特点 基本一直看到今天的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是韩国时候是高点的就都是这个特点 基本一直看到今天的",
+  "attribution": "direct"
+}
