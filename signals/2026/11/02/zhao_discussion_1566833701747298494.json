@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566833701747298494",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hubinchen",
+  "ts": "2026-11-02T15:17:44.859000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我都爆仓3次了，别慌兄弟们，本金可以赚，赢是没有上限的",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "我都爆仓3次了，别慌兄弟们，本金可以赚，赢是没有上限的"
+}
