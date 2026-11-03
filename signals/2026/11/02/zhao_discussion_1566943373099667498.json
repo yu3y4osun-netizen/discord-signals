@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566943373099667498",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-02T22:33:32.547000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "苹果算小幅下跌吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "苹果算小幅下跌吗"
+}
