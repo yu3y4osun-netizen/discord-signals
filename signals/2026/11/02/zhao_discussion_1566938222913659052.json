@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566938222913659052",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-02T22:13:04.647000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "还有我的谷歌也恶心，阴跌那么久，居然还来一次暴跌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "还有我的谷歌也恶心，阴跌那么久，居然还来一次暴跌"
+}
