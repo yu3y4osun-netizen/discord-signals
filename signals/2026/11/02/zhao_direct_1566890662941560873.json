@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566890662941560873",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T19:04:05.466000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "INTC",
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌英特尔开头把大盘股的带动成惊弓之鸟了 没开财报前 规避 一点点有减持 里面会跟着减",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "谷歌英特尔开头把大盘股的带动成惊弓之鸟了  没开财报前 规避  一点点有减持 里面会跟着减",
+  "attribution": "direct"
+}
