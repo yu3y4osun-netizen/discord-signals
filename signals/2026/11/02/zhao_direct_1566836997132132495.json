@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566836997132132495",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T15:30:50.540000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr就是说的 6.6到7.3两次了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "cifr就是说的 6.6到7.3两次了",
+  "attribution": "direct"
+}
