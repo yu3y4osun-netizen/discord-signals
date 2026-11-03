@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566826626606432417",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fastspeed",
+  "ts": "2026-11-02T14:49:38.014000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU",
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "这么多个大趋势，mu，闪迪之类的，一个没有吃到",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这么多个大趋势，mu，闪迪之类的，一个没有吃到"
+}
