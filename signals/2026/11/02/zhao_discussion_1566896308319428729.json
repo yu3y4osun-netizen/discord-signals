@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566896308319428729",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-02T19:26:31.429000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还是那句话 每个人风偏不同 你没义务要求别人帮你止损😅",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "还是那句话 每个人风偏不同 你没义务要求别人帮你止损😅"
+}
