@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566956638886301773",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T23:26:15.357000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "问了就是等 从上周开始等韩国出来 等亚洲盘 等川普 等中选 就算是量化交易没识别到单边趋势下跌 做交易四十几年难道还识别不出来趋势反转了吗",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "问了就是等 从上周开始等韩国出来 等亚洲盘 等川普 等中选 就算是量化交易没识别到单边趋势下跌 做交易四十几年难道还识别不出来趋势反转了吗"
+}
