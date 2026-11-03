@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566873106931257416",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-02T17:54:19.787000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE",
+      "MRVL"
+    ],
+    "is_following_zhao": false,
+    "summary": "mrvl的股东觉得自己被稀释了，一部分选择了抛售，所以lite也跟这跌，现在这俩10%差价",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "mrvl的股东觉得自己被稀释了，一部分选择了抛售，所以lite也跟这跌，现在这俩10%差价"
+}
