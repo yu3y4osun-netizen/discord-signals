@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566931729292337271",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T21:47:16.447000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "lite那天那样炸裂才16%",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "lite那天那样炸裂才16%",
+  "attribution": "direct"
+}
