@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566845892341006490",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "pan888",
+  "ts": "2026-11-02T16:06:11.323000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "中期选举丢两院，纳指会崩？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "中期选举丢两院，纳指会崩？"
+}
