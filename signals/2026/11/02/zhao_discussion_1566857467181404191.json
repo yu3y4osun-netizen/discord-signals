@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566857467181404191",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T16:52:10.980000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren cifr还扛着是吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "iren cifr还扛着是吧"
+}
