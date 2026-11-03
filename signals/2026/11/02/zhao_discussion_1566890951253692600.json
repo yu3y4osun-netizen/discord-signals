@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566890951253692600",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-02T19:05:14.205000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "那我等出了财报再看了，辛苦赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "那我等出了财报再看了，辛苦赵哥"
+}
