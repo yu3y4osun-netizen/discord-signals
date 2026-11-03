@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566825630501183519",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fangyi",
+  "ts": "2026-11-02T14:45:40.524000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥也不是神，他只能承担部分压力，没办法承担你全部压力。钱赚得多又没分给他 ，钱赚亏得多又怪人家。都是成年人有自己的判断喽",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥也不是神，他只能承担部分压力，没办法承担你全部压力。钱赚得多又没分给他 ，钱赚亏得多又怪人家。都是成年人有自己的判断喽"
+}
