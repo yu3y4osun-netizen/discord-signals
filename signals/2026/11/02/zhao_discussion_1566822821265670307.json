@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566822821265670307",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T14:34:30.750000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我只是想知道我们什么时候止损啊 一直扛着吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我只是想知道我们什么时候止损啊 一直扛着吗"
+}
