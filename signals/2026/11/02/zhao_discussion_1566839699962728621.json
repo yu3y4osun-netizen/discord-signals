@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566839699962728621",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qiqii",
+  "ts": "2026-11-02T15:41:34.945000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥英特尔拿个半年还有机会到95吗 基本面有没有走坏",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥英特尔拿个半年还有机会到95吗 基本面有没有走坏"
+}
