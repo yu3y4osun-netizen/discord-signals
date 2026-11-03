@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566932191668215951",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T21:49:06.686000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "吃个前面和当中 轮动的涨 讲到那块涨那块",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "吃个前面和当中  轮动的涨 讲到那块涨那块",
+  "attribution": "direct"
+}
