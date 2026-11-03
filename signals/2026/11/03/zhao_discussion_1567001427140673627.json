@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567001427140673627",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-03T02:24:13.709000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "（中国垄断了全球将近90%的光伏板，即使要交关税，也绕不开",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "（中国垄断了全球将近90%的光伏板，即使要交关税，也绕不开"
+}
