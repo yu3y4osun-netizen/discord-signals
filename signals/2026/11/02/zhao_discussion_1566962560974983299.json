@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566962560974983299",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-02T23:49:47.293000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": true,
+    "summary": "我之前还买了点挖矿的老登，也没用",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我之前还买了点挖矿的老登，也没用"
+}
