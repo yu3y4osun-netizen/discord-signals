@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566923437556105246",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T21:14:19.543000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AEHR"
+    ],
+    "is_following_zhao": true,
+    "summary": "aehr全出了吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "aehr全出了吗"
+}
