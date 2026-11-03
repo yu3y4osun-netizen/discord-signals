@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566833294996406444",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-02T15:16:07.882000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SMCI"
+    ],
+    "is_following_zhao": true,
+    "summary": "小票可以参考smci，我当时拿了半年还赚点，前提是管理层和机构愿意救",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "小票可以参考smci，我当时拿了半年还赚点，前提是管理层和机构愿意救"
+}
