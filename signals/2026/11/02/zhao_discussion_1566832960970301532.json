@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566832960970301532",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T15:14:48.244000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "要涨也是大盘涨",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "要涨也是大盘涨"
+}
