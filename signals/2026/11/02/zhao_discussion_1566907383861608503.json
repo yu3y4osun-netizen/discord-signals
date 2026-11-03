@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566907383861608503",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-02T20:10:32.044000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl就是个动量指标，别傻乎乎地看到价格低就觉得是“价投”了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl就是个动量指标，别傻乎乎地看到价格低就觉得是“价投”了"
+}
