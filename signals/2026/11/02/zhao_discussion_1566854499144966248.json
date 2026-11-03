@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566854499144966248",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-11-02T16:40:23.345000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "你的cifr iren这些也是 不断低卖最低的死拿 上面做t成本出",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "你的cifr iren这些也是 不断低卖最低的死拿 上面做t成本出"
+}
