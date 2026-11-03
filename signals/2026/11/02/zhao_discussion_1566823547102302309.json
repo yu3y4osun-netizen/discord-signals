@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566823547102302309",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-11-02T14:37:23.803000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥这个云真就是无底洞啊",
+    "filter_reason": "zhao_discuss",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "赵哥这个云真就是无底洞啊"
+}
