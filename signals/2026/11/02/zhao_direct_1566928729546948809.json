@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566928729546948809",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T21:35:21.252000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "夜盘反弹 又要压迫amd的财报",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "夜盘反弹 又要压迫amd的财报",
+  "attribution": "direct"
+}
