@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566955528146395247",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xunlock",
+  "ts": "2026-11-02T23:21:50.536000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一个做了40年的大神交易员，不做对冲，不做止损，不买防御，甚至连风险都不规避，高盛的交易员个个都这样早就倒闭了。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "一个做了40年的大神交易员，不做对冲，不做止损，不买防御，甚至连风险都不规避，高盛的交易员个个都这样早就倒闭了。"
+}
