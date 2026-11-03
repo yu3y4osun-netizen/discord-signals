@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566962191901532212",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-11-02T23:48:19.299000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NFLX"
+    ],
+    "is_following_zhao": true,
+    "summary": "感觉奈飞不好搞啊，一个是现在广告效果远不如短视频，一个是打造爆款剧成本不低，还有就是现在那么多剧目平台，出了爆款观众都不一定记得住是奈飞的😅",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "感觉奈飞不好搞啊，一个是现在广告效果远不如短视频，一个是打造爆款剧成本不低，还有就是现在那么多剧目平台，出了爆款观众都不一定记得住是奈飞的😅"
+}
