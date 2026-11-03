@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566960997082865755",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-02T23:43:34.432000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS",
+      "TSLA"
+    ],
+    "is_following_zhao": true,
+    "summary": "亏损最大的前半年特斯拉双倍从21.5到9.9包邮，后半年是Cbrs",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "亏损最大的前半年特斯拉双倍从21.5到9.9包邮，后半年是Cbrs"
+}
