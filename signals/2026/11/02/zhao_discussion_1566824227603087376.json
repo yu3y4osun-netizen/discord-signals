@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566824227603087376",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-11-02T14:40:06.047000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COHR",
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "那么nbis cohr和iren呢，这些如何处理",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "那么nbis cohr和iren呢，这些如何处理"
+}
