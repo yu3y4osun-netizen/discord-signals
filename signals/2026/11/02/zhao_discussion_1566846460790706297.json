@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566846460790706297",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hubinchen",
+  "ts": "2026-11-02T16:08:26.852000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "说没用，自己亲身经历爆仓才能明白。",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "说没用，自己亲身经历爆仓才能明白。"
+}
