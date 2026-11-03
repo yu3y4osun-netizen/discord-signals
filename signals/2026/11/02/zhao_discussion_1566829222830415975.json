@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566829222830415975",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-02T14:59:57.002000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跟了一年的再蠢都知道，轻仓吃肉重仓挨最痛的打",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "跟了一年的再蠢都知道，轻仓吃肉重仓挨最痛的打"
+}
