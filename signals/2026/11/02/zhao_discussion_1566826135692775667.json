@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566826135692775667",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shiminmin11",
+  "ts": "2026-11-02T14:47:40.971000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MCD"
+    ],
+    "is_following_zhao": true,
+    "summary": "你买了云闪存 人家稳健要mcd 有什么问题",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云",
+      "存储"
+    ]
+  },
+  "raw_text": "你买了云闪存 人家稳健要mcd 有什么问题"
+}
