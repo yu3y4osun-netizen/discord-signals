@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566838394607116451",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T15:36:23.724000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "云的话 他每天夜盘涨了 开盘回踩又去摸夜盘",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "云的话 他每天夜盘涨了 开盘回踩又去摸夜盘",
+  "attribution": "direct"
+}
