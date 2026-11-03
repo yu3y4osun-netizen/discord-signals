@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566838177350684764",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-02T15:35:31.926000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "感觉亏钱了戾气都很大，这种情况很正常，不过人得对自己的钱负责，赵哥的操作就是个参考项，是不是完全照做在每个人自己",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "感觉亏钱了戾气都很大，这种情况很正常，不过人得对自己的钱负责，赵哥的操作就是个参考项，是不是完全照做在每个人自己"
+}
