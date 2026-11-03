@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566886502393184408",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-11-02T18:47:33.514000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那为什么不加一些对冲呢？如果我们预期有利空",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那为什么不加一些对冲呢？如果我们预期有利空"
+}
