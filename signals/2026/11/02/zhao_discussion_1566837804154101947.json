@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566837804154101947",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qiqii",
+  "ts": "2026-11-02T15:34:02.949000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "纳斯达克哪个票有英伟达热门你说说看",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "纳斯达克哪个票有英伟达热门你说说看"
+}
