@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566923902070951991",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T21:16:10.292000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大财报是5点20-30分的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "大财报是5点20-30分的",
+  "attribution": "direct"
+}
