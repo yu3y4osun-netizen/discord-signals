@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566812077450985607",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T13:51:49.225000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是比如soxl 他夜盘高点是82 他盘前 5点会挂个78-79 不断去压到这个价格附近 让提前的挂这个价格成交 盘中要冲破这个夜盘高点就是在夜盘基础上续涨了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是比如soxl 他夜盘高点是82  他盘前 5点会挂个78-79  不断去压到这个价格附近 让提前的挂这个价格成交 盘中要冲破这个夜盘高点就是在夜盘基础上续涨了",
+  "attribution": "direct"
+}
