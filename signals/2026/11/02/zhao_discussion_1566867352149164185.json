@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566867352149164185",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-11-02T17:31:27.740000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "说的是闲鱼监控赵哥点位的那个呢",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "说的是闲鱼监控赵哥点位的那个呢"
+}
