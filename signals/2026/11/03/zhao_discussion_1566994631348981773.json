@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566994631348981773",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-11-03T01:57:13.466000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "今天还有个amd财报",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "今天还有个amd财报"
+}
