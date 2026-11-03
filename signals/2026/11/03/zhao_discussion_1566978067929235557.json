@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566978067929235557",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fastspeed",
+  "ts": "2026-11-03T00:51:24.439000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一年就没见过止损的，弄那么多垃圾股",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "一年就没见过止损的，弄那么多垃圾股"
+}
