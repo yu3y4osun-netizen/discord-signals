@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566962912189485128",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-02T23:51:11.029000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "然后存储，除了美光都不太行了，很迷惑",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "光",
+      "存储"
+    ]
+  },
+  "raw_text": "然后存储，除了美光都不太行了，很迷惑"
+}
