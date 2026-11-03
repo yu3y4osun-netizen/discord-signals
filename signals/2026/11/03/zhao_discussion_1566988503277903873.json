@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566988503277903873",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-03T01:32:52.420000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "商业银行不给房地产公司贷款，坏账增加，就是meta在美国借不到钱，去欧洲发债，或者是coreweave的cds利差走阔",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "A股银行"
+    ]
+  },
+  "raw_text": "商业银行不给房地产公司贷款，坏账增加，就是meta在美国借不到钱，去欧洲发债，或者是coreweave的cds利差走阔"
+}
