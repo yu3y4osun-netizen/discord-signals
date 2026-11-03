@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566987847062392944",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckydong",
+  "ts": "2026-11-03T01:30:15.966000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大哥 新云套太多 止损还是长拿到明年好",
+    "filter_reason": "emotion",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "大哥 新云套太多 止损还是长拿到明年好"
+}
