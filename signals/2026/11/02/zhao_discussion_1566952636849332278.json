@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566952636849332278",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T23:10:21.197000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "对冲也没有 止损也没有",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "对冲也没有 止损也没有"
+}
