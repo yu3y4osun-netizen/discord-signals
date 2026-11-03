@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566937272937615472",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T22:09:18.155000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "解禁期和利空太频繁了 只能等有个异动再看",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "解禁期和利空太频繁了 只能等有个异动再看",
+  "attribution": "direct"
+}
