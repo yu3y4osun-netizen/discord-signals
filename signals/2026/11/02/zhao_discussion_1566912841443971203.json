@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566912841443971203",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T20:32:13.233000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还没有止损 被我妈喷麻了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "还没有止损 被我妈喷麻了"
+}
