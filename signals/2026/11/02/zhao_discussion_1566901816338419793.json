@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566901816338419793",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-11-02T19:48:24.643000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "soxx的440不远了 这要是守不住 觉得要完了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "soxx的440不远了 这要是守不住 觉得要完了"
+}
