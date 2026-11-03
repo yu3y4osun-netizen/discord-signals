@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566865886428536973",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuyu99",
+  "ts": "2026-11-02T17:25:38.285000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 这个讨论群消息太多了有时候不咋看 一般还是看记录区 以后还是以前那么发吧？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 这个讨论群消息太多了有时候不咋看 一般还是看记录区 以后还是以前那么发吧？"
+}
