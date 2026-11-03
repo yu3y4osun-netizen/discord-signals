@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566824399334670378",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fastspeed",
+  "ts": "2026-11-02T14:40:46.991000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl吃了两次-20%",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl吃了两次-20%"
+}
