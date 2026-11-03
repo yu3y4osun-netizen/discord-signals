@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566929700851548314",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-02T21:39:12.829000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "行，谢谢赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "行，谢谢赵哥"
+}
