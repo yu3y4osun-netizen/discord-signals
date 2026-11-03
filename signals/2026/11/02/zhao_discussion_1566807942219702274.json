@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566807942219702274",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-02T13:35:23.309000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "市场上，很多反馈duo并不好，希望苹果财报扛住",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "市场上，很多反馈duo并不好，希望苹果财报扛住"
+}
