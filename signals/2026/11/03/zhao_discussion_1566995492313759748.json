@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566995492313759748",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-11-03T02:00:38.736000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "ai现在这个上下游产业链杠杆拉的有点太高了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "ai现在这个上下游产业链杠杆拉的有点太高了"
+}
