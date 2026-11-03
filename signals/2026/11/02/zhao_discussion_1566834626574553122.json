@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566834626574553122",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-02T15:21:25.355000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "intc也不跟",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "intc也不跟"
+}
