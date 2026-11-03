@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566809211034411059",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T13:40:25.818000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我之前就是 获取这个量去判断一天的 就是和A股集合竞价或者不可撤单子判断一样",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我之前就是 获取这个量去判断一天的  就是和A股集合竞价或者不可撤单子判断一样",
+  "attribution": "direct"
+}
