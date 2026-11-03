@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566835265115263047",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T15:23:57.595000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有的就是做了一年很久了一下流动性缺失陷进去了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "有的就是做了一年很久了一下流动性缺失陷进去了",
+  "attribution": "direct"
+}
