@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566965220142747709",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-11-03T00:00:21.288000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "LITE",
+      "MRVL"
+    ],
+    "is_following_zhao": true,
+    "summary": "那比如多lite 空mrvl有套利空间这种分析呢，感觉把所有一手信息问AI，给不同的prompt都能引导出相反两种结论",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "那比如多lite 空mrvl有套利空间这种分析呢，感觉把所有一手信息问AI，给不同的prompt都能引导出相反两种结论"
+}
