@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566814870484025375",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T14:02:55.136000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "走挂了是啥意思",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "走挂了是啥意思"
+}
