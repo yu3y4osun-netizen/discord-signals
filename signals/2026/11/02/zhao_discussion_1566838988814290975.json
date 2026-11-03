@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566838988814290975",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qiqii",
+  "ts": "2026-11-02T15:38:45.394000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA",
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "等11月中英伟达财报后 还是做英伟达 特斯拉吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "等11月中英伟达财报后 还是做英伟达 特斯拉吧"
+}
