@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566988319080980543",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-03T01:32:08.504000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你代入新云，人均收入下降就等于ai下游收入证伪",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "你代入新云，人均收入下降就等于ai下游收入证伪"
+}
