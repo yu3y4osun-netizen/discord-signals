@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566846060884664463",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hubinchen",
+  "ts": "2026-11-02T16:06:51.507000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥的仓位都是起码最低分20次操作，兄弟们是三次梭哈进去了，满仓满融，不承担亏的结果🥲",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥的仓位都是起码最低分20次操作，兄弟们是三次梭哈进去了，满仓满融，不承担亏的结果🥲"
+}
