@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566902811260616907",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-02T19:52:21.851000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没一点反弹啊",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "没一点反弹啊"
+}
