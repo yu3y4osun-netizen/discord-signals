@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566870371758514197",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T17:43:27.671000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "amd随指数跌了2天 泄露会计提更多的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "amd随指数跌了2天 泄露会计提更多的",
+  "attribution": "direct"
+}
