@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566937362850652242",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T22:09:39.592000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他反弹异动就马上发利空 有点故意了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "他反弹异动就马上发利空 有点故意了",
+  "attribution": "direct"
+}
