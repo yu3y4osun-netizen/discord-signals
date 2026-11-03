@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566837324698886155",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ciciwangyao",
+  "ts": "2026-11-02T15:32:08.638000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥的特点就是做小波段，天然需要流动性好，热门的票",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥的特点就是做小波段，天然需要流动性好，热门的票"
+}
