@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566928362964910135",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-02T21:33:53.852000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": true,
+    "summary": "等苹果过后，跟赵哥买入",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "等苹果过后，跟赵哥买入"
+}
