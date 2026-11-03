@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566846204539568283",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qiqii",
+  "ts": "2026-11-02T16:07:25.757000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA",
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 咱后面还是做英伟达和特斯拉吧 稳点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 咱后面还是做英伟达和特斯拉吧 稳点"
+}
