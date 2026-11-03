@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566833340097630382",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hubinchen",
+  "ts": "2026-11-02T15:16:18.635000+00:00",
+  "captured_at": "2026-11-03T10:59:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "现在怎么说，空仓等盘后苹果财报吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "现在怎么说，空仓等盘后苹果财报吗"
+}
