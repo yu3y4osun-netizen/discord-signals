@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567562804871831566",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuuumii",
+  "ts": "2026-11-04T15:34:56.590000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "3天了赵哥今天收盘看看给我退一下resoTyhXjemGgc3NG和resom7VTNV9mJ1u9T。这两个就好了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "3天了赵哥今天收盘看看给我退一下resoTyhXjemGgc3NG和resom7VTNV9mJ1u9T。这两个就好了"
+}
