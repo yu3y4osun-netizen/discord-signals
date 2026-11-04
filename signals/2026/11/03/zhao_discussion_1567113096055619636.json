@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567113096055619636",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T09:47:57.653000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "AMZN",
+      "AVGO",
+      "GOOGL",
+      "NVDA",
+      "TSLA"
+    ],
+    "is_following_zhao": true,
+    "summary": "去年的医药股oscr从21块钱套到13块钱，不玩了，今年前半年的特斯拉双倍从22块钱套到9.9包邮也不玩了，还有伊朗战争刚开始的时候玩的都是一些大票博通谷歌亚马...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "去年的医药股oscr从21块钱套到13块钱，不玩了，今年前半年的特斯拉双倍从22块钱套到9.9包邮也不玩了，还有伊朗战争刚开始的时候玩的都是一些大票博通谷歌亚马逊，还有英伟达，等到上涨了不玩了，又全部换成小票做套了"
+}
