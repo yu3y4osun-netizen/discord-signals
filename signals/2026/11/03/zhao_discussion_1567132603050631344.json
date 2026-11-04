@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567132603050631344",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-03T11:05:28.483000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GS"
+    ],
+    "is_following_zhao": false,
+    "summary": "gs的trader不可能是这个认知，也不可能纯中文交流，我在gs工作了五年，即使我尽量有意识地和中国人沟通用中文，口语习惯也很难完全纠正",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "gs的trader不可能是这个认知，也不可能纯中文交流，我在gs工作了五年，即使我尽量有意识地和中国人沟通用中文，口语习惯也很难完全纠正"
+}
