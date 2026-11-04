@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567558765627179020",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-04T15:18:53.559000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥还不如研究一下币股，云光存成过去式了😂",
+    "filter_reason": "zhao_discuss",
+    "sectors_mentioned": [
+      "云",
+      "光"
+    ]
+  },
+  "raw_text": "赵哥还不如研究一下币股，云光存成过去式了😂"
+}
