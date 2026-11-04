@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567556769453179032",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-04T15:10:57.634000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "别老盯着云光存和半导体那点了，提前买点flsr/cnc/flnc不香吗🙂‍↕️",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云",
+      "光",
+      "半导体"
+    ]
+  },
+  "raw_text": "别老盯着云光存和半导体那点了，提前买点flsr/cnc/flnc不香吗🙂‍↕️"
+}
