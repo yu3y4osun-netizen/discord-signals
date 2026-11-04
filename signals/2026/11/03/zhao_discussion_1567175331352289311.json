@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567175331352289311",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fastspeed",
+  "ts": "2026-11-03T13:55:15.704000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "存储没有上，光没有上",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "光",
+      "存储"
+    ]
+  },
+  "raw_text": "存储没有上，光没有上"
+}
