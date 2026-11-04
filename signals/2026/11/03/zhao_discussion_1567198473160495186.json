@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567198473160495186",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepblue1",
+  "ts": "2026-11-03T15:27:13.141000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我上回改了一个虚拟银行的地址，1天就被查出来了，改回去就没事了。还好银行没给我关户",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "A股银行"
+    ]
+  },
+  "raw_text": "我上回改了一个虚拟银行的地址，1天就被查出来了，改回去就没事了。还好银行没给我关户"
+}
