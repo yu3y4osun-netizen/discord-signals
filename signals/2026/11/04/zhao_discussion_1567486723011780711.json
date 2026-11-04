@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567486723011780711",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yingdi9527",
+  "ts": "2026-11-04T10:32:37.261000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "早上挂单没买到 盘中还有机会回踩么 赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "早上挂单没买到 盘中还有机会回踩么 赵哥"
+}
