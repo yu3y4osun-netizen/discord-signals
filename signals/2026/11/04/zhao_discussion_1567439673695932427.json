@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567439673695932427",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-11-04T07:25:39.830000+00:00",
+  "captured_at": "2026-11-04T16:01:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "正常盘前还要回踩一下吧",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "正常盘前还要回踩一下吧"
+}
