@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567171090713944187",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T13:38:24.657000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS",
+      "CIFR",
+      "CRWV",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "对就是之前发减持的日子 如果手里只有crwv cbrs 或者只有iren cifr的就会覆盖不到",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "对就是之前发减持的日子  如果手里只有crwv cbrs 或者只有iren cifr的就会覆盖不到",
+  "attribution": "direct"
+}
