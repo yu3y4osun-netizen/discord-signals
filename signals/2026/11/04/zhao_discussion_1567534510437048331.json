@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567534510437048331",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-11-04T13:42:30.671000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "自己赌输了就在频道逼逼赖赖影响别人，赵哥还没有责任心吗？白天他在，晚上他还在，他是在美国不是在中国，你们这些人真的太恶心了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "自己赌输了就在频道逼逼赖赖影响别人，赵哥还没有责任心吗？白天他在，晚上他还在，他是在美国不是在中国，你们这些人真的太恶心了"
+}
