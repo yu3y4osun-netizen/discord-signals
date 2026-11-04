@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567544471170850958",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-04T14:22:05.495000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我感觉消费和苹果都是被避险资金拉上去的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我感觉消费和苹果都是被避险资金拉上去的"
+}
