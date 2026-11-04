@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567134895505936396",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "linlin7",
+  "ts": "2026-11-03T11:14:35.047000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "该说不说zhao的人设确实牛 可以做到把人坑到亏光 亏光那个人还感恩戴德",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "该说不说zhao的人设确实牛 可以做到把人坑到亏光 亏光那个人还感恩戴德"
+}
