@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567202629396987905",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T15:43:44.065000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个时间段我反而不太有利 有财报时候盘后一个小时休息到韩国开盘看到A股开盘半小时 在休息一会 A股收盘在看A韩收盘情况 然后休息下 盘前2小时在起来",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这个时间段我反而不太有利  有财报时候盘后一个小时休息到韩国开盘看到A股开盘半小时  在休息一会  A股收盘在看A韩收盘情况  然后休息下 盘前2小时在起来",
+  "attribution": "direct"
+}
