@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567362421511950357",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "t1d3c6e",
+  "ts": "2026-11-04T02:18:41.474000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "都是几个穷逼，只有钱买小票，然后高位梭哈了来怪赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "都是几个穷逼，只有钱买小票，然后高位梭哈了来怪赵哥"
+}
