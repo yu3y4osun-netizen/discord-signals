@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567504010565656617",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-11-04T11:41:18.935000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "ORCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "迫于美国压力，甲骨文取消与腾讯价值70亿美元的AI芯片租赁协议",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "迫于美国压力，甲骨文取消与腾讯价值70亿美元的AI芯片租赁协议"
+}
