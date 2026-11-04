@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567424185133699163",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T06:24:07.069000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "北京时间 5点30分休息到8点30 看韩A到10点 10-16点休息 16看 夜盘的最后1小时和盘前半小时开始 看到16点30 在休息到19点盘前2小时到 盘后5点30",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "北京时间 5点30分休息到8点30  看韩A到10点  10-16点休息   16看 夜盘的最后1小时和盘前半小时开始 看到16点30  在休息到19点盘前2小时到 盘后5点30",
+  "attribution": "direct"
+}
