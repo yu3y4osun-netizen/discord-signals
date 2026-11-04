@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567405731173634080",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-11-04T05:10:47.302000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥后面可以多做点tqqq这种慢的票吗，soxl这种有点波动太大了，跟不上",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥后面可以多做点tqqq这种慢的票吗，soxl这种有点波动太大了，跟不上"
+}
