@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567147376379166773",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T12:04:10.719000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那时候其他都正常 这一段主要是10月6日后 选情特朗普没有说全球开始缩量",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "那时候其他都正常  这一段主要是10月6日后 选情特朗普没有说全球开始缩量",
+  "attribution": "direct"
+}
