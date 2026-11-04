@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567176962936668231",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-11-03T14:01:44.704000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "INTC"
+    ],
+    "is_following_zhao": true,
+    "summary": "AMD是不是受成本上涨影响比intc还大",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "AMD是不是受成本上涨影响比intc还大"
+}
