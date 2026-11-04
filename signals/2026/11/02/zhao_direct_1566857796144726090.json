@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566857796144726090",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T16:53:29.411000+00:00",
+  "captured_at": "2026-11-04T15:53:28+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "仓位满就夜盘那种减点开盘回踩和盘后有大盘子财报的发了看情况再回买",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "仓位满就夜盘那种减点开盘回踩和盘后有大盘子财报的发了看情况再回买",
+  "attribution": "direct"
+}
