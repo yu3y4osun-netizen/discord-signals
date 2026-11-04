@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566931805268086917",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-02T21:47:34.561000+00:00",
+  "captured_at": "2026-11-04T15:55:41+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "不知道到时候谷歌能否涨回300，300我走一部分🤣",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "不知道到时候谷歌能否涨回300，300我走一部分🤣"
+}
