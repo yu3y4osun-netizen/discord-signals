@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567211418531397734",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T16:18:39.558000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是soxl成本低的减持点有2个机会的 就是一个盘前 最高77 那时候没减成功 盘中就会摸一下靠近或者不突破 76之类减减 想格局的短线极限就是看73.7是不是跌破跌破也先出就看盘后是不是最低点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是soxl成本低的减持点有2个机会的 就是一个盘前 最高77 那时候没减成功 盘中就会摸一下靠近或者不突破 76之类减减  想格局的短线极限就是看73.7是不是跌破跌破也先出就看盘后是不是最低点",
+  "attribution": "direct"
+}
