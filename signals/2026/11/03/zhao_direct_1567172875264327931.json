@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567172875264327931",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T13:45:30.127000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr 就是昨天说那种 6.6-7.3来回几波了也是那种资金套利几次",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "cifr 就是昨天说那种 6.6-7.3来回几波了也是那种资金套利几次",
+  "attribution": "direct"
+}
