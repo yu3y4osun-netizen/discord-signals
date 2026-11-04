@@ -1,0 +1,27 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567582028965216437",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-11-04T16:51:19.971000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS",
+      "CIFR",
+      "CRWV",
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵叔我主要是云套的比较深。 crwv。 cifr。cbrs。iren。nbis。 其中有几个跌超30以后。因为没流动资金了。 比如原来买了 1成的crwv。换成...",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "赵叔我主要是云套的比较深。 crwv。 cifr。cbrs。iren。nbis。     其中有几个跌超30以后。因为没流动资金了。 比如原来买了 1成的crwv。换成了0.6成的双倍"
+}
