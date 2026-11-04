@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567523630055948440",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-04T12:59:16.586000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "为什么盘前开始一轮猛涨现在又猛跌，真是会戏弄我们啊",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "为什么盘前开始一轮猛涨现在又猛跌，真是会戏弄我们啊"
+}
