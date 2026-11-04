@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567193372479717538",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T15:06:57.044000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "Amd希望和苹果一样直接了上涨吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Amd希望和苹果一样直接了上涨吧"
+}
