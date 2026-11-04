@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567126591832592408",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yorryskyy",
+  "ts": "2026-11-03T10:41:35.297000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "@xiaozhaolucky 赵哥 麻烦处理一下退款 谢谢",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "@xiaozhaolucky 赵哥 麻烦处理一下退款 谢谢"
+}
