@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567155884428234763",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuuumii",
+  "ts": "2026-11-03T12:37:59.196000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，我没生活费了。刚好开了1年多，有新开的年费麻烦闲了退一下，我也就美股退市了，有2笔订单",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，我没生活费了。刚好开了1年多，有新开的年费麻烦闲了退一下，我也就美股退市了，有2笔订单"
+}
