@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567532848355872882",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-04T13:35:54.400000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "这哥们都拉了单子了，赵哥这几笔最多亏的也就40%，之前但凡有盈利，回撤也就在20%，30%",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "这哥们都拉了单子了，赵哥这几笔最多亏的也就40%，之前但凡有盈利，回撤也就在20%，30%"
+}
