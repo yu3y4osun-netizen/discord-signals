@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567548493726224405",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jailingackman",
+  "ts": "2026-11-04T14:38:04.547000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "怎么除了半导体，全起飞",
+    "filter_reason": "emotion",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "怎么除了半导体，全起飞"
+}
