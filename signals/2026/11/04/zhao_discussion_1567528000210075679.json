@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567528000210075679",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-04T13:16:38.512000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "AMZN",
+      "CRWV",
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌，亚马逊，crwv猛",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌，亚马逊，crwv猛"
+}
