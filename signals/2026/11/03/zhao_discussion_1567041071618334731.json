@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567041071618334731",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-03T05:01:45.689000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "你是自己买soxs，叫我们soxl",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "你是自己买soxs，叫我们soxl"
+}
