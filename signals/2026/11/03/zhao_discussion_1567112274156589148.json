@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567112274156589148",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-03T09:44:41.697000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥买的麦当劳也不给大伙发啊 还不让大伙儿买麦当劳呢",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥买的麦当劳也不给大伙发啊 还不让大伙儿买麦当劳呢"
+}
