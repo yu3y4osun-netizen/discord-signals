@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567556771579568282",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-11-04T15:10:58.141000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "大盘都去7700了，云光存还在新低附近、",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云",
+      "光"
+    ]
+  },
+  "raw_text": "大盘都去7700了，云光存还在新低附近、"
+}
