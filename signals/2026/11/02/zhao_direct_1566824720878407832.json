@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566824720878407832",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T14:42:03.653000+00:00",
+  "captured_at": "2026-11-04T15:51:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "胜选讲话时候",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "胜选讲话时候",
+  "attribution": "direct"
+}
