@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567001048894152741",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-03T02:22:43.528000+00:00",
+  "captured_at": "2026-11-04T15:56:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大部分美国的太阳能公司这两年都很惨，被川普的大美丽法案爆锤，而且光伏板极度依赖中国的情况下还要吃关税大棒，属于营收和成本两头挨打",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "大部分美国的太阳能公司这两年都很惨，被川普的大美丽法案爆锤，而且光伏板极度依赖中国的情况下还要吃关税大棒，属于营收和成本两头挨打"
+}
