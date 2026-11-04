@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567550159108182079",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-04T14:44:41.605000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "利空出尽等于利好",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "利空出尽等于利好"
+}
