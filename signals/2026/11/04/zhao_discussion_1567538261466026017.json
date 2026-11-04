@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567538261466026017",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-04T13:57:24.986000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "AMZN"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，amzn为什么这轮修复速度这么快啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，amzn为什么这轮修复速度这么快啊"
+}
