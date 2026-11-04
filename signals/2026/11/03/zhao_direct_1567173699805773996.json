@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567173699805773996",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T13:48:46.713000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是一开始不知道的 也是缩量和才知道 就相当于原来缩量在30%感觉够极限了 英特尔那天 在带缩了10%",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是一开始不知道的 也是缩量和才知道 就相当于原来缩量在30%感觉够极限了  英特尔那天 在带缩了10%",
+  "attribution": "direct"
+}
