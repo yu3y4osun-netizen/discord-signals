@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567159746887417958",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dongreng",
+  "ts": "2026-11-03T12:53:20.078000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我说我自己骚操作末日期权亏的在多数。跟赵哥的反而是不多",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我说我自己骚操作末日期权亏的在多数。跟赵哥的反而是不多"
+}
