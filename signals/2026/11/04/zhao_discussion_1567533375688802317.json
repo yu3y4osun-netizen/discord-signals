@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567533375688802317",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-04T13:38:00.126000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "要说割肉 我是在CPI公布前就割了 我都没嘲讽",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "要说割肉 我是在CPI公布前就割了 我都没嘲讽"
+}
