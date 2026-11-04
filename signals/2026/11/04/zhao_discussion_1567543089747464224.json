@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567543089747464224",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-04T14:16:36.138000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，我想问下，你当初08和20这两次股灾是怎么应对的",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，我想问下，你当初08和20这两次股灾是怎么应对的"
+}
