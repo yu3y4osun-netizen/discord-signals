@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566871042813591594",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-02T17:46:07.663000+00:00",
+  "captured_at": "2026-11-04T15:53:42+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "lite本来就是盘前发的财报 哪来提前泄密这一说😅",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "lite本来就是盘前发的财报 哪来提前泄密这一说😅"
+}
