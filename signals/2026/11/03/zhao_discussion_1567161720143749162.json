@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567161720143749162",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-03T13:01:10.539000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "交易是自己的，还问为什么不止损，搞笑",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "交易是自己的，还问为什么不止损，搞笑"
+}
