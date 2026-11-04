@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567254266278715403",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "skyeli168",
+  "ts": "2026-11-03T19:08:55.257000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE",
+      "LITX"
+    ],
+    "is_following_zhao": false,
+    "summary": "lite收购应该有点涨幅预期，现在最低点了，我计划把cohx换到litx，同板块合并，也是2倍杠杆，合并后大概一成仓，同时继续做T，这样合理吗，弹10%-20%...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "lite收购应该有点涨幅预期，现在最低点了，我计划把cohx换到litx，同板块合并，也是2倍杠杆，合并后大概一成仓，同时继续做T，这样合理吗，弹10%-20%全出"
+}
