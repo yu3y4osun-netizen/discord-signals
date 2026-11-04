@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567500805634924617",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T11:28:34.820000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPYU",
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "这个就是记忆点又到7月那时候 大跌不就是spyu tqqq占满",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这个就是记忆点又到7月那时候 大跌不就是spyu tqqq占满",
+  "attribution": "direct"
+}
