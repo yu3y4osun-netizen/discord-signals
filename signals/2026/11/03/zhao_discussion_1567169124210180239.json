@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567169124210180239",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ning2206",
+  "ts": "2026-11-03T13:30:35.806000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "paySUgifJIAdt4dKt 赵哥麻烦退一下年会员还有七个月@xiaozhaolucky",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "paySUgifJIAdt4dKt 赵哥麻烦退一下年会员还有七个月@xiaozhaolucky"
+}
