@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567418915393638564",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T06:03:10.665000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "盘中开盘应该还有个机会 买双边期权的多空都买的空开盘会结算会在压下再看看机会",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "盘中开盘应该还有个机会 买双边期权的多空都买的空开盘会结算会在压下再看看机会",
+  "attribution": "direct"
+}
