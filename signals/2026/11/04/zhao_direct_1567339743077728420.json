@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567339743077728420",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T00:48:34.514000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "不是 就是量化对每个事件有个设定好的值 就好比 amd财报没出结果没反应",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "不是 就是量化对每个事件有个设定好的值 就好比 amd财报没出结果没反应",
+  "attribution": "direct"
+}
