@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567443996232519791",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-04T07:42:50.403000+00:00",
+  "captured_at": "2026-11-04T16:01:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我觉得差不多了，再打没啥意义，黄毛前几天空袭完格氏姆岛也口嗨完了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我觉得差不多了，再打没啥意义，黄毛前几天空袭完格氏姆岛也口嗨完了"
+}
