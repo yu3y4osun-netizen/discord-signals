@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567230783352086599",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:35:36.491000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "在隔天在盘后看看 哦这个又最低点收盘 过了财报日没有检查下 再看看前几天 有没有最低了盘前盘中冲很高在买来短线",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "在隔天在盘后看看 哦这个又最低点收盘  过了财报日没有检查下 再看看前几天 有没有最低了盘前盘中冲很高在买来短线",
+  "attribution": "direct"
+}
