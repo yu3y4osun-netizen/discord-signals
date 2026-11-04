@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567105997636505661",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "vvangxing",
+  "ts": "2026-11-03T09:19:45.258000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl又直线了 叫你们梭哈你们不梭哈 根本无惧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl又直线了 叫你们梭哈你们不梭哈 根本无惧"
+}
