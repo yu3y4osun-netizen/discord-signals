@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567147191343124641",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T12:03:26.603000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "微软也是那样 那时候是三季度后一直在450以上先做其他的 7-9月其他还没出现流动性缺失",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "微软也是那样 那时候是三季度后一直在450以上先做其他的 7-9月其他还没出现流动性缺失",
+  "attribution": "direct"
+}
