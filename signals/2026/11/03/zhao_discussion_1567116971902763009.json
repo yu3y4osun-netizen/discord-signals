@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567116971902763009",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shanshan33",
+  "ts": "2026-11-03T10:03:21.727000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "我这次也上了杠杆，之前一直都不上，最近有个叫什么镜的，天天群里叫两倍做多赵哥，还IREN可以拿到50以上，我这次也是怪自己上头，跟着上了杠杆",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我这次也上了杠杆，之前一直都不上，最近有个叫什么镜的，天天群里叫两倍做多赵哥，还IREN可以拿到50以上，我这次也是怪自己上头，跟着上了杠杆"
+}
