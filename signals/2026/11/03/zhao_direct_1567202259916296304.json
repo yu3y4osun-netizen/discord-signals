@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567202259916296304",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T15:42:15.974000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "最近不用怎么熬夜的 盘后价格波动也不大 8-9点北京时间 看看韩国是走高再入也可以",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "最近不用怎么熬夜的  盘后价格波动也不大 8-9点北京时间 看看韩国是走高再入也可以",
+  "attribution": "direct"
+}
