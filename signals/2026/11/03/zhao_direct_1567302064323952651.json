@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567302064323952651",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T22:18:51.199000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "看股票加 测试测试出来 最佳方案了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "看股票加 测试测试出来 最佳方案了",
+  "attribution": "direct"
+}
