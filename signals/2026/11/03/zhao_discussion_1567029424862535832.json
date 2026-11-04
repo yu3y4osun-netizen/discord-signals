@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567029424862535832",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meiyoumeiyou",
+  "ts": "2026-11-03T04:15:28.886000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥，要不要做空啊，被套死了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，要不要做空啊，被套死了"
+}
