@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567215356844449814",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T16:34:18.525000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就差今天的财报这个规避 这个坑 和明天出结果会有个急跌 然后低点就这两个事件里面",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就差今天的财报这个规避 这个坑 和明天出结果会有个急跌 然后低点就这两个事件里面",
+  "attribution": "direct"
+}
