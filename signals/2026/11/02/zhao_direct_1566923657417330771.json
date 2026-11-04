@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566923657417330771",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T21:15:11.962000+00:00",
+  "captured_at": "2026-11-04T15:54:56+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "后面像lite那样 跌回去再看",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "后面像lite那样 跌回去再看",
+  "attribution": "direct"
+}
