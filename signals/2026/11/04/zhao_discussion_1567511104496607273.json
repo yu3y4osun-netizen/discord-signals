@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567511104496607273",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-04T12:09:30.260000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "平了空单就没动了 没有勇气下单了哈哈",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "平了空单就没动了 没有勇气下单了哈哈"
+}
