@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567118135679651953",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chenzhe",
+  "ts": "2026-11-03T10:07:59.193000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "我去年拉两个朋友进群就说了不能跟他买云和币股，看大盘就行",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "我去年拉两个朋友进群就说了不能跟他买云和币股，看大盘就行"
+}
