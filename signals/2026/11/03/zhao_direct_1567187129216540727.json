@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567187129216540727",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T14:42:08.534000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有规律像的来回很多次了就可以盘后那个模式 盘后看看那个在最低了 又出过财报的 就比较稳点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "有规律像的来回很多次了就可以盘后那个模式 盘后看看那个在最低了 又出过财报的 就比较稳点",
+  "attribution": "direct"
+}
