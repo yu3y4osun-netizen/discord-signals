@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566934099111837707",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T21:56:41.456000+00:00",
+  "captured_at": "2026-11-04T15:55:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "有点难 今天和周五 都跌过点 iren压力在26 cifr 8.5都是压力",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "有点难 今天和周五 都跌过点 iren压力在26   cifr 8.5都是压力",
+  "attribution": "direct"
+}
