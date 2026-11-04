@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567345987805253754",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-04T01:13:23.373000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "Spy也破了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Spy也破了"
+}
