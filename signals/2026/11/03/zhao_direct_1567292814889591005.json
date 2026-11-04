@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567292814889591005",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T21:42:05.962000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "AAPL",
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是昨天苹果财报出来我不是连续一个个说cifr iren昨天最低了干嘛要止损 可能就是底部",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是昨天苹果财报出来我不是连续一个个说cifr iren昨天最低了干嘛要止损 可能就是底部",
+  "attribution": "direct"
+}
