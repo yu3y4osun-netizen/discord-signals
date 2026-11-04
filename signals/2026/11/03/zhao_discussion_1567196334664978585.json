@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567196334664978585",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaohongrub",
+  "ts": "2026-11-03T15:18:43.284000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "ib就是登陆有点烦 进程占一大块内存",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "存储"
+    ]
+  },
+  "raw_text": "ib就是登陆有点烦 进程占一大块内存"
+}
