@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567287127597776958",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-11-03T21:19:30.006000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "INTC",
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "我宣布。以后配电脑只买amd。不买英特尔和英伟达😳",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我宣布。以后配电脑只买amd。不买英特尔和英伟达😳"
+}
