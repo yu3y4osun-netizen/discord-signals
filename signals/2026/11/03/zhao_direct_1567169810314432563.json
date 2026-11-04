@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567169810314432563",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T13:33:19.386000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是一半做T一半拿 跌破68他剩下半份也出 在 64-60在买全部",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是一半做T一半拿 跌破68他剩下半份也出 在 64-60在买全部",
+  "attribution": "direct"
+}
