@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567122874970546219",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-03T10:26:49.128000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "从来没有发过这些上升趋势的票，也是奇怪的很。dram也是到了高位才开始玩，后知后觉",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "从来没有发过这些上升趋势的票，也是奇怪的很。dram也是到了高位才开始玩，后知后觉"
+}
