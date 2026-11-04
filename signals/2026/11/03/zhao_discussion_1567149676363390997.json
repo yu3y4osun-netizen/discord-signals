@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567149676363390997",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-03T12:13:19.078000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "上涨行情都会做，现在下跌行情一直买杠杆买小票，真不像大师手法",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "上涨行情都会做，现在下跌行情一直买杠杆买小票，真不像大师手法"
+}
