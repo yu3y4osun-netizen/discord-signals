@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567563605149356062",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-11-04T15:38:07.391000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "数据中心放缓直接利空硬件，不需要那么多服务器存储了",
+    "filter_reason": "emotion",
+    "sectors_mentioned": [
+      "云",
+      "存储"
+    ]
+  },
+  "raw_text": "数据中心放缓直接利空硬件，不需要那么多服务器存储了"
+}
