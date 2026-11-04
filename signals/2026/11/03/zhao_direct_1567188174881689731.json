@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567188174881689731",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T14:46:17.840000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我先买个100份 韩国要抄底 我怎么韩国开盘能出点 韩国没出现卖点 盘前可以卖 这样50份就先赚点出 然后盘中就可以只盯着自己成本或者开盘价 跌破出剩下50份",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我先买个100份    韩国要抄底 我怎么韩国开盘能出点   韩国没出现卖点 盘前可以卖 这样50份就先赚点出   然后盘中就可以只盯着自己成本或者开盘价 跌破出剩下50份",
+  "attribution": "direct"
+}
