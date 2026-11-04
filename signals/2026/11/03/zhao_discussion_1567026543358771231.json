@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567026543358771231",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-11-03T04:04:01.882000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "煞笔们还拿着王炸和soxl呢",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "煞笔们还拿着王炸和soxl呢"
+}
