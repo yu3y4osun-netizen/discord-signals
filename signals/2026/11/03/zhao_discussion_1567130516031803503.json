@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567130516031803503",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T10:57:10.899000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMZN",
+      "GOOGL",
+      "TSLA",
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "价值哥你就跟着特斯拉，台积电，谷歌，亚马逊就行了，他推的别信",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "价值哥你就跟着特斯拉，台积电，谷歌，亚马逊就行了，他推的别信"
+}
