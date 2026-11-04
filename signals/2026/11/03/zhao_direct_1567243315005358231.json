@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567243315005358231",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T18:25:24.270000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是 时间上 amd财报不确定 投票结果就一个急跌在缓慢升 然后胜选发言 暂定11.5-11.15 然后17号看英伟达财报 不好指数回调现在低点68011月30 12月有事件做个10天 12月10号后面再看 但是圣诞节元旦就前年度减持基本1...",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是 时间上  amd财报不确定   投票结果就一个急跌在缓慢升   然后胜选发言 暂定11.5-11.15  然后17号看英伟达财报 不好指数回调现在低点68011月30  12月有事件做个10天 12月10号后面再看 但是圣诞节元旦就前年度减持基本10号仓位很低了 除非特殊事件",
+  "attribution": "direct"
+}
