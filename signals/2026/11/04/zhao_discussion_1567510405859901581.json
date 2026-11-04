@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567510405859901581",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-11-04T12:06:43.692000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr 这个走势是不是是资金试盘。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cifr 这个走势是不是是资金试盘。"
+}
