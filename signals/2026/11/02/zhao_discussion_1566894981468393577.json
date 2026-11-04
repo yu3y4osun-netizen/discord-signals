@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566894981468393577",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-11-02T19:21:15.083000+00:00",
+  "captured_at": "2026-11-04T15:54:17+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "云跌幅最大啊，弹性最大",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "云跌幅最大啊，弹性最大"
+}
