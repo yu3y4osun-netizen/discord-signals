@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567038567484752076",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "peacetrade",
+  "ts": "2026-11-03T04:51:48.657000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "最简单的转弯都不会看吗，那就买SOXL，满仓满融",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "最简单的转弯都不会看吗，那就买SOXL，满仓满融"
+}
