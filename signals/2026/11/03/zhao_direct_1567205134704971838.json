@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567205134704971838",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T15:53:41.377000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "amd财报是跌的时候 amd没跌就等明天出结果会急跌下再看看 右侧的话就是民主党讲话也可以",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "amd财报是跌的时候 amd没跌就等明天出结果会急跌下再看看 右侧的话就是民主党讲话也可以",
+  "attribution": "direct"
+}
