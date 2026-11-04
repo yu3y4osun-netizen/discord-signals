@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566928267892629621",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-02T21:33:31.185000+00:00",
+  "captured_at": "2026-11-04T15:55:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我把70接的soxl卖了，就怕再来个崩盘",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我把70接的soxl卖了，就怕再来个崩盘"
+}
