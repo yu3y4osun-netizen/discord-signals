@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567301776074473483",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T22:17:42.475000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这样后面23小时制也可以覆盖到",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这样后面23小时制也可以覆盖到",
+  "attribution": "direct"
+}
