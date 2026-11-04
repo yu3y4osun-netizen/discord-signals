@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567112441366581440",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shanshan33",
+  "ts": "2026-11-03T09:45:21.563000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "可能后来一直跌，大家仓位也满，怕其他人上杠杆，他也没那么自信吧",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "可能后来一直跌，大家仓位也满，怕其他人上杠杆，他也没那么自信吧"
+}
