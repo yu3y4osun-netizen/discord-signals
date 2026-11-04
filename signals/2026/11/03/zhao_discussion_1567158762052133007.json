@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567158762052133007",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "dongreng",
+  "ts": "2026-11-03T12:49:25.275000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赚钱喊义父，亏钱就不亲热了。我跟亏的小部分。其他是我骚操作总体算及时止损。群里兄弟不会都跟吧有些根本跟不上。国庆节涨的时候我一个菜鸟都觉得害怕了。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "赚钱喊义父，亏钱就不亲热了。我跟亏的小部分。其他是我骚操作总体算及时止损。群里兄弟不会都跟吧有些根本跟不上。国庆节涨的时候我一个菜鸟都觉得害怕了。"
+}
