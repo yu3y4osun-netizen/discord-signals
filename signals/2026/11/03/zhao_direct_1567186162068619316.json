@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567186162068619316",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T14:38:17.948000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是看昨天美东10点半那种规避有没有 盘前不是涨了一波 开盘冲一波摸一下 在小幅回调下 不能跌破开盘价 跌破开盘价就是规避的力量大",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是看昨天美东10点半那种规避有没有  盘前不是涨了一波 开盘冲一波摸一下 在小幅回调下 不能跌破开盘价 跌破开盘价就是规避的力量大",
+  "attribution": "direct"
+}
