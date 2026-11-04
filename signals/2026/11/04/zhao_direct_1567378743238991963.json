@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567378743238991963",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T03:23:32.877000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPYU",
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "出结果附近时候急跌 可以tqqq 和spyu 分批算稳健类型的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "出结果附近时候急跌 可以tqqq 和spyu 分批算稳健类型的",
+  "attribution": "direct"
+}
