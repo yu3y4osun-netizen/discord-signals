@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567420375170678818",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuumiiiiii",
+  "ts": "2026-11-04T06:08:58.703000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE",
+      "MRVL"
+    ],
+    "is_following_zhao": false,
+    "summary": "迈威尔和lite合并后以后就没有lite了吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "迈威尔和lite合并后以后就没有lite了吧"
+}
