@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567002992555851969",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-03T02:30:26.933000+00:00",
+  "captured_at": "2026-11-04T15:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "ie：如果民主党入主两院可能发生的事情：obbb部分条款被判无效，太阳能公司的生意重新具备经济性；关税一定程度上降低，太阳能公司的光伏板成本下降。最后导致太阳能...",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云",
+      "光"
+    ]
+  },
+  "raw_text": "ie：如果民主党入主两院可能发生的事情：obbb部分条款被判无效，太阳能公司的生意重新具备经济性；关税一定程度上降低，太阳能公司的光伏板成本下降。最后导致太阳能从商业成本的角度上可以用来给数据中心发电（全是瞎猜）"
+}
