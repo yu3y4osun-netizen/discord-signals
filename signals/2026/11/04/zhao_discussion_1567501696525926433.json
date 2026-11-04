@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567501696525926433",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ttg894",
+  "ts": "2026-11-04T11:32:07.225000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥我还是想问问这个，10 月 8 到 10 月 22 就一直在扛，想扛到变盘点再出😂如果重来一下你会咋搞🤔还是说其实也能扛，做个半年一年就回来了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥我还是想问问这个，10 月 8 到 10 月 22 就一直在扛，想扛到变盘点再出😂如果重来一下你会咋搞🤔还是说其实也能扛，做个半年一年就回来了"
+}
