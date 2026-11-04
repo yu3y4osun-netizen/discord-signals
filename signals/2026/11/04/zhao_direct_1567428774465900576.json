@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567428774465900576",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T06:42:21.251000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "1 腐败问题 2 特朗普家族的交易排查 3与外国的交易项目审查 4加密货币收益的调查 5爱泼斯坦文件的继续披露 6国会听证的纪要 7针对赫格塞思与五角大楼的调查 8伊朗战争参军家庭的伤亡抚慰，补偿金和军费问题 9部分议员违规操作的排查",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "1 腐败问题\n\n2 特朗普家族的交易排查\n\n3与外国的交易项目审查\n\n4加密货币收益的调查\n\n5爱泼斯坦文件的继续披露\n\n6国会听证的纪要\n\n7针对赫格塞思与五角大楼的调查\n\n8伊朗战争参军家庭的伤亡抚慰，补偿金和军费问题\n\n9部分议员违规操作的排查",
+  "attribution": "direct"
+}
