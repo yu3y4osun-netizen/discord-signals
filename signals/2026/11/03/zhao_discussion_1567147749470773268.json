@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567147749470773268",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xinxin8542",
+  "ts": "2026-11-03T12:05:39.671000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "@xiaozhaolucky 赵哥，我问了客服，超过120天的可以由卖家发起退款，我私信你了，麻烦处理一下",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "@xiaozhaolucky 赵哥，我问了客服，超过120天的可以由卖家发起退款，我私信你了，麻烦处理一下"
+}
