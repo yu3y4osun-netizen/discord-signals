@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567289142730031105",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ottermax",
+  "ts": "2026-11-03T21:27:30.451000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "主要是前几个财报没太躲，硬抗到现在怕了，现在规避amd财报反而踏空了😅然后这个时间正好赶上中选这天，算是把散户玩透了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "主要是前几个财报没太躲，硬抗到现在怕了，现在规避amd财报反而踏空了😅然后这个时间正好赶上中选这天，算是把散户玩透了"
+}
