@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567583261645869253",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T16:56:13.865000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "你闪迪也是特朗普时候云光存政策 只能博博反弹 折中减持那种 当天10-20%异动的你出20%仓位就是涨幅多少出多少",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "你闪迪也是特朗普时候云光存政策 只能博博反弹  折中减持那种  当天10-20%异动的你出20%仓位就是涨幅多少出多少",
+  "attribution": "direct"
+}
