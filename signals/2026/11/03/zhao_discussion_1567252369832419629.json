@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567252369832419629",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "skyeli168",
+  "ts": "2026-11-03T19:01:23.109000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "对就是单边的时候盘尾做了几次T，成本下去了点，亏得不多。在想要不要转到SOXL专心做，毕竟仓位都很低",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "对就是单边的时候盘尾做了几次T，成本下去了点，亏得不多。在想要不要转到SOXL专心做，毕竟仓位都很低"
+}
