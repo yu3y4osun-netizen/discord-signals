@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566926088226218142",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-02T21:24:51.512000+00:00",
+  "captured_at": "2026-11-04T15:55:00+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "苹果可是自由现金流最稳的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "苹果可是自由现金流最稳的"
+}
