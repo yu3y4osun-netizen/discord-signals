@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567236119106551863",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:56:48.634000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "韩国上去点了 会出点兑现就会 夜盘也低累计到盘前是低点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "韩国上去点了 会出点兑现就会 夜盘也低累计到盘前是低点",
+  "attribution": "direct"
+}
