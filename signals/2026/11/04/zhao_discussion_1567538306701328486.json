@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567538306701328486",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-04T13:57:35.771000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "它得财报和资本支出不是和谷歌差不多吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "它得财报和资本支出不是和谷歌差不多吗"
+}
