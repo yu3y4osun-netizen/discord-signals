@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567237461187362928",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T18:02:08.611000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就每次当天异动多时候才减按个涨幅的持仓个股的比例 然后等单边的环境才回补 期间那个资金就当现金",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就每次当天异动多时候才减按个涨幅的持仓个股的比例  然后等单边的环境才回补 期间那个资金就当现金",
+  "attribution": "direct"
+}
