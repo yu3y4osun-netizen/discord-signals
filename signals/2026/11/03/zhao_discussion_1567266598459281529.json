@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567266598459281529",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "skyeli168",
+  "ts": "2026-11-03T19:57:55.478000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "QQQ瀑布了都没啥动静",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "QQQ瀑布了都没啥动静"
+}
