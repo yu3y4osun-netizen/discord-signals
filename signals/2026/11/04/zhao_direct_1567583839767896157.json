@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567583839767896157",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T16:58:31.700000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "有一天比如闪迪13%出15%仓位 你出去了做其他股票",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "有一天比如闪迪13%出15%仓位 你出去了做其他股票",
+  "attribution": "direct"
+}
