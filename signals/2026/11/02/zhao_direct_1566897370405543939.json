@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566897370405543939",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T19:30:44.650000+00:00",
+  "captured_at": "2026-11-04T15:54:26+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "不是 只是 上周说的 苹果 amd财报还会有两次急跌的规避",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "不是 只是 上周说的 苹果 amd财报还会有两次急跌的规避",
+  "attribution": "direct"
+}
