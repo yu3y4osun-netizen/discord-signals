@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567545827671539743",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-04T14:27:28.910000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LLY"
+    ],
+    "is_following_zhao": false,
+    "summary": "对lly美国本土公司，这也是个加成",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "对lly美国本土公司，这也是个加成"
+}
