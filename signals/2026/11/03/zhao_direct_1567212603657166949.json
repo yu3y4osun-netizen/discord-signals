@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567212603657166949",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T16:23:22.114000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要看结果后是不是马上讲就是 周四周五开始讲",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "主要看结果后是不是马上讲就是 周四周五开始讲",
+  "attribution": "direct"
+}
