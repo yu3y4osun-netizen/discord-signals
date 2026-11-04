@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567552647299342427",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yeahcoco",
+  "ts": "2026-11-04T14:54:34.836000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "哈哈哈没错 是云",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "哈哈哈没错 是云"
+}
