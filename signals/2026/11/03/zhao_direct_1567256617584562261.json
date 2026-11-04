@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567256617584562261",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T19:18:15.852000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "对有些是接近 但是也有些板块一个比一个高 今天云就是",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "对有些是接近  但是也有些板块一个比一个高 今天云就是",
+  "attribution": "direct"
+}
