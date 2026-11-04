@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567287851132002325",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T21:22:22.510000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "因为盘中不是吃了amd规避部分 现在只是修复",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "因为盘中不是吃了amd规避部分 现在只是修复",
+  "attribution": "direct"
+}
