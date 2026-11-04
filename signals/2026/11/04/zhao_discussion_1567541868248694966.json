@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567541868248694966",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-04T14:11:44.910000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "nbis，iren这个月财报好的话是不是也可以拉了出掉",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "nbis，iren这个月财报好的话是不是也可以拉了出掉"
+}
