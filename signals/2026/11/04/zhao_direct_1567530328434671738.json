@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567530328434671738",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T13:25:53.604000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "RIOT"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是有些我是真的前几天说了几天了 然后昨天有点异动 就说这个riot先减10%今天财报再看看",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是有些我是真的前几天说了几天了  然后昨天有点异动 就说这个riot先减10%今天财报再看看",
+  "attribution": "direct"
+}
