@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567225116906094716",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:13:05.505000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "然后看看 今天冲了 那我先出一半 比如7.3出一半 均线看看 7.15 那我就挂着7.15出剩下的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后看看 今天冲了 那我先出一半 比如7.3出一半 均线看看 7.15 那我就挂着7.15出剩下的",
+  "attribution": "direct"
+}
