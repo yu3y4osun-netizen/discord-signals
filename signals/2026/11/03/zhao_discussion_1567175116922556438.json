@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567175116922556438",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T13:54:24.580000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "Spy指数只有四个点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Spy指数只有四个点"
+}
