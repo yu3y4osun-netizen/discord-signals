@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567222355510698065",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-03T17:02:07.137000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "KO",
+      "WMT"
+    ],
+    "is_following_zhao": false,
+    "summary": "现在消费的pe也很高啊，ko 是27，wmt 44",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "现在消费的pe也很高啊，ko 是27，wmt 44"
+}
