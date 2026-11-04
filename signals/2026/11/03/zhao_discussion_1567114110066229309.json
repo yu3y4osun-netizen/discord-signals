@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567114110066229309",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chenzhe",
+  "ts": "2026-11-03T09:51:59.412000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "😂soxl100就卖，卖完就涨150去了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "😂soxl100就卖，卖完就涨150去了"
+}
