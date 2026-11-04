@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567144231511003167",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T11:51:40.924000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "VOO"
+    ],
+    "is_following_zhao": false,
+    "summary": "我的号暂时就这样了，我用我媳妇开了迎透定存Voo了下跌百分之一买两股",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我的号暂时就这样了，我用我媳妇开了迎透定存Voo了下跌百分之一买两股"
+}
