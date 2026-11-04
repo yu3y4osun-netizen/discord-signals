@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567237990219259908",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T18:04:14.742000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你就异动操作2次 跌的异动 盘后买 涨的异动你个股盘中10%-20%异动卖对应比例 指数普涨就尾盘减点数量",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "你就异动操作2次  跌的异动 盘后买  涨的异动你个股盘中10%-20%异动卖对应比例  指数普涨就尾盘减点数量",
+  "attribution": "direct"
+}
