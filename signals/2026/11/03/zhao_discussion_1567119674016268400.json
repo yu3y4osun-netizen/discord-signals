@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567119674016268400",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zhanglucky",
+  "ts": "2026-11-03T10:14:05.961000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "140的SOXL100割的，90又套进去，买啥嘛",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "140的SOXL100割的，90又套进去，买啥嘛"
+}
