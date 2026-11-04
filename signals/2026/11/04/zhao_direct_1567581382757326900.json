@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567581382757326900",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T16:48:45.903000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "像tqqq 60.8 卖了 不妨碍 61.5又开一轮",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "像tqqq 60.8 卖了 不妨碍 61.5又开一轮",
+  "attribution": "direct"
+}
