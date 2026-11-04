@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567467541985755148",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-11-04T09:16:24.148000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那不是光模块？ 但是牵涉到数据中心的建设，是不是又会带累",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云",
+      "光"
+    ]
+  },
+  "raw_text": "那不是光模块？ 但是牵涉到数据中心的建设，是不是又会带累"
+}
