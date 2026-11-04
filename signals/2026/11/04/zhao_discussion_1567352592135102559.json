@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567352592135102559",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-04T01:39:37.968000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "让赵哥说话就行，能不接话吗？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "让赵哥说话就行，能不接话吗？"
+}
