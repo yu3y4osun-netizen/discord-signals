@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566827899292491904",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T14:54:41.446000+00:00",
+  "captured_at": "2026-11-04T15:51:58+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你满了的话夜盘那个高减个最低批次的三分之一 每天盘后是最低的时候再买回",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "你满了的话夜盘那个高减个最低批次的三分之一 每天盘后是最低的时候再买回",
+  "attribution": "direct"
+}
