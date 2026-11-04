@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567122472984383571",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T10:25:13.287000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE",
+      "MU",
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "你今年三月了到七月玩过lite 闪迪，美光吗",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "你今年三月了到七月玩过lite 闪迪，美光吗"
+}
