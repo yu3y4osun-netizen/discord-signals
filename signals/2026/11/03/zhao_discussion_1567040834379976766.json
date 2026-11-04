@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567040834379976766",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "peacetrade",
+  "ts": "2026-11-03T05:00:49.127000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "跟着我梭哈SOXL",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "跟着我梭哈SOXL"
+}
