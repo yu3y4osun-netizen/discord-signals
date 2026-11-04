@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567441256521408563",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-04T07:31:57.205000+00:00",
+  "captured_at": "2026-11-04T16:03:36+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "好怕这帮机构开局直接溢价买",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "好怕这帮机构开局直接溢价买"
+}
