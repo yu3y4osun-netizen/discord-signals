@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566873175948533861",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "skyeli168",
+  "ts": "2026-11-02T17:54:36.242000+00:00",
+  "captured_at": "2026-11-04T15:53:54+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "兄弟，单纯好奇，为啥一直是亏的。一直都是杠杆重仓吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "兄弟，单纯好奇，为啥一直是亏的。一直都是杠杆重仓吗"
+}
