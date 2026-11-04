@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567098998253158516",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ciciwangyao",
+  "ts": "2026-11-03T08:51:56.475000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "苹果和半导体是跷跷板，今天苹果跌，是不是半导体压力小一点。不过现在情绪太差，苹果反倒把情绪往差里带",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "苹果和半导体是跷跷板，今天苹果跌，是不是半导体压力小一点。不过现在情绪太差，苹果反倒把情绪往差里带"
+}
