@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567497270038106173",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T11:14:31.868000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这次花钱买票的州都翻蓝了 花钱买通不了 抵不上物价 账单医疗 加钱在跌 缩水",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这次花钱买票的州都翻蓝了  花钱买通不了 抵不上物价 账单医疗  加钱在跌 缩水",
+  "attribution": "direct"
+}
