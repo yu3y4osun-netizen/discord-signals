@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567256515273031851",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T19:17:51.459000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有个模式是很确定了 就是盘中单边到尾盘你盘后再看看半小时内有财报影响的 盘后是最低点 你卖点在韩国开盘 韩国收盘 盘前1小时 开盘1小时",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "有个模式是很确定了 就是盘中单边到尾盘你盘后再看看半小时内有财报影响的 盘后是最低点 你卖点在韩国开盘 韩国收盘   盘前1小时 开盘1小时",
+  "attribution": "direct"
+}
