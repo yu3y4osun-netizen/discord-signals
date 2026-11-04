@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567123066465820724",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T10:27:34.784000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "三月到七月那些上涨多的票你玩过一个吗？赵哥发过一次吗，都是到七月见顶了，开始做这些了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "三月到七月那些上涨多的票你玩过一个吗？赵哥发过一次吗，都是到七月见顶了，开始做这些了"
+}
