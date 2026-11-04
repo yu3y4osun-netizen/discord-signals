@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566855108527132784",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-11-02T16:42:48.633000+00:00",
+  "captured_at": "2026-11-04T15:53:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "胜选讲话的时候真的会有高点吗？有可能云还不如现在高吧？",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "胜选讲话的时候真的会有高点吗？有可能云还不如现在高吧？"
+}
