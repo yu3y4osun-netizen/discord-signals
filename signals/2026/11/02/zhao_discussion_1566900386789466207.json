@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566900386789466207",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T19:42:43.812000+00:00",
+  "captured_at": "2026-11-04T15:54:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl 都69了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl 都69了"
+}
