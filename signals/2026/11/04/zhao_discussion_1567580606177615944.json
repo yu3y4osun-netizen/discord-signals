@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567580606177615944",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-04T16:45:40.752000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥请教一下soxl这个票近期出现大反弹的概率高吗，我现在只有这一个票，但是仓位比较重7成多，做t想直接拿一半来做，怕t飞了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥请教一下soxl这个票近期出现大反弹的概率高吗，我现在只有这一个票，但是仓位比较重7成多，做t想直接拿一半来做，怕t飞了"
+}
