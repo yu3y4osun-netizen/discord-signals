@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566834878920523808",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T15:22:25.519000+00:00",
+  "captured_at": "2026-11-04T15:52:25+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "先集合soxl低吸做做 个股很多 除非 指数不怎么回落",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "先集合soxl低吸做做 个股很多 除非 指数不怎么回落",
+  "attribution": "direct"
+}
