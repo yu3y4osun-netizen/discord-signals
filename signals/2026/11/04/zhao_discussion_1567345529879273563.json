@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567345529879273563",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-04T01:11:34.195000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ",
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "纳指跌了1.1%，soxl回到了69",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "纳指跌了1.1%，soxl回到了69"
+}
