@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567342904442224782",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T01:01:08.242000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "投票过程中可以不断短的就是快出结果时候要等等或者看唱票尾声了 输两院就等结果宣布那个急跌在买",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "投票过程中可以不断短的就是快出结果时候要等等或者看唱票尾声了 输两院就等结果宣布那个急跌在买",
+  "attribution": "direct"
+}
