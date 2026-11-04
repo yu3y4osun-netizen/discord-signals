@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567186935699738705",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T14:41:22.396000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "然后就是规律向的cifr 昨天几次6.6-7.3来回2-3次 说明 就是 这个底部有资金在试盘了 但是一点风吹草动他就当短线走了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后就是规律向的cifr 昨天几次6.6-7.3来回2-3次 说明 就是 这个底部有资金在试盘了 但是一点风吹草动他就当短线走了",
+  "attribution": "direct"
+}
