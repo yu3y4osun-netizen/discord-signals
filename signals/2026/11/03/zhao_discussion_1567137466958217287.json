@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567137466958217287",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T11:24:48.129000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "CBRS",
+      "CRWV",
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "算了有的是机会，在抗几天CBRS Crwv实在坚持不住就割肉换成大盘股",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "算了有的是机会，在抗几天CBRS Crwv实在坚持不住就割肉换成大盘股"
+}
