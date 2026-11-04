@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567117840824275036",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-11-03T10:06:48.894000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [
+      "CONL",
+      "MSTR"
+    ],
+    "is_following_zhao": true,
+    "summary": "我也是，小票没敢买杠杆，主要Conl之前30多的，一直做到个位数给我整麻了，到现在还是我亏损前几，还有就是Mstr当时买的期权",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我也是，小票没敢买杠杆，主要Conl之前30多的，一直做到个位数给我整麻了，到现在还是我亏损前几，还有就是Mstr当时买的期权"
+}
