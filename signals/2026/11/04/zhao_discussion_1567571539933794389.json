@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567571539933794389",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "frankyin",
+  "ts": "2026-11-04T16:09:39.191000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥， 这么看来科技这条主线是不是一直到12月 都不会太好啊",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥， 这么看来科技这条主线是不是一直到12月 都不会太好啊"
+}
