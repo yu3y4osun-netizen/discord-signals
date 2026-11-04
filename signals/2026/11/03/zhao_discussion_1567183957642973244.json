@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567183957642973244",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-11-03T14:29:32.372000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "暴跌有一单归零，另一单能吃回来吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "暴跌有一单归零，另一单能吃回来吗"
+}
