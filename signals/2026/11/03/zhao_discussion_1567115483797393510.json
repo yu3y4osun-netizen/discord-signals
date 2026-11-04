@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567115483797393510",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chenzhe",
+  "ts": "2026-11-03T09:57:26.935000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "我之前也是不跟了，最近soxl跟了一波",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我之前也是不跟了，最近soxl跟了一波"
+}
