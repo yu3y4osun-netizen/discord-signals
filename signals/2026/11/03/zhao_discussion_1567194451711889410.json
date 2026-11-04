@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567194451711889410",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-03T15:11:14.353000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "可以介绍一下吗，可以自动跟单？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "可以介绍一下吗，可以自动跟单？"
+}
