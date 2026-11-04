@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567254690880692345",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T19:10:36.490000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "在换低的lite lite他收购就是故意要压迫的 股价越低收购成本越低",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "在换低的lite lite他收购就是故意要压迫的 股价越低收购成本越低",
+  "attribution": "direct"
+}
