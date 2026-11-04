@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567582884158640389",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-04T16:54:43.865000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 现在是不是意味着硬件科技股目前很难在回来了，现在收到政策压制的话。",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 现在是不是意味着硬件科技股目前很难在回来了，现在收到政策压制的话。"
+}
