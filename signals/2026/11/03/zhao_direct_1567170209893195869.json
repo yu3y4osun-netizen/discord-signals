@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567170209893195869",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T13:34:54.653000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "嗯 我剩下的哪些 都是差不多40-50%这个幅度 所以我就用soxl这个等量仓位去当做补仓哪些跌的股了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "嗯 我剩下的哪些 都是差不多40-50%这个幅度 所以我就用soxl这个等量仓位去当做补仓哪些跌的股了",
+  "attribution": "direct"
+}
