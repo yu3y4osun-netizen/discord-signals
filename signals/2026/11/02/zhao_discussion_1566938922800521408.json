@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566938922800521408",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-02T22:15:51.513000+00:00",
+  "captured_at": "2026-11-04T15:55:59+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥之前说的，压迫得狠要去680居然实现了，我以为690就行了🫠",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥之前说的，压迫得狠要去680居然实现了，我以为690就行了🫠"
+}
