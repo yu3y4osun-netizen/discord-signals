@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567106530963361903",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "linlin7",
+  "ts": "2026-11-03T09:21:52.413000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CONL",
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "conl iren 说要拿到翻倍 不翻倍不出",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "conl iren 说要拿到翻倍 不翻倍不出"
+}
