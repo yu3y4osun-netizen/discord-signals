@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567286399793889382",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T21:16:36.484000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq都直线",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "qqq都直线",
+  "attribution": "direct"
+}
