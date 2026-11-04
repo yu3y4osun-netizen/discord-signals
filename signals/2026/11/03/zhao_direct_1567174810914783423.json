@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567174810914783423",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T13:53:11.622000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我剩下的16个左右也是差不多40%-50%的 就是之前平铺 现在 有些极端的跌上一年了 如果有稳或者突然反弹很大就是可以加的信号",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我剩下的16个左右也是差不多40%-50%的 就是之前平铺 现在 有些极端的跌上一年了 如果有稳或者突然反弹很大就是可以加的信号",
+  "attribution": "direct"
+}
