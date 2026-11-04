@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567085699847561318",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-11-03T07:59:05.888000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不过最近暴跌了不少了，不知道会不会继续暴击",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "不过最近暴跌了不少了，不知道会不会继续暴击"
+}
