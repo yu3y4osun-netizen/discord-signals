@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567568153473458340",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T15:56:11.796000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "韩国盘和盘前又反弹那种",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "韩国盘和盘前又反弹那种",
+  "attribution": "direct"
+}
