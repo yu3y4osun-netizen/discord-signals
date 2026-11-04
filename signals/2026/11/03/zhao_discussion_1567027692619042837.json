@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567027692619042837",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "0xunlock",
+  "ts": "2026-11-03T04:08:35.887000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "昨晚梭哈soxl 又是五个点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "昨晚梭哈soxl 又是五个点"
+}
