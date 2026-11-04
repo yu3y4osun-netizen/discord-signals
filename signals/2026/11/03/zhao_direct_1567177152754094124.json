@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567177152754094124",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T14:02:29.960000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "12月会有个对旧的法律不满 互相修改妥协的事件还不确定有没有",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "12月会有个对旧的法律不满 互相修改妥协的事件还不确定有没有",
+  "attribution": "direct"
+}
