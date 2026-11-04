@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567051643231408220",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-03T05:43:46.158000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "NDX"
+    ],
+    "is_following_zhao": true,
+    "summary": "我觉得这里可以试探性做多的，ndx踩200日均线，soxx踩240日均线，小仓位正股做多，设个5%的止损就是了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我觉得这里可以试探性做多的，ndx踩200日均线，soxx踩240日均线，小仓位正股做多，设个5%的止损就是了"
+}
