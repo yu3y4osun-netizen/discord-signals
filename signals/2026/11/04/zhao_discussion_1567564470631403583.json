@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567564470631403583",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-04T15:41:33.738000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "连特斯拉都收回来了，这云光存还在瀑布暴跌，真的是🫠",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云",
+      "光"
+    ]
+  },
+  "raw_text": "连特斯拉都收回来了，这云光存还在瀑布暴跌，真的是🫠"
+}
