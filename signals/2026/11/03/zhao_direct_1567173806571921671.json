@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567173806571921671",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T13:49:12.168000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "你提前不知道 大盘股的财报的减持会在带跑走一些量",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "你提前不知道 大盘股的财报的减持会在带跑走一些量",
+  "attribution": "direct"
+}
