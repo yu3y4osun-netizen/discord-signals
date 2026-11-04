@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567203432131985419",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "corrineq",
+  "ts": "2026-11-03T15:46:55.452000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥，盘后soxl加仓点位放多少？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，盘后soxl加仓点位放多少？"
+}
