@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567175028049575947",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T13:54:03.391000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "就一个 就是英特尔那个跌幅 预想不到会大这么大",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就一个 就是英特尔那个跌幅 预想不到会大这么大",
+  "attribution": "direct"
+}
