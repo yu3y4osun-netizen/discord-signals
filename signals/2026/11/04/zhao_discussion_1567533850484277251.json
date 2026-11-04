@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567533850484277251",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-11-04T13:39:53.326000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "在美股都怕被套，在A股你不得跳楼啊，要退款的赶紧退款，我只想说：黄昏见证忠实都信徒，巅峰只产生虚伪的拥护。这里也建议赵哥提高频道入门门槛费，筛选掉一些赌性重投机...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "在美股都怕被套，在A股你不得跳楼啊，要退款的赶紧退款，我只想说：黄昏见证忠实都信徒，巅峰只产生虚伪的拥护。这里也建议赵哥提高频道入门门槛费，筛选掉一些赌性重投机倒把的人。"
+}
