@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567208663028862978",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qiqii",
+  "ts": "2026-11-03T16:07:42.595000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥投票什么结果会跌",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥投票什么结果会跌"
+}
