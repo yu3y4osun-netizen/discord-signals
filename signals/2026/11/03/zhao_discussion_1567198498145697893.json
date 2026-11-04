@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567198498145697893",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-03T15:27:19.098000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "这个不是跟单，就是下单根据自己给出卖出点位和止损点位",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "这个不是跟单，就是下单根据自己给出卖出点位和止损点位"
+}
