@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567236000915132557",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:56:20.455000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "韩国很强硬要回购 或者二次抄底 他低点在盘后",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "韩国很强硬要回购 或者二次抄底 他低点在盘后",
+  "attribution": "direct"
+}
