@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567166269587980329",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-03T13:19:15.211000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "讨论区就是大家有问题和赵哥说",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "讨论区就是大家有问题和赵哥说"
+}
