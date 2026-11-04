@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566851252787220653",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T16:27:29.353000+00:00",
+  "captured_at": "2026-11-04T15:53:16+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC",
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "主要还有几个也是intc和mu双倍买了很多这样",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "主要还有几个也是intc和mu双倍买了很多这样",
+  "attribution": "direct"
+}
