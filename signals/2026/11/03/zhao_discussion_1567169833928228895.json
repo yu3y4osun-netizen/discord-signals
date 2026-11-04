@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567169833928228895",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-03T13:33:25.016000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "而且一直有止盈位没有止损位@xiaozhaolucky 赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "而且一直有止盈位没有止损位@xiaozhaolucky 赵哥"
+}
