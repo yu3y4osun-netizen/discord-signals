@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567230603076706415",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:34:53.510000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "然后这个短线就是 比如盘后买了 盘前或者盘中出了一半 另外一半就想继续博弈放着 不想了跌破均线设置下跌破多少卖出剩下一半",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后这个短线就是  比如盘后买了  盘前或者盘中出了一半  另外一半就想继续博弈放着  不想了跌破均线设置下跌破多少卖出剩下一半",
+  "attribution": "direct"
+}
