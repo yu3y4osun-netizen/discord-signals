@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567189292411781261",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-03T14:50:44.280000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "10月初让不要做闪迪这类，我自己没听。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "10月初让不要做闪迪这类，我自己没听。"
+}
