@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567188555246084189",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-03T14:47:48.526000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "但是我看犀牛哥对AMD的讲解，认为AMD估值还是过高，不值得财报出来会不会也是下杀",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "但是我看犀牛哥对AMD的讲解，认为AMD估值还是过高，不值得财报出来会不会也是下杀"
+}
