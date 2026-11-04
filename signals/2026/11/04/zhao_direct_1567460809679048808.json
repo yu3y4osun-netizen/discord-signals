@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567460809679048808",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T08:49:39.041000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl那个就是每天找急跌不断做短线 有一定利润就出一半 剩下一半找券商里面那个有个条件单设置 跌破多少出多少设置下就可以了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "soxl那个就是每天找急跌不断做短线  有一定利润就出一半  剩下一半找券商里面那个有个条件单设置 跌破多少出多少设置下就可以了",
+  "attribution": "direct"
+}
