@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567113511501570119",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shanshan33",
+  "ts": "2026-11-03T09:49:36.703000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": true,
+    "summary": "特斯拉这个股也很烦，之前套了很长一段时间，刚刚才解套",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "特斯拉这个股也很烦，之前套了很长一段时间，刚刚才解套"
+}
