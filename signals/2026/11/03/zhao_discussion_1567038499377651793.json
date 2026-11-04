@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567038499377651793",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-03T04:51:32.419000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大A回流，10月吸满，拿到月底，后面看情况做空",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "大A回流，10月吸满，拿到月底，后面看情况做空"
+}
