@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567577582201864294",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepblue1",
+  "ts": "2026-11-04T16:33:39.780000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "- -要不去把国内的存储厂商炸了吧，产能缺了， 应该能回本。。",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "存储"
+    ]
+  },
+  "raw_text": "- -要不去把国内的存储厂商炸了吧，产能缺了， 应该能回本。。"
+}
