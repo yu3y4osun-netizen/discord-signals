@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567137037650235492",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T11:23:05.774000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "去年的微牛，高点在十七块钱赵哥开始买，买了一路下跌，真牛逼",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "去年的微牛，高点在十七块钱赵哥开始买，买了一路下跌，真牛逼"
+}
