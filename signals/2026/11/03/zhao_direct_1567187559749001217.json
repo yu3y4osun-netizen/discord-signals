@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567187559749001217",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T14:43:51.181000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "比如盘后最低的时候 资金买了 韩国夜盘和盘前冲高他都会减一半 然后盘中跌破开盘价很多 又有盈利 他剩下一半也会走",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "比如盘后最低的时候 资金买了  韩国夜盘和盘前冲高他都会减一半  然后盘中跌破开盘价很多 又有盈利 他剩下一半也会走",
+  "attribution": "direct"
+}
