@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567536832709795850",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "frankyin",
+  "ts": "2026-11-04T13:51:44.344000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "@xiaozhaolucky 赵哥soxl 要不要补点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "@xiaozhaolucky 赵哥soxl 要不要补点"
+}
