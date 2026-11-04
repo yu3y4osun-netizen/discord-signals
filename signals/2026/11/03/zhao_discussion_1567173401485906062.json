@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567173401485906062",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T13:47:35.588000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": true,
+    "summary": "以后上大盘股吧！不要弄这些小票套来套去了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "以后上大盘股吧！不要弄这些小票套来套去了"
+}
