@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567344604217606176",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-04T01:07:53.500000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN",
+      "SNDK",
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我早上做空了soxl sndk iren买的非常少 现在感觉有点离谱哈哈",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我早上做空了soxl sndk iren买的非常少 现在感觉有点离谱哈哈"
+}
