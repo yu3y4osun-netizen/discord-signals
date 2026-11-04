@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567361409262813276",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yorryskyy",
+  "ts": "2026-11-04T02:14:40.135000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "@xiaozhaolucky 赵哥已经夜盘了，Invoice number： payYkiT8V0yNdPJZJ，请尽快退一下",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "@xiaozhaolucky 赵哥已经夜盘了，Invoice number：\npayYkiT8V0yNdPJZJ，请尽快退一下"
+}
