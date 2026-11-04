@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567557478110077078",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-04T15:13:46.591000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "避开大跌，及时换仓到老登。到最近分析进去的太阳能 新能源板块。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "避开大跌，及时换仓到老登。到最近分析进去的太阳能 新能源板块。"
+}
