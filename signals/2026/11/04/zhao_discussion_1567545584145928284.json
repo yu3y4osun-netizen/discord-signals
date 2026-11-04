@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567545584145928284",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-04T14:26:30.849000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVO"
+    ],
+    "is_following_zhao": false,
+    "summary": "nvo这个位数pe",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "nvo这个位数pe"
+}
