@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567151625339015170",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-03T12:21:03.750000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COIN",
+      "MSTR"
+    ],
+    "is_following_zhao": false,
+    "summary": "和去年的mstr coin一样",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "和去年的mstr coin一样"
+}
