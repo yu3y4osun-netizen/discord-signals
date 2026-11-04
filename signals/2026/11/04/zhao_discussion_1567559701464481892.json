@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567559701464481892",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-04T15:22:36.680000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "今天这些票怎么能这样😂大盘都2%跌成这个鬼样子",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "今天这些票怎么能这样😂大盘都2%跌成这个鬼样子"
+}
