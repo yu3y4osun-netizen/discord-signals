@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567399804944785529",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T04:47:14.379000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq650-660极限 现在是670左右",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "qqq650-660极限 现在是670左右",
+  "attribution": "direct"
+}
