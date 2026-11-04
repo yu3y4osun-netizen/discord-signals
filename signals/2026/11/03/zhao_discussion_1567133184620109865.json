@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567133184620109865",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T11:07:47.140000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥炒股挣不挣钱，反正会员费是拿了，这个群里五六百人，每个月将近两万美金了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥炒股挣不挣钱，反正会员费是拿了，这个群里五六百人，每个月将近两万美金了"
+}
