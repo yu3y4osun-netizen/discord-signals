@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567530619649396777",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-04T13:27:03.035000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "之前也是啊，不还有人喊iren拿到明年吗，现在人呢",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "之前也是啊，不还有人喊iren拿到明年吗，现在人呢"
+}
