@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567135979326677095",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T11:18:53.450000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "股神小顾都是下跌一部分才开始的做多的，赵哥是从云端就开始做多了",
+    "filter_reason": "zhao_discuss",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "股神小顾都是下跌一部分才开始的做多的，赵哥是从云端就开始做多了"
+}
