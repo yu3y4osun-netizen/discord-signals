@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567545002664534078",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-04T14:24:12.213000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "hims跌到20了",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "hims跌到20了"
+}
