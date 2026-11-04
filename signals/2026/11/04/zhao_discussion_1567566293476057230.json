@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567566293476057230",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "violawang",
+  "ts": "2026-11-04T15:48:48.338000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥 存储还能拿吗 1050满仓满融下来挺不住了",
+    "filter_reason": "zhao_discuss",
+    "sectors_mentioned": [
+      "存储"
+    ]
+  },
+  "raw_text": "赵哥 存储还能拿吗 1050满仓满融下来挺不住了"
+}
