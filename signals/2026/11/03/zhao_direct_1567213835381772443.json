@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567213835381772443",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T16:28:15.780000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是两种思路 一个就是688摸了没突破 减低买的成本差很多就不用怎么减 另一个就是到下午跌破655.5没怎么收回减点 然后再抄底就是时间也很短就是盘后盯着amd的财报 财报差 就找那个电话会议跌完的点抄底点 财报好就等中选结果的急跌在抄回来...",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是两种思路  一个就是688摸了没突破 减低买的成本差很多就不用怎么减   另一个就是到下午跌破655.5没怎么收回减点  然后再抄底就是时间也很短就是盘后盯着amd的财报  财报差 就找那个电话会议跌完的点抄底点  财报好就等中选结果的急跌在抄回来点",
+  "attribution": "direct"
+}
