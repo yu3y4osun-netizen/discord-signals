@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567122190292353085",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-03T10:24:05.888000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "对不起，笑死我了，我实在憋不住了，就30美金一个月，200块人民币一顿饭的钱，各种被害妄想症都出来了，有必要吗？还空军当燃料，所有的会费加起来怕是连赵哥的手续费...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "对不起，笑死我了，我实在憋不住了，就30美金一个月，200块人民币一顿饭的钱，各种被害妄想症都出来了，有必要吗？还空军当燃料，所有的会费加起来怕是连赵哥的手续费的填补不了"
+}
