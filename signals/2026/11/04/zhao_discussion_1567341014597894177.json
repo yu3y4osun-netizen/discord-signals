@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567341014597894177",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-04T00:53:37.668000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "理解是，QQQ急跌到680，差不多可买入，如果急涨，昨天高点688左右，再跑",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "理解是，QQQ急跌到680，差不多可买入，如果急涨，昨天高点688左右，再跑"
+}
