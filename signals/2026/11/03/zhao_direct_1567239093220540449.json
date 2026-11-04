@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567239093220540449",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T18:08:37.718000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就好比那种单边情况你盘中700点了 也看出是单边情况了盘尾跌破个0.5个点 你不就盘尾买份额划算",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就好比那种单边情况你盘中700点了 也看出是单边情况了盘尾跌破个0.5个点 你不就盘尾买份额划算",
+  "attribution": "direct"
+}
