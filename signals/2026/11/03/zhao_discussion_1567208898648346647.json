@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567208898648346647",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "corrineq",
+  "ts": "2026-11-03T16:08:38.771000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果各拿一院呢？赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "如果各拿一院呢？赵哥"
+}
