@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567415549175005247",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wsl001",
+  "ts": "2026-11-04T05:49:48.096000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS",
+      "CIFR",
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "Cifr，cbrs，crwv啥的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Cifr，cbrs，crwv啥的"
+}
