@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567405965752537119",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-04T05:11:43.230000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": true,
+    "summary": "那赵哥，这轮qqq反弹你认为大概到多少，我看着做好出货准备",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "那赵哥，这轮qqq反弹你认为大概到多少，我看着做好出货准备"
+}
