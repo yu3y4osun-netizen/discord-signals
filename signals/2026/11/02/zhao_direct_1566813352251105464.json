@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566813352251105464",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T13:56:53.161000+00:00",
+  "captured_at": "2026-11-04T15:51:25+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "盘前 低到高吃一次 盘中有公募要回踩再来次 就有2个小利润领先了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "盘前 低到高吃一次  盘中有公募要回踩再来次 就有2个小利润领先了",
+  "attribution": "direct"
+}
