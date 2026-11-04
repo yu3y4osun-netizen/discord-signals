@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567469598700216442",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kongfu233hahaha",
+  "ts": "2026-11-04T09:24:34.507000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥之前说胜选后要出大部分。大概￼啥时候呢",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥之前说胜选后要出大部分。大概￼啥时候呢"
+}
