@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567529447937286275",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T13:22:23.677000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "RIOT"
+    ],
+    "is_following_zhao": false,
+    "summary": "riot这两天图都一直再发 昨天也才减了10% riot",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "riot这两天图都一直再发 昨天也才减了10% riot",
+  "attribution": "direct"
+}
