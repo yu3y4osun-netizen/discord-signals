@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567532945949073469",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "camo2024",
+  "ts": "2026-11-04T13:36:17.668000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "要有耐心和赵哥一起穿越牛熊。有些喜欢自己上杠杆，亏了就在群里逼逼赖赖，有点恶心了，说实话赵哥不缺这点订阅费，纯粹是每天盯机房无聊找点人聊天而已",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "要有耐心和赵哥一起穿越牛熊。有些喜欢自己上杠杆，亏了就在群里逼逼赖赖，有点恶心了，说实话赵哥不缺这点订阅费，纯粹是每天盯机房无聊找点人聊天而已"
+}
