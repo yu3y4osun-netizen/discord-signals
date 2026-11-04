@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567512522934849639",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-11-04T12:15:08.442000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "Amd怎么才算直线",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Amd怎么才算直线"
+}
