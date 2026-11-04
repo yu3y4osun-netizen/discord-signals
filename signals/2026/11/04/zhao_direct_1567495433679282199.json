@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567495433679282199",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T11:07:14.046000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "GOOGL",
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "你不是后视镜看 谷歌带崩下 -10几可能有点想到 英特尔-30肯定想不到 苹果的规避会单边很多有一半几率可以想到但是苹果那天很多股票出最低了 今天最低都没那天低",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "你不是后视镜看  谷歌带崩下  -10几可能有点想到  英特尔-30肯定想不到  苹果的规避会单边很多有一半几率可以想到但是苹果那天很多股票出最低了 今天最低都没那天低",
+  "attribution": "direct"
+}
