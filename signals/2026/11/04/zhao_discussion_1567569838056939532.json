@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567569838056939532",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-04T16:02:53.432000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "CBRS",
+      "CIFR",
+      "IREN",
+      "RIOT"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren cifr cbrs又不敢卖，财报一出，我怕像riot一样两天40%",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "iren cifr cbrs又不敢卖，财报一出，我怕像riot一样两天40%"
+}
