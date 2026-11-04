@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567241171405766840",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T18:16:53.196000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "还有个amd财报 不确定 投票出来急跌是cifr那种",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "还有个amd财报 不确定  投票出来急跌是cifr那种",
+  "attribution": "direct"
+}
