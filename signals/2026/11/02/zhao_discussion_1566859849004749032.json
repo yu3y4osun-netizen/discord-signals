@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566859849004749032",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaowanglucky",
+  "ts": "2026-11-02T17:01:38.851000+00:00",
+  "captured_at": "2026-11-04T15:53:32+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ",
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "spy和qqq都是 还是没太多资金",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "spy和qqq都是 还是没太多资金"
+}
