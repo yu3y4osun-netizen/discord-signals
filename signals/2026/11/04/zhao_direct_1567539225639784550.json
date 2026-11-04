@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567539225639784550",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T14:01:14.863000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "逐步会流向 民主扶持哪些 绿色能源 医疗医保之类的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "逐步会流向 民主扶持哪些  绿色能源 医疗医保之类的",
+  "attribution": "direct"
+}
