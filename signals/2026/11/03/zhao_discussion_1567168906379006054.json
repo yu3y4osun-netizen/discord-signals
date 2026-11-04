@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567168906379006054",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T13:29:43.871000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在的财报稍微有点瑕疵就砸盘",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "现在的财报稍微有点瑕疵就砸盘"
+}
