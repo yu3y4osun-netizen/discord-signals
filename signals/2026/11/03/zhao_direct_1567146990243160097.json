@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567146990243160097",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T12:02:38.657000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "特斯拉 就是到一个上限区域385-400这个区间就不怎么做杠杆了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "特斯拉 就是到一个上限区域385-400这个区间就不怎么做杠杆了",
+  "attribution": "direct"
+}
