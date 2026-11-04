@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566804830268428329",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T13:23:01.362000+00:00",
+  "captured_at": "2026-11-04T15:51:01+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "后面不发走势了就文字说下 用走势去做期权风险大 然后不相符地方 方向要看下动作会变",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "后面不发走势了就文字说下 用走势去做期权风险大 然后不相符地方 方向要看下动作会变",
+  "attribution": "direct"
+}
