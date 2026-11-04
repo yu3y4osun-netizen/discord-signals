@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567420640565264406",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T06:10:01.978000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "老的就8成了加了1成 就是永远要有1成灵活资金",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "老的就8成了加了1成 就是永远要有1成灵活资金",
+  "attribution": "direct"
+}
