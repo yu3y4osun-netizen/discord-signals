@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567133682374942751",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chenzhe",
+  "ts": "2026-11-03T11:09:45.814000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "之前3~7那波踏空我都无语了就很少来了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "之前3~7那波踏空我都无语了就很少来了"
+}
