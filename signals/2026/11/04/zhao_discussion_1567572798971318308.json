@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567572798971318308",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-04T16:14:39.369000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS",
+      "CIFR",
+      "IREN",
+      "LITE",
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr iren cbrs soxl lite",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "cifr\niren \ncbrs\nsoxl\nlite"
+}
