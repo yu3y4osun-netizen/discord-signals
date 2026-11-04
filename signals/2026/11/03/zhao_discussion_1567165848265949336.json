@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567165848265949336",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-03T13:17:34.760000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不是信不信的问题，大家发现问题及时和赵哥说，他也好改变交易策略，你以为你这种无脑护的，赵哥会给你打钱啊",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "不是信不信的问题，大家发现问题及时和赵哥说，他也好改变交易策略，你以为你这种无脑护的，赵哥会给你打钱啊"
+}
