@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567151411517587559",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T12:20:12.771000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这次下跌我是一点杠杆都没有双倍也没有，都是正股，都腰斩了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "这次下跌我是一点杠杆都没有双倍也没有，都是正股，都腰斩了"
+}
