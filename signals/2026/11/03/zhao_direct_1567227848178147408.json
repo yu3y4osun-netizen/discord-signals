@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567227848178147408",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:23:56.691000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是cifr是三次 他连续这样 低到高三次就是有资金在试盘了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是cifr是三次 他连续这样 低到高三次就是有资金在试盘了",
+  "attribution": "direct"
+}
