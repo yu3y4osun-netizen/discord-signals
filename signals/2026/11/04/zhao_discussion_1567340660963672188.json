@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567340660963672188",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "daluyazi",
+  "ts": "2026-11-04T00:52:13.355000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我以为他会直奔 655 去，680 反弹了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我以为他会直奔 655 去，680 反弹了"
+}
