@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567360431897583728",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T02:10:47.113000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我是想说这个出票的时间在盘中中午12点 或者盘前那个时间段 具体看读票那个速度",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我是想说这个出票的时间在盘中中午12点  或者盘前那个时间段  具体看读票那个速度",
+  "attribution": "direct"
+}
