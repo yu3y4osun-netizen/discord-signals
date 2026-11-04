@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567492304372105258",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T10:54:47.961000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "讲话今天盘中讲到11月15号左右 中间点日子 不续涨了再看看出",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "讲话今天盘中讲到11月15号左右 中间点日子 不续涨了再看看出",
+  "attribution": "direct"
+}
