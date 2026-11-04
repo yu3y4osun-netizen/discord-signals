@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567544569367888012",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "brutesyrup",
+  "ts": "2026-11-04T14:22:28.907000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LLY"
+    ],
+    "is_following_zhao": false,
+    "summary": "lly我都卖飞了，还在涨",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "lly我都卖飞了，还在涨"
+}
