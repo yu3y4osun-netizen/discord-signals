@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566835104163176481",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T15:23:19.221000+00:00",
+  "captured_at": "2026-11-04T15:52:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥能解释一下为什么不带止损吗 硬抗 抗满一整段的跌幅",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥能解释一下为什么不带止损吗 硬抗 抗满一整段的跌幅"
+}
