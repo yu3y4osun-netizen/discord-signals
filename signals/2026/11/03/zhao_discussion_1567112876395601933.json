@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567112876395601933",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-11-03T09:47:05.282000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "做t与后面上杠杆没关系啊。。。那群友们一直在问他，他闭口不谈。。那这点责任担当都没有么。。",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "做t与后面上杠杆没关系啊。。。那群友们一直在问他，他闭口不谈。。那这点责任担当都没有么。。"
+}
