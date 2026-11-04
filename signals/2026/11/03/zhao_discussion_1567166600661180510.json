@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567166600661180510",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-03T13:20:34.145000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "很多都是生疏的面孔在问iren cifr这两个怎么办。可见这两个新云套的有多狠",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "很多都是生疏的面孔在问iren cifr这两个怎么办。可见这两个新云套的有多狠"
+}
