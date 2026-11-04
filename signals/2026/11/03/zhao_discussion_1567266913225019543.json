@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567266913225019543",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "teslaliang",
+  "ts": "2026-11-03T19:59:10.524000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "早点看到赵神说单边我就不卖那4长PUT了",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "早点看到赵神说单边我就不卖那4长PUT了"
+}
