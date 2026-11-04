@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567554029071110305",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanyan379",
+  "ts": "2026-11-04T15:00:04.276000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "如果还有现金 iren要补仓吗 跌麻了都",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "如果还有现金 iren要补仓吗 跌麻了都"
+}
