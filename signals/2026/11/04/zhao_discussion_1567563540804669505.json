@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567563540804669505",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-04T15:37:52.050000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这两周虽然算踏空了 但是也没亏钱 就好",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这两周虽然算踏空了 但是也没亏钱 就好"
+}
