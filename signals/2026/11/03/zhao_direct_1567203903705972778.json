@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567203903705972778",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T15:48:47.884000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是amd财报后没怎么跌就是规避的资金会回买",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是amd财报后没怎么跌就是规避的资金会回买",
+  "attribution": "direct"
+}
