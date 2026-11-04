@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567560096903467092",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-11-04T15:24:10.960000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这是数据中心相关，民主党反对数据中心，就这样，",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "这是数据中心相关，民主党反对数据中心，就这样，"
+}
