@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567537598350631003",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T13:54:46.887000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA",
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "英伟达等财报了 tsm可以夜盘那个低点接近了买点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "英伟达等财报了 tsm可以夜盘那个低点接近了买点",
+  "attribution": "direct"
+}
