@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567441601557569558",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T07:33:19.468000+00:00",
+  "captured_at": "2026-11-04T16:01:49+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "要看下是不是切模式",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "要看下是不是切模式",
+  "attribution": "direct"
+}
