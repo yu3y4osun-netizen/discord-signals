@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567171909295022102",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T13:41:39.822000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我现在情况就是soxl的买相当于补那个15个股票了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我现在情况就是soxl的买相当于补那个15个股票了",
+  "attribution": "direct"
+}
