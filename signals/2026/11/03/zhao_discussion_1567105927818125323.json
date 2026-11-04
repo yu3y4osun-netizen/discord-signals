@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567105927818125323",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-03T09:19:28.612000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl直线了 班长",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl直线了 班长"
+}
