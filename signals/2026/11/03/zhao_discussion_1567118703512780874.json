@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567118703512780874",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chenzhe",
+  "ts": "2026-11-03T10:10:14.575000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "确实，我这几天soxl亏烂了也是悟出这个理",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "确实，我这几天soxl亏烂了也是悟出这个理"
+}
