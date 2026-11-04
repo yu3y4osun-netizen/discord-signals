@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567192906903715856",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T15:05:06.042000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "amd财报如果不好会急跌下 选票出结果那一刻也会急跌下",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "amd财报如果不好会急跌下  选票出结果那一刻也会急跌下",
+  "attribution": "direct"
+}
