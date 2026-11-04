@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567535713740918815",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-04T13:47:17.561000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "25年赵哥关税嘎嘎乱杀的时候你没赶上，这次回撤你吃上了，只能怪你点背",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "25年赵哥关税嘎嘎乱杀的时候你没赶上，这次回撤你吃上了，只能怪你点背"
+}
