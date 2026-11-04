@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567231893064261705",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:40:01.067000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在市场不是都普跌吗 不差一个是跌那么多 资金会选 没有减持的量的 跌的多的财报出完 财报不是很差的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "现在市场不是都普跌吗  不差一个是跌那么多 资金会选 没有减持的量的 跌的多的财报出完 财报不是很差的",
+  "attribution": "direct"
+}
