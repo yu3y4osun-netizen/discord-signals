@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567223446339850444",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-03T17:06:27.211000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌手上有ant的股权，还有tpu，云的订单，这种会不会有催化作用，稍微修复一下财报的跳空",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "谷歌手上有ant的股权，还有tpu，云的订单，这种会不会有催化作用，稍微修复一下财报的跳空"
+}
