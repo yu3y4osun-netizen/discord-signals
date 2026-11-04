@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567150282180132935",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T12:15:43.516000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "主要是就还剩下2天 今天的amd和明天开始的选票结果 然后就是讲话",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "主要是就还剩下2天 今天的amd和明天开始的选票结果 然后就是讲话",
+  "attribution": "direct"
+}
