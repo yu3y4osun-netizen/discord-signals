@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567346953174523986",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-04T01:17:13.535000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "大盘股单日10个点起步",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "大盘股单日10个点起步"
+}
