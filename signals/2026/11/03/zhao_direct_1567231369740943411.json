@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567231369740943411",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:37:56.297000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "RIOT"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是riot他第一轮跌 心态不会崩 但是昨天又跌那个低点是心态会崩",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是riot他第一轮跌 心态不会崩 但是昨天又跌那个低点是心态会崩",
+  "attribution": "direct"
+}
