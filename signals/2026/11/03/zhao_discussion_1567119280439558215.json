@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567119280439558215",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T10:12:32.125000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "META"
+    ],
+    "is_following_zhao": false,
+    "summary": "去年的meta九月11日720的call",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "去年的meta九月11日720的call"
+}
