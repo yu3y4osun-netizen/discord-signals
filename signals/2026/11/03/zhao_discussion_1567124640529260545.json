@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567124640529260545",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yangkobe",
+  "ts": "2026-11-03T10:33:50.070000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "阿桂你没原则啊 怎么不维护赵哥了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "阿桂你没原则啊\n怎么不维护赵哥了"
+}
