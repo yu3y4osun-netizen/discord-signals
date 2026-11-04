@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567130604103925995",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nanjing2000",
+  "ts": "2026-11-03T10:57:31.897000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "所以25年有没有跟过赵哥的，25年那时候到底准不准",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "所以25年有没有跟过赵哥的，25年那时候到底准不准"
+}
