@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567251450503889132",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T18:57:43.924000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "对lite就开盘冲了一下下来 这个没事 他小压下",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "对lite就开盘冲了一下下来  这个没事 他小压下",
+  "attribution": "direct"
+}
