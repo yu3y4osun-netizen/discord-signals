@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567205725560643675",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T15:56:02.248000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "昨天出现规避在午后时间 今天 qqq高点在中午前还没摸盘前的高点688就还没突破还没突破 要看下午是不是有规避动作均价在685.5没跌破说明规避还没开始",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "昨天出现规避在午后时间 今天 qqq高点在中午前还没摸盘前的高点688就还没突破还没突破 要看下午是不是有规避动作均价在685.5没跌破说明规避还没开始",
+  "attribution": "direct"
+}
