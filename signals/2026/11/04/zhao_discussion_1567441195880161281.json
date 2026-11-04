@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567441195880161281",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-11-04T07:31:42.747000+00:00",
+  "captured_at": "2026-11-04T16:01:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在搞得有点怕 卧槽这种经常开盘就直线往下俯冲",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "现在搞得有点怕 卧槽这种经常开盘就直线往下俯冲"
+}
