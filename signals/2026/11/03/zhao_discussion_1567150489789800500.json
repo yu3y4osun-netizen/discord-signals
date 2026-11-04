@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567150489789800500",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chenzhe",
+  "ts": "2026-11-03T12:16:33.014000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "soxl咋整呢哥，止损放哪好",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl咋整呢哥，止损放哪好"
+}
