@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567280252105789451",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T20:52:10.761000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cifr这个也是都是现在量不足 没有去补完第一个阴线的顶部",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "cifr这个也是都是现在量不足 没有去补完第一个阴线的顶部",
+  "attribution": "direct"
+}
