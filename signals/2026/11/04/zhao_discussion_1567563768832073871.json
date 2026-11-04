@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567563768832073871",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qiqii",
+  "ts": "2026-11-04T15:38:46.416000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "tqqq和soxl都是3倍 我也一直没敢跟",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "tqqq和soxl都是3倍  我也一直没敢跟"
+}
