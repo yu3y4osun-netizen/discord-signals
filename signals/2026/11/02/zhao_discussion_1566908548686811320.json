@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566908548686811320",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-02T20:15:09.760000+00:00",
+  "captured_at": "2026-11-04T15:54:47+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "VIX"
+    ],
+    "is_following_zhao": false,
+    "summary": "确定是右侧且vix降下来之后再考虑杠杆产品",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "确定是右侧且vix降下来之后再考虑杠杆产品"
+}
