@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567460417935118408",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T08:48:05.642000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPYU",
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "tqqq spyu就全覆盖",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "tqqq  spyu就全覆盖",
+  "attribution": "direct"
+}
