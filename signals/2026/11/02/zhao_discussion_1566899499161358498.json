@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566899499161358498",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-02T19:39:12.185000+00:00",
+  "captured_at": "2026-11-04T15:54:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在新云的信用环境已经恶化了，市场要走反向逻辑：美伊战争结束——油价下跌———通胀受控———降息",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "现在新云的信用环境已经恶化了，市场要走反向逻辑：美伊战争结束——油价下跌———通胀受控———降息"
+}
