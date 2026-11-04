@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567250643192910006",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "skyeli168",
+  "ts": "2026-11-03T18:54:31.446000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITX",
+      "MUU",
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥 litx muu还有点，各0.5成左右，做了几次T了，是建议继续做T到讲话然后清仓还是 找机会清了做SOXL",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 litx muu还有点，各0.5成左右，做了几次T了，是建议继续做T到讲话然后清仓还是 找机会清了做SOXL"
+}
