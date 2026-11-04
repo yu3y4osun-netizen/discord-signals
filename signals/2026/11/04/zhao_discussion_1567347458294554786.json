@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567347458294554786",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yinmo888",
+  "ts": "2026-11-04T01:19:13.965000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "大哥 SOXL 接下来 入场点位 看到哪几个呀",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "大哥 SOXL 接下来 入场点位 看到哪几个呀"
+}
