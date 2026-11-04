@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566830372799647786",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T15:04:31.176000+00:00",
+  "captured_at": "2026-11-04T15:52:07+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大部分 到那天看看情况 看每个的情况",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "大部分 到那天看看情况  看每个的情况",
+  "attribution": "direct"
+}
