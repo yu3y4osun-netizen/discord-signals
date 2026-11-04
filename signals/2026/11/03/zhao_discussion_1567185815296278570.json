@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567185815296278570",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "frankyin",
+  "ts": "2026-11-03T14:36:55.271000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "@xiaozhaolucky 赵哥现在是不是对AMD期盼过高啊 会不会再跟intc是的 来波大跌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "@xiaozhaolucky 赵哥现在是不是对AMD期盼过高啊 会不会再跟intc是的 来波大跌"
+}
