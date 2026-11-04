@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567523190127861931",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-11-04T12:57:31.699000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "这crwv又年内新低",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这crwv又年内新低"
+}
