@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566905044710858844",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-02T20:01:14.347000+00:00",
+  "captured_at": "2026-11-04T15:54:41+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不是这么比的 那时候费半指数也低",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "不是这么比的 那时候费半指数也低"
+}
