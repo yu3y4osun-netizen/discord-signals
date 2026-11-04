@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567193800776880340",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T15:08:39.158000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "AMD",
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "不冲破就是 对财报有顾虑就是规避 昨天苹果市值大 规避的程度大点 amd市值小 规避对soxl程度影响大",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "不冲破就是 对财报有顾虑就是规避  昨天苹果市值大 规避的程度大点  amd市值小  规避对soxl程度影响大",
+  "attribution": "direct"
+}
