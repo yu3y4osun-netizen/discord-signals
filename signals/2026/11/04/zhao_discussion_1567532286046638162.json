@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567532286046638162",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-04T13:33:40.335000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "为什么这么多积累反派值的？",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "为什么这么多积累反派值的？"
+}
