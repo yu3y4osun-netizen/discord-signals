@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567405351391731784",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-04T05:09:16.755000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥，现在结果都出了，QQQ 又到了678，应该不会再往下探了吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，现在结果都出了，QQQ 又到了678，应该不会再往下探了吧"
+}
