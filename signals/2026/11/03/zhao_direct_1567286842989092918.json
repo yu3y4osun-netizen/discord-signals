@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567286842989092918",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T21:18:22.150000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "因为要出四条资讯 可能刚出第一天吧那时候我还没看",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "因为要出四条资讯 可能刚出第一天吧那时候我还没看",
+  "attribution": "direct"
+}
