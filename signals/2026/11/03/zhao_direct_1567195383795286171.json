@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567195383795286171",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T15:14:56.579000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "不是特别多的跌都可以就是那种 超出常规的英特尔那种会一下把别的同板块的也伴随走掉点量",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "不是特别多的跌都可以就是那种 超出常规的英特尔那种会一下把别的同板块的也伴随走掉点量",
+  "attribution": "direct"
+}
