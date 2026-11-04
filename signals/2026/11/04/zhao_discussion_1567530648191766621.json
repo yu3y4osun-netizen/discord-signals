@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567530648191766621",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "skyeli168",
+  "ts": "2026-11-04T13:27:09.840000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "估计低位割肉了，也是可怜人",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "估计低位割肉了，也是可怜人"
+}
