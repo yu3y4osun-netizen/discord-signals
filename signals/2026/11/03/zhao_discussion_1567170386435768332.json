@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567170386435768332",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-03T13:35:36.744000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "因为大部分的资金没有那么多，不止损，没有流动资金跟",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "因为大部分的资金没有那么多，不止损，没有流动资金跟"
+}
