@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567168837844213833",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-11-03T13:29:27.531000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "META"
+    ],
+    "is_following_zhao": true,
+    "summary": "我亏了100多w，最早一次亏还是去年meta财报跌的时候满仓跟期权",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我亏了100多w，最早一次亏还是去年meta财报跌的时候满仓跟期权"
+}
