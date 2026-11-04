@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567132276641501285",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-03T11:04:10.661000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "按赵哥的说法 在高盛交易员退休 对于自己美国公民税务身份 wash sale之类的都一无所知 这对吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "按赵哥的说法 在高盛交易员退休 对于自己美国公民税务身份 wash sale之类的都一无所知 这对吗"
+}
