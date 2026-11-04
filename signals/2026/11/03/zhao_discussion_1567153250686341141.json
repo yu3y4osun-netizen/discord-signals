@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567153250686341141",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yeahcoco",
+  "ts": "2026-11-03T12:27:31.263000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "其实跟单交易亏钱我能接受 只是无脑跟又不及时止损 也不做一些对冲保护挽回损失 就觉得没有跟的意义 毕竟如果自己玩 可能早就割了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "其实跟单交易亏钱我能接受 只是无脑跟又不及时止损 也不做一些对冲保护挽回损失 就觉得没有跟的意义 毕竟如果自己玩 可能早就割了"
+}
