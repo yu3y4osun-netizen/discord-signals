@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567216899006267435",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T16:40:26.205000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "中选票结果是唱票结束出时间点是模糊的就会突发一个急跌在慢慢回升",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "中选票结果是唱票结束出时间点是模糊的就会突发一个急跌在慢慢回升",
+  "attribution": "direct"
+}
