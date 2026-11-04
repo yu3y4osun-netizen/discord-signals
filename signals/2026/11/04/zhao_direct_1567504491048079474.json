@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567504491048079474",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T11:43:13.491000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就不断提高跌破卖出 只看能不能续涨 有天会断下在续涨 跌破均线收盘那天会断下",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就不断提高跌破卖出 只看能不能续涨  有天会断下在续涨 跌破均线收盘那天会断下",
+  "attribution": "direct"
+}
