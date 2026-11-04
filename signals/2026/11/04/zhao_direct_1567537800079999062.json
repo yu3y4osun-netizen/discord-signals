@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567537800079999062",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T13:55:34.983000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在就是行情会搞脑子 他涨了有个时间段他会 又跌最低 又不破",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "现在就是行情会搞脑子 他涨了有个时间段他会 又跌最低 又不破",
+  "attribution": "direct"
+}
