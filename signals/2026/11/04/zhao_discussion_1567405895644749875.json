@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567405895644749875",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-11-04T05:11:26.515000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPYU"
+    ],
+    "is_following_zhao": true,
+    "summary": "对spyu那阵子跟着你赚了点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "对spyu那阵子跟着你赚了点"
+}
