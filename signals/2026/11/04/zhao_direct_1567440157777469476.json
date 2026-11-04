@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567440157777469476",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T07:27:35.244000+00:00",
+  "captured_at": "2026-11-04T16:01:49+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "正好20年前了 那时候 三个单边 最后个周五 后半段起来很多 就是单边最低买三次全压进",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "正好20年前了 那时候 三个单边 最后个周五 后半段起来很多 就是单边最低买三次全压进",
+  "attribution": "direct"
+}
