@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566831648006475938",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shusen",
+  "ts": "2026-11-02T15:09:35.209000+00:00",
+  "captured_at": "2026-11-04T15:52:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，小票这种跌法，机器没有检测出抛的大单吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，小票这种跌法，机器没有检测出抛的大单吗"
+}
