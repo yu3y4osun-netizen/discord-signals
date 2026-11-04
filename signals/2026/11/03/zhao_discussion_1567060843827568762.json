@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567060843827568762",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-03T06:20:19.751000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥说过的夜盘开盘半小时就出掉啊",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥说过的夜盘开盘半小时就出掉啊"
+}
