@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567149832618123337",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-03T12:13:56.332000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "扛太久了，赵哥你那个时候如果一声令下割肉，我们这个时候一句闲话都不会说。",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "扛太久了，赵哥你那个时候如果一声令下割肉，我们这个时候一句闲话都不会说。"
+}
