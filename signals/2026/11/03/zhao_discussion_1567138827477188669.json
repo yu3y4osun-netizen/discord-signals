@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567138827477188669",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zhanglucky",
+  "ts": "2026-11-03T11:30:12.502000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "MU我跟着哈兰德哥买了一点，但也是赚一点就跑了，不敢",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "MU我跟着哈兰德哥买了一点，但也是赚一点就跑了，不敢"
+}
