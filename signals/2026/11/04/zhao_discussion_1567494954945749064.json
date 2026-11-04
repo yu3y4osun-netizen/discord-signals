@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567494954945749064",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ttg894",
+  "ts": "2026-11-04T11:05:19.907000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我是感觉这个时段信息传递太快了，导致恐慌可以一下子蔓延起来。极端行情有点多",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我是感觉这个时段信息传递太快了，导致恐慌可以一下子蔓延起来。极端行情有点多"
+}
