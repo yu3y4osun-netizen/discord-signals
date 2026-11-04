@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567165504043487294",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T13:16:12.691000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "只是看幅度 没有其他高 就是他几次都是别的涨了 没怎么回落才会异动 上次的12点那种",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "只是看幅度 没有其他高 就是他几次都是别的涨了 没怎么回落才会异动 上次的12点那种",
+  "attribution": "direct"
+}
