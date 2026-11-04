@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567218460155580509",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T16:46:38.412000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是今天盘后amd财报 选票结果在amd之后的夜盘 盘前 盘中都可以出",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是今天盘后amd财报  选票结果在amd之后的夜盘 盘前 盘中都可以出",
+  "attribution": "direct"
+}
