@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567227766670237830",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:23:37.258000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个也是在的 我就看他规律能不能再一次",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这个也是在的 我就看他规律能不能再一次",
+  "attribution": "direct"
+}
