@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567203687107928136",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T15:47:56.243000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxs最好带止损",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "soxs最好带止损",
+  "attribution": "direct"
+}
