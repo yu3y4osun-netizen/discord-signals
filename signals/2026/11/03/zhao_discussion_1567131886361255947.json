@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567131886361255947",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "adfe1",
+  "ts": "2026-11-03T11:02:37.611000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥今天没动静，不会退圈了吧",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥今天没动静，不会退圈了吧"
+}
