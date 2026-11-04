@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567471070099935293",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-04T09:30:25.316000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要这几天每天都是开盘回踩，最高点在盘前，不知道今天会不会还是一样的走势",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "主要这几天每天都是开盘回踩，最高点在盘前，不知道今天会不会还是一样的走势"
+}
