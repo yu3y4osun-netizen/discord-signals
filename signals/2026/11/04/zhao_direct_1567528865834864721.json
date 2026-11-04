@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567528865834864721",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T13:20:04.893000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "RIOT"
+    ],
+    "is_following_zhao": false,
+    "summary": "我就是等的riot那种连续的20%那种场景才会出掉 特别财报附近",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我就是等的riot那种连续的20%那种场景才会出掉 特别财报附近",
+  "attribution": "direct"
+}
