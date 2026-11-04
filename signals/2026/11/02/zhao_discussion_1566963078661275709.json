@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566963078661275709",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wenjiandu",
+  "ts": "2026-11-02T23:51:50.719000+00:00",
+  "captured_at": "2026-11-04T15:56:05+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "感觉存储缺是真的缺. 但就是被干的这么惨",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "存储"
+    ]
+  },
+  "raw_text": "感觉存储缺是真的缺. 但就是被干的这么惨"
+}
