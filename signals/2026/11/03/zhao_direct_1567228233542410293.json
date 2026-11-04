@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567228233542410293",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:25:28.569000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有的看几个时间段 有时候 盘前高或者盘中+5的 后半场单边-8到-10的很多",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "有的看几个时间段 有时候 盘前高或者盘中+5的 后半场单边-8到-10的很多",
+  "attribution": "direct"
+}
