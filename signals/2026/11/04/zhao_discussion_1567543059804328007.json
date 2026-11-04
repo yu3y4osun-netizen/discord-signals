@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567543059804328007",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-04T14:16:28.999000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "COST",
+      "WMT"
+    ],
+    "is_following_zhao": false,
+    "summary": "十几pe，个位数的存储都有泡沫，那40pe的wmt，cost，魔爪算什么",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "存储"
+    ]
+  },
+  "raw_text": "十几pe，个位数的存储都有泡沫，那40pe的wmt，cost，魔爪算什么"
+}
