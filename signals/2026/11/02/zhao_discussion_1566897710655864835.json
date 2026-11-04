@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566897710655864835",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-02T19:32:05.772000+00:00",
+  "captured_at": "2026-11-04T15:54:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "行，那我再看看，还要看aapl和amd财报",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "行，那我再看看，还要看aapl和amd财报"
+}
