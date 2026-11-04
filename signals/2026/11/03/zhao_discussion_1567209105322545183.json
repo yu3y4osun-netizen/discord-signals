@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567209105322545183",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaohongrub",
+  "ts": "2026-11-03T16:09:28.046000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "@xiaozhaolucky 赵哥 两院都丢的话 是继续会跌的可能性更大吗？还是可能利空出尽？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "@xiaozhaolucky 赵哥 两院都丢的话 是继续会跌的可能性更大吗？还是可能利空出尽？"
+}
