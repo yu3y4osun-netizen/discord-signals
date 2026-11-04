@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567426408450498613",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "daluyazi",
+  "ts": "2026-11-04T06:32:57.149000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "得州州长Abbott应该是落败了，AI基础设施接下来可能比较艰难了。 民主党候选人Hinojosa胜选，此前曾承诺暂停新的数据中心建设，直到监管新规出台。 美国...",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云",
+      "半导体"
+    ]
+  },
+  "raw_text": "得州州长Abbott应该是落败了，AI基础设施接下来可能比较艰难了。\n\n民主党候选人Hinojosa胜选，此前曾承诺暂停新的数据中心建设，直到监管新规出台。\n\n美国约1/3的规划数据中心位于得州，如果Hinojosa政策兑现，数据中心、电力、半导体整个AI基础设施产业链都可能受到冲击。"
+}
