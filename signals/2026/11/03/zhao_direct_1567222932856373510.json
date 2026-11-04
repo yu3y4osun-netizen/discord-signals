@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567222932856373510",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:04:24.787000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "民主上来 特斯拉应该会跌 它属于站台的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "民主上来 特斯拉应该会跌 它属于站台的",
+  "attribution": "direct"
+}
