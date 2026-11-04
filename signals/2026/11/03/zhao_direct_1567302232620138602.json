@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567302232620138602",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T22:19:31.324000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "因为问过就是不是连续睡眠只要 间隔加起来多1个小时也不损害健康",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "因为问过就是不是连续睡眠只要 间隔加起来多1个小时也不损害健康",
+  "attribution": "direct"
+}
