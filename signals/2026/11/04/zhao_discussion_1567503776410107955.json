@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567503776410107955",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jkchen13",
+  "ts": "2026-11-04T11:40:23.108000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥现在特斯拉是不是可以清掉了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥现在特斯拉是不是可以清掉了"
+}
