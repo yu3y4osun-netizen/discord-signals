@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567417562965213257",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yinmo888",
+  "ts": "2026-11-04T05:57:48.221000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥 今天抄底后面长拿一段时间了么",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 今天抄底后面长拿一段时间了么"
+}
