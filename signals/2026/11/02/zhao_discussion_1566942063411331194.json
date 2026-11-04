@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566942063411331194",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-02T22:28:20.293000+00:00",
+  "captured_at": "2026-11-04T15:56:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "苹果怎么崩了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "苹果怎么崩了"
+}
