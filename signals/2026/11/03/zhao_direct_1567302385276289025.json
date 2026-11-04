@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567302385276289025",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T22:20:07.720000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但是尽量还是不要尝试 我是专门问那种 要倒班的急诊医生 他说没事情",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "但是尽量还是不要尝试 我是专门问那种 要倒班的急诊医生 他说没事情",
+  "attribution": "direct"
+}
