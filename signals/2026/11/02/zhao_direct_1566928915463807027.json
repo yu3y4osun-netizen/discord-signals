@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566928915463807027",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T21:36:05.578000+00:00",
+  "captured_at": "2026-11-04T15:55:13+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是lite那天那种 16%后 -25%了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是lite那天那种 16%后 -25%了",
+  "attribution": "direct"
+}
