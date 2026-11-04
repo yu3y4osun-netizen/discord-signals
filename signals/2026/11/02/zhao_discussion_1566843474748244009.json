@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566843474748244009",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-02T15:56:34.924000+00:00",
+  "captured_at": "2026-11-04T15:53:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "之前trump的obbb把Medicaid预算全消了，所以相关公司暴跌",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "之前trump的obbb把Medicaid预算全消了，所以相关公司暴跌"
+}
