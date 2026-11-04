@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567231638646296607",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:39:00.409000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "前面那个是解禁 他就是原始股东 上市前认购的 他是不管什么情况都想卖去做其他的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "前面那个是解禁 他就是原始股东 上市前认购的 他是不管什么情况都想卖去做其他的",
+  "attribution": "direct"
+}
