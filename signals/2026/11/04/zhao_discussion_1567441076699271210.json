@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567441076699271210",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-11-04T07:31:14.332000+00:00",
+  "captured_at": "2026-11-04T16:01:49+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": true,
+    "summary": "853的mu 买了吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "853的mu 买了吗"
+}
