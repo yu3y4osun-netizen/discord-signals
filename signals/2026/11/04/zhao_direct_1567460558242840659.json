@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567460558242840659",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T08:48:39.094000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPYU",
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是tqqq流动性稍微好点 就是有稳健想多点仓位就tqqq spyu双开",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是tqqq流动性稍微好点 就是有稳健想多点仓位就tqqq  spyu双开",
+  "attribution": "direct"
+}
