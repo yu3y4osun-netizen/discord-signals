@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566824143113035941",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T14:39:45.903000+00:00",
+  "captured_at": "2026-11-04T15:51:43+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "11月底再看加 没解禁出清完再加又会被利空下去",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "11月底再看加 没解禁出清完再加又会被利空下去",
+  "attribution": "direct"
+}
