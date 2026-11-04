@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567577258099744930",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T16:32:22.508000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你干嘛那么高去满那个 你这个还太久了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "你干嘛那么高去满那个 你这个还太久了",
+  "attribution": "direct"
+}
