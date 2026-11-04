@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567145146728841217",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "peacetrade",
+  "ts": "2026-11-03T11:55:19.129000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "之前期权还有38%的止损，现在SOXL和小票比期权还猛",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "之前期权还有38%的止损，现在SOXL和小票比期权还猛"
+}
