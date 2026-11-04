@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567166314173173802",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-11-03T13:19:25.841000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "为什么不能把把让你赢，为什么不能胜率100%是吧",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "为什么不能把把让你赢，为什么不能胜率100%是吧"
+}
