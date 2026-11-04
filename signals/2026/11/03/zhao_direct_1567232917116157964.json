@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567232917116157964",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:44:05.220000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "CBRS"
+    ],
+    "is_following_zhao": false,
+    "summary": "然后如果资金都打满有个很傻瓜的做T方式就是 比如cbrs 涨了10% 你出个持仓cbrs的10%",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后如果资金都打满有个很傻瓜的做T方式就是 比如cbrs 涨了10%  你出个持仓cbrs的10%",
+  "attribution": "direct"
+}
