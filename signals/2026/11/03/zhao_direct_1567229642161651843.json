@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567229642161651843",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:31:04.410000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "短线又不耽误 就是 只抓盘后最低的 5-9点盘后段 起来随缘看看 也不耽误休息",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "短线又不耽误 就是 只抓盘后最低的 5-9点盘后段 起来随缘看看 也不耽误休息",
+  "attribution": "direct"
+}
