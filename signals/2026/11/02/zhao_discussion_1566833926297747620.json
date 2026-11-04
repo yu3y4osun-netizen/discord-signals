@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566833926297747620",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hubinchen",
+  "ts": "2026-11-02T15:18:38.396000+00:00",
+  "captured_at": "2026-11-04T15:52:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "早爆仓啦，在币安做的合约，杠杆拉满",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "早爆仓啦，在币安做的合约，杠杆拉满"
+}
