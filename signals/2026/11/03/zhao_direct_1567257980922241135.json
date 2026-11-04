@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567257980922241135",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T19:23:40.897000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "昨天苹果不是规避太厉害了今天没必要昨天那个幅度 就是按市值今天压制和规避力度是昨天的4分之一",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "昨天苹果不是规避太厉害了今天没必要昨天那个幅度 就是按市值今天压制和规避力度是昨天的4分之一",
+  "attribution": "direct"
+}
