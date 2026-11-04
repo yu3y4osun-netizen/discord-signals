@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566834885254062253",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-02T15:22:27.029000+00:00",
+  "captured_at": "2026-11-04T15:52:28+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS",
+      "CRWV",
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "大盘都拉高这么多了CRWV .CBRS都是负七八个点真牛逼",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "大盘都拉高这么多了CRWV .CBRS都是负七八个点真牛逼"
+}
