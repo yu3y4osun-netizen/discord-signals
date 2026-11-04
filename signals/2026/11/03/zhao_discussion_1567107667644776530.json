@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567107667644776530",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T09:26:23.419000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "上涨了你满仓满融梭哈，下跌的时候赵哥买了那么多你没有梭哈满仓满融，赵哥不买了，你不是跟赵哥吗？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "上涨了你满仓满融梭哈，下跌的时候赵哥买了那么多你没有梭哈满仓满融，赵哥不买了，你不是跟赵哥吗？"
+}
