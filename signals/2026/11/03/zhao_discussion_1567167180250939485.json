@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567167180250939485",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-11-03T13:22:52.330000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你是站在现在去看过去，但是当时没有人能猜得到未来，赵哥做的票从去年开始就基本都是这些",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "你是站在现在去看过去，但是当时没有人能猜得到未来，赵哥做的票从去年开始就基本都是这些"
+}
