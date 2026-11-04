@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566926642419339336",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yinmo888",
+  "ts": "2026-11-02T21:27:03.642000+00:00",
+  "captured_at": "2026-11-04T15:55:04+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "苹果利润应该会受到存储啥的影响",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "存储"
+    ]
+  },
+  "raw_text": "苹果利润应该会受到存储啥的影响"
+}
