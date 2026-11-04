@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567174398228693125",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T13:51:33.230000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "别看我现在满仓，我还希望他负的越多越好负五十起步最好",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "别看我现在满仓，我还希望他负的越多越好负五十起步最好"
+}
