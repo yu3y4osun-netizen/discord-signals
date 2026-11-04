@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567537874096623718",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-04T13:55:52.630000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "tsm这轮应该不会被半导体行情误伤到太多吧，我看上一轮它涨的速度还挺快的",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "tsm这轮应该不会被半导体行情误伤到太多吧，我看上一轮它涨的速度还挺快的"
+}
