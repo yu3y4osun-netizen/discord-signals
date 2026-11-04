@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567189820063879288",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "gallagherg",
+  "ts": "2026-11-03T14:52:50.082000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥，机器买点其实还行的，我觉得可以就是做做超短，比如说日内的或者根据一些规律做隔天的买卖，设置严格止损，止盈的话就更具机器或者规律。这样我觉得效果应该还可以。",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，机器买点其实还行的，我觉得可以就是做做超短，比如说日内的或者根据一些规律做隔天的买卖，设置严格止损，止盈的话就更具机器或者规律。这样我觉得效果应该还可以。"
+}
