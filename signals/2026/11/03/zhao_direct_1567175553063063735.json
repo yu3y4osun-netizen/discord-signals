@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567175553063063735",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T13:56:08.564000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "只是时间点lite可能不是最佳 但是也规避了这次 他利好是故意放这个点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "只是时间点lite可能不是最佳 但是也规避了这次 他利好是故意放这个点",
+  "attribution": "direct"
+}
