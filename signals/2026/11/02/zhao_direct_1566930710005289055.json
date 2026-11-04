@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566930710005289055",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T21:43:13.430000+00:00",
+  "captured_at": "2026-11-04T15:55:32+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "还有 还没出来 amd和唱票 明后天",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "还有 还没出来  amd和唱票 明后天",
+  "attribution": "direct"
+}
