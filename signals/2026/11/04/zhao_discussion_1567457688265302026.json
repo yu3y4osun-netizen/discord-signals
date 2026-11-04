@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567457688265302026",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-04T08:37:14.838000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在先买指数。赵哥说等讲话和明年协商完再定政策",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "现在先买指数。赵哥说等讲话和明年协商完再定政策"
+}
