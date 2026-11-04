@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567545541313830943",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-04T14:26:20.637000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "LLY",
+      "NVO"
+    ],
+    "is_following_zhao": false,
+    "summary": "lly把nvo整死了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "lly把nvo整死了"
+}
