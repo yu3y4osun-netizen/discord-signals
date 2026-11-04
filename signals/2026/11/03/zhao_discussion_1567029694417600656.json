@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567029694417600656",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meiyoumeiyou",
+  "ts": "2026-11-03T04:16:33.153000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl磨损好大啊，一个礼拜的时间160到70",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl磨损好大啊，一个礼拜的时间160到70"
+}
