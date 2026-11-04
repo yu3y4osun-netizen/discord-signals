@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566824639320166411",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-02T14:41:44.208000+00:00",
+  "captured_at": "2026-11-04T15:51:47+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "下次可以出，做t",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "下次可以出，做t"
+}
