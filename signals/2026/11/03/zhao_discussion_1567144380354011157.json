@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567144380354011157",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "peacetrade",
+  "ts": "2026-11-03T11:52:16.411000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLL"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥之前做TSLL还是舒服的，我都是自动化跟单，什么节日卖出也基本上靠谱，这下半年都不玩了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥之前做TSLL还是舒服的，我都是自动化跟单，什么节日卖出也基本上靠谱，这下半年都不玩了"
+}
