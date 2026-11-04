@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567255042249990155",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T19:12:00.263000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "也不走吧 再低了再加",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "也不走吧 再低了再加",
+  "attribution": "direct"
+}
