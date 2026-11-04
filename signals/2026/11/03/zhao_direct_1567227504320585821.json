@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567227504320585821",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:22:34.709000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "RIOT"
+    ],
+    "is_following_zhao": false,
+    "summary": "riot就是昨天那个11.65",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "riot就是昨天那个11.65",
+  "attribution": "direct"
+}
