@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567018250926161952",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnlorus",
+  "ts": "2026-11-03T03:31:04.812000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "soxl 继续套利",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl 继续套利"
+}
