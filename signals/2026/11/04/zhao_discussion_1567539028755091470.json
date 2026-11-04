@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567539028755091470",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-04T14:00:27.922000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是不是半导体和硬件的资金都会回流到big7去了",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "是不是半导体和硬件的资金都会回流到big7去了"
+}
