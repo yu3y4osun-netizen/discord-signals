@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567030878876602530",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "meiyoumeiyou",
+  "ts": "2026-11-03T04:21:15.550000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "希望赵哥这次带我们做空股市 08年大空头版本",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "希望赵哥这次带我们做空股市 08年大空头版本"
+}
