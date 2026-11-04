@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567566909250084875",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuumiiiiii",
+  "ts": "2026-11-04T15:51:15.150000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": true,
+    "summary": "我还有闪迪两倍做多 7块买的也是套死死",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我还有闪迪两倍做多 7块买的也是套死死"
+}
