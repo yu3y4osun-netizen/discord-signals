@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567150292368236615",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xinxin8542",
+  "ts": "2026-11-03T12:15:45.945000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，麻烦看看卖家怎么主动申请退款吧@xiaozhaolucky",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，麻烦看看卖家怎么主动申请退款吧@xiaozhaolucky"
+}
