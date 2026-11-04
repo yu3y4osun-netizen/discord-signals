@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567340168837472357",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T00:50:16.023000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是急跌幅度 和 反弹时间不一样",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是急跌幅度 和 反弹时间不一样",
+  "attribution": "direct"
+}
