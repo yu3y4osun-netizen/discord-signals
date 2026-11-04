@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567514948282875975",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-04T12:24:46.690000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOG"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，你看这波goog能回300吗，能回300我减仓😅",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，你看这波goog能回300吗，能回300我减仓😅"
+}
