@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567540832280514623",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-04T14:07:37.916000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "KO",
+      "WMT"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，ko，wmt，mdc这种消费下一轮能做吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，ko，wmt，mdc这种消费下一轮能做吗"
+}
