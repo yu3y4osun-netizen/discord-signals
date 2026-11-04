@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567342161970860144",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T00:58:11.223000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "所以盘后不是有人问要不要追amd那个利好 我说不能追还有那个投票事件会急跌",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "所以盘后不是有人问要不要追amd那个利好 我说不能追还有那个投票事件会急跌",
+  "attribution": "direct"
+}
