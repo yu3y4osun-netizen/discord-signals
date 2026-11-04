@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567168441415241819",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T13:27:53.015000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他这种每次就是卡了韩国的冲高 二次摸高点 要比夜盘高才结构属于突破",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "他这种每次就是卡了韩国的冲高 二次摸高点 要比夜盘高才结构属于突破",
+  "attribution": "direct"
+}
