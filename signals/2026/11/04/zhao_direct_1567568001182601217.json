@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567568001182601217",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T15:55:35.487000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "肯定不能都是特朗普时期的股 脱手一个要等换个qqq指数做做",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "肯定不能都是特朗普时期的股 脱手一个要等换个qqq指数做做",
+  "attribution": "direct"
+}
