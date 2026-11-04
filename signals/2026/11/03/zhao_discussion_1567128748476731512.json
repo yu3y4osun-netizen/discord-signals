@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567128748476731512",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "nealbest",
+  "ts": "2026-11-03T10:50:09.481000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今年4月，俄乌战争停火了，大涨一下，赵哥猛叫大家卖，后面连续涨了二个月。很多塌空了，我记得群里的那个Pau哥后面好像退了，我今年很少跟。但是时不时跟过来看下。我...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "今年4月，俄乌战争停火了，大涨一下，赵哥猛叫大家卖，后面连续涨了二个月。很多塌空了，我记得群里的那个Pau哥后面好像退了，我今年很少跟。但是时不时跟过来看下。我长桥，担心做T会影响后面交税，"
+}
