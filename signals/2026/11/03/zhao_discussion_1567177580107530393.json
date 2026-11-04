@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567177580107530393",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fangxiaemo",
+  "ts": "2026-11-03T14:04:11.849000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就像你们说的哈兰德，别人自己说7月存储亏了，硬抗过来的，谁没有错的时候呢",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "存储"
+    ]
+  },
+  "raw_text": "就像你们说的哈兰德，别人自己说7月存储亏了，硬抗过来的，谁没有错的时候呢"
+}
