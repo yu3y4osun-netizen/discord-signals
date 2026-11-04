@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567123575079706686",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-03T10:29:36.047000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不断创新高",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "不断创新高"
+}
