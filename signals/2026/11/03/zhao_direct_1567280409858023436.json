@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567280409858023436",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T20:52:48.372000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AEHR"
+    ],
+    "is_following_zhao": false,
+    "summary": "你看aehr他是打足了量冲了第一个阴线顶部的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "你看aehr他是打足了量冲了第一个阴线顶部的",
+  "attribution": "direct"
+}
