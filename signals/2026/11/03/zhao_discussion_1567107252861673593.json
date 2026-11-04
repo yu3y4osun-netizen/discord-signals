@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567107252861673593",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T09:24:44.527000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥在102的时候买入，你没梭哈，90的时候赵哥买入两个六分之一你没梭哈融资，八十四的时候又买入一次六分之一，你没有梭哈满仓满融，到七十了你梭哈满仓满融，不觉得...",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥在102的时候买入，你没梭哈，90的时候赵哥买入两个六分之一你没梭哈融资，八十四的时候又买入一次六分之一，你没有梭哈满仓满融，到七十了你梭哈满仓满融，不觉得可笑吗"
+}
