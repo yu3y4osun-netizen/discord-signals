@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567533350602809467",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-04T13:37:54.145000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "体感上真的快了，我记得去年这个时候都有把赵哥据报道封号了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "体感上真的快了，我记得去年这个时候都有把赵哥据报道封号了"
+}
