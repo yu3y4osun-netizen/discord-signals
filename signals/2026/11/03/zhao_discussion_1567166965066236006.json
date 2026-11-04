@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567166965066236006",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-03T13:22:01.026000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "对，赵哥应该改变一些策略",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "对，赵哥应该改变一些策略"
+}
