@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566838259097534496",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnkdki",
+  "ts": "2026-11-02T15:35:51.416000+00:00",
+  "captured_at": "2026-11-04T15:52:47+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "NBIS能突破165就还有开始有希望了，在那之前应该都是跌的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "NBIS能突破165就还有开始有希望了，在那之前应该都是跌的"
+}
