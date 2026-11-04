@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567534098636079246",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-04T13:40:52.490000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "先说说这些新进群的都是哪里爬过来的，赵哥公开开社媒拉新了吗？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "先说说这些新进群的都是哪里爬过来的，赵哥公开开社媒拉新了吗？"
+}
