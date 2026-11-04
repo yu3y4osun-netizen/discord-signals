@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567341229656772760",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-04T00:54:28.942000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "好嘞，看看能不能短线吃一波，现在soxl的价格也不怕被套",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "好嘞，看看能不能短线吃一波，现在soxl的价格也不怕被套"
+}
