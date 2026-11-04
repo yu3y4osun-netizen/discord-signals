@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567226075682185260",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:16:54.095000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "反复做短线就是 只是灵活资金不在乎涨多少 盘后有低点的出过财报的 之前 反复一个区间有来回弄弄",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "反复做短线就是 只是灵活资金不在乎涨多少 盘后有低点的出过财报的 之前 反复一个区间有来回弄弄",
+  "attribution": "direct"
+}
