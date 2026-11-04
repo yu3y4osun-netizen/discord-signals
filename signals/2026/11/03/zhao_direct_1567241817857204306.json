@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567241817857204306",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T18:19:27.322000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "然后他会走锯齿那种升 涨16% 跌个5-6% 在涨10% 在跌3-4%",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后他会走锯齿那种升  涨16% 跌个5-6%  在涨10% 在跌3-4%",
+  "attribution": "direct"
+}
