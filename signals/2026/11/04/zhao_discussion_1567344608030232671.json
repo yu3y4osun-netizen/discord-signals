@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567344608030232671",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-04T01:07:54.409000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "Soxs10%了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Soxs10%了"
+}
