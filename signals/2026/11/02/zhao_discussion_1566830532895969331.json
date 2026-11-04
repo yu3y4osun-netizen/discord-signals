@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566830532895969331",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hzh1998",
+  "ts": "2026-11-02T15:05:09.346000+00:00",
+  "captured_at": "2026-11-04T15:52:10+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "小票割了去换大盘吧至少",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "小票割了去换大盘吧至少"
+}
