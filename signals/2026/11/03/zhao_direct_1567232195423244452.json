@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567232195423244452",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:41:13.155000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AEHR"
+    ],
+    "is_following_zhao": false,
+    "summary": "都是财报那天看看 那天财报预期只要好都会财报那天涨下 aehr昨天不就20点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "都是财报那天看看 那天财报预期只要好都会财报那天涨下 aehr昨天不就20点",
+  "attribution": "direct"
+}
