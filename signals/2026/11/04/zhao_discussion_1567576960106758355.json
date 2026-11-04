@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567576960106758355",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "qwerbjd",
+  "ts": "2026-11-04T16:31:11.461000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "套死了soxl",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "套死了soxl"
+}
