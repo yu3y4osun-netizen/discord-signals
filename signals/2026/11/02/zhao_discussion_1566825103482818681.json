@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566825103482818681",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fastspeed",
+  "ts": "2026-11-02T14:43:34.873000+00:00",
+  "captured_at": "2026-11-04T15:51:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跌的时候20个点拿着，涨了5个点卖飞的话，那不是懊悔死",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "跌的时候20个点拿着，涨了5个点卖飞的话，那不是懊悔死"
+}
