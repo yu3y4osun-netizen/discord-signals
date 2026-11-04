@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567186588776144910",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T14:39:59.683000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我是拿soxl在参考 盘前是77最高 盘中 往77摸和靠拢都是正向循环开盘价是73.7 盘中有开始跌破73.7 和最低72.48就是开始有对amd的进行规避 amd对soxl影响大占比大",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我是拿soxl在参考  盘前是77最高 盘中 往77摸和靠拢都是正向循环开盘价是73.7  盘中有开始跌破73.7 和最低72.48就是开始有对amd的进行规避 amd对soxl影响大占比大",
+  "attribution": "direct"
+}
