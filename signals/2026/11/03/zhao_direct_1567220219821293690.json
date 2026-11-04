@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567220219821293690",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T16:53:37.949000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "16-30号就是混乱期 对票的结果质疑啊 伊朗谈判后续啊 之类都在那个阶段",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "16-30号就是混乱期 对票的结果质疑啊 伊朗谈判后续啊 之类都在那个阶段",
+  "attribution": "direct"
+}
