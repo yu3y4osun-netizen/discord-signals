@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567187124615127242",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-11-03T14:42:07.437000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "DAMD是做空的，害怕的可以保护一下",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "DAMD是做空的，害怕的可以保护一下"
+}
