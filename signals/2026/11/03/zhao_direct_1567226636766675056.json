@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567226636766675056",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T17:19:07.868000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "时间段都是利空事件他不会出来说利好 说增持 公司里面的都是跌很多了 到有好的事件段才会突然放利好 放自己增持好了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "时间段都是利空事件他不会出来说利好 说增持  公司里面的都是跌很多了 到有好的事件段才会突然放利好 放自己增持好了",
+  "attribution": "direct"
+}
