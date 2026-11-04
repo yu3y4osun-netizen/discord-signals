@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567131950517452861",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-03T11:02:52.907000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "hhh 赵哥的言论认知确实和他的点位质量不匹配 有怀疑是正常的",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "hhh 赵哥的言论认知确实和他的点位质量不匹配 有怀疑是正常的"
+}
