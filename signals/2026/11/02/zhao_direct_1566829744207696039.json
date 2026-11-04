@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566829744207696039",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-02T15:02:01.308000+00:00",
+  "captured_at": "2026-11-04T15:52:05+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "上下宽幅震荡 苹果财报后再看吸了 跟谷歌那次差不多",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "上下宽幅震荡  苹果财报后再看吸了 跟谷歌那次差不多",
+  "attribution": "direct"
+}
