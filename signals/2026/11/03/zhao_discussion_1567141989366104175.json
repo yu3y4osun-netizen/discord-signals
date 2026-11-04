@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567141989366104175",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zhanglucky",
+  "ts": "2026-11-03T11:42:46.355000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "CONL"
+    ],
+    "is_following_zhao": true,
+    "summary": "希望新云这几个也可以和conl一样加仓回本",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "希望新云这几个也可以和conl一样加仓回本"
+}
