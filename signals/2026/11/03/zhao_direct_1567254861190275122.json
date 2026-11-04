@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567254861190275122",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T19:11:17.095000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一个是走正常板块路线一个有事件压迫",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "一个是走正常板块路线一个有事件压迫",
+  "attribution": "direct"
+}
