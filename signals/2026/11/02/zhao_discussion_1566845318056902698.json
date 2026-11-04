@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1566845318056902698",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-02T16:03:54.403000+00:00",
+  "captured_at": "2026-11-04T15:53:03+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "给我炸懵了🤣",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "给我炸懵了🤣"
+}
