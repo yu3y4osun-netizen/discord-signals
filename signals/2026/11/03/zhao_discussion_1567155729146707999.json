@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567155729146707999",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huoweijia",
+  "ts": "2026-11-03T12:37:22.174000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "到底了开始反弹也没人说了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "到底了开始反弹也没人说了"
+}
