@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567301656746532957",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T22:17:14.025000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没事有问题你们可以留言的 我现在 一般听完电话会议休息到 韩国开盘半小时那会看到A股开半小时 在休息到A收盘看个半小时 在休息到盘前开2小时那会",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "没事有问题你们可以留言的 我现在 一般听完电话会议休息到 韩国开盘半小时那会看到A股开半小时  在休息到A收盘看个半小时 在休息到盘前开2小时那会",
+  "attribution": "direct"
+}
