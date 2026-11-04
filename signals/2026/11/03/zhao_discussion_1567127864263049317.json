@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567127864263049317",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-03T10:46:38.668000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个叫John的为什么只有你一个人始终在维护赵哥。",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "这个叫John的为什么只有你一个人始终在维护赵哥。"
+}
