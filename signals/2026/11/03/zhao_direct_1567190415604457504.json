@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567190415604457504",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-03T14:55:12.070000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "想等胜选发言有个小右侧时候再试试 最近还是再看看持续性和这个规律是不是维持下 他变化比较快 一个事件这个时间段会往后延一个时间段",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "想等胜选发言有个小右侧时候再试试 最近还是再看看持续性和这个规律是不是维持下  他变化比较快 一个事件这个时间段会往后延一个时间段",
+  "attribution": "direct"
+}
