@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567494394016436359",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ttg894",
+  "ts": "2026-11-04T11:03:06.171000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，下次这种一路阴跌弱反弹的行情你有想到什么好策略吗？比如拿仓位比例买张 put 保护着？ 我是能理解等反弹 50% 出的，但这次遇到极端行情了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，下次这种一路阴跌弱反弹的行情你有想到什么好策略吗？比如拿仓位比例买张 put 保护着？\n我是能理解等反弹 50% 出的，但这次遇到极端行情了"
+}
