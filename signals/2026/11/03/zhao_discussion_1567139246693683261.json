@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567139246693683261",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zhanglucky",
+  "ts": "2026-11-03T11:31:52.451000+00:00",
+  "captured_at": "2026-11-04T15:18:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": true,
+    "summary": "云我一开始不敢买，因为crwv套过，后来看群友们天天10几个点的，上头了，被挂在高点",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "云我一开始不敢买，因为crwv套过，后来看群友们天天10几个点的，上头了，被挂在高点"
+}
