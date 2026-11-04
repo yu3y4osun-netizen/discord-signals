@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567511854282965013",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-11-04T12:12:29.023000+00:00",
+  "captured_at": "2026-11-05T01:32:53+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "67的soxl 走光了 tqqq走了一半。",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "67的soxl 走光了 tqqq走了一半。"
+}
