@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567797175612874763",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T07:06:14.929000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "我看赵哥现在给点位的同时也给了止损点，就非常棒😍",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我看赵哥现在给点位的同时也给了止损点，就非常棒😍"
+}
