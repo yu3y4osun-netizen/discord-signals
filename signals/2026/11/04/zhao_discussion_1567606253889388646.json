@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567606253889388646",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zengshanmei",
+  "ts": "2026-11-04T18:27:35.643000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥能不能做空半导体？",
+    "filter_reason": "zhao_discuss",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "赵哥能不能做空半导体？"
+}
