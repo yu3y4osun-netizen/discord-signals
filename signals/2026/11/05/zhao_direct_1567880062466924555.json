@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567880062466924555",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T12:35:36.695000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq盘前就是那种情况 他把均线上面那前面一整块面积 都在快开盘前跌破均线在走弱",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "qqq盘前就是那种情况 他把均线上面那前面一整块面积 都在快开盘前跌破均线在走弱",
+  "attribution": "direct"
+}
