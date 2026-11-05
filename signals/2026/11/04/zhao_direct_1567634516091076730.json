@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567634516091076730",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T20:19:53.877000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "夜盘 盘前 和开盘你回头看有上下波动的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "夜盘 盘前 和开盘你回头看有上下波动的",
+  "attribution": "direct"
+}
