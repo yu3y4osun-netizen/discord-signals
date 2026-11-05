@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567884776327618562",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T12:54:20.567000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "16-20号那周 有互撕和伊朗之前和特朗普谈的会摆烂那种利空",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "16-20号那周 有互撕和伊朗之前和特朗普谈的会摆烂那种利空",
+  "attribution": "direct"
+}
