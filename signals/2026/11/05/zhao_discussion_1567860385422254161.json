@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567860385422254161",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T11:17:25.322000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，Soxx今天拆股了，我记得之前闪迪那个两倍etf拆股的时候跌了不少，半导体这次有这个风险吗？",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "赵哥，Soxx今天拆股了，我记得之前闪迪那个两倍etf拆股的时候跌了不少，半导体这次有这个风险吗？"
+}
