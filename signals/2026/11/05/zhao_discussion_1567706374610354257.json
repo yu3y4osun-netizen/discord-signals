@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567706374610354257",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-05T01:05:26.283000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "相反，ai短期肯定受影响，Gina Hinojosa在竞选德州州长的半年里一直强调的口号就是压制数据中心，目前德州在建的数据中心有13GW，等到一月份Hinoj...",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "相反，ai短期肯定受影响，Gina Hinojosa在竞选德州州长的半年里一直强调的口号就是压制数据中心，目前德州在建的数据中心有13GW，等到一月份Hinojosa上台，大概率都会收到moratorium，等待二次评估"
+}
