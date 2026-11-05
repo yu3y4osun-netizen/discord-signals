@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567840570213142620",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanyan379",
+  "ts": "2026-11-05T09:58:41.008000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "不是还有英伟达没出",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "不是还有英伟达没出"
+}
