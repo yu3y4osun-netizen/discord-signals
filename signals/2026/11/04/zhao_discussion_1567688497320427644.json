@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567688497320427644",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-04T23:54:24.005000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "猪脚哥 那这波存储也差不多跟云一起波动吗",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云",
+      "存储"
+    ]
+  },
+  "raw_text": "猪脚哥 那这波存储也差不多跟云一起波动吗"
+}
