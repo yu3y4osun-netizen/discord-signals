@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567883307348140054",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T12:48:30.335000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "明天还有大非农，看小非农的数据来看，大非农大概率也是利空吧",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "明天还有大非农，看小非农的数据来看，大非农大概率也是利空吧"
+}
