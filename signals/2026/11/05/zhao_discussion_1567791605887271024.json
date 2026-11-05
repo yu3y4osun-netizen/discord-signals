@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567791605887271024",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-11-05T06:44:07.003000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "pe最低的时候 可能是价格最高的时候 这镁光个位数pe了吧",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "pe最低的时候 可能是价格最高的时候  这镁光个位数pe了吧"
+}
