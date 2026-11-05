@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567833027294535692",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zhanglucky",
+  "ts": "2026-11-05T09:28:42.636000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": true,
+    "summary": "我把soxs出了换的soxl，没等到反弹，等到大面",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我把soxs出了换的soxl，没等到反弹，等到大面"
+}
