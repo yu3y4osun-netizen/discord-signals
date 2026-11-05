@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567709483738857567",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yinmo888",
+  "ts": "2026-11-05T01:17:47.557000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "每日做多 就每日做多 不要一直做多",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "每日做多 就每日做多 不要一直做多"
+}
