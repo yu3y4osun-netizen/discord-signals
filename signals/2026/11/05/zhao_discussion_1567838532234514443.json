@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567838532234514443",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T09:50:35.116000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "不过我看赵哥之前的记录，是都没有止损的",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "不过我看赵哥之前的记录，是都没有止损的"
+}
