@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567664083791257751",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-04T22:17:23.366000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "CNC我第一次发应该是10月初在一个截图里，当时换老登的时候配了些",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "CNC我第一次发应该是10月初在一个截图里，当时换老登的时候配了些"
+}
