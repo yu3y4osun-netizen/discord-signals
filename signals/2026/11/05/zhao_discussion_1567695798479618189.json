@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567695798479618189",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-05T00:23:24.737000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "云光存都是过去两年的动量股，也是散户热门股，每个人都炒，但产业逻辑和先后顺序是不一样的，短期情绪一棒子全打死，但长期还是会有分化",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云",
+      "光"
+    ]
+  },
+  "raw_text": "云光存都是过去两年的动量股，也是散户热门股，每个人都炒，但产业逻辑和先后顺序是不一样的，短期情绪一棒子全打死，但长期还是会有分化"
+}
