@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567604347053805771",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-04T18:20:01.018000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥下一个买点大概会是什么时间点",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥下一个买点大概会是什么时间点"
+}
