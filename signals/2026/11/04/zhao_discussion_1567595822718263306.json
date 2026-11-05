@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567595822718263306",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-11-04T17:46:08.658000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 请问最近特斯拉怎么看 能不能小资金空一把",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 请问最近特斯拉怎么看 能不能小资金空一把"
+}
