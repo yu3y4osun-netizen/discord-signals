@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567681745191440415",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-04T23:27:34.172000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "同意，尤其是已经稳定运行的数据中心",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "同意，尤其是已经稳定运行的数据中心"
+}
