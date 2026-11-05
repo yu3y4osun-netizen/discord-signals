@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567597676818595944",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "allenlove",
+  "ts": "2026-11-04T17:53:30.710000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥 请问soxl现在这个点位适合出点做T吗，成本比较高，想降低下",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 请问soxl现在这个点位适合出点做T吗，成本比较高，想降低下"
+}
