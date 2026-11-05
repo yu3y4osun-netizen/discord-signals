@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567879582093287549",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T12:33:42.165000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "还是按收盘盘后再看买 周四周五弱势容易走单边 具体要快开盘看下qqq的走势上看下量",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "还是按收盘盘后再看买 周四周五弱势容易走单边 具体要快开盘看下qqq的走势上看下量",
+  "attribution": "direct"
+}
