@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567869511648944230",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T11:53:41.184000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "其实我觉着，你们退款可以跟赵哥私聊的， 群里这么多消息，一会就刷下去了😓",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "其实我觉着，你们退款可以跟赵哥私聊的，\n群里这么多消息，一会就刷下去了😓"
+}
