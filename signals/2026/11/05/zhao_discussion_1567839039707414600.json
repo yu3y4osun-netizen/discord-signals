@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567839039707414600",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-11-05T09:52:36.107000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有止损 不就破坏他的人设了。。。以后没有那么好韭菜了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "有止损 不就破坏他的人设了。。。以后没有那么好韭菜了"
+}
