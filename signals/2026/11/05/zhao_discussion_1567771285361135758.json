@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567771285361135758",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T05:23:22.212000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "其实当时真做空了我概率也拿不住，跟现在没差",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "其实当时真做空了我概率也拿不住，跟现在没差"
+}
