@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567598262431522887",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T17:55:50.331000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "要看是不是这轮在跌破均线",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "要看是不是这轮在跌破均线",
+  "attribution": "direct"
+}
