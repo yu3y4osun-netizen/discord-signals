@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567838459027128453",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T09:50:17.662000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥是左侧选手吧，我是小散，不知道左侧交易的话，是不是需要有止损纪律",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥是左侧选手吧，我是小散，不知道左侧交易的话，是不是需要有止损纪律"
+}
