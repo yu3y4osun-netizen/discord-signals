@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567634788863713472",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-11-04T20:20:58.911000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "请问云的股票今年内是否打算出完呢？还是要长持",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "请问云的股票今年内是否打算出完呢？还是要长持"
+}
