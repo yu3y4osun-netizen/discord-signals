@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567878220357828691",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johntyun",
+  "ts": "2026-11-05T12:28:17.502000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "今年12月份纳指不会再摸一次高了吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "今年12月份纳指不会再摸一次高了吗"
+}
