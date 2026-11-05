@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567837478554173471",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-05T09:46:23.899000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS",
+      "CIFR",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "还有18点cifr 220的nbis 200的cbrs……..",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "还有18点cifr 220的nbis 200的cbrs…….."
+}
