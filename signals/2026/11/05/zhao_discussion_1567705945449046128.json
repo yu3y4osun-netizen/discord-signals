@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567705945449046128",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-05T01:03:43.963000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "我反而觉得musk的公司受影响不大，colosus的数据中心（原xAI）业务已经建成开始收租，spaceX的火箭业务和nasa签的都是多年长协，tsla更是利好...",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云",
+      "光"
+    ]
+  },
+  "raw_text": "我反而觉得musk的公司受影响不大，colosus的数据中心（原xAI）业务已经建成开始收租，spaceX的火箭业务和nasa签的都是多年长协，tsla更是利好光伏、储能、电车三个业务线，tsla两年前暴跌就是因为共和党把汽车碳排放积分补贴取消了"
+}
