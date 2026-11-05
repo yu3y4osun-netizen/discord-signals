@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567703166764589219",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-05T00:52:41.473000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "每个人自己独立判断最好 跟单你自己都不知道买到手里的东西意味着什么",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "每个人自己独立判断最好 跟单你自己都不知道买到手里的东西意味着什么"
+}
