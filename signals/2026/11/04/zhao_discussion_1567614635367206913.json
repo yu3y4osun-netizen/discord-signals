@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567614635367206913",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-04T19:00:53.943000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "不能格局，被上次谷歌弄怕了，谷歌一天能杀12%，现在已经觉得万事皆有可能了🤣",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "不能格局，被上次谷歌弄怕了，谷歌一天能杀12%，现在已经觉得万事皆有可能了🤣"
+}
