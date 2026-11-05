@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567694230292271256",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-05T00:17:10.852000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "相信常识，显卡芯片存储是给数据中心用的，现在数据中心扩张受限，但半导体的产能可不会无缘无故减少",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云",
+      "半导体",
+      "存储"
+    ]
+  },
+  "raw_text": "相信常识，显卡芯片存储是给数据中心用的，现在数据中心扩张受限，但半导体的产能可不会无缘无故减少"
+}
