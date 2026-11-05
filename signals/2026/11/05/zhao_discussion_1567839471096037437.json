@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567839471096037437",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanyan379",
+  "ts": "2026-11-05T09:54:18.958000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN",
+      "MSFT"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren延迟交付了微软的合同，是不是今天财报又要跌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "iren延迟交付了微软的合同，是不是今天财报又要跌"
+}
