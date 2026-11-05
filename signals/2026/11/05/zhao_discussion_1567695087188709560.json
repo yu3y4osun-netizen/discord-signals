@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567695087188709560",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-05T00:20:35.152000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMZN"
+    ],
+    "is_following_zhao": false,
+    "summary": "这么看，利好亚马逊，又是消费概念，又是有第一大已运行的数据中心",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "这么看，利好亚马逊，又是消费概念，又是有第一大已运行的数据中心"
+}
