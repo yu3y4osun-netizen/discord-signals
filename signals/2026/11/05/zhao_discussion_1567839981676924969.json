@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567839981676924969",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T09:56:20.690000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "而且赵哥给的策略还是很有建设性的，我8 9月的操作也参考了很多",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "而且赵哥给的策略还是很有建设性的，我8 9月的操作也参考了很多"
+}
