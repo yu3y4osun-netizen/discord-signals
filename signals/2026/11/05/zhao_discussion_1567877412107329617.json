@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567877412107329617",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T12:25:04.800000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": true,
+    "summary": "我一直想等反弹的时候出掉多头，买入些soxs，一直等等等，到现在了😓",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我一直想等反弹的时候出掉多头，买入些soxs，一直等等等，到现在了😓"
+}
