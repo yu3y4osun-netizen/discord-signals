@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567857660626468905",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-05T11:06:35.680000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "存储喊单一哥清仓了，被民主党鬼故事吓尿",
+    "filter_reason": "position_action",
+    "sectors_mentioned": [
+      "存储"
+    ]
+  },
+  "raw_text": "存储喊单一哥清仓了，被民主党鬼故事吓尿"
+}
