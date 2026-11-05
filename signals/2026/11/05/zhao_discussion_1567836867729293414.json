@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567836867729293414",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T09:43:58.267000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "soxl 从-9到了+4.7% 把剩下一半67的soxl的的下跌跌破卖出的条件设置设置为74.8 上移一下 就是赵哥这种吧，移动止盈，其实马后炮来看，当时如果有...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl 从-9到了+4.7%    把剩下一半67的soxl的的下跌跌破卖出的条件设置设置为74.8 上移一下\n\n就是赵哥这种吧，移动止盈，其实马后炮来看，当时如果有止损就不会这么惨痛了"
+}
