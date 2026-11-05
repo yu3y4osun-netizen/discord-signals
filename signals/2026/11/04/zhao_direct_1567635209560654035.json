@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567635209560654035",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T20:22:39.213000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "RIOT"
+    ],
+    "is_following_zhao": false,
+    "summary": "像riot 今天soc那种差不多就都出掉了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "像riot 今天soc那种差不多就都出掉了",
+  "attribution": "direct"
+}
