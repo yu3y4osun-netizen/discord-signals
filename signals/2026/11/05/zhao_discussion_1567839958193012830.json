@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567839958193012830",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanyan379",
+  "ts": "2026-11-05T09:56:15.091000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "iren把我今年的利润都亏完了，昨天亏到本金了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "iren把我今年的利润都亏完了，昨天亏到本金了"
+}
