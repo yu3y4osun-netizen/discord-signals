@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567839270780141609",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cm8896",
+  "ts": "2026-11-05T09:53:31.199000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "然后跟单都是大亏 他是红色 这么负责的吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "然后跟单都是大亏 他是红色  这么负责的吗"
+}
