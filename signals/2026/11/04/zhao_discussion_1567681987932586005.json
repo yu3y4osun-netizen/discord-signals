@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567681987932586005",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-11-04T23:28:32.046000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "英特尔披露，CEO 陈立武已于 11 月 2 日在公开市场买入 15 万股英特尔普通股，加权平均价格为每股 64.7312 美元，交易金额约 971 万美元。交...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "英特尔披露，CEO 陈立武已于 11 月 2 日在公开市场买入 15 万股英特尔普通股，加权平均价格为每股 64.7312 美元，交易金额约 971 万美元。交易通过家族信托完成，交易完成后，该家族信托持有的英特尔股票增至 146.47 万股，较交易前增加约 11.4%。消息公布后，英特尔股价短时拉升，跌幅收窄至 1.2%，随后回落。"
+}
