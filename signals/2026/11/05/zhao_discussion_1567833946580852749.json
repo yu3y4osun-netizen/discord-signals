@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567833946580852749",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hellogwh",
+  "ts": "2026-11-05T09:32:21.811000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我现在只买xl和xs，每天来回的买做t",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "我现在只买xl和xs，每天来回的买做t"
+}
