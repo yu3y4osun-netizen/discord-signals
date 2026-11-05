@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567623387017257124",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "soniax",
+  "ts": "2026-11-04T19:35:40.499000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，为什么今晚其实是涨的，但是伯克希尔也在涨",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，为什么今晚其实是涨的，但是伯克希尔也在涨"
+}
