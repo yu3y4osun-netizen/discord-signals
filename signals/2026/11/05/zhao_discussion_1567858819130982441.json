@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567858819130982441",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-05T11:11:11.889000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，你以前说中选后，资金流出美国，留回大A和港股，这是长期趋势么，还是短期抽风",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，你以前说中选后，资金流出美国，留回大A和港股，这是长期趋势么，还是短期抽风"
+}
