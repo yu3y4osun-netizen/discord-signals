@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567604958277144628",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T18:22:26.745000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "也要看收盘他会不会跌下去还是横盘那样到收盘",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "也要看收盘他会不会跌下去还是横盘那样到收盘",
+  "attribution": "direct"
+}
