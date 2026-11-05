@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567860087668605019",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ricardo0923",
+  "ts": "2026-11-05T11:16:14.332000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "@xiaozhaolucky 赵哥，有空看下这笔年费",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "@xiaozhaolucky 赵哥，有空看下这笔年费"
+}
