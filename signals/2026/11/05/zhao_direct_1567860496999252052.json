@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567860496999252052",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T11:17:51.924000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "数量会增加 总金额没变",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "数量会增加 总金额没变",
+  "attribution": "direct"
+}
