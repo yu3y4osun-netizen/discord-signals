@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567613947639627807",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-04T18:58:09.976000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "okk，越来越害怕了，现在半导体位置好尴尬，处于可上可下的位置",
+    "filter_reason": "emotion",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "okk，越来越害怕了，现在半导体位置好尴尬，处于可上可下的位置"
+}
