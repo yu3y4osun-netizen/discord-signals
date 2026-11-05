@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567839097672704042",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-05T09:52:49.927000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥可能这个月收益还是红的",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥可能这个月收益还是红的"
+}
