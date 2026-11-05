@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567786548873797673",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hellogwh",
+  "ts": "2026-11-05T06:24:01.317000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "为什么要到一月份",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "为什么要到一月份"
+}
