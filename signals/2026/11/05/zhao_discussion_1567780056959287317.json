@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567780056959287317",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wangwang888",
+  "ts": "2026-11-05T05:58:13.524000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "下周还有英伟达财报呢",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "下周还有英伟达财报呢"
+}
