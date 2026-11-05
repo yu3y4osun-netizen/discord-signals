@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567881119116955679",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T12:39:48.620000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "感觉现在随便一个利空消息，就会导致暴跌",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "感觉现在随便一个利空消息，就会导致暴跌"
+}
