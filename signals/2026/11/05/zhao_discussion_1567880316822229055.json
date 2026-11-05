@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567880316822229055",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T12:36:37.338000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我在x上看的博主很多都说现在是阶段性底部看反弹，但是没看到有什么靠谱的论据，大都是划线派和刻舟求剑派",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我在x上看的博主很多都说现在是阶段性底部看反弹，但是没看到有什么靠谱的论据，大都是划线派和刻舟求剑派"
+}
