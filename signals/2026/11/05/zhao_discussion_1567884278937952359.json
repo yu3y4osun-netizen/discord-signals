@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567884278937952359",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "skyeli168",
+  "ts": "2026-11-05T12:52:21.980000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "15-16号之后是因为特朗普会出来撕民主党的政策吗，所以会阴跌，有没有朋友记得",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "15-16号之后是因为特朗普会出来撕民主党的政策吗，所以会阴跌，有没有朋友记得"
+}
