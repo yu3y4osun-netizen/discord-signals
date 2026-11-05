@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567696902873415692",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-05T00:27:48.045000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "半导体好比种菜的农场，数据中心就是做菜的餐馆，现在换了新的街道办，餐馆许可证更难拿了。可以想象的是菜价会下跌，但能开起来馆子的人还是赚钱的。",
+    "filter_reason": "emotion",
+    "sectors_mentioned": [
+      "云",
+      "半导体"
+    ]
+  },
+  "raw_text": "半导体好比种菜的农场，数据中心就是做菜的餐馆，现在换了新的街道办，餐馆许可证更难拿了。可以想象的是菜价会下跌，但能开起来馆子的人还是赚钱的。"
+}
