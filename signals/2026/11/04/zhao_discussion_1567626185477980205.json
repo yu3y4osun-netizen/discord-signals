@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567626185477980205",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "teslaliang",
+  "ts": "2026-11-04T19:46:47.704000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "半导体好弱，又都跌回去了",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "半导体好弱，又都跌回去了"
+}
