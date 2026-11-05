@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567779449162694739",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T05:55:48.614000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我现在只有soxl，其他之前的几个反弹都清完了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我现在只有soxl，其他之前的几个反弹都清完了"
+}
