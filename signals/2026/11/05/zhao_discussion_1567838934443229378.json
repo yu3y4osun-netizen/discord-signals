@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567838934443229378",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T09:52:11.010000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但赵哥资金量大，能扛，即使用无限子弹打法，只要搏个反弹也能回来本",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "但赵哥资金量大，能扛，即使用无限子弹打法，只要搏个反弹也能回来本"
+}
