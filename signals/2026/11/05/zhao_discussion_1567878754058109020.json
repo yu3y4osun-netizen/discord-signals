@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567878754058109020",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T12:30:24.746000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "担心开盘有波下杀或者反弹，所以现在不敢动",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "担心开盘有波下杀或者反弹，所以现在不敢动"
+}
