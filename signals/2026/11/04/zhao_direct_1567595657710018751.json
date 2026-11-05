@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567595657710018751",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-04T17:45:29.317000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SCO"
+    ],
+    "is_following_zhao": false,
+    "summary": "这个sco 原油之前跌没怎么反应今天原油跌85多开始一下反应了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这个sco 原油之前跌没怎么反应今天原油跌85多开始一下反应了",
+  "attribution": "direct"
+}
