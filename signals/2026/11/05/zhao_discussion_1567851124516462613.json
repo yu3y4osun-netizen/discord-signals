@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567851124516462613",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-05T10:40:37.350000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "nvda等个190的机会",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "nvda等个190的机会"
+}
