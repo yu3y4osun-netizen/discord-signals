@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567876034836045845",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T12:19:36.433000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "因为我现在soxl的仓位太重了，快8成了，而且成本比较高，等解套是不太实际了，我在想要不要清一些，换成xoxs做一下对冲",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "因为我现在soxl的仓位太重了，快8成了，而且成本比较高，等解套是不太实际了，我在想要不要清一些，换成xoxs做一下对冲"
+}
