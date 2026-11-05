@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567885037901447179",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T12:55:22.931000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "今天 明天tqqq会在探双底 接指数稳定点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "今天 明天tqqq会在探双底  接指数稳定点",
+  "attribution": "direct"
+}
