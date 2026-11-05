@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567778559064416307",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T05:52:16.398000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我算是已经被套的死死了，只能搏一把了，反正也不是全部身家，还扛得住",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我算是已经被套的死死了，只能搏一把了，反正也不是全部身家，还扛得住"
+}
