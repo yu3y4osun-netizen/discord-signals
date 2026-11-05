@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567712284191756383",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hellogwh",
+  "ts": "2026-11-05T01:28:55.237000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "SOXL 快 60了😂",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "SOXL 快 60了😂"
+}
