@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567862106307559459",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuuumii",
+  "ts": "2026-11-05T11:24:15.613000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥我有两笔的，没过120天，一直显示需要商家回复，现在还没开盘，不想在盘中忙的时候麻烦你，麻烦帮我处理一下吧，我美股退市了。",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥我有两笔的，没过120天，一直显示需要商家回复，现在还没开盘，不想在盘中忙的时候麻烦你，麻烦帮我处理一下吧，我美股退市了。"
+}
