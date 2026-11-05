@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567634189472243763",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-04T20:18:36.005000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥，目前是追涨民主党利好股票，还是盘后低吸soxl，看不懂后面走轮动，还是趋势完全变了。我在soxl77把全部科技出完了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，目前是追涨民主党利好股票，还是盘后低吸soxl，看不懂后面走轮动，还是趋势完全变了。我在soxl77把全部科技出完了"
+}
