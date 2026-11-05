@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567778190225571852",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-05T05:50:48.460000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU",
+      "SNDK",
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "镁光770，闪迪三位数，Intel56，台积电388，老馒头601",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "镁光770，闪迪三位数，Intel56，台积电388，老馒头601"
+}
