@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567709459625672767",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-05T01:17:41.808000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "把soxs价格匀一半给soxl吧 或许还有救😁",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "把soxs价格匀一半给soxl吧 或许还有救😁"
+}
