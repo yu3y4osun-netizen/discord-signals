@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567858577266184263",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T11:10:14.224000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天夜盘和盘前量都不多 主要韩国也单边 今天有点东升西落的趋势 美国不是输双院了 没有啥方向 今天港股那边就流入多",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "今天夜盘和盘前量都不多 主要韩国也单边 今天有点东升西落的趋势  美国不是输双院了 没有啥方向 今天港股那边就流入多",
+  "attribution": "direct"
+}
