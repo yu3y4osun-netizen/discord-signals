@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567710172955287723",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-11-05T01:20:31.879000+00:00",
+  "captured_at": "2026-11-05T10:25:39+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我想求证一个观点，所谓的遏制数据中心发展本质上是不是要求建设方自行承担输配电成本，因为数据中心难建并且成本变高，未来大概率缺电并且都需要提升存量数据中心产生to...",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云",
+      "半导体"
+    ]
+  },
+  "raw_text": "我想求证一个观点，所谓的遏制数据中心发展本质上是不是要求建设方自行承担输配电成本，因为数据中心难建并且成本变高，未来大概率缺电并且都需要提升存量数据中心产生token的能力，所以电力，燃机，液冷这些是不是更有机会？\n\n最近在跌的半导体确实就是数据中心受限意味着需要铲子的变少所以在跌"
+}
