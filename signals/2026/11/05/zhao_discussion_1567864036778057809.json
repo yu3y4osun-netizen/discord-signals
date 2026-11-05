@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567864036778057809",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "netman525",
+  "ts": "2026-11-05T11:31:55.873000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR",
+      "CRWV",
+      "IREN"
+    ],
+    "is_following_zhao": true,
+    "summary": "@xiaozhaolucky 赵哥，cifr iren crwv 这些股你每天还在操作做T吗，操作的话还是发现，我们机器是想跟你做T赚回来， 大家谨慎跟阿",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "@xiaozhaolucky 赵哥，cifr iren crwv 这些股你每天还在操作做T吗，操作的话还是发现，我们机器是想跟你做T赚回来， 大家谨慎跟阿"
+}
