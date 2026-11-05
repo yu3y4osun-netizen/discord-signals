@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567865313461149778",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckydong",
+  "ts": "2026-11-05T11:37:00.258000+00:00",
+  "captured_at": "2026-11-05T21:00:58+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": true,
+    "summary": "重仓了 cifr 已亏损 60% 能 t 的话赵哥提示一下 不然不敢动",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "重仓了 cifr 已亏损 60%   能 t 的话赵哥提示一下 不然不敢动"
+}
