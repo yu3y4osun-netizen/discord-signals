@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567930326917976076",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-05T15:55:20.674000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥今晚这么杀，难道没有机构进来抄底？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥今晚这么杀，难道没有机构进来抄底？"
+}
