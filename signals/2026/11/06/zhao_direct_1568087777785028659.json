@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568087777785028659",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-06T02:20:59.886000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "QQQ",
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "你盯着qqq或者soxl转弯幅度大再开 soxs是跌破均价偏离大时候设好止损",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "你盯着qqq或者soxl转弯幅度大再开  soxs是跌破均价偏离大时候设好止损",
+  "attribution": "direct"
+}
