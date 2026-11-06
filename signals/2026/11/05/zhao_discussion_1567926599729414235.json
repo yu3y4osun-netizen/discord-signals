@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567926599729414235",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-11-05T15:40:32.043000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一波给杠杆 期权全杀爆",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "一波给杠杆 期权全杀爆"
+}
