@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567915635042689182",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-05T14:56:57.858000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "英伟达陪一对",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "英伟达陪一对"
+}
