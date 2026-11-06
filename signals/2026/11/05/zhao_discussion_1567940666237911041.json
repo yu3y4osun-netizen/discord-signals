@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567940666237911041",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-05T16:36:25.760000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "你看昨天soxl 75，我全清了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "你看昨天soxl 75，我全清了"
+}
