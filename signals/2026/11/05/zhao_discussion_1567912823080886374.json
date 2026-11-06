@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567912823080886374",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "fairyting0519",
+  "ts": "2026-11-05T14:45:47.434000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "跌这么猛",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "跌这么猛"
+}
