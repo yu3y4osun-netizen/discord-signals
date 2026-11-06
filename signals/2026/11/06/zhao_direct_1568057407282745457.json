@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568057407282745457",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-06T00:20:18.994000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "最好等 日港A看看 韩国是熔断政府调节",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "最好等 日港A看看 韩国是熔断政府调节",
+  "attribution": "direct"
+}
