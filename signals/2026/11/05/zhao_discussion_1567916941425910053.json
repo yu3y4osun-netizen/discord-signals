@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567916941425910053",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T15:02:09.324000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "换soxs已经在盈利了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "换soxs已经在盈利了"
+}
