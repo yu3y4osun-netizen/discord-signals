@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568025116917497928",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T22:12:00.371000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是等这个在加进去的机会",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是等这个在加进去的机会",
+  "attribution": "direct"
+}
