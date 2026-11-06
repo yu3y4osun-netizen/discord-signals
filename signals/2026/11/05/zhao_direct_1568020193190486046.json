@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568020193190486046",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T21:52:26.463000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "然后就是恐慌增大了 官方也没出来说 就在等这个阶段",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后就是恐慌增大了 官方也没出来说 就在等这个阶段",
+  "attribution": "direct"
+}
