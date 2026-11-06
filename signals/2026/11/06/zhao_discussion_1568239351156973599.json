@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568239351156973599",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-06T12:23:17.794000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "大家不如猜一猜，iren的+17%能不能守住",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "大家不如猜一猜，iren的+17%能不能守住"
+}
