@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567901119919956071",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T13:59:17.183000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥今天盘前还会出大概方向建议吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥今天盘前还会出大概方向建议吗"
+}
