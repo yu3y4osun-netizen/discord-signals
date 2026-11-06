@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568015179868799100",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T21:32:31.194000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "应该会有新闻 有人发了文字的就是新闻官方还没说",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "应该会有新闻 有人发了文字的就是新闻官方还没说",
+  "attribution": "direct"
+}
