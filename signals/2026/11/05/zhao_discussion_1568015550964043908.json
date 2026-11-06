@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568015550964043908",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanyan379",
+  "ts": "2026-11-05T21:33:59.670000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "希望赵哥以后短线能加个止损，上周90加的soxl这周又腰斩了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "希望赵哥以后短线能加个止损，上周90加的soxl这周又腰斩了"
+}
