@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568206030448365581",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-06T10:10:53.518000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "会修复再阴跌，还是不修复直接阴跌到明年3月",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "会修复再阴跌，还是不修复直接阴跌到明年3月"
+}
