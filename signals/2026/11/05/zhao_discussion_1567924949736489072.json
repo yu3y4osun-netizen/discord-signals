@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567924949736489072",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-05T15:33:58.654000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你说要是40.2那波没卖 是不是就不是这个光景了😬",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "你说要是40.2那波没卖 是不是就不是这个光景了😬"
+}
