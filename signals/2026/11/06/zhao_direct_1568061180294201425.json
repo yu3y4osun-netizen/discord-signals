@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568061180294201425",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-06T00:35:18.550000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是那个韩国不是熔断开吗 政府不是在加吗 我就想试一下",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是那个韩国不是熔断开吗 政府不是在加吗 我就想试一下",
+  "attribution": "direct"
+}
