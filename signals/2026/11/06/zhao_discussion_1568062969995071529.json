@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568062969995071529",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-06T00:42:25.248000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "韩国现在不重要，韩服说白了就是存，叙事是美国数据中心被暂停，整条产业链出现系统性风险",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "韩国现在不重要，韩服说白了就是存，叙事是美国数据中心被暂停，整条产业链出现系统性风险"
+}
