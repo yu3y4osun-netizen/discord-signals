@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568019081028964353",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T21:48:01.303000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但是其实并没有真正利空的政策颁布对吧",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "但是其实并没有真正利空的政策颁布对吧"
+}
