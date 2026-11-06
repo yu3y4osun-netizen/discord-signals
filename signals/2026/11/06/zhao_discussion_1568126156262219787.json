@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568126156262219787",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-06T04:53:30.028000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "然后光纤无视天气情况，卫星碰上雷雨什么的，你的gpt就可能当机了（铱星的频谱除外，但这个频谱是有限的，不会再增加了，目前主要用来灾难营救、远洋GPS）",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "然后光纤无视天气情况，卫星碰上雷雨什么的，你的gpt就可能当机了（铱星的频谱除外，但这个频谱是有限的，不会再增加了，目前主要用来灾难营救、远洋GPS）"
+}
