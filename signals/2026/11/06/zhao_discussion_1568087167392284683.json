@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568087167392284683",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liuxingyu",
+  "ts": "2026-11-06T02:18:34.357000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "想知道你们都上融资了吗",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "想知道你们都上融资了吗"
+}
