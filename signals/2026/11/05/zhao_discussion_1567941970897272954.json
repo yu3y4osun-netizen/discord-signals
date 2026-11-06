@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567941970897272954",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-11-05T16:41:36.815000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ",
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥以后会不会考虑去做一下qqq或者spx这种指数类的 每天能吃一点一年下来也不少钱呢",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥以后会不会考虑去做一下qqq或者spx这种指数类的 每天能吃一点一年下来也不少钱呢"
+}
