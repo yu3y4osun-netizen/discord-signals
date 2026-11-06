@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567914717006004266",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hellogwh",
+  "ts": "2026-11-05T14:53:18.981000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要是今天开盘就猛跌，一点都不演一下",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "主要是今天开盘就猛跌，一点都不演一下"
+}
