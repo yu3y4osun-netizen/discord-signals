@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567961911591444562",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunshuaiyan",
+  "ts": "2026-11-05T18:00:51.047000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥没消息就收盘最低了是吧",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥没消息就收盘最低了是吧"
+}
