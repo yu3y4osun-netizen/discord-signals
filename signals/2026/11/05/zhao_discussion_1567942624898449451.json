@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567942624898449451",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "leokin",
+  "ts": "2026-11-05T16:44:12.741000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU"
+    ],
+    "is_following_zhao": false,
+    "summary": "美光 老馒头那些，没想过会这么低",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "美光 老馒头那些，没想过会这么低"
+}
