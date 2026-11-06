@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568206379276042271",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-06T10:12:16.685000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "下周民主有讲话 就是今天不知道有没有",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "下周民主有讲话 就是今天不知道有没有",
+  "attribution": "direct"
+}
