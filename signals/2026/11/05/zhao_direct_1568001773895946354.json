@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568001773895946354",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T20:39:14.961000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "左侧的就是尾盘分批几天加 右侧就是等那个低点走出来",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "左侧的就是尾盘分批几天加  右侧就是等那个低点走出来",
+  "attribution": "direct"
+}
