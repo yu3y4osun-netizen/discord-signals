@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568143231806480507",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-06T06:01:21.155000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "王星应该是80万满融到320万，梭哈了soxs现在是1200万",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "王星应该是80万满融到320万，梭哈了soxs现在是1200万"
+}
