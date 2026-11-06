@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567922508483788932",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huangyellow",
+  "ts": "2026-11-05T15:24:16.614000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GLD"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，没时间天天盯盘操作，请问现在可以分批买七姐妹和gld的long call吗？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，没时间天天盯盘操作，请问现在可以分批买七姐妹和gld的long call吗？"
+}
