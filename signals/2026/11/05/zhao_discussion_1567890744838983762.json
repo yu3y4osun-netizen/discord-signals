@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567890744838983762",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T13:18:03.571000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "OKLO",
+      "SMR"
+    ],
+    "is_following_zhao": false,
+    "summary": "【此一时彼一时，首先现在 AI 在美国没有民意 “你虽然被 AI 抢了工作，但起码你家电费涨了呢” 因此，70% 的居民反对 AI 数据中心 反 AI 数据中心...",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "【此一时彼一时，首先现在 AI 在美国没有民意\n“你虽然被 AI 抢了工作，但起码你家电费涨了呢”\n因此，70% 的居民反对 AI 数据中心\n反 AI 数据中心是政治正确，是有民意、有选票的\n40 年前，核电站就是这么被废的，美国已经近 40 年没有新建核电站\n而废掉核电站的，也是左派\n现在中国每年新建近 40 个核电站，你拿什么比\nOKLO、SMR 是 “PPT 发电”，我去年就一直在讲\n其次，现在美国经济、美股很大程度上是 AI 大跃进推动的\n本来油价就那么高，美联储还在加息\n停下数据中心 CAPEX，美国经济会衰退，毫无疑问\n拖垮经济，对执政党不利，对民主党 28 年大选有利】\n\n观点转发"
+}
