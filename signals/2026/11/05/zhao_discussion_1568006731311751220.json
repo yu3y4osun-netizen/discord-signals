@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568006731311751220",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "eatmybanana",
+  "ts": "2026-11-05T20:58:56.901000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，跌破盘中那个qqq 647.42的低点了，低点更低了，这种有说法吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，跌破盘中那个qqq 647.42的低点了，低点更低了，这种有说法吗"
+}
