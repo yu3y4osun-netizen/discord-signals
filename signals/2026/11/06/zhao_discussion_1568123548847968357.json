@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568123548847968357",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-06T04:43:08.372000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还有就是national security的问题，to g的业务，另外一些挑剔的商业客户，比如银行、交易所、对冲基金，都对数据中心的物理地理位置有要求",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "A股银行",
+      "云"
+    ]
+  },
+  "raw_text": "还有就是national security的问题，to g的业务，另外一些挑剔的商业客户，比如银行、交易所、对冲基金，都对数据中心的物理地理位置有要求"
+}
