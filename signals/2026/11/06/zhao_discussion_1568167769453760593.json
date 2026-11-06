@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568167769453760593",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-06T07:38:51.386000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "昨晚这行情要没设止损。不得爆了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "昨晚这行情要没设止损。不得爆了"
+}
