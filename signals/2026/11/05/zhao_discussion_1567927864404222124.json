@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567927864404222124",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-11-05T15:45:33.565000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "很多人喜欢碰杠杆",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "很多人喜欢碰杠杆"
+}
