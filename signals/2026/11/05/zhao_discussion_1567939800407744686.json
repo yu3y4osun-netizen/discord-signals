@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567939800407744686",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-11-05T16:32:59.330000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSLA"
+    ],
+    "is_following_zhao": true,
+    "summary": "我昨天空了一下特斯拉 赚了5个点就跑了…谁知道今天还能跌这么多",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我昨天空了一下特斯拉 赚了5个点就跑了…谁知道今天还能跌这么多"
+}
