@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568011333482315949",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T21:17:14.144000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "能做点T做点 盘中有低点在加点别的也可以",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "能做点T做点  盘中有低点在加点别的也可以",
+  "attribution": "direct"
+}
