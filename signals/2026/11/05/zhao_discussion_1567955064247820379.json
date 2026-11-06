@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567955064247820379",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "whisper123",
+  "ts": "2026-11-05T17:33:38.513000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥,想问一下tsm什么位置可以加仓",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥,想问一下tsm什么位置可以加仓"
+}
