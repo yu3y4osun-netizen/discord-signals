@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567901929189679228",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T14:02:30.128000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天和盘前这种的走势类似",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "今天和盘前这种的走势类似",
+  "attribution": "direct"
+}
