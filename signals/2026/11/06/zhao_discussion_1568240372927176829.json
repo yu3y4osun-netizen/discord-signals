@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568240372927176829",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-06T12:27:21.403000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "顾神又买谷歌了，服了🫠",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "顾神又买谷歌了，服了🫠"
+}
