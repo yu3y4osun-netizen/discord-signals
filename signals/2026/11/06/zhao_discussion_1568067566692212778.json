@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568067566692212778",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-06T01:00:41.186000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我个人觉得明天很难有大反弹，今天机构踩踏了，损出来的机构不会24h内二次入场，持有现金的机构也不着急买，毕竟周末可能有黑天鹅，川子破罐破摔搞个陆地战什么的",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我个人觉得明天很难有大反弹，今天机构踩踏了，损出来的机构不会24h内二次入场，持有现金的机构也不着急买，毕竟周末可能有黑天鹅，川子破罐破摔搞个陆地战什么的"
+}
