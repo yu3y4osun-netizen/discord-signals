@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568062433094930514",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "t1d3c6e",
+  "ts": "2026-11-06T00:40:17.241000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是考虑到韩国政府会救市吗",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "A股政策"
+    ]
+  },
+  "raw_text": "是考虑到韩国政府会救市吗"
+}
