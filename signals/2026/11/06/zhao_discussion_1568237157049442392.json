@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568237157049442392",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-06T12:14:34.678000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要是没基金爆仓，华尔街肯定要杀出带血筹码",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "主要是没基金爆仓，华尔街肯定要杀出带血筹码"
+}
