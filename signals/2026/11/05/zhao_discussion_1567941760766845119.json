@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567941760766845119",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jkchen13",
+  "ts": "2026-11-05T16:40:46.716000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，半导体股可以加了吗",
+    "filter_reason": "zhao_discuss",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "赵哥，半导体股可以加了吗"
+}
