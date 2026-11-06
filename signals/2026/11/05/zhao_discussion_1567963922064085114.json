@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567963922064085114",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "eatmybanana",
+  "ts": "2026-11-05T18:08:50.381000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "635能否支撑住也不确定，需要看下周发言对吧，如果下周发言不好，还会下探？",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "635能否支撑住也不确定，需要看下周发言对吧，如果下周发言不好，还会下探？"
+}
