@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567919072786518037",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wsl001",
+  "ts": "2026-11-05T15:10:37.480000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CBRS",
+      "CIFR",
+      "CRWV",
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "Tqqq无限做都抵不住cbrs，crwv，cifr这些",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Tqqq无限做都抵不住cbrs，crwv，cifr这些"
+}
