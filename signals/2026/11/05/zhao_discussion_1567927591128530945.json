@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567927591128530945",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "deepblue1",
+  "ts": "2026-11-05T15:44:28.411000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "以前赵哥满仓得时候都是暴力反弹啊，谁知道这次赵哥满了，还继续跌，我都是严格按照赵哥仓位买",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "以前赵哥满仓得时候都是暴力反弹啊，谁知道这次赵哥满了，还继续跌，我都是严格按照赵哥仓位买"
+}
