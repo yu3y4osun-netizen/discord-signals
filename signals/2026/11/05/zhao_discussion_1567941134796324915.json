@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567941134796324915",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-05T16:38:17.473000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那次我也被套了，不过回来很快",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那次我也被套了，不过回来很快"
+}
