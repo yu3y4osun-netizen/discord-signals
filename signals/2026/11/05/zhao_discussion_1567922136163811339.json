@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567922136163811339",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-05T15:22:47.846000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "为什么熊市一直上杠杆",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "为什么熊市一直上杠杆"
+}
