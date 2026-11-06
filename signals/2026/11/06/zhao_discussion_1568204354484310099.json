@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568204354484310099",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "souyue",
+  "ts": "2026-11-06T10:04:13.937000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥啥时候买的51.7的tqqq",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥啥时候买的51.7的tqqq"
+}
