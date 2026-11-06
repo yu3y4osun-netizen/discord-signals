@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567921294542897275",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-11-05T15:19:27.188000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis也太爽了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "nbis也太爽了"
+}
