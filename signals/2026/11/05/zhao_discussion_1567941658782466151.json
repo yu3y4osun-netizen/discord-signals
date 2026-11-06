@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567941658782466151",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-05T16:40:22.401000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "这是我拿着期权，然后谷歌这种老登给我跌了12",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这是我拿着期权，然后谷歌这种老登给我跌了12"
+}
