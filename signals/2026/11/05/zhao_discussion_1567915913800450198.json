@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567915913800450198",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-05T14:58:04.319000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "看来要去660了，qqq",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "看来要去660了，qqq"
+}
