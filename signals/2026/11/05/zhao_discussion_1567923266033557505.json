@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567923266033557505",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T15:27:17.228000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "莫非今天能看到650吗",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "莫非今天能看到650吗"
+}
