@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567929582340808705",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "shawshieki120648",
+  "ts": "2026-11-05T15:52:23.153000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "跟赵哥买的云是不是没两年回不了本了",
+    "filter_reason": "zhao_discuss",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "跟赵哥买的云是不是没两年回不了本了"
+}
