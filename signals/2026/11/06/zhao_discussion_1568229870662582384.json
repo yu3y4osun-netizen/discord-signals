@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568229870662582384",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-11-06T11:45:37.468000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "好的。我昨天是自己 72左右把自己的仓位走光了",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "光"
+    ]
+  },
+  "raw_text": "好的。我昨天是自己 72左右把自己的仓位走光了"
+}
