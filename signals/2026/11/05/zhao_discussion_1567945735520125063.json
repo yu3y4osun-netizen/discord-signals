@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567945735520125063",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T16:56:34.371000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "看样子QQQ还要去回测650",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "看样子QQQ还要去回测650"
+}
