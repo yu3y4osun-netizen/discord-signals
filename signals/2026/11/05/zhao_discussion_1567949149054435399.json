@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567949149054435399",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-05T17:10:08.221000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 看机构和华尔街分析预测的价格和给出的评级有参考价值和意义吗？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 看机构和华尔街分析预测的价格和给出的评级有参考价值和意义吗？"
+}
