@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567949324858564609",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiekai",
+  "ts": "2026-11-05T17:10:50.136000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPYU",
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "spyu是不是比tqqq要安全一些啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "spyu是不是比tqqq要安全一些啊"
+}
