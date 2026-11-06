@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567911831589097524",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T14:41:51.044000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq破675就去踩昨天夜盘那个最低 没有动能",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "qqq破675就去踩昨天夜盘那个最低   没有动能",
+  "attribution": "direct"
+}
