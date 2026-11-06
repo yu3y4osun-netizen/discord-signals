@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568071689227472927",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-06T01:17:04.075000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "理由也差不多，买晚了做多少吃点反弹行情，买早了一但买进去就进退两难，开始折磨模式",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "理由也差不多，买晚了做多少吃点反弹行情，买早了一但买进去就进退两难，开始折磨模式"
+}
