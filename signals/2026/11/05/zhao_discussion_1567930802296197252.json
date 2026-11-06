@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567930802296197252",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-11-05T15:57:14.013000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "护盘的呢",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "A股政策"
+    ]
+  },
+  "raw_text": "护盘的呢"
+}
