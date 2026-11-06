@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568082662717915297",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-06T02:00:40.359000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "所以就夜盘2个时间看看 夜盘最容易反弹就韩国和A开盘后的半小时 和结束时候",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "所以就夜盘2个时间看看 夜盘最容易反弹就韩国和A开盘后的半小时 和结束时候",
+  "attribution": "direct"
+}
