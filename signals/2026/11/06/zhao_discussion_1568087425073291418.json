@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568087425073291418",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-11-06T02:19:35.793000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还有3成现金 银行卡的钱还没动。",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "A股银行"
+    ]
+  },
+  "raw_text": "还有3成现金 银行卡的钱还没动。"
+}
