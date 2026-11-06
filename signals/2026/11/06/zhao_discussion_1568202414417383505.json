@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568202414417383505",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "1120392429",
+  "ts": "2026-11-06T09:56:31.389000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天能反弹吗？",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "今天能反弹吗？"
+}
