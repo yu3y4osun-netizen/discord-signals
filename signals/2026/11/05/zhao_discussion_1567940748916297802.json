@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567940748916297802",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "saicug",
+  "ts": "2026-11-05T16:36:45.472000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "金毛还是滚下去比较好 他上台前qqq每天的振幅小好多 做covercall按年化都有很高的收益",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "金毛还是滚下去比较好 他上台前qqq每天的振幅小好多 做covercall按年化都有很高的收益"
+}
