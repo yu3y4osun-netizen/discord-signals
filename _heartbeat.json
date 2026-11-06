@@ -10,9 +10,9 @@
       "last_run_total_new_msgs": 973,
       "last_run_signals_pushed": 480,
       "last_run_signals_failed": 0,
-      "note": "2026-11-06 10:57 增量：新消息 973 条，推送 community 信号 480 条，失败 0 条",
-      "last_run_kol_direct_pushed": 54,
-      "last_run_community_pushed": 132
+      "note": "2026-11-06 10:57 增量：新消息 973 条，推送 community 信号 480 条（direct 217 + community 263），失败 0 条",
+      "last_run_kol_direct_pushed": 217,
+      "last_run_community_pushed": 263
     }
   }
 }
