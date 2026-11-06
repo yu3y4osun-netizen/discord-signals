@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567927214228504577",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-05T15:42:58.551000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq还在杀",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "qqq还在杀"
+}
