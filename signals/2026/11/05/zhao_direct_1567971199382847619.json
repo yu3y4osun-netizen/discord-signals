@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567971199382847619",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T18:37:45.429000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "amd就是财报盘后涨 被行情不好把财报那段吃掉了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "amd就是财报盘后涨  被行情不好把财报那段吃掉了",
+  "attribution": "direct"
+}
