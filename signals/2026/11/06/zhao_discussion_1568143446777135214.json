@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568143446777135214",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-06T06:02:12.408000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "对，忘了算融资了，班长经常都是满仓满融的，这才对",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "对，忘了算融资了，班长经常都是满仓满融的，这才对"
+}
