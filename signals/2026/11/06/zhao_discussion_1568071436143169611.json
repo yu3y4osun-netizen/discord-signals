@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568071436143169611",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-06T01:16:03.735000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "聊了两个街上做PM的朋友，都是做equity L/S的，他们手里现金比例挺高的，但不打算这周加仓位",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "聊了两个街上做PM的朋友，都是做equity L/S的，他们手里现金比例挺高的，但不打算这周加仓位"
+}
