@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567937044821577729",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-05T16:22:02.347000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "是的啊 原先预计标普走8000，那时候下单越跌越补，搞大了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "是的啊 原先预计标普走8000，那时候下单越跌越补，搞大了"
+}
