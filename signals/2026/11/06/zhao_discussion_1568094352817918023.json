@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568094352817918023",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-06T02:47:07.496000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "韩国财长：股市对外部因素反应过度。 鉴于经济基本面强劲，有必要警惕过度的恐慌情绪。 将采取主动应对措施，防止市场恐慌情绪进一步加剧。 将以最高级别的戒备态度密切...",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "韩国财长：股市对外部因素反应过度。\n鉴于经济基本面强劲，有必要警惕过度的恐慌情绪。\n将采取主动应对措施，防止市场恐慌情绪进一步加剧。\n将以最高级别的戒备态度密切监测股票市场。~"
+}
