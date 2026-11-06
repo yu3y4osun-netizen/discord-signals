@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567971838213230676",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-11-05T18:40:17.738000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "Iren这个德州德州的数据中心应该不行了吧，应该是很大的利空",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "Iren这个德州德州的数据中心应该不行了吧，应该是很大的利空"
+}
