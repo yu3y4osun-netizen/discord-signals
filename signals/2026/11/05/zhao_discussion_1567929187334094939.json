@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567929187334094939",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-05T15:50:48.976000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "spy10个点好像",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "spy10个点好像"
+}
