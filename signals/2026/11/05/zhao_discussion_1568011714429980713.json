@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568011714429980713",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "skyeli168",
+  "ts": "2026-11-05T21:18:44.969000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还是仓位控制 小的无所谓放着就好了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "还是仓位控制 小的无所谓放着就好了"
+}
