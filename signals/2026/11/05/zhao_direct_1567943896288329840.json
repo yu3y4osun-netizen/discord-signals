@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567943896288329840",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T16:49:15.864000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "DELL",
+      "NVDA",
+      "PLTR",
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "英伟达 特斯拉 pltr dell都是昨天文章 指出站队错误的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "英伟达 特斯拉 pltr dell都是昨天文章 指出站队错误的",
+  "attribution": "direct"
+}
