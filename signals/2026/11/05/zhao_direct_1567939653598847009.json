@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567939653598847009",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T16:32:24.328000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我今天盘后有5个股财报的 这个我就不知道会怎么样",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "我今天盘后有5个股财报的 这个我就不知道会怎么样",
+  "attribution": "direct"
+}
