@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568007268027465889",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "eatmybanana",
+  "ts": "2026-11-05T21:01:04.864000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "明天反转的概率变大了，收了个实底，对吧",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "明天反转的概率变大了，收了个实底，对吧"
+}
