@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568087868444905585",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-06T02:21:21.501000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl要超跌博反弹",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl要超跌博反弹"
+}
