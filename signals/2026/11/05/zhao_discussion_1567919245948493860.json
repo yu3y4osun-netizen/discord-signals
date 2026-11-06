@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567919245948493860",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-05T15:11:18.765000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "没底了，QQQ要奔着五个点去了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "没底了，QQQ要奔着五个点去了"
+}
