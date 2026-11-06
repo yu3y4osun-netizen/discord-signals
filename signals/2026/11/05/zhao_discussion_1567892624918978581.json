@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567892624918978581",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-05T13:25:31.817000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "放心，会一次次突破你的底线的",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "放心，会一次次突破你的底线的"
+}
