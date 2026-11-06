@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568058079277482135",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-06T00:22:59.210000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果10.6清仓今日建仓就是神了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "如果10.6清仓今日建仓就是神了"
+}
