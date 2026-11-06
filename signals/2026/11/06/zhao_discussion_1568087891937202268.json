@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568087891937202268",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wsl001",
+  "ts": "2026-11-06T02:21:27.102000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "请问是所有soxl跌破全出吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "请问是所有soxl跌破全出吗"
+}
