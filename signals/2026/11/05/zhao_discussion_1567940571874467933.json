@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567940571874467933",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-05T16:36:03.262000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "是的 不过3月那次，跟赵哥打满吃到大肉了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "是的 不过3月那次，跟赵哥打满吃到大肉了"
+}
