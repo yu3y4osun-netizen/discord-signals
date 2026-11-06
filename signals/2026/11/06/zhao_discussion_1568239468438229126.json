@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568239468438229126",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-06T12:23:45.756000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "上方套牢那么多，一天能起飞么",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "上方套牢那么多，一天能起飞么"
+}
