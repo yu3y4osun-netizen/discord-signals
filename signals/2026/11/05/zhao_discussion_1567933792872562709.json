@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567933792872562709",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T16:09:07.022000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "@xiaozhaolucky 赵哥QQQ现在算是在650这里稳住了吗？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "@xiaozhaolucky 赵哥QQQ现在算是在650这里稳住了吗？"
+}
