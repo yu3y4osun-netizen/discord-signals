@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568059462416072846",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-06T00:28:28.976000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "昨天放量大跌，应该是有基金爆仓了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "昨天放量大跌，应该是有基金爆仓了"
+}
