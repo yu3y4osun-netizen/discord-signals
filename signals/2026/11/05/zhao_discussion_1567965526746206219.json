@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567965526746206219",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuyingyekong",
+  "ts": "2026-11-05T18:15:12.967000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，现在符不符合之前说的东升西落？我看最近港股都蹭蹭涨",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，现在符不符合之前说的东升西落？我看最近港股都蹭蹭涨"
+}
