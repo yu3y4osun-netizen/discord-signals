@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568065187997548575",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-06T00:51:14.061000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NDX"
+    ],
+    "is_following_zhao": true,
+    "summary": "很多macro fund上周做空ndx期货止盈放在了26.4k，今天正好最低点hit",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "很多macro fund上周做空ndx期货止盈放在了26.4k，今天正好最低点hit"
+}
