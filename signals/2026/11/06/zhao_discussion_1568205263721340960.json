@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568205263721340960",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-06T10:07:50.716000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "有些soxl 48的空单，那我格局一把，看看能到夜盘低点吧，平价设止损",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "有些soxl 48的空单，那我格局一把，看看能到夜盘低点吧，平价设止损"
+}
