@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568068213038911602",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-06T01:03:15.287000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有两个很好玩的事情我觉得大概率发生：1.民主党的党内人士会有人跳出来释放对数据中心的怀柔信号。2.川子可能发个推，说股市下跌都是民主党的错",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "有两个很好玩的事情我觉得大概率发生：1.民主党的党内人士会有人跳出来释放对数据中心的怀柔信号。2.川子可能发个推，说股市下跌都是民主党的错"
+}
