@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567940497346003080",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-05T16:35:45.493000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是的 你一下就看到了，只是我从来不做空，没想到跌这么多",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "是的 你一下就看到了，只是我从来不做空，没想到跌这么多"
+}
