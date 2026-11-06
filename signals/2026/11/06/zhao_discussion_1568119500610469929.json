@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568119500610469929",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-06T04:27:03.197000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我也说一个反直觉的点，为什么一定要在美国建数据中心，现在在其他地方国家建成本不是更低？反正川普都失去两院了，后续放开关税那些也是民主党要做的，不如直接顺水推舟。",
+    "filter_reason": "emotion",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "我也说一个反直觉的点，为什么一定要在美国建数据中心，现在在其他地方国家建成本不是更低？反正川普都失去两院了，后续放开关税那些也是民主党要做的，不如直接顺水推舟。"
+}
