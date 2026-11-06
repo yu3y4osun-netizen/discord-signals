@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567934773874262197",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-05T16:13:00.911000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": true,
+    "summary": "昨天我就说tsm很尴尬的位置，可上可下，然后小顾又买了，我直接清了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "昨天我就说tsm很尴尬的位置，可上可下，然后小顾又买了，我直接清了"
+}
