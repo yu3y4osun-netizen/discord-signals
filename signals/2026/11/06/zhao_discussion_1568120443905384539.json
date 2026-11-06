@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568120443905384539",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jshp77061",
+  "ts": "2026-11-06T04:30:48.096000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "gds，万国数据在中国和SG建了很多，你如果追踪gds的财报，他们数据中心的建设成本是3mm/MW",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "gds，万国数据在中国和SG建了很多，你如果追踪gds的财报，他们数据中心的建设成本是3mm/MW"
+}
