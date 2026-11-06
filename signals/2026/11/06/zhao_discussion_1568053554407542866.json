@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568053554407542866",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-06T00:05:00.397000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren的财报还没出吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "iren的财报还没出吗"
+}
