@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568010565941727233",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T21:14:11.148000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IREN"
+    ],
+    "is_following_zhao": false,
+    "summary": "iren小超了我说的对不对",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "iren小超了我说的对不对",
+  "attribution": "direct"
+}
