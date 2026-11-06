@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567940662509445223",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "leokin",
+  "ts": "2026-11-05T16:36:24.871000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在价格全部都跌破 3.7月了",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "现在价格全部都跌破 3.7月了"
+}
