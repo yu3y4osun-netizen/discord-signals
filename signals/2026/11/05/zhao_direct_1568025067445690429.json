@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568025067445690429",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-05T22:11:48.576000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这次要民主党说些 会落实的政策说下这样资金又重新进",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这次要民主党说些 会落实的政策说下这样资金又重新进",
+  "attribution": "direct"
+}
