@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568073586386927647",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "johnkdki",
+  "ts": "2026-11-06T01:24:36.393000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "我看好像是韭菜哥说QQQ要550才进场来着，看了下如果真的那样就要掉到25年5月的水平了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我看好像是韭菜哥说QQQ要550才进场来着，看了下如果真的那样就要掉到25年5月的水平了"
+}
