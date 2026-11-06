@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568207703145320461",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-06T10:17:32.320000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "我刚才48出了soxl换的空单，我看着这个夜盘走势跟赵哥说最近这个趋势一模一样，冲个高点再回落，盘前再冲个高点再回落",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我刚才48出了soxl换的空单，我看着这个夜盘走势跟赵哥说最近这个趋势一模一样，冲个高点再回落，盘前再冲个高点再回落"
+}
