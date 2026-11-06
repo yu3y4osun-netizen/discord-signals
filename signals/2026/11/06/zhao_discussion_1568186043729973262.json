@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568186043729973262",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-06T08:51:28.313000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SSNLF"
+    ],
+    "is_following_zhao": false,
+    "summary": "这三星老总这么小丑吗，跟雷军蔡崇信有的一比",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这三星老总这么小丑吗，跟雷军蔡崇信有的一比"
+}
