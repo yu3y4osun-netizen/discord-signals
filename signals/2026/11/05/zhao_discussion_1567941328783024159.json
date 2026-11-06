@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567941328783024159",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-05T16:39:03.723000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥，650的时候，我买了qqq明年1月700的call",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，650的时候，我买了qqq明年1月700的call"
+}
