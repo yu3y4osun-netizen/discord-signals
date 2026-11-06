@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567929206879289485",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-05T15:50:53.636000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq好像没限制",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "qqq好像没限制"
+}
