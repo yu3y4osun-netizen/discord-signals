@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567927811677884599",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-11-05T15:45:20.994000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是在暴力卸杠杆",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "就是在暴力卸杠杆"
+}
