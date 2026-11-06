@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1567925962929344653",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wsl001",
+  "ts": "2026-11-05T15:38:00.218000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但是我觉得这次不会和去年那样反弹了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "但是我觉得这次不会和去年那样反弹了"
+}
