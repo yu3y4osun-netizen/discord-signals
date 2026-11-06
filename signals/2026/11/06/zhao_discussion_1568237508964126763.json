@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568237508964126763",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-06T12:15:58.581000+00:00",
+  "captured_at": "2026-11-06T21:01:09+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "空仓了，不知道今晚有没有加仓机会",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "空仓了，不知道今晚有没有加仓机会"
+}
