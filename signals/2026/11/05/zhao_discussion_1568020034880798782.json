@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568020034880798782",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-05T21:51:48.719000+00:00",
+  "captured_at": "2026-11-06T10:44:16+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这么一说，还是类似赵哥你之前说的中选后撕逼的阶段对吧",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "这么一说，还是类似赵哥你之前说的中选后撕逼的阶段对吧"
+}
