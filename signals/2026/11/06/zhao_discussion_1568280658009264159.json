@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568280658009264159",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sxyy",
+  "ts": "2026-11-06T15:07:26.115000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "Soxx设止损吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "Soxx设止损吗"
+}
