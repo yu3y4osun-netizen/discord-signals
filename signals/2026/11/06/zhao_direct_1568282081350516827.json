@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568282081350516827",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-06T15:13:05.466000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "看下九月随便一个日K成交额 以谷歌看 和现在对比",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "看下九月随便一个日K成交额 以谷歌看 和现在对比",
+  "attribution": "direct"
+}
