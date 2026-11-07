@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568281804148834415",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-06T15:11:59.376000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，按照你原来的理论，每年两次深跌，深跌后应该反弹，但是这次深跌，你貌似不看好，反弹点你说走阴跌了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，按照你原来的理论，每年两次深跌，深跌后应该反弹，但是这次深跌，你貌似不看好，反弹点你说走阴跌了"
+}
