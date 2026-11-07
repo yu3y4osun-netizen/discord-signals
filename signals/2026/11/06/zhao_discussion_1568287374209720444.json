@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568287374209720444",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-06T15:34:07.382000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不带杠杆的半导体，长期问题不大",
+    "filter_reason": "position_action",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "不带杠杆的半导体，长期问题不大"
+}
