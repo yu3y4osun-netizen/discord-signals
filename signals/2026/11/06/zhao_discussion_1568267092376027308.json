@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568267092376027308",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-06T14:13:31.816000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl 150的时候其实大多数都已经看空了，我翻之前记录赵哥当时也说过完国庆会有个下跌，其实当时一路做soxs是不是更适合",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl 150的时候其实大多数都已经看空了，我翻之前记录赵哥当时也说过完国庆会有个下跌，其实当时一路做soxs是不是更适合"
+}
