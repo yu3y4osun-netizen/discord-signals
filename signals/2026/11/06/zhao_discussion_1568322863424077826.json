@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568322863424077826",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiekai",
+  "ts": "2026-11-06T17:55:08.670000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "那手上的tqqq还是拿着吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "那手上的tqqq还是拿着吗"
+}
