@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568376470944874547",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckydong",
+  "ts": "2026-11-06T21:28:09.699000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥 你说夜盘好做 这几天夜盘盘前 t 了几次指数 也都赚到钱了 之前做 t 都亏钱 ，是这段时间行情好做 ，还是相较于盘中夜盘和盘前比较好 t",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 你说夜盘好做 这几天夜盘盘前 t 了几次指数 也都赚到钱了 之前做 t 都亏钱 ，是这段时间行情好做 ，还是相较于盘中夜盘和盘前比较好 t"
+}
