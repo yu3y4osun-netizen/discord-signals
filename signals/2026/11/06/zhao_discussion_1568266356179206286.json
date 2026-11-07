@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568266356179206286",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-06T14:10:36.293000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SOXS",
+      "SQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，如果趋势确定是下跌的话，是不是可以做Soxs或者sqqq呢？ 下行趋势逆势博反弹是不是容易被埋呀",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，如果趋势确定是下跌的话，是不是可以做Soxs或者sqqq呢？\n下行趋势逆势博反弹是不是容易被埋呀"
+}
