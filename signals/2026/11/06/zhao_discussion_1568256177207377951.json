@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568256177207377951",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-11-06T13:30:09.437000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "准备瀑布 向上还是向下",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "准备瀑布\n向上还是向下"
+}
