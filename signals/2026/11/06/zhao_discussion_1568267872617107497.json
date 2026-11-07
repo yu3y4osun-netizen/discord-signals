@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568267872617107497",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-06T14:16:37.840000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU",
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "一个月前，你告诉别人，闪迪800，老馒头500",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "一个月前，你告诉别人，闪迪800，老馒头500"
+}
