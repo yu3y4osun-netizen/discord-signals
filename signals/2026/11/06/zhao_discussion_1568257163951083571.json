@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568257163951083571",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-06T13:34:04.695000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "买了100股做空，竟然没反应🫣",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "买了100股做空，竟然没反应🫣"
+}
