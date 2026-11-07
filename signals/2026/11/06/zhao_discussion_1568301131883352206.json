@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568301131883352206",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-06T16:28:47.467000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "拿着现金等加仓，现金仓位来到35%",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "拿着现金等加仓，现金仓位来到35%"
+}
