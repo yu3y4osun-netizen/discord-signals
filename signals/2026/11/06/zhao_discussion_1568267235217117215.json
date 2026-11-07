@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568267235217117215",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-06T14:14:05.872000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我当时是从150做到120多，然后觉着跌差不多了，也是搏反弹被埋的",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我当时是从150做到120多，然后觉着跌差不多了，也是搏反弹被埋的"
+}
