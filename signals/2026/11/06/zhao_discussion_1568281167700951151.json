@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568281167700951151",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-06T15:09:27.635000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "昨天融资30%，现在手里20%现金",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "昨天融资30%，现在手里20%现金"
+}
