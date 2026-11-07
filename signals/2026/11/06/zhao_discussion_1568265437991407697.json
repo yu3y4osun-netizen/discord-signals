@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568265437991407697",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "1120392429",
+  "ts": "2026-11-06T14:06:57.380000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那是下周反弹？",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那是下周反弹？"
+}
