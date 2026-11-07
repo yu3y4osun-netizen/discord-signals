@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568269562963693710",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-06T14:23:20.850000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "半导体好强，我做空失误",
+    "filter_reason": "position_action",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "半导体好强，我做空失误"
+}
