@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568323739538686046",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-06T17:58:37.552000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是一半一半 手里不要很满 又要有资金防备周末 就是这两个周末概率大点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是一半一半  手里不要很满 又要有资金防备周末  就是这两个周末概率大点",
+  "attribution": "direct"
+}
