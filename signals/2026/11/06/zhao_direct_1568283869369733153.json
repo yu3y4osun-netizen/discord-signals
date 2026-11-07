@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568283869369733153",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-06T15:20:11.763000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "盘中就盯着第一个冲或者盘前减点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "盘中就盯着第一个冲或者盘前减点",
+  "attribution": "direct"
+}
