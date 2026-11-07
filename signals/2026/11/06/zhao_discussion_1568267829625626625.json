@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568267829625626625",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-06T14:16:27.590000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我那朋友他是逢高做空，就只薅这一个票",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "我那朋友他是逢高做空，就只薅这一个票"
+}
