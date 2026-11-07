@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568258608385491016",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-06T13:39:49.075000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "看市场如何解读利空的非农",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "看市场如何解读利空的非农"
+}
