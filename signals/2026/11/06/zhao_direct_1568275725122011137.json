@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568275725122011137",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-06T14:47:50.023000+00:00",
+  "captured_at": "2026-11-07T14:48:35+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "650确认支撑会冲高下 在回落均线附近震荡 美东1点之后是下半场了和昨天差不多 会横盘震荡在看看没有新闻或者信息出来影响走势 没信息出来还是盘后再看看有没有 财报落地的被错杀的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "650确认支撑会冲高下  在回落均线附近震荡   美东1点之后是下半场了和昨天差不多 会横盘震荡在看看没有新闻或者信息出来影响走势   没信息出来还是盘后再看看有没有 财报落地的被错杀的",
+  "attribution": "direct"
+}
