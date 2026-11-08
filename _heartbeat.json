@@ -11,8 +11,8 @@
       "last_run_signals_pushed": 0,
       "last_run_signals_failed": 0,
       "note": "2026-11-08 13:50 增量：新消息 5 条，推送 community 信号 0 条，失败 0 条",
-      "last_run_kol_direct_pushed": 55,
-      "last_run_community_pushed": 61
+      "last_run_kol_direct_pushed": 0,
+      "last_run_community_pushed": 0
     }
   }
 }
