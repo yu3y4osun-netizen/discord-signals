@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569363878180167752",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xinxin8542",
+  "ts": "2026-11-09T14:51:45.929000+00:00",
+  "captured_at": "2026-11-09T23:14:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "@xiaozhaolucky 赵哥，这个只退了一部分，麻烦帮忙都退了，谢谢，pay0s8X3AHLlkt1wF",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "@xiaozhaolucky 赵哥，这个只退了一部分，麻烦帮忙都退了，谢谢，pay0s8X3AHLlkt1wF"
+}
