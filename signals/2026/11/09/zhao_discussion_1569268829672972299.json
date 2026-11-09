@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569268829672972299",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-09T08:34:04.599000+00:00",
+  "captured_at": "2026-11-09T23:14:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "等赵哥醒了问问，这个有判断的信号吗，要能吃准一天这么三波，吃满二三十个点了😂",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "等赵哥醒了问问，这个有判断的信号吗，要能吃准一天这么三波，吃满二三十个点了😂"
+}
