@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569365673820557333",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "toolplanka9",
+  "ts": "2026-11-09T14:58:54.043000+00:00",
+  "captured_at": "2026-11-09T23:14:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "走的和tqqq其实高度重合",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "走的和tqqq其实高度重合"
+}
