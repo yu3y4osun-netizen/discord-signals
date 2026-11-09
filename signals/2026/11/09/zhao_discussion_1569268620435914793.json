@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569268620435914793",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-09T08:33:14.713000+00:00",
+  "captured_at": "2026-11-09T23:14:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": true,
+    "summary": "soxs没吃满，刚才42soxl上车了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxs没吃满，刚才42soxl上车了"
+}
