@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569235553407340666",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-09T06:21:50.919000+00:00",
+  "captured_at": "2026-11-09T23:14:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "差点以为做空被埋了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "差点以为做空被埋了"
+}
