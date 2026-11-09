@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569340886729363487",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-09T13:20:24.340000+00:00",
+  "captured_at": "2026-11-09T23:14:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "目前soxl挺稳，没有被带崩",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "目前soxl挺稳，没有被带崩"
+}
