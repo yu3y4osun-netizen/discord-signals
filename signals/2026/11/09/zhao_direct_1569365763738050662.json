@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569365763738050662",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-09T14:59:15.481000+00:00",
+  "captured_at": "2026-11-09T23:14:20+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "usd里面几个不如soxx单倍的你看看涨幅",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "usd里面几个不如soxx单倍的你看看涨幅",
+  "attribution": "direct"
+}
