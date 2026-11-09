@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569361249370902570",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-09T14:41:19.172000+00:00",
+  "captured_at": "2026-11-09T23:14:20+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "分批可以 就是中线也可以 soxx 双买 soxl就不断短线",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "分批可以 就是中线也可以 soxx 双买 soxl就不断短线",
+  "attribution": "direct"
+}
