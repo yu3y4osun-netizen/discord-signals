@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569348999310483727",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-09T13:52:38.530000+00:00",
+  "captured_at": "2026-11-09T23:14:20+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "7月还没排到 只有8 9 10 11月的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "7月还没排到  只有8 9  10 11月的",
+  "attribution": "direct"
+}
