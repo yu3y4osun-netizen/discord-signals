@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569141882993516607",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "milleraaa",
+  "ts": "2026-11-09T00:09:38.152000+00:00",
+  "captured_at": "2026-11-09T10:55:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "据凤凰网科技消息，11月9日，英伟达CEO黄仁勋近日向公司员工发出一封道歉信，承认自己对妻子不忠，并就此向家人、公司员工、董事会及股东公开道歉。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "据凤凰网科技消息，11月9日，英伟达CEO黄仁勋近日向公司员工发出一封道歉信，承认自己对妻子不忠，并就此向家人、公司员工、董事会及股东公开道歉。"
+}
