@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569139088211050627",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "t1d3c6e",
+  "ts": "2026-11-08T23:58:31.824000+00:00",
+  "captured_at": "2026-11-09T10:55:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "要开跌了 今天被英伟达带崩",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "要开跌了 今天被英伟达带崩"
+}
