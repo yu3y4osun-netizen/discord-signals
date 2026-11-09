@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569367852279009324",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kongfu233hahaha",
+  "ts": "2026-11-09T15:07:33.428000+00:00",
+  "captured_at": "2026-11-09T23:14:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 你发布的单子信息 看下能否把小数点也和买入对上。比如刚才的 卖出的tqqq是56.15 买入的。刚发的是出56.1额tqqq",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 你发布的单子信息 看下能否把小数点也和买入对上。比如刚才的 卖出的tqqq是56.15 买入的。刚发的是出56.1额tqqq"
+}
