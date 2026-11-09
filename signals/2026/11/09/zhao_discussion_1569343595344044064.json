@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569343595344044064",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-09T13:31:10.124000+00:00",
+  "captured_at": "2026-11-09T23:14:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "soxl77的时候也都走完了，不知道开盘还有没有接回来的机会",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "soxl77的时候也都走完了，不知道开盘还有没有接回来的机会"
+}
