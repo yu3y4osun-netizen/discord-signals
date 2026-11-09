@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569353564189626429",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "menghaolucky",
+  "ts": "2026-11-09T14:10:46.882000+00:00",
+  "captured_at": "2026-11-09T23:14:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，这周看周四周五减仓吗，准备把之前的都出一出",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，这周看周四周五减仓吗，准备把之前的都出一出"
+}
