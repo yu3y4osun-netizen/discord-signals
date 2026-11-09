@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569338447079153675",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-09T13:10:42.682000+00:00",
+  "captured_at": "2026-11-09T23:14:20+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "别的夜盘被板块指数带下去了 然后盘前做点修复",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "别的夜盘被板块指数带下去了 然后盘前做点修复",
+  "attribution": "direct"
+}
