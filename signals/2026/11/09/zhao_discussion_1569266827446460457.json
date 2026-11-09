@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569266827446460457",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-09T08:26:07.231000+00:00",
+  "captured_at": "2026-11-09T23:14:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "夜盘下杀个低点拉回，再下杀二探拉回",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "夜盘下杀个低点拉回，再下杀二探拉回"
+}
