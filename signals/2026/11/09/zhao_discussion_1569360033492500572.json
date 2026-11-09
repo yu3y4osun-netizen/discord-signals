@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569360033492500572",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-11-09T14:36:29.284000+00:00",
+  "captured_at": "2026-11-09T23:14:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "感觉生活作风问题 修复很容易 加上马上英伟达 财报，是不是可以缝低 稍微接一点 赵叔🙃",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "感觉生活作风问题  修复很容易 加上马上英伟达 财报，是不是可以缝低  稍微接一点 赵叔🙃"
+}
