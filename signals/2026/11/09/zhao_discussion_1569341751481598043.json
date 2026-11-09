@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569341751481598043",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "1120392429",
+  "ts": "2026-11-09T13:23:50.513000+00:00",
+  "captured_at": "2026-11-09T23:14:20+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天看修复上涨吗赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "今天看修复上涨吗赵哥"
+}
