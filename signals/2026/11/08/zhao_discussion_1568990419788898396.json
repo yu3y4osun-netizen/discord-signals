@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1568990419788898396",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-08T14:07:46.510000+00:00",
+  "captured_at": "2026-11-09T10:55:12+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有个利空的消息好像是要对黄仁勋开始调查",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "有个利空的消息好像是要对黄仁勋开始调查"
+}
