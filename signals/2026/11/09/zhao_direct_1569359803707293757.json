@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569359803707293757",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-09T14:35:34.499000+00:00",
+  "captured_at": "2026-11-09T23:14:20+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "今天就英伟达一个生活作风利空 其他不太会跟跌",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "今天就英伟达一个生活作风利空 其他不太会跟跌",
+  "attribution": "direct"
+}
