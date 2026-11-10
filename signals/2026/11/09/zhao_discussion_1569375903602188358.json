@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569375903602188358",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-09T15:39:33.013000+00:00",
+  "captured_at": "2026-11-10T16:05:47+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这这算是轧空吗？还是正常反弹",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这这算是轧空吗？还是正常反弹"
+}
