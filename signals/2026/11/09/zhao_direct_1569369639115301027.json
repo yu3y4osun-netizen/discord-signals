@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569369639115301027",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-09T15:14:39.443000+00:00",
+  "captured_at": "2026-11-10T16:05:47+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "大部分还是13号前的讲话的反弹出 如果有鬼故事回调在买回来 卖出那部分",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "大部分还是13号前的讲话的反弹出  如果有鬼故事回调在买回来 卖出那部分",
+  "attribution": "direct"
+}
