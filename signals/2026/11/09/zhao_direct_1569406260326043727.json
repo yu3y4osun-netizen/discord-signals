@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569406260326043727",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-09T17:40:10.620000+00:00",
+  "captured_at": "2026-11-10T16:05:47+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在 夜盘韩国开始和收盘 和盘前2小时会随亚洲反弹下 要做点正T降降本",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "现在 夜盘韩国开始和收盘 和盘前2小时会随亚洲反弹下  要做点正T降降本",
+  "attribution": "direct"
+}
