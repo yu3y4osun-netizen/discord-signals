@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569406887701512403",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-09T17:42:40.198000+00:00",
+  "captured_at": "2026-11-10T16:05:47+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "好的 那我在坚持拿一阵子，后面在慢慢做T吧，只要基本面还没坏应该还是有机会吧。",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "好的 那我在坚持拿一阵子，后面在慢慢做T吧，只要基本面还没坏应该还是有机会吧。"
+}
