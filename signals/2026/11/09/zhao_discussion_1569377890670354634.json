@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569377890670354634",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-09T15:47:26.767000+00:00",
+  "captured_at": "2026-11-10T16:05:47+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "明天的cpi还会有很大的影响吗，我看12月加息预期70%多了，是不是市场早就计价完了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "明天的cpi还会有很大的影响吗，我看12月加息预期70%多了，是不是市场早就计价完了"
+}
