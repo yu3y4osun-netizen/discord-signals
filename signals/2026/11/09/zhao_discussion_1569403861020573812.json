@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569403861020573812",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-09T17:30:38.581000+00:00",
+  "captured_at": "2026-11-10T16:05:47+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "好的 赵哥 现在来看还是没有企稳迹象，只是修复大跌。涨起来还是出掉一部分，尾盘看吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "好的 赵哥 现在来看还是没有企稳迹象，只是修复大跌。涨起来还是出掉一部分，尾盘看吗"
+}
