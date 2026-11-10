@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569405828652343548",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-09T17:38:27.701000+00:00",
+  "captured_at": "2026-11-10T16:05:47+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 中期看，后面有机会能修复10月位置吗？而且我拿的存储现在几乎都是在唱空，心里也比较慌",
+    "filter_reason": "zhao_discuss",
+    "sectors_mentioned": [
+      "存储"
+    ]
+  },
+  "raw_text": "赵哥 中期看，后面有机会能修复10月位置吗？而且我拿的存储现在几乎都是在唱空，心里也比较慌"
+}
