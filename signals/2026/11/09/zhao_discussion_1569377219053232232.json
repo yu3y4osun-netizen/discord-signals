@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569377219053232232",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-09T15:44:46.641000+00:00",
+  "captured_at": "2026-11-10T16:05:47+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥你说的13号走完是担心有不利的发言吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥你说的13号走完是担心有不利的发言吗"
+}
