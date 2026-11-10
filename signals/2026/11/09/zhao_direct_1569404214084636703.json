@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569404214084636703",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-09T17:32:02.758000+00:00",
+  "captured_at": "2026-11-10T16:05:47+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "IONQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "像今天走修复就把新的一些出一半和 旧的涨幅这两天多的比如ionq那种靠近成本出",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "像今天走修复就把新的一些出一半和 旧的涨幅这两天多的比如ionq那种靠近成本出",
+  "attribution": "direct"
+}
