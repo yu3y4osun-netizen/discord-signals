@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569404050577948704",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-09T17:31:23.775000+00:00",
+  "captured_at": "2026-11-10T16:05:47+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "做正T为主 就是指数是回调的日子就 盘后买 三个时间异动出一半在续涨出剩下一半",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "做正T为主 就是指数是回调的日子就 盘后买  三个时间异动出一半在续涨出剩下一半",
+  "attribution": "direct"
+}
