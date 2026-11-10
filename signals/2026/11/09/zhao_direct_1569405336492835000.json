@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569405336492835000",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-09T17:36:30.361000+00:00",
+  "captured_at": "2026-11-10T16:05:47+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "今天走修复就是 上次qqq675跌下来 今天会675这里上下3个点横盘震荡做消化",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "今天走修复就是  上次qqq675跌下来 今天会675这里上下3个点横盘震荡做消化",
+  "attribution": "direct"
+}
