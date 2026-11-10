@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569406649914101951",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-09T17:41:43.505000+00:00",
+  "captured_at": "2026-11-10T16:05:47+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SNDK"
+    ],
+    "is_following_zhao": false,
+    "summary": "然后闪迪是20号要拆股了 到时候看下成交额会大点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后闪迪是20号要拆股了 到时候看下成交额会大点",
+  "attribution": "direct"
+}
