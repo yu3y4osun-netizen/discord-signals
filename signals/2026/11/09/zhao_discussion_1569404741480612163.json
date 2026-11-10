@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569404741480612163",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-11-09T17:34:08.499000+00:00",
+  "captured_at": "2026-11-10T16:05:47+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "SOXS"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵叔 后续你说过 要找 新的方向 SOXL 应该短期 回不来了 是不是准备找高点 割 还是 和SOXS 双开 做成本呀",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵叔  后续你说过 要找 新的方向   SOXL  应该短期 回不来了 是不是准备找高点 割   还是 和SOXS  双开  做成本呀"
+}
