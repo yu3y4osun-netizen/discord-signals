@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569807100807225415",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-10T20:12:58.438000+00:00",
+  "captured_at": "2026-11-11T10:26:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV"
+    ],
+    "is_following_zhao": false,
+    "summary": "盘后还有crwv财报，在加息环境下，新云挺惨",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "盘后还有crwv财报，在加息环境下，新云挺惨"
+}
