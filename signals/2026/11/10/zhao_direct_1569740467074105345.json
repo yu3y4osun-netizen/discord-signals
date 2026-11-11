@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569740467074105345",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-10T15:48:11.718000+00:00",
+  "captured_at": "2026-11-11T10:26:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天突破不了 有cpi压着就是看3点多尾盘强平时候那个支撑多少",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "今天突破不了 有cpi压着就是看3点多尾盘强平时候那个支撑多少",
+  "attribution": "direct"
+}
