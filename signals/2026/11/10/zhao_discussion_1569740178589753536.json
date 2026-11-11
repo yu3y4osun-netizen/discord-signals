@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569740178589753536",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-10T15:47:02.938000+00:00",
+  "captured_at": "2026-11-11T10:26:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "AMD",
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，今天相当于是amd和avgo护盘，这种情况下高点应该不好突破吧",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "A股政策"
+    ]
+  },
+  "raw_text": "赵哥，今天相当于是amd和avgo护盘，这种情况下高点应该不好突破吧"
+}
