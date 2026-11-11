@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569726643239518229",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "huangyellow",
+  "ts": "2026-11-10T14:53:15.859000+00:00",
+  "captured_at": "2026-11-11T10:26:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，ant上市和深圳APEC会议同时进行，这俩事件属于影响市场的大事件吗？还是说市场走向只取决于两国领导人谈妥了什么？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，ant上市和深圳APEC会议同时进行，这俩事件属于影响市场的大事件吗？还是说市场走向只取决于两国领导人谈妥了什么？"
+}
