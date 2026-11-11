@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569818272667533315",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-10T20:57:22.017000+00:00",
+  "captured_at": "2026-11-11T10:26:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要做指数或者板块指数 今天指数是670不能跌破 就盘中破的时候吸点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "主要做指数或者板块指数 今天指数是670不能跌破 就盘中破的时候吸点",
+  "attribution": "direct"
+}
