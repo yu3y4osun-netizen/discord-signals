@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570023440704872539",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckystick16",
+  "ts": "2026-11-11T10:32:37.889000+00:00",
+  "captured_at": "2026-11-11T21:01:31+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "富途盘前那会怎么回事，美国券商都正常，香港券商倒是出问题",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "富途盘前那会怎么回事，美国券商都正常，香港券商倒是出问题"
+}
