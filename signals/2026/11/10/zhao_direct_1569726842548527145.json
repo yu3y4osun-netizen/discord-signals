@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569726842548527145",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-10T14:54:03.378000+00:00",
+  "captured_at": "2026-11-11T10:26:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "ant上市因为有几个大盘股有减持预留了 有些资金会去ipo",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "ant上市因为有几个大盘股有减持预留了 有些资金会去ipo",
+  "attribution": "direct"
+}
