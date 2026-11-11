@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569755892688224408",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-10T16:49:29.471000+00:00",
+  "captured_at": "2026-11-11T10:26:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "指数只要跌破均线 没买盘在水下了 时间就放盘后",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "指数只要跌破均线  没买盘在水下了 时间就放盘后",
+  "attribution": "direct"
+}
