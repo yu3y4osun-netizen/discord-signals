@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569727476194738177",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-10T14:56:34.451000+00:00",
+  "captured_at": "2026-11-11T10:26:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "持股为主",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "持股为主",
+  "attribution": "direct"
+}
