@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569990986942259243",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-11T08:23:40.309000+00:00",
+  "captured_at": "2026-11-11T21:01:31+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我还有半导体的空单没走完呢，难受😣",
+    "filter_reason": "position_action",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "我还有半导体的空单没走完呢，难受😣"
+}
