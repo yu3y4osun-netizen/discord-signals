@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569732823328231515",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-10T15:17:49.307000+00:00",
+  "captured_at": "2026-11-11T10:26:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "amd是最好例子",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "amd是最好例子",
+  "attribution": "direct"
+}
