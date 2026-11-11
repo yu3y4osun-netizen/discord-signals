@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569722997370261528",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-10T14:38:46.616000+00:00",
+  "captured_at": "2026-11-11T10:26:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "意思是今天看多吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "意思是今天看多吗"
+}
