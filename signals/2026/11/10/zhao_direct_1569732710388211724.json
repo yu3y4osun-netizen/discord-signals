@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569732710388211724",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-10T15:17:22.380000+00:00",
+  "captured_at": "2026-11-11T10:26:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "avgo 他上周四 站台的利空没有他 老黄的利空也没有他",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "avgo 他上周四 站台的利空没有他  老黄的利空也没有他",
+  "attribution": "direct"
+}
