@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569990447198109758",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-11T08:21:31.624000+00:00",
+  "captured_at": "2026-11-11T21:01:31+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "昨天那么大利空，竟然都拉回来了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "昨天那么大利空，竟然都拉回来了"
+}
