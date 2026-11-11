@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1569755576399827065",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-11-10T16:48:14.062000+00:00",
+  "captured_at": "2026-11-11T10:26:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "nvda能加了吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "nvda能加了吗"
+}
