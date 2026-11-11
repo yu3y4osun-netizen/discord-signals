@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570059969787723856",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-11T12:57:47.101000+00:00",
+  "captured_at": "2026-11-11T21:01:31+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "没变多只是之前跌破700 跌破qqq675的钱回来了做修复",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "没变多只是之前跌破700  跌破qqq675的钱回来了做修复",
+  "attribution": "direct"
+}
