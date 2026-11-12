@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570118694464659547",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-11T16:51:08.155000+00:00",
+  "captured_at": "2026-11-12T10:47:06+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "前天站上675那天正好把均线凹到了670 下周只要回踩这个企稳日K没跌破就后面又一个反弹段",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "前天站上675那天正好把均线凹到了670 下周只要回踩这个企稳日K没跌破就后面又一个反弹段",
+  "attribution": "direct"
+}
