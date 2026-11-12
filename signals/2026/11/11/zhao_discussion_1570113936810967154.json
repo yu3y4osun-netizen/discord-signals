@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570113936810967154",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-11-11T16:32:13.842000+00:00",
+  "captured_at": "2026-11-12T10:47:06+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 中选胜选讲话是什么时候来着",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 中选胜选讲话是什么时候来着"
+}
