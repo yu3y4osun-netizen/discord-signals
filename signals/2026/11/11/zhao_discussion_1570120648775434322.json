@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570120648775434322",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hao88",
+  "ts": "2026-11-11T16:58:54.099000+00:00",
+  "captured_at": "2026-11-12T10:47:06+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，利空因素已经没有美以打伊朗了吗，还是影响不大了，都在之前的下跌消化了",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，利空因素已经没有美以打伊朗了吗，还是影响不大了，都在之前的下跌消化了"
+}
