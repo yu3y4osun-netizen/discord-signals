@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570419613349707816",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zhanglucky",
+  "ts": "2026-11-12T12:46:52.808000+00:00",
+  "captured_at": "2026-11-12T21:01:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "刚才还直线往下，怎么一眨眼就掉头往下了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "刚才还直线往下，怎么一眨眼就掉头往下了"
+}
