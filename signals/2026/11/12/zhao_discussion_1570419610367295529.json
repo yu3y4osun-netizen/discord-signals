@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570419610367295529",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-11-12T12:46:52.097000+00:00",
+  "captured_at": "2026-11-12T21:01:13+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天财报崩了吧",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "今天财报崩了吧"
+}
