@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570113779147083949",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hao88",
+  "ts": "2026-11-11T16:31:36.252000+00:00",
+  "captured_at": "2026-11-12T10:47:06+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那只能等下周有机会再入场了？还是说现在反弹，后面几周又继续下跌",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那只能等下周有机会再入场了？还是说现在反弹，后面几周又继续下跌"
+}
