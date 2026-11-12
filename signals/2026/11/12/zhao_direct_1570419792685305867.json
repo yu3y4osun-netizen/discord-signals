@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570419792685305867",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-12T12:47:35.565000+00:00",
+  "captured_at": "2026-11-12T21:01:13+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "随指数的 英伟达这个事件会让回踩 提前和延长几天",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "随指数的 英伟达这个事件会让回踩 提前和延长几天",
+  "attribution": "direct"
+}
