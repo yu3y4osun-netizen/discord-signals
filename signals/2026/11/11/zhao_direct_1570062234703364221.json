@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570062234703364221",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-11T13:06:47.099000+00:00",
+  "captured_at": "2026-11-12T10:47:06+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在他容易盘中做回调 然后把反弹放在亚洲开盘和收盘和盘前2小时",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "现在他容易盘中做回调  然后把反弹放在亚洲开盘和收盘和盘前2小时",
+  "attribution": "direct"
+}
