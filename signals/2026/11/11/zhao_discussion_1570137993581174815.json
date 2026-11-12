@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570137993581174815",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yyynfhh",
+  "ts": "2026-11-11T18:07:49.423000+00:00",
+  "captured_at": "2026-11-12T10:47:06+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "老黄这次现在不是已经把利空消化了？",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "老黄这次现在不是已经把利空消化了？"
+}
