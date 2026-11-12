@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570062013621866558",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-11T13:05:54.389000+00:00",
+  "captured_at": "2026-11-12T10:47:06+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "等盘前1小时的量再看看",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "等盘前1小时的量再看看",
+  "attribution": "direct"
+}
