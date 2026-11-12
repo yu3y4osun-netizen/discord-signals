@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570108527404515399",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-11-11T16:10:44.139000+00:00",
+  "captured_at": "2026-11-12T10:47:06+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "热钱去云光存了吗",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云",
+      "光"
+    ]
+  },
+  "raw_text": "热钱去云光存了吗"
+}
