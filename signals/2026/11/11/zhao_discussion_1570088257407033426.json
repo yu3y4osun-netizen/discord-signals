@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570088257407033426",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdjru9492",
+  "ts": "2026-11-11T14:50:11.395000+00:00",
+  "captured_at": "2026-11-12T10:47:06+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥今天还买指数吗，还是等尾盘再看看",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥今天还买指数吗，还是等尾盘再看看"
+}
