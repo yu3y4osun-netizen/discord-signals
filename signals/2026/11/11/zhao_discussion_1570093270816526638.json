@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570093270816526638",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-11T15:10:06.685000+00:00",
+  "captured_at": "2026-11-12T10:47:06+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "云光存无敌！",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云",
+      "光"
+    ]
+  },
+  "raw_text": "云光存无敌！"
+}
