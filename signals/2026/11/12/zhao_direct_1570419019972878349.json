@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570419019972878349",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-12T12:44:31.336000+00:00",
+  "captured_at": "2026-11-12T21:01:13+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有新的几项在调查 职务侵占啊还有其他出轨对象",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "有新的几项在调查 职务侵占啊还有其他出轨对象",
+  "attribution": "direct"
+}
