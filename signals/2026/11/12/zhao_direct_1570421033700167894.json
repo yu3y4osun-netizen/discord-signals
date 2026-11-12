@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570421033700167894",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-12T12:52:31.446000+00:00",
+  "captured_at": "2026-11-12T21:01:13+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "辞职就股权变更 老黄的3.75%份额会被去除 还有其他机构出问题已经在减持了包括大陆的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "辞职就股权变更 老黄的3.75%份额会被去除  还有其他机构出问题已经在减持了包括大陆的",
+  "attribution": "direct"
+}
