@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570095052615585853",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-11T15:17:11.499000+00:00",
+  "captured_at": "2026-11-12T10:47:06+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "无敌在哪里了 今天几乎所有票都大涨的",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "无敌在哪里了 今天几乎所有票都大涨的"
+}
