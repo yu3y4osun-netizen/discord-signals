@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570108405098745938",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-11-11T16:10:14.979000+00:00",
+  "captured_at": "2026-11-12T10:47:06+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "AMZN"
+    ],
+    "is_following_zhao": false,
+    "summary": "amzn今天为什么跌",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "amzn今天为什么跌"
+}
