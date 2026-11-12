@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570114381981941862",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-11-11T16:33:59.979000+00:00",
+  "captured_at": "2026-11-12T10:47:06+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在还是看20号之后阴跌么",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "现在还是看20号之后阴跌么"
+}
