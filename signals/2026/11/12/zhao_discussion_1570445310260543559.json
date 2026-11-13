@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570445310260543559",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-12T14:28:59.429000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "黄仁勋意义不一样的，当初英伟达几次快倒闭了吐血也要拉回来，现在直接退这么干净信心打击很大",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "黄仁勋意义不一样的，当初英伟达几次快倒闭了吐血也要拉回来，现在直接退这么干净信心打击很大"
+}
