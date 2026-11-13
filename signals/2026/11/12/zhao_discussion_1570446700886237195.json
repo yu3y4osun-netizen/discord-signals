@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570446700886237195",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-12T14:34:30.980000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "混pc和diy圈的都懂老黄对英伟达什么意义，不亚于乔布斯的",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "混pc和diy圈的都懂老黄对英伟达什么意义，不亚于乔布斯的"
+}
