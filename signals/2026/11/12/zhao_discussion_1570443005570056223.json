@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570443005570056223",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hellogwh",
+  "ts": "2026-11-12T14:19:49.948000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": true,
+    "summary": "nvda能到140吗，好想抄底",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "nvda能到140吗，好想抄底"
+}
