@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570431684053045369",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-12T13:34:50.688000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "各股最低价出来了 昨天普涨很多 很多低的接不到 就会用事件压下去 正好是英伟达这个事件",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "各股最低价出来了 昨天普涨很多 很多低的接不到  就会用事件压下去  正好是英伟达这个事件",
+  "attribution": "direct"
+}
