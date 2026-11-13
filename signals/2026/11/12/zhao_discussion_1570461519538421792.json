@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570461519538421792",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ciciwangyao",
+  "ts": "2026-11-12T15:33:24.022000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "乔布斯当年也被董事会赶出公司，后面经营不下去了，又把人请回来。感觉这个戏码也会在英伟达和老黄身上发生。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "乔布斯当年也被董事会赶出公司，后面经营不下去了，又把人请回来。感觉这个戏码也会在英伟达和老黄身上发生。"
+}
