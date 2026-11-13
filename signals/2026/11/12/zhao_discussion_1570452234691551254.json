@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570452234691551254",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-12T14:56:30.342000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "张忠谋当年德州仪器出走落魄搞台积电也是和老黄互相成就",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "张忠谋当年德州仪器出走落魄搞台积电也是和老黄互相成就"
+}
