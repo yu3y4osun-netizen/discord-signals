@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570467239860117565",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-12T15:56:07.853000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "140-150已经是计算了老黄股权全变更的情况 因为怎么都会换ceo ceo有了就会有这个修复",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "140-150已经是计算了老黄股权全变更的情况 因为怎么都会换ceo ceo有了就会有这个修复",
+  "attribution": "direct"
+}
