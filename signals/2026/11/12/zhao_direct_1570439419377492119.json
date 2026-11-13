@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570439419377492119",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-12T14:05:34.933000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "财报指引有利空 业绩没利空 一半是占了老黄那个事件",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "财报指引有利空 业绩没利空 一半是占了老黄那个事件",
+  "attribution": "direct"
+}
