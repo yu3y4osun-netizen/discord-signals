@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570431832665882725",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-12T13:35:26.120000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "下周英伟达那个听证会罗列后 利空释放完 老黄辞去后新的ceo决定时候",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "下周英伟达那个听证会罗列后 利空释放完 老黄辞去后新的ceo决定时候",
+  "attribution": "direct"
+}
