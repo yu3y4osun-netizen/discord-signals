@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570481353726894222",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-12T16:52:12.861000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是站台特朗普那些企业的后续影响 调查哪些会问比如和马斯克方交易时候有没有利益输送之类问题逼迫他交代",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是站台特朗普那些企业的后续影响 调查哪些会问比如和马斯克方交易时候有没有利益输送之类问题逼迫他交代",
+  "attribution": "direct"
+}
