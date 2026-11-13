@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570445959991664774",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "menghaolucky",
+  "ts": "2026-11-12T14:31:34.337000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": true,
+    "summary": "这个感觉看个人了，库克在苹果赚的钱肯定够下面孩子几辈子花的了，干不干纯看自己了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这个感觉看个人了，库克在苹果赚的钱肯定够下面孩子几辈子花的了，干不干纯看自己了"
+}
