@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570452024938594516",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-12T14:55:40.333000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SSNLF",
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "老黄的关系绑定了好多公司利益，比如台积电的订单和产能分配、三星的制程、还有各路走水的皮包",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "老黄的关系绑定了好多公司利益，比如台积电的订单和产能分配、三星的制程、还有各路走水的皮包"
+}
