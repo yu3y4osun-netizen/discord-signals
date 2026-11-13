@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570443866383978698",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-12T14:23:15.182000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "最好是cook和buck，技术还有点看头，就怕cfo上位像当年intel那样",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "最好是cook和buck，技术还有点看头，就怕cfo上位像当年intel那样"
+}
