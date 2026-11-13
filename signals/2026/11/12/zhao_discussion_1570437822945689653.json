@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570437822945689653",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-12T13:59:14.314000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SOXS"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥，这算利空落地吗？我的soxs要不要止盈😂",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，这算利空落地吗？我的soxs要不要止盈😂"
+}
