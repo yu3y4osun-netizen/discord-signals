@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570451099171688469",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zengshanmei",
+  "ts": "2026-11-12T14:51:59.613000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，黄仁勋走了，英伟达还有未来吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，黄仁勋走了，英伟达还有未来吗"
+}
