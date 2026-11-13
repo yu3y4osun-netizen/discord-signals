@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570444039810195629",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-12T14:23:56.530000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在就是原来68人向老黄汇报的 这个现在是cfo接",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "现在就是原来68人向老黄汇报的 这个现在是cfo接",
+  "attribution": "direct"
+}
