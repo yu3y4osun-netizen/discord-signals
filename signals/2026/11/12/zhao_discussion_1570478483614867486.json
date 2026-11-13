@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570478483614867486",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-12T16:40:48.573000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "盘后和夜盘突破的可能性很小吧",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "盘后和夜盘突破的可能性很小吧"
+}
