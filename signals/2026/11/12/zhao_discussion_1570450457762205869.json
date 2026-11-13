@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570450457762205869",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiekai",
+  "ts": "2026-11-12T14:49:26.689000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "英伟达没有买到😂",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "英伟达没有买到😂"
+}
