@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570444861700837417",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "menghaolucky",
+  "ts": "2026-11-12T14:27:12.484000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL",
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "库克不是技术派啊，商业营销做得好，苹果后来才涨的好，来英伟达反而是好事",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "库克不是技术派啊，商业营销做得好，苹果后来才涨的好，来英伟达反而是好事"
+}
