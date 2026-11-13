@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570449399719530517",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-12T14:45:14.432000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA",
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "今天开盘先看英伟达事件指数qqq675这个普涨修复点能不能支撑住 盘前是已经打压到680整数关口了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "今天开盘先看英伟达事件指数qqq675这个普涨修复点能不能支撑住  盘前是已经打压到680整数关口了"
+}
