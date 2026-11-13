@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570443482429005989",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-12T14:21:43.640000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "Tim cook, Ian Buck founder of CUDA，Colette Kress CFO 这三个担任新ceo都没问题",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "Tim cook, Ian Buck founder of CUDA，Colette Kress CFO  这三个担任新ceo都没问题",
+  "attribution": "direct"
+}
