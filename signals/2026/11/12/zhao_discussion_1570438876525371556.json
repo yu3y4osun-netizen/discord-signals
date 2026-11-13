@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570438876525371556",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "leokin",
+  "ts": "2026-11-12T14:03:25.507000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis狂泻",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "nbis狂泻"
+}
