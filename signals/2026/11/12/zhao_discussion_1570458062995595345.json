@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570458062995595345",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-12T15:19:39.918000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥下周还看回调吗，今天老黄辞职这事算不算利空出尽",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥下周还看回调吗，今天老黄辞职这事算不算利空出尽"
+}
