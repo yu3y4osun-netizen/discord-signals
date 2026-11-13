@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570440628125302788",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-11-12T14:10:23.121000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那不是直接做空cw 就好了？",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "那不是直接做空cw 就好了？"
+}
