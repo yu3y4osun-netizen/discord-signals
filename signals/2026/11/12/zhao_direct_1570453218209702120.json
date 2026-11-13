@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570453218209702120",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-12T15:00:24.831000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "因为只要新的ceo可以都会修复回去",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "因为只要新的ceo可以都会修复回去",
+  "attribution": "direct"
+}
