@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570433889069965444",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-12T13:43:36.405000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "要抗 17号盘后财报一次 看有没有谷歌那天那种减持的 18-20号有一天罗列听证会所有罪责",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "要抗 17号盘后财报一次 看有没有谷歌那天那种减持的  18-20号有一天罗列听证会所有罪责",
+  "attribution": "direct"
+}
