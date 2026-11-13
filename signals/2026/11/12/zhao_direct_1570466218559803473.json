@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570466218559803473",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-12T15:52:04.356000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不是小作文 是出轨那个事件 引发调查 查出另外事件 有违规利益输送 职务侵占就是另外一个婚外情",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "不是小作文 是出轨那个事件 引发调查 查出另外事件 有违规利益输送 职务侵占就是另外一个婚外情",
+  "attribution": "direct"
+}
