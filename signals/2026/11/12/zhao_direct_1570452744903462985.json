@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570452744903462985",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-12T14:58:31.986000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是查一件事情 查出3件事情",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是查一件事情 查出3件事情",
+  "attribution": "direct"
+}
