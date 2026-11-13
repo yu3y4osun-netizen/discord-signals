@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570447463297585296",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wsl001",
+  "ts": "2026-11-12T14:37:32.753000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "为啥突然拉升了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "为啥突然拉升了"
+}
