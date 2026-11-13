@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570478391814127688",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-12T16:40:26.686000+00:00",
+  "captured_at": "2026-11-13T10:46:52+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天如果没站上700的话，盘后会不会就像昨天的走势，再下去测试支撑",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "今天如果没站上700的话，盘后会不会就像昨天的走势，再下去测试支撑"
+}
