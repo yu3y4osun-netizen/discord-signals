@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570767555948191757",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-13T11:49:28.788000+00:00",
+  "captured_at": "2026-11-15T01:11:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，想问下周五是多空双杀吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，想问下周五是多空双杀吗"
+}
