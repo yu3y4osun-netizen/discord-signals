@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570836003973763253",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-13T16:21:28.069000+00:00",
+  "captured_at": "2026-11-15T01:11:01+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "也有做短线或者长线的机构",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "也有做短线或者长线的机构",
+  "attribution": "direct"
+}
