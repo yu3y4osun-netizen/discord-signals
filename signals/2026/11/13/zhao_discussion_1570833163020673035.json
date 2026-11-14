@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570833163020673035",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-11-13T16:10:10.733000+00:00",
+  "captured_at": "2026-11-15T01:11:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，谷歌能配置点吗，算是英伟达对手盘吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，谷歌能配置点吗，算是英伟达对手盘吧"
+}
