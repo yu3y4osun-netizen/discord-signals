@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570821273146228838",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-13T15:22:55.966000+00:00",
+  "captured_at": "2026-11-15T01:11:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，想问下，假如后面几个月指数不断阴跌的情况下，买明天一月份或者三月份的qqq put是否有性价比￼￼？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，想问下，假如后面几个月指数不断阴跌的情况下，买明天一月份或者三月份的qqq put是否有性价比￼￼？"
+}
