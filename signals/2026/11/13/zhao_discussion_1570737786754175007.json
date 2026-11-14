@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570737786754175007",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haizi",
+  "ts": "2026-11-13T09:51:11.259000+00:00",
+  "captured_at": "2026-11-15T01:11:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "怎么不能升级了，有兄弟知道为什么吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "怎么不能升级了，有兄弟知道为什么吗"
+}
