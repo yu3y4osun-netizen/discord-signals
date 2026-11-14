@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570820280547414047",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-13T15:18:59.312000+00:00",
+  "captured_at": "2026-11-15T01:11:01+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不过今天单边 总仓位也可以把一些降低 下周可能有三个事件了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "不过今天单边 总仓位也可以把一些降低 下周可能有三个事件了",
+  "attribution": "direct"
+}
