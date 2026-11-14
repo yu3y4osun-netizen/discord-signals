@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570839174381043753",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-13T16:34:03.953000+00:00",
+  "captured_at": "2026-11-15T01:11:01+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "就是收盘qqq675要守住这样 下周时间的空间要预留",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是收盘qqq675要守住这样 下周时间的空间要预留",
+  "attribution": "direct"
+}
