@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570789738179207182",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-13T13:17:37.444000+00:00",
+  "captured_at": "2026-11-15T01:11:01+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "等法案在提出要投票在做 上次本来定11月中旬 现在双院输了 肯定短时间没提了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "等法案在提出要投票在做 上次本来定11月中旬 现在双院输了 肯定短时间没提了",
+  "attribution": "direct"
+}
