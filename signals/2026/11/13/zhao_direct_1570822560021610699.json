@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570822560021610699",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-13T15:28:02.781000+00:00",
+  "captured_at": "2026-11-15T01:11:01+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "amd avgo今天也是在查之前芯片出口的事情今天再跌",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "amd  avgo今天也是在查之前芯片出口的事情今天再跌",
+  "attribution": "direct"
+}
