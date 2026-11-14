@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570680149089849365",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-13T06:02:09.369000+00:00",
+  "captured_at": "2026-11-15T01:11:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "Btc太惨烈",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Btc太惨烈"
+}
