@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570787709784555542",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-13T13:09:33.837000+00:00",
+  "captured_at": "2026-11-15T01:11:01+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "对 就是ppi数据出来后才有波动方向 今天没啥特别大的事件都在等数据",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "对 就是ppi数据出来后才有波动方向 今天没啥特别大的事件都在等数据",
+  "attribution": "direct"
+}
