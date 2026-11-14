@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570826895627390977",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-13T15:45:16.470000+00:00",
+  "captured_at": "2026-11-15T01:11:01+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "AVGO",
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "下周有三个事件 17号盘后英伟达财报 18-20号其中有天听证会披露 今天盘中 英伟达之前违规出口中国这个事件发酵到查amd avgo 是不是也同样有这个违规操作 会引发中美关系在恶化 美方限制芯片 中方限制稀土",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "下周有三个事件\n\n17号盘后英伟达财报\n\n18-20号其中有天听证会披露\n\n今天盘中 英伟达之前违规出口中国这个事件发酵到查amd avgo\n\n是不是也同样有这个违规操作 会引发中美关系在恶化  美方限制芯片 中方限制稀土",
+  "attribution": "direct"
+}
