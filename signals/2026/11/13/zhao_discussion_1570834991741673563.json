@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570834991741673563",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "ciciwangyao",
+  "ts": "2026-11-13T16:17:26.734000+00:00",
+  "captured_at": "2026-11-15T01:11:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这种砸盘短时又快又狠，各个股票统一的，应该是机器干的。",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这种砸盘短时又快又狠，各个股票统一的，应该是机器干的。"
+}
