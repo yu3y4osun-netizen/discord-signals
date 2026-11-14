@@ -1,18 +1,18 @@
 {
   "schema_version": "0.2",
-  "updated_at": "2026-11-13T10:50:52+08:00",
+  "updated_at": "2026-11-15T01:13:08+08:00",
   "channels": {
     "zhao_discussion": {
       "channel_id": "1529062583364223008",
       "channel_name": "赵哥讨论区",
-      "last_message_id": "1570624050903121951",
-      "last_fetch_at": "2026-11-13T10:50:52+08:00",
-      "last_run_total_new_msgs": 239,
-      "last_run_signals_pushed": 131,
+      "last_message_id": "1571184818660712541",
+      "last_fetch_at": "2026-11-15T01:13:08+08:00",
+      "last_run_total_new_msgs": 123,
+      "last_run_signals_pushed": 71,
       "last_run_signals_failed": 0,
-      "note": "2026-11-13 10:50 增量：新消息 239 条，推送 community 信号 131 条，失败 0 条",
-      "last_run_kol_direct_pushed": 78,
-      "last_run_community_pushed": 53
+      "note": "2026-11-15 01:13 增量：新消息 123 条，推送 community 信号 71 条，失败 0 条",
+      "last_run_kol_direct_pushed": 46,
+      "last_run_community_pushed": 25
     }
   }
 }
