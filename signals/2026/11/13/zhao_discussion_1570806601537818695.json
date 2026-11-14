@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570806601537818695",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-13T14:24:37.982000+00:00",
+  "captured_at": "2026-11-15T01:11:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "我都想接点了，大饼这价格太诱人了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我都想接点了，大饼这价格太诱人了"
+}
