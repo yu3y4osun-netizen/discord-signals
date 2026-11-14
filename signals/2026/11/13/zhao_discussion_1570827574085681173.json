@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570827574085681173",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "allenlove",
+  "ts": "2026-11-13T15:47:58.227000+00:00",
+  "captured_at": "2026-11-15T01:11:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 soxl要出些吗，下周三个事件是不是还要跌了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 soxl要出些吗，下周三个事件是不是还要跌了"
+}
