@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570798307251453973",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-13T13:51:40.470000+00:00",
+  "captured_at": "2026-11-15T01:11:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "昨天英伟达挂低了一块钱，没接上",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "昨天英伟达挂低了一块钱，没接上"
+}
