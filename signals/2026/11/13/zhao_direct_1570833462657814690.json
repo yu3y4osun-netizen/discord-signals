@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1570833462657814690",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-13T16:11:22.172000+00:00",
+  "captured_at": "2026-11-15T01:11:01+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "可以 分三个批次 财报和听证会在加2次",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "可以 分三个批次  财报和听证会在加2次",
+  "attribution": "direct"
+}
