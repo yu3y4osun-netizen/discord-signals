@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571477064916402287",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrchen",
+  "ts": "2026-11-15T10:48:48.908000+00:00",
+  "captured_at": "2026-11-15T21:56:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "btc周末跌的有点凶",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "btc周末跌的有点凶"
+}
