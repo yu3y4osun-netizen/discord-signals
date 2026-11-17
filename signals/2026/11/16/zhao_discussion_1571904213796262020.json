@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571904213796262020",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-16T15:06:09.137000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "关键是很神奇的，￼就是很多机构都在同步地去杠杆，并且保留现金￼",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "关键是很神奇的，￼就是很多机构都在同步地去杠杆，并且保留现金￼"
+}
