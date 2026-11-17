@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571892877703905301",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-16T14:21:06.402000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA",
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥nvda跌会不会带着tsm这些半导体板块一起跌😂",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "赵哥nvda跌会不会带着tsm这些半导体板块一起跌😂"
+}
