@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571828975196446833",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-16T10:07:10.857000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "博通，AMD的CEO都是华人",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "博通，AMD的CEO都是华人"
+}
