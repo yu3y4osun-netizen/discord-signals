@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571896445940801569",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-16T14:35:17.136000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "等财报落地后 和听证会两个时间点进两次",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "等财报落地后  和听证会两个时间点进两次",
+  "attribution": "direct"
+}
