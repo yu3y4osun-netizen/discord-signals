@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571905569864810497",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "allenlove",
+  "ts": "2026-11-16T15:11:32.449000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥 如果英伟达财报好会拉一波吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 如果英伟达财报好会拉一波吧"
+}
