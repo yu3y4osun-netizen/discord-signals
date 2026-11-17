@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572086935550173187",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kongfu233hahaha",
+  "ts": "2026-11-17T03:12:13.398000+00:00",
+  "captured_at": "2026-11-17T11:13:37+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我基本9🈷️10月 一比一复刻赵哥的 确实大部分都还没卖",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我基本9🈷️10月  一比一复刻赵哥的  确实大部分都还没卖"
+}
