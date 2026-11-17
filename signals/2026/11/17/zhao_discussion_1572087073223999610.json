@@ -5,14 +5,13 @@
   "channel_name": "赵哥讨论区",
   "author": "kongfu233hahaha",
   "ts": "2026-11-17T03:12:46.222000+00:00",
-  "captured_at": "2026-11-17T11:13:37+08:00",
+  "captured_at": "2026-11-17T11:14:04+08:00",
   "signal_type": "community",
   "payload": {
     "mood": "neutral",
     "tickers_mentioned": [],
-    "is_following_zhao": false,
-    "summary": "目前该8.5层仓位左右😂 有点高 但是赵哥不动我也不敢动",
-    "filter_reason": "zhao_discuss"
+    "is_following_zhao": true,
+    "summary": "自报仓位约 8.5 成，自觉偏高，但以赵哥不动为唯一行动依据（赵哥沉默即锁仓）"
   },
   "raw_text": "目前该8.5层仓位左右😂  有点高  但是赵哥不动我也不敢动"
 }
