@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571942031956115497",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-16T17:36:25.689000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA",
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "之前qqq647要双底在探下 就只能利用这个英伟达事件",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "之前qqq647要双底在探下 就只能利用这个英伟达事件",
+  "attribution": "direct"
+}
