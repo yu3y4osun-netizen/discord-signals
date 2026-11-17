@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571946269138489415",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-11-16T17:53:15.912000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要是云，存储，还有太空，大部分仓位好像都在",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云",
+      "存储"
+    ]
+  },
+  "raw_text": "主要是云，存储，还有太空，大部分仓位好像都在"
+}
