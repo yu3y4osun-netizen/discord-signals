@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571894730193895526",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-16T14:28:28.070000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL",
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "tqqq soxx soxl做短线 单倍可以拿几天",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "tqqq soxx     soxl做短线  单倍可以拿几天",
+  "attribution": "direct"
+}
