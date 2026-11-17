@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571874336086696018",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-16T13:07:25.736000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有不确定事件在 动能就减少",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "有不确定事件在 动能就减少",
+  "attribution": "direct"
+}
