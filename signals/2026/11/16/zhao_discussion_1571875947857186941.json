@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571875947857186941",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-16T13:13:50.012000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥今年还能涨吗，感觉10月后总体还是跌的，接着阴跌，那真的闹麻了🥺",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥今年还能涨吗，感觉10月后总体还是跌的，接着阴跌，那真的闹麻了🥺"
+}
