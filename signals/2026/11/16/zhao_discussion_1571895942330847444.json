@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571895942330847444",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "souyue",
+  "ts": "2026-11-16T14:33:17.066000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，nvda还是140 150短线进吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，nvda还是140 150短线进吗"
+}
