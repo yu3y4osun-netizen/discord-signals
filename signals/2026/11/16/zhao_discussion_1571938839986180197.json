@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571938839986180197",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-11-16T17:23:44.664000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "OKLO"
+    ],
+    "is_following_zhao": false,
+    "summary": "还有oklo也走了一点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "还有oklo也走了一点"
+}
