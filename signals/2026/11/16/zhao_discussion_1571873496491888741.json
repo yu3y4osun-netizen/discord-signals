@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571873496491888741",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "sunnyandlucky",
+  "ts": "2026-11-16T13:04:05.561000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 财报好也要跌吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 财报好也要跌吗"
+}
