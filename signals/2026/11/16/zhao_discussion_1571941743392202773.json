@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571941743392202773",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-11-16T17:35:16.890000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，这次回调主要就是 Ai政策不确定性吗？ 和加息预期还有没有关系？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，这次回调主要就是 Ai政策不确定性吗？ 和加息预期还有没有关系？"
+}
