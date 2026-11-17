@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571936386976841880",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-11-16T17:13:59.821000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，之前说的十一月中旬无论如何要走大部分人正股，现在想法不变吗？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，之前说的十一月中旬无论如何要走大部分人正股，现在想法不变吗？"
+}
