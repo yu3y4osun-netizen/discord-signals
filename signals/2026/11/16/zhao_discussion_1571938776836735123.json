@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571938776836735123",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-11-16T17:23:29.608000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "RIOT"
+    ],
+    "is_following_zhao": false,
+    "summary": "好像就走了一个riot？感觉大部分的股都没走啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "好像就走了一个riot？感觉大部分的股都没走啊"
+}
