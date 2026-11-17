@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571873394268573708",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-16T13:03:41.189000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "15号之前反弹过点了 就是英伟达事件还要跌2个事件 一个财报一个听证会",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "15号之前反弹过点了 就是英伟达事件还要跌2个事件 一个财报一个听证会",
+  "attribution": "direct"
+}
