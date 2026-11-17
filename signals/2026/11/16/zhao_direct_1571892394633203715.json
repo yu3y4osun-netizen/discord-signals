@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571892394633203715",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-16T14:19:11.229000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "适合4-5成 等英伟达财报和听证会落地再加",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "适合4-5成 等英伟达财报和听证会落地再加",
+  "attribution": "direct"
+}
