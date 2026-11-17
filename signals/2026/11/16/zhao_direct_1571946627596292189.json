@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1571946627596292189",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-16T17:54:41.375000+00:00",
+  "captured_at": "2026-11-17T11:08:01+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "MU",
+      "PL",
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "太空就一个pl 存就dram还有些高位的 后面都集中还是做一次tqqq和soxx",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "太空就一个pl  存就dram还有些高位的   后面都集中还是做一次tqqq和soxx",
+  "attribution": "direct"
+}
