@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572628688065798276",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-18T15:04:57.263000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "英伟达不强势就还有新低的概率 因为财报给了只能强 不强就是资金不买账",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "英伟达不强势就还有新低的概率 因为财报给了只能强 不强就是资金不买账",
+  "attribution": "direct"
+}
