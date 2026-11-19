@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572222354602336400",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-17T12:10:19.816000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一般出大财报都会盘前波动下昨天规避走势了 今天盘前就会预增下",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "一般出大财报都会盘前波动下昨天规避走势了 今天盘前就会预增下",
+  "attribution": "direct"
+}
