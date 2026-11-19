@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572280940955303938",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-17T16:03:07.891000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "刚刚直接杀出恐慌盘￼",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "刚刚直接杀出恐慌盘￼"
+}
