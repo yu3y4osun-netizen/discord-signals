@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572223414419202240",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-17T12:14:32.496000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA",
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，如果英伟达财报指引不好，是不是看纳指是否跌破647",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，如果英伟达财报指引不好，是不是看纳指是否跌破647"
+}
