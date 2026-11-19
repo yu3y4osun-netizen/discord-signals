@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572389332575064227",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-17T23:13:50.467000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，电话会都结束，但是今天冲得很平缓",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，电话会都结束，但是今天冲得很平缓"
+}
