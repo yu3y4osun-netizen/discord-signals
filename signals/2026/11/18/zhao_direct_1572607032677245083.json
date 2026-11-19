@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572607032677245083",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-18T13:38:54.216000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你之前那个是统计一天的那肯定多 要分时间段 每个时间段多少 一般要均等点 或者 弱变多 就像盘前1小时才有变量",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "你之前那个是统计一天的那肯定多 要分时间段 每个时间段多少 一般要均等点 或者 弱变多 就像盘前1小时才有变量",
+  "attribution": "direct"
+}
