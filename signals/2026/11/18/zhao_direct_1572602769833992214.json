@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572602769833992214",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-18T13:21:57.875000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还要看下盘前1小时的量 这1小时没啥量就还要探底",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "还要看下盘前1小时的量  这1小时没啥量就还要探底",
+  "attribution": "direct"
+}
