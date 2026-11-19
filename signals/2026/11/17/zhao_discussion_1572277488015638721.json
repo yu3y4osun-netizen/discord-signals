@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572277488015638721",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "uccu",
+  "ts": "2026-11-17T15:49:24.646000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QLD",
+      "TQQQ"
+    ],
+    "is_following_zhao": true,
+    "summary": "我已经加到70%了啊🤔，qqqm，vgt，spmo，qld，tqqq都买了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我已经加到70%了啊🤔，qqqm，vgt，spmo，qld，tqqq都买了"
+}
