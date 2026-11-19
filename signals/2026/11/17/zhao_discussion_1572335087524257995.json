@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572335087524257995",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "teslaliang",
+  "ts": "2026-11-17T19:38:17.439000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "义父，英伟达财报对半导体的影响偏多吗",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "义父，英伟达财报对半导体的影响偏多吗"
+}
