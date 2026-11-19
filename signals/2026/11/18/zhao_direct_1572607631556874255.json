@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572607631556874255",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-18T13:41:17+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "先看个股再看指数",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "先看个股再看指数",
+  "attribution": "direct"
+}
