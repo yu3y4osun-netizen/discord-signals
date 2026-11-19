@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572286194254094360",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-17T16:24:00.375000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "等财报了只是 消息推升上去的 财报不好还会下来",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "等财报了只是 消息推升上去的  财报不好还会下来",
+  "attribution": "direct"
+}
