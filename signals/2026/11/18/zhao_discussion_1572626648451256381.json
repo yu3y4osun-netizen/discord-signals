@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572626648451256381",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-18T14:56:50.981000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "完成回踩了？",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "完成回踩了？"
+}
