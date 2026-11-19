@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572789538391072941",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-19T01:44:06.969000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "阿里跌到24年的价格了",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "阿里跌到24年的价格了"
+}
