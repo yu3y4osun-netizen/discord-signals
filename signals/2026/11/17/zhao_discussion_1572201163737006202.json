@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572201163737006202",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-17T10:46:07.520000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "个股已经熊市了？",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "个股已经熊市了？"
+}
