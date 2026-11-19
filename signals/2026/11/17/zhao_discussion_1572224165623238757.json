@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572224165623238757",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-17T12:17:31.597000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "在预期内，就买3倍纳指和sock",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "在预期内，就买3倍纳指和sock"
+}
