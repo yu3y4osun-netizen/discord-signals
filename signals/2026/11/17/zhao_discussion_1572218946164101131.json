@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572218946164101131",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-17T11:56:47.181000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "后面没啥很大利空了吧",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "后面没啥很大利空了吧"
+}
