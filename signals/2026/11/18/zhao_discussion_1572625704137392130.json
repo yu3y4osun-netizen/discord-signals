@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572625704137392130",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "wsl001",
+  "ts": "2026-11-18T14:53:05.839000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "感觉nvda从估值的角度看也不会是现在的价格",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "感觉nvda从估值的角度看也不会是现在的价格"
+}
