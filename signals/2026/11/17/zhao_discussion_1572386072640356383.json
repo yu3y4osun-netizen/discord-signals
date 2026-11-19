@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572386072640356383",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-17T23:00:53.238000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "有不少人预测这轮纳指跌23%，纳指647不知道能否稳住",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "有不少人预测这轮纳指跌23%，纳指647不知道能否稳住"
+}
