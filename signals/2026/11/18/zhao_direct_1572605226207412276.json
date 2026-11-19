@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572605226207412276",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-18T13:31:43.520000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "盘前1小时的量还没搜集 还是把昨天的出为主 在等 低点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "盘前1小时的量还没搜集 还是把昨天的出为主 在等 低点",
+  "attribution": "direct"
+}
