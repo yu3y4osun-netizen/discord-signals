@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572644259243364484",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-11-18T16:06:49.721000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵叔后面还有反弹的机会点么。还是要一直地位做t了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "赵叔后面还有反弹的机会点么。还是要一直地位做t了"
+}
