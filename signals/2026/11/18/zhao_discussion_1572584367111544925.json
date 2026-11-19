@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572584367111544925",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-18T12:08:50.324000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天开盘还是会猛砸吧",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "今天开盘还是会猛砸吧"
+}
