@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572387647459172705",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-17T23:07:08.704000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥，如果今天再加仓，什么节点适合",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，如果今天再加仓，什么节点适合"
+}
