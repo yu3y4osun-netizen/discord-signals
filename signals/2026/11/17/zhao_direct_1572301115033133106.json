@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572301115033133106",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-17T17:23:17.766000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有事件的话要隔天不低于最低 因为财报在盘后要看隔天的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "有事件的话要隔天不低于最低 因为财报在盘后要看隔天的",
+  "attribution": "direct"
+}
