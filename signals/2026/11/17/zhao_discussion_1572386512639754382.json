@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572386512639754382",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zhanglucky",
+  "ts": "2026-11-17T23:02:38.142000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，您之前说英伟达财报以后要走大部分，现在的策略是变了吗？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，您之前说英伟达财报以后要走大部分，现在的策略是变了吗？"
+}
