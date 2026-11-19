@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572603023606161542",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-18T13:22:58.379000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，你说的前一小时量怎么看，买盘多就算么",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，你说的前一小时量怎么看，买盘多就算么"
+}
