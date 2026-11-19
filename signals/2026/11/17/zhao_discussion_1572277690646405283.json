@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572277690646405283",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hwangjoey",
+  "ts": "2026-11-17T15:50:12.957000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CIFR"
+    ],
+    "is_following_zhao": false,
+    "summary": "Cifr忘记了吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "Cifr忘记了吗"
+}
