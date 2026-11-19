@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572554933943799838",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-18T10:11:52.910000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "总感觉韩国佬梭哈哪个哪个药丸",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "总感觉韩国佬梭哈哪个哪个药丸"
+}
