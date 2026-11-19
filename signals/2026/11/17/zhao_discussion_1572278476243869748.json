@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572278476243869748",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "uccu",
+  "ts": "2026-11-17T15:53:20.258000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "647.14了，前低是647.05",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "647.14了，前低是647.05"
+}
