@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572388874414465197",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-17T23:12:01.233000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一个事件的时间段是回调段 一直压 一个事件会去触发反弹",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "一个事件的时间段是回调段  一直压  一个事件会去触发反弹",
+  "attribution": "direct"
+}
