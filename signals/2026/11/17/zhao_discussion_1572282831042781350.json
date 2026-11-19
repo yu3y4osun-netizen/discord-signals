@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572282831042781350",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-17T16:10:38.523000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "我倒是觉得这部分没太大影响，英伟达已经跌了1万多亿了🤣",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我倒是觉得这部分没太大影响，英伟达已经跌了1万多亿了🤣"
+}
