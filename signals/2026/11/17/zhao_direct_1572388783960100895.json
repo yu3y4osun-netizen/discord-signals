@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572388783960100895",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-17T23:11:39.667000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "因为他事件属性 列的很清楚 后面的链条 涨跌就清晰了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "因为他事件属性 列的很清楚 后面的链条 涨跌就清晰了",
+  "attribution": "direct"
+}
