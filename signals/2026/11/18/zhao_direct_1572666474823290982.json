@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572666474823290982",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-18T17:35:06.328000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "连续扫几次 他不是第一个轮次都结算 是分批结算",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "连续扫几次 他不是第一个轮次都结算 是分批结算",
+  "attribution": "direct"
+}
