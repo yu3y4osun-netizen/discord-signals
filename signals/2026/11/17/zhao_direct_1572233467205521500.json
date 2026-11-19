@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572233467205521500",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-17T12:54:29.267000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "COHR"
+    ],
+    "is_following_zhao": false,
+    "summary": "cohr本来就是财报超预期的 上次说过每次跌很多都会先反弹",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "cohr本来就是财报超预期的 上次说过每次跌很多都会先反弹",
+  "attribution": "direct"
+}
