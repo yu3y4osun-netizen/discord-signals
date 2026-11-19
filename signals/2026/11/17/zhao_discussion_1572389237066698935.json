@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572389237066698935",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "menghaolucky",
+  "ts": "2026-11-17T23:13:27.696000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "QQQ",
+      "TSM"
+    ],
+    "is_following_zhao": true,
+    "summary": "昨天qqq647的时候买了tsm的期权，买少了，tsm起飞了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "昨天qqq647的时候买了tsm的期权，买少了，tsm起飞了"
+}
