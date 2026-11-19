@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572267012032307233",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-17T15:07:46.977000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "财报前 有一笔 财报出来再看方向加 反正就先指数 不加个股",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "财报前 有一笔 财报出来再看方向加 反正就先指数 不加个股",
+  "attribution": "direct"
+}
