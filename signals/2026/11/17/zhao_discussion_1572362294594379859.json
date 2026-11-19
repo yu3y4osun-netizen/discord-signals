@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572362294594379859",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "skyeli168",
+  "ts": "2026-11-17T21:26:24.110000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，听证会 12 月 1 日，那后面几天是不是没有事件的？会涨一点",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，听证会 12 月 1 日，那后面几天是不是没有事件的？会涨一点"
+}
