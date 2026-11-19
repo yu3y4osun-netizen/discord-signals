@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572280557172293733",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hugowang",
+  "ts": "2026-11-17T16:01:36.390000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "加了147张台积电call",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "加了147张台积电call"
+}
