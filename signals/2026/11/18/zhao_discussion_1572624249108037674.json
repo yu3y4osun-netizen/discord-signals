@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572624249108037674",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "c8641",
+  "ts": "2026-11-18T14:47:18.933000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "英伟达多少可以进",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "英伟达多少可以进"
+}
