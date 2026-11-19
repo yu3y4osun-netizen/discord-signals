@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572385722764099669",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-17T22:59:29.821000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "但是只要qqq647那个低点不跌破 结构就是双探底形态了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "但是只要qqq647那个低点不跌破 结构就是双探底形态了",
+  "attribution": "direct"
+}
