@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572382997829779498",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-17T22:48:40.146000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "因为其他ai都看英伟达会不会miss",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "因为其他ai都看英伟达会不会miss",
+  "attribution": "direct"
+}
