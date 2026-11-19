@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572625334577139874",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiekai",
+  "ts": "2026-11-18T14:51:37.729000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confusion",
+    "tickers_mentioned": [
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "刚才为什么不把tqqq也卖了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "刚才为什么不把tqqq也卖了"
+}
