@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572781067549540438",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-19T01:10:27.363000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "每天要出的点时间 一般夜盘的开盘 夜盘的结束 盘前的2小时 一般就这三个点看看 有涨或者续涨就出点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "每天要出的点时间 一般夜盘的开盘 夜盘的结束 盘前的2小时 一般就这三个点看看 有涨或者续涨就出点",
+  "attribution": "direct"
+}
