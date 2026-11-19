@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572782580313624607",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-19T01:16:28.034000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "盘前量很低或者单边下跌都是适合这三个时间点出",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "盘前量很低或者单边下跌都是适合这三个时间点出",
+  "attribution": "direct"
+}
