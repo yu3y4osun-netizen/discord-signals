@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572276733732724847",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-17T15:46:24.811000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一波熊市还是赚钱的",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "一波熊市还是赚钱的"
+}
