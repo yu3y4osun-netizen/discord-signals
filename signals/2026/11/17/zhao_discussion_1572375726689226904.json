@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572375726689226904",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hellogwh",
+  "ts": "2026-11-17T22:19:46.571000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "nbis crwv",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "nbis crwv"
+}
