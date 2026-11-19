@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572779864103067729",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiekai",
+  "ts": "2026-11-19T01:05:40.439000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "怎么突然就涨了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "怎么突然就涨了"
+}
