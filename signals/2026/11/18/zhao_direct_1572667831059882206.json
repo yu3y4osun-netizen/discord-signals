@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572667831059882206",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-18T17:40:29.680000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "最大盘子的财报隔天都会有结算 他一个买财报的股的期权一个买了指数 博财报影响指数",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "最大盘子的财报隔天都会有结算 他一个买财报的股的期权一个买了指数 博财报影响指数",
+  "attribution": "direct"
+}
