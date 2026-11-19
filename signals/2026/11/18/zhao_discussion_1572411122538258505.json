@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572411122538258505",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "haoyuliu",
+  "ts": "2026-11-18T00:40:25.599000+00:00",
+  "captured_at": "2026-11-19T15:26:24+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "我大部分都换成tsm了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我大部分都换成tsm了"
+}
