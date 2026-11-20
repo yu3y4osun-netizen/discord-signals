@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573324954219454607",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-20T13:11:40.050000+00:00",
+  "captured_at": "2026-11-20T21:11:51+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "低点确认之后减出来的 买指数qqq和soxx 个股要等个股低点确认后再加",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "低点确认之后减出来的 买指数qqq和soxx 个股要等个股低点确认后再加",
+  "attribution": "direct"
+}
