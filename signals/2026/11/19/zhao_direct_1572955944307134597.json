@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572955944307134597",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-19T12:45:21.231000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没去 准备看看竞价到盘中那阶段 看走势做指数",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "没去 准备看看竞价到盘中那阶段 看走势做指数",
+  "attribution": "direct"
+}
