@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572984773251436557",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-19T14:39:54.587000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥这个是哪个券商",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥这个是哪个券商"
+}
