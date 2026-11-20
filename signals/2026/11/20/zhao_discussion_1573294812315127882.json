@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573294812315127882",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckystick16",
+  "ts": "2026-11-20T11:11:53.660000+00:00",
+  "captured_at": "2026-11-20T21:11:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": true,
+    "summary": "博通太鬼了，我做了几次都亏，后面不敢了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "博通太鬼了，我做了几次都亏，后面不敢了"
+}
