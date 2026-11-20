@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573310051555217438",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-20T12:12:26.978000+00:00",
+  "captured_at": "2026-11-20T21:11:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "等这轮熊市过去吧",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "等这轮熊市过去吧"
+}
