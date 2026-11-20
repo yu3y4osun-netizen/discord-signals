@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573026898454384742",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-19T17:27:18.018000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "647不能跌破是趋势分界线 675是合格线 675站上才有690-700",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "647不能跌破是趋势分界线  675是合格线 675站上才有690-700",
+  "attribution": "direct"
+}
