@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573001284968255559",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-19T15:45:31.287000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "上次说了出口的amd 博通也在被调查 amd是老黄亲戚",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "上次说了出口的amd 博通也在被调查  amd是老黄亲戚",
+  "attribution": "direct"
+}
