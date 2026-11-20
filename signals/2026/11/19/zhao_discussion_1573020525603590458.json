@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573020525603590458",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-19T17:01:58.612000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "CRCL"
+    ],
+    "is_following_zhao": false,
+    "summary": "记得只有CRCL上市涨了两倍，后面的上市的都是割了一批又一批",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "记得只有CRCL上市涨了两倍，后面的上市的都是割了一批又一批"
+}
