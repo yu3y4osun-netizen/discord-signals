@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573324530359869511",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-20T13:09:58.994000+00:00",
+  "captured_at": "2026-11-20T21:11:51+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就看收盘和盘中有没有量 今天缩量一天",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就看收盘和盘中有没有量 今天缩量一天",
+  "attribution": "direct"
+}
