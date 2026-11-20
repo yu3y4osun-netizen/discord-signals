@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572960758181011458",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zengshanmei",
+  "ts": "2026-11-19T13:04:28.948000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "谢谢赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "谢谢赵哥"
+}
