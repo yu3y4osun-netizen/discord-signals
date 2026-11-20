@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573027065974882307",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-19T17:27:57.958000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "675是上轮那天普涨的均线 所以今天仅仅摸675就卖了 要变强他盘前一定要量大于等于夜盘加675升到680附近",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "675是上轮那天普涨的均线 所以今天仅仅摸675就卖了 要变强他盘前一定要量大于等于夜盘加675升到680附近",
+  "attribution": "direct"
+}
