@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572918353239081061",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-19T10:15:58.822000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "要看盘前1小时那会会不会跌破均线和量变很低 盘前两小时这会每天都是量高的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "要看盘前1小时那会会不会跌破均线和量变很低 盘前两小时这会每天都是量高的",
+  "attribution": "direct"
+}
