@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573018440166285443",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-19T16:53:41.405000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "大盘跳了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "大盘跳了"
+}
