@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573294928266662050",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-11-20T11:12:21.305000+00:00",
+  "captured_at": "2026-11-20T21:11:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌不就这么做了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌不就这么做了"
+}
