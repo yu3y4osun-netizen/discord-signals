@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572914335519473715",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-19T10:00:00.923000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "盘前量不是多吗，怎么出了，赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "盘前量不是多吗，怎么出了，赵哥"
+}
