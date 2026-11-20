@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573308776126349383",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuryant24",
+  "ts": "2026-11-20T12:07:22.892000+00:00",
+  "captured_at": "2026-11-20T21:11:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "CIFR",
+      "CRWV",
+      "IREN",
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥重仓的nbis, Crwv, Iren Cifr这些股票到底他要如何处理呢？ 十月底说十一月中旬出大部分，现在都快十二月了，价格都快跌到1/3了，还是拿着呢...",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥重仓的nbis, Crwv, Iren Cifr这些股票到底他要如何处理呢？ 十月底说十一月中旬出大部分，现在都快十二月了，价格都快跌到1/3了，还是拿着呢？"
+}
