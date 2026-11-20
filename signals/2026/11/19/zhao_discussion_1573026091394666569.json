@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573026091394666569",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jifushebg",
+  "ts": "2026-11-19T17:24:05.600000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "647确实强支撑啊",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "647确实强支撑啊"
+}
