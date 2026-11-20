@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573029757413621771",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-19T17:38:39.647000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "老登跌的比科技多也是活久见",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "老登跌的比科技多也是活久见"
+}
