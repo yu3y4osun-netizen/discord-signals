@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572989971089068134",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-19T15:00:33.848000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "VOO"
+    ],
+    "is_following_zhao": false,
+    "summary": "不玩了，玩不过庄家，以后买qqqm和voo",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "不玩了，玩不过庄家，以后买qqqm和voo"
+}
