@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573294839263531191",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-11-20T11:12:00.085000+00:00",
+  "captured_at": "2026-11-20T21:11:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO",
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "博通这个价格 感觉没有台积电性价比高",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "博通这个价格 感觉没有台积电性价比高"
+}
