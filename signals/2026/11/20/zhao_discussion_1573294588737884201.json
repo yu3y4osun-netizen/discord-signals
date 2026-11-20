@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573294588737884201",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-11-20T11:11:00.355000+00:00",
+  "captured_at": "2026-11-20T21:11:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AVGO"
+    ],
+    "is_following_zhao": true,
+    "summary": "博通295加了波仓从360建仓 竟然没亏",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "博通295加了波仓从360建仓 竟然没亏"
+}
