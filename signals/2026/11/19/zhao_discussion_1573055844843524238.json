@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573055844843524238",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-19T19:22:19.375000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "偏偏我杠杆最多",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "偏偏我杠杆最多"
+}
