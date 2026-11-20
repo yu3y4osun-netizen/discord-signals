@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573297126509781023",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckystick16",
+  "ts": "2026-11-20T11:21:05.407000+00:00",
+  "captured_at": "2026-11-20T21:11:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "大盘不行啥都难顶，等等看先",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "大盘不行啥都难顶，等等看先"
+}
