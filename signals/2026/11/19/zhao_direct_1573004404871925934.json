@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573004404871925934",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-19T15:57:55.130000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "开盘就是跌破均线一根线下去 又是缩量就是这个规律",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "开盘就是跌破均线一根线下去 又是缩量就是这个规律",
+  "attribution": "direct"
+}
