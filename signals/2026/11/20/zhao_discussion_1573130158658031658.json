@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573130158658031658",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-20T00:17:37.169000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那我预测，群里人数要走4大波浪下跌，跌到10左右",
+    "filter_reason": "price_level"
+  },
+  "raw_text": "那我预测，群里人数要走4大波浪下跌，跌到10左右"
+}
