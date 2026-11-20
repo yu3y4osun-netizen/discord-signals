@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573296421308735673",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckystick16",
+  "ts": "2026-11-20T11:18:17.274000+00:00",
+  "captured_at": "2026-11-20T21:11:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fomo",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我是打算达子的话慢慢再看，现在我就不做了，看看有没有达子能够改变方向的消息面我再上车",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我是打算达子的话慢慢再看，现在我就不做了，看看有没有达子能够改变方向的消息面我再上车"
+}
