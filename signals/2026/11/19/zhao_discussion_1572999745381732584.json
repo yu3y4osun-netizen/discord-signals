@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572999745381732584",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "jiawang",
+  "ts": "2026-11-19T15:39:24.221000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "真的是 那还不如每天开盘拉高的时候做空",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "真的是 那还不如每天开盘拉高的时候做空"
+}
