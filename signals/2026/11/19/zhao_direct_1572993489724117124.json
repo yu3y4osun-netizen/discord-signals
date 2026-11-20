@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572993489724117124",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-19T15:14:32.756000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "指数的话在上下扫 ant开的很高时候会波动大 双边都在做",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "指数的话在上下扫 ant开的很高时候会波动大 双边都在做",
+  "attribution": "direct"
+}
