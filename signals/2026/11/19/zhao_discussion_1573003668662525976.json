@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573003668662525976",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zengshanmei",
+  "ts": "2026-11-19T15:54:59.604000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个跌幅已经超过了60极值，赵哥在熊市情况下是不是不能用60极值定理了？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "这个跌幅已经超过了60极值，赵哥在熊市情况下是不是不能用60极值定理了？"
+}
