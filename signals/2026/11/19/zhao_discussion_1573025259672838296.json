@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573025259672838296",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-19T17:20:47.302000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA",
+      "TSLA"
+    ],
+    "is_following_zhao": false,
+    "summary": "打吧，能把特斯拉打到200，英伟达打到80最好",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "打吧，能把特斯拉打到200，英伟达打到80最好"
+}
