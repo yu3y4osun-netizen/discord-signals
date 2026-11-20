@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572961036737314819",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-19T13:05:35.361000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "也不是反转只是反弹 就是675站上就是和上次一样 去690 700去突破",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "也不是反转只是反弹 就是675站上就是和上次一样 去690  700去突破",
+  "attribution": "direct"
+}
