@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573324204466634943",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-20T13:08:41.295000+00:00",
+  "captured_at": "2026-11-20T21:11:51+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "等确认低点的位置在买指数 个股现在都随机会有利空和里面有减持",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "等确认低点的位置在买指数  个股现在都随机会有利空和里面有减持",
+  "attribution": "direct"
+}
