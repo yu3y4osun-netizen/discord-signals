@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573054730203168812",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuuumii",
+  "ts": "2026-11-19T19:17:53.624000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "熔断不是要7个点吗赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "熔断不是要7个点吗赵哥"
+}
