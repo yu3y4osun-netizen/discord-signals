@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572995432320340020",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-19T15:22:15.907000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "110以上都算高 有些竞价就是已经显示是高开低走了所以指数在急跌",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "110以上都算高 有些竞价就是已经显示是高开低走了所以指数在急跌",
+  "attribution": "direct"
+}
