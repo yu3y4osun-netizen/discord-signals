@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572949388161191958",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-19T12:19:18.124000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "盘前量大就是ant上市这个刺激 盘中破发就可能会下来",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "盘前量大就是ant上市这个刺激  盘中破发就可能会下来",
+  "attribution": "direct"
+}
