@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573082203196366880",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-19T21:07:03.696000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "短期跌破没有上去量就要等有上去的量出来",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "短期跌破没有上去量就要等有上去的量出来",
+  "attribution": "direct"
+}
