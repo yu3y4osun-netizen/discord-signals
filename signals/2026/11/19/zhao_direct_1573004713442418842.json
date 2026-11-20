@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573004713442418842",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-19T15:59:08.699000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不是很大 今天有ant要ant竞价完了开盘再看",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "不是很大 今天有ant要ant竞价完了开盘再看",
+  "attribution": "direct"
+}
