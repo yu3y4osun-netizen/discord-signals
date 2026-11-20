@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573019680845860874",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hellogwh",
+  "ts": "2026-11-19T16:58:37.206000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "禁止台积电给国内代工对台积电是利好利空呢",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "禁止台积电给国内代工对台积电是利好利空呢"
+}
