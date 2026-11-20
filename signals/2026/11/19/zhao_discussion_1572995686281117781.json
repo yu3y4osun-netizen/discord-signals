@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572995686281117781",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-19T15:23:16.456000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥标普快绿了，今天极限在哪里，会不会破昨天低点",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥标普快绿了，今天极限在哪里，会不会破昨天低点"
+}
