@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573296518868377663",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-11-20T11:18:40.534000+00:00",
+  "captured_at": "2026-11-20T21:11:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌还是大头",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌还是大头"
+}
