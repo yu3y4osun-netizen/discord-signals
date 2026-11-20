@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573021140224450674",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hellogwh",
+  "ts": "2026-11-19T17:04:25.149000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA",
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "好的谢谢赵哥，那不关注他了，还是soxl和英伟达",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "好的谢谢赵哥，那不关注他了，还是soxl和英伟达"
+}
