@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573025162180436123",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-19T17:20:24.058000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天到周五收盘收周线能不能不跌破645-647最关键",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "今天到周五收盘收周线能不能不跌破645-647最关键",
+  "attribution": "direct"
+}
