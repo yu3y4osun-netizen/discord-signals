@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572961626037035070",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-19T13:07:55.861000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "高走就买买指数 soxx tqqq之类的 或者个股财报可以的做做短线",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "高走就买买指数 soxx tqqq之类的 或者个股财报可以的做做短线",
+  "attribution": "direct"
+}
