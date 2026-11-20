@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573081470711631937",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-19T21:04:09.058000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不能吧 这么重要的支撑位跌破了",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "不能吧 这么重要的支撑位跌破了"
+}
