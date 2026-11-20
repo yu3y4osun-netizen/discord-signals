@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1572944721754587189",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "souyue",
+  "ts": "2026-11-19T12:00:45.566000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，ANT上市，什么时间会做这一支",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，ANT上市，什么时间会做这一支"
+}
