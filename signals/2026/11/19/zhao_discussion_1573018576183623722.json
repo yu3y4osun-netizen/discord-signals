@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573018576183623722",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-19T16:54:13.834000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "新股上市都是是跳水的理由了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "新股上市都是是跳水的理由了"
+}
