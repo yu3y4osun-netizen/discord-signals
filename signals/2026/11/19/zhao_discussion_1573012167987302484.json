@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573012167987302484",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-11-19T16:28:46.001000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "对标NVDA事件 也不是跌一天的事情吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "对标NVDA事件 也不是跌一天的事情吧"
+}
