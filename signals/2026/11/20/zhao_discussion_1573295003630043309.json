@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573295003630043309",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "luckystick16",
+  "ts": "2026-11-20T11:12:39.273000+00:00",
+  "captured_at": "2026-11-20T21:11:51+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "TSM"
+    ],
+    "is_following_zhao": false,
+    "summary": "台积电基本面没问题，我怕的是半导体板块继续被压力",
+    "filter_reason": "ticker",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "台积电基本面没问题，我怕的是半导体板块继续被压力"
+}
