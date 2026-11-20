@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573000359746474086",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-19T15:41:50.697000+00:00",
+  "captured_at": "2026-11-20T14:39:44+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "估计要跌出恐慌来，让该割肉的割肉",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "估计要跌出恐慌来，让该割肉的割肉"
+}
