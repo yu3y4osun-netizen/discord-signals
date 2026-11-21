@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573427109034991637",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-11-20T19:57:35.656000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天聊了半天宏观话题 感觉问题不大 说实话有点怕 需要心理按摩下",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "今天聊了半天宏观话题 感觉问题不大 说实话有点怕 需要心理按摩下"
+}
