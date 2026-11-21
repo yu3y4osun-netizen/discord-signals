@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573325313528565923",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cthylla",
+  "ts": "2026-11-20T13:13:05.716000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "割肉出来换tqqq行吗？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "割肉出来换tqqq行吗？"
+}
