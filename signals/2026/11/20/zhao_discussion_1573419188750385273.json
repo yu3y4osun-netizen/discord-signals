@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573419188750385273",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hellogwh",
+  "ts": "2026-11-20T19:26:07.313000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "一下子又把大盘带崩了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "一下子又把大盘带崩了"
+}
