@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573449195174764708",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-20T21:25:21.402000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "他盘中一直走单边 再出英伟达被审计调查就是朝着周一去确认低点去了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "他盘中一直走单边 再出英伟达被审计调查就是朝着周一去确认低点去了",
+  "attribution": "direct"
+}
