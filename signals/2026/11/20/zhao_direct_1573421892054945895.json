@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573421892054945895",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-20T19:36:51.831000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "647*0.9 按昨天647的熔断是582.3",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "647*0.9 按昨天647的熔断是582.3",
+  "attribution": "direct"
+}
