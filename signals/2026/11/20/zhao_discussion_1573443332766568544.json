@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573443332766568544",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "t1d3c6e",
+  "ts": "2026-11-20T21:02:03.695000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是说可能跌到580 才会开始反弹吗？",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "就是说可能跌到580 才会开始反弹吗？"
+}
