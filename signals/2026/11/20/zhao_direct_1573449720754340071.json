@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573449720754340071",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-20T21:27:26.710000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "盘后先看到结束 这会没期权 升点分批出点留出点现金",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "盘后先看到结束 这会没期权 升点分批出点留出点现金",
+  "attribution": "direct"
+}
