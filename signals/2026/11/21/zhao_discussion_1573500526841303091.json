@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573500526841303091",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-21T00:49:19.825000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "买了多少，怎么就爆仓了",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "买了多少，怎么就爆仓了"
+}
