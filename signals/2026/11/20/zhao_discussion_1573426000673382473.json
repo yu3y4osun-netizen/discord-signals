@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573426000673382473",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-11-20T19:53:11.402000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "真牛逼能看到128的英伟达",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "真牛逼能看到128的英伟达"
+}
