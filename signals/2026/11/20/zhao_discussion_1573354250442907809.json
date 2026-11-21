@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573354250442907809",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "souyue",
+  "ts": "2026-11-20T15:08:04.814000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没站稳呢，别急",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "没站稳呢，别急"
+}
