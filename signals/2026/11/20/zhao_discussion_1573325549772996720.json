@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573325549772996720",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-20T13:14:02.041000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在割肉换这个要多久才回本呀￼",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "现在割肉换这个要多久才回本呀￼"
+}
