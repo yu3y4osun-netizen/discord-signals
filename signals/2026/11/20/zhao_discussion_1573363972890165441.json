@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573363972890165441",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-20T15:46:42.826000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "谁加息周期上杠杆做多啊",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "谁加息周期上杠杆做多啊"
+}
