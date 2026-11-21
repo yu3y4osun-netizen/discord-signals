@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573427148382015499",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-20T19:57:45.037000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是财报要第三方审计会计出报告的 这次财报数据是cfo这方拿的数据 说缓个2周提交 10-q会计的文件",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是财报要第三方审计会计出报告的 这次财报数据是cfo这方拿的数据 说缓个2周提交 10-q会计的文件",
+  "attribution": "direct"
+}
