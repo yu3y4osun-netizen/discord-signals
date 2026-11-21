@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573364118264483912",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hellogwh",
+  "ts": "2026-11-20T15:47:17.486000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你看长桥那些大佬有几个会做空，基本都是做多或者call",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "你看长桥那些大佬有几个会做空，基本都是做多或者call"
+}
