@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573422423787708477",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-20T19:38:58.606000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "只买买指数 个股时不时会突发个利空",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "只买买指数 个股时不时会突发个利空",
+  "attribution": "direct"
+}
