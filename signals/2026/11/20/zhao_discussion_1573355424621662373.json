@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573355424621662373",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-20T15:12:44.760000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "就怕起床soxl 35",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "就怕起床soxl 35"
+}
