@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573424783272575058",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-20T19:48:21.151000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "老黄和特朗普之前走太近 民主党上台肯定要搞他",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "老黄和特朗普之前走太近 民主党上台肯定要搞他",
+  "attribution": "direct"
+}
