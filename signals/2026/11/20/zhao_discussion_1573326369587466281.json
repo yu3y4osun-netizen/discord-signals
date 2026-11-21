@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573326369587466281",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-20T13:17:17.500000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "坦白说，我有预感今天猛砸￼",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "坦白说，我有预感今天猛砸￼"
+}
