@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573368342411215029",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-20T16:04:04.601000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天尾盘应该上不去647了 要等周一的低开在确认低点了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "今天尾盘应该上不去647了 要等周一的低开在确认低点了",
+  "attribution": "direct"
+}
