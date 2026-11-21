@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573363470362091621",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-20T15:44:43.014000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": true,
+    "summary": "刚才的英伟达也没说设置不设置止损",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "刚才的英伟达也没说设置不设置止损"
+}
