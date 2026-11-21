@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573365372055461931",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "souyue",
+  "ts": "2026-11-20T15:52:16.413000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你们自己要设置止损啊，不能只看买入，我刚刚11点高点全出了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "你们自己要设置止损啊，不能只看买入，我刚刚11点高点全出了"
+}
