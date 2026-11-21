@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573416631718256673",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "tommytian0827",
+  "ts": "2026-11-20T19:15:57.669000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "spx跌破7000了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "spx跌破7000了"
+}
