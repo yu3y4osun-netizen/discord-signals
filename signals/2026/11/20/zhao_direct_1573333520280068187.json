@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573333520280068187",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-20T13:45:42.358000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "主要看 今天和周一 今天是期权交割日 交割日 要么走结算 要么就是还是很弱 去周一的低开做确认",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "主要看 今天和周一  今天是期权交割日    交割日 要么走结算 要么就是还是很弱 去周一的低开做确认",
+  "attribution": "direct"
+}
