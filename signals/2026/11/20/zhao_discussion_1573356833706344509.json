@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573356833706344509",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yuumiiiiii",
+  "ts": "2026-11-20T15:18:20.712000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "又能看到4万多的Btc 了吧",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "又能看到4万多的Btc 了吧"
+}
