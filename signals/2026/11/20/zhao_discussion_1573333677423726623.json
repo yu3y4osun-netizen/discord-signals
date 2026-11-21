@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573333677423726623",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "priortry26",
+  "ts": "2026-11-20T13:46:19.824000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "VIX"
+    ],
+    "is_following_zhao": false,
+    "summary": "我看vix已经破30了呀",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我看vix已经破30了呀"
+}
