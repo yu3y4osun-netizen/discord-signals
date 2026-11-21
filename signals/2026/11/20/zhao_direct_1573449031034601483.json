@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573449031034601483",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-20T21:24:42.268000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "然后就是今天是开盘能上去今天是低点 今天走的单边 周一会低开下出那个新的低点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后就是今天是开盘能上去今天是低点 今天走的单边 周一会低开下出那个新的低点",
+  "attribution": "direct"
+}
