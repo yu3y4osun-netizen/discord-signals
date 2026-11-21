@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573421622545743953",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "zqlxr",
+  "ts": "2026-11-20T19:35:47.575000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "QQQ600不知要不要补",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "QQQ600不知要不要补"
+}
