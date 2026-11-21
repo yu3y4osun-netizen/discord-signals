@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573362586844659893",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-20T15:41:12.367000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA",
+      "QQQ"
+    ],
+    "is_following_zhao": true,
+    "summary": "到如今还是qqq soxx nvda就算是分100次加，他还是在亏",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "到如今还是qqq soxx nvda就算是分100次加，他还是在亏"
+}
