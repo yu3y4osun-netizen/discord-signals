@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573352802233884888",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiekai",
+  "ts": "2026-11-20T15:02:19.534000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq太贵了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "qqq太贵了"
+}
