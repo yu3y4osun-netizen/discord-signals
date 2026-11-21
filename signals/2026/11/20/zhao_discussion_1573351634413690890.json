@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573351634413690890",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-20T14:57:41.104000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我比赵哥加的早",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我比赵哥加的早"
+}
