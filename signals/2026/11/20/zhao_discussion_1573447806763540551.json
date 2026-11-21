@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573447806763540551",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "allenlove",
+  "ts": "2026-11-20T21:19:50.379000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "greed",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥 我重仓了soxl 要先止损吗😂",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 我重仓了soxl 要先止损吗😂"
+}
