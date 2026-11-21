@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573443849685307476",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-20T21:04:06.938000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD",
+      "AVGO"
+    ],
+    "is_following_zhao": false,
+    "summary": "老黄被调查 牵连出amd博通被调查一样 一个事件出来会牵连出其他的",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "老黄被调查 牵连出amd博通被调查一样 一个事件出来会牵连出其他的",
+  "attribution": "direct"
+}
