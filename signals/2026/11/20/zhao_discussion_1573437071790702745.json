@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573437071790702745",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-20T20:37:10.962000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "卧槽，怎么搞",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "卧槽，怎么搞"
+}
