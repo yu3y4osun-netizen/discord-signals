@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573347345725259779",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-20T14:40:38.601000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "最近天天看清仓销号，我感觉可以加仓了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "最近天天看清仓销号，我感觉可以加仓了"
+}
