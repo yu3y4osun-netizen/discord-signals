@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573442541955846269",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-20T20:58:55.151000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SMCI"
+    ],
+    "is_following_zhao": false,
+    "summary": "这个调查 就让人和smci那会被调查做对比去了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这个调查 就让人和smci那会被调查做对比去了",
+  "attribution": "direct"
+}
