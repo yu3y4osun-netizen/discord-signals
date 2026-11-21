@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573512746295894078",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-21T01:37:53.170000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥昨天晚上的止损牛逼啊",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥昨天晚上的止损牛逼啊"
+}
