@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573365283148795958",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-20T15:51:55.216000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "tqqq 和soxx这里几轮都是平了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "tqqq 和soxx这里几轮都是平了",
+  "attribution": "direct"
+}
