@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573422629967372401",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-11-20T19:39:47.763000+00:00",
+  "captured_at": "2026-11-21T10:56:26+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "🫠就是干 还有钱 周末去和银行经理聊下 看看定存能不能取出来",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "A股银行"
+    ]
+  },
+  "raw_text": "🫠就是干 还有钱 周末去和银行经理聊下 看看定存能不能取出来"
+}
