@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574414148287201362",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-23T13:19:44.152000+00:00",
+  "captured_at": "2026-11-23T21:58:30+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这1小时量能还没走完 还是看盘前1小时量能有没有缩量 缩量就是夜盘盘前涨 盘中跌破均线又是盘后买",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这1小时量能还没走完 还是看盘前1小时量能有没有缩量 缩量就是夜盘盘前涨 盘中跌破均线又是盘后买",
+  "attribution": "direct"
+}
