@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574235001149591704",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-23T01:27:52.146000+00:00",
+  "captured_at": "2026-11-23T11:16:18+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "正如大家所记得的那样,我预测了11月3日中期选举的两件事。 第一,如果民主党获胜,股票市场将大幅下跌,它们已经下跌了,第二,今天已造成81 000名抗议者丧生的...",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "正如大家所记得的那样,我预测了11月3日中期选举的两件事。 第一,如果民主党获胜,股票市场将大幅下跌,它们已经下跌了,第二,今天已造成81 000名抗议者丧生的伊朗伊斯兰共和国在袭击中将变得更加凶猛,这也已经发生了。 伊朗在上个星期发...\n【Trump】 2026-11-22 21:47 +0000"
+}
