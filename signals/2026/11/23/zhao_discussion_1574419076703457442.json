@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574419076703457442",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-23T13:39:19.178000+00:00",
+  "captured_at": "2026-11-23T21:58:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "融资随着现金多少的，越卖能接的股数越少",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "融资随着现金多少的，越卖能接的股数越少"
+}
