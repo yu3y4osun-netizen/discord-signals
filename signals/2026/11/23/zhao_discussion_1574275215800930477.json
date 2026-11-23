@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574275215800930477",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-23T04:07:40.066000+00:00",
+  "captured_at": "2026-11-23T21:58:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "是的 有人分析要跌到今年低点才有可能有大反弹",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "是的 有人分析要跌到今年低点才有可能有大反弹"
+}
