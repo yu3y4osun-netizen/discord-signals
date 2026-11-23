@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574235319883272338",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-23T01:29:08.138000+00:00",
+  "captured_at": "2026-11-23T11:16:18+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "川子说，民主党的锅，我是救世主，看我来拉升",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "川子说，民主党的锅，我是救世主，看我来拉升"
+}
