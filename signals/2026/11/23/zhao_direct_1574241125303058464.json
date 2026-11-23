@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574241125303058464",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-23T01:52:12.258000+00:00",
+  "captured_at": "2026-11-23T11:16:18+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "周五如果是尾盘附近买的就三个时间点减点 夜盘开盘 结束 和盘前2小时",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "周五如果是尾盘附近买的就三个时间点减点  夜盘开盘 结束 和盘前2小时",
+  "attribution": "direct"
+}
