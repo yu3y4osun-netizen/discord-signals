@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574089999954087938",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-22T15:51:41.167000+00:00",
+  "captured_at": "2026-11-23T11:16:18+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "台湾也约谈做空和容易的",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "台湾也约谈做空和容易的"
+}
