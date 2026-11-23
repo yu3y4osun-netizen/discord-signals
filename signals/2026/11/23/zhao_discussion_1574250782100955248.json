@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574250782100955248",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-23T02:30:34.618000+00:00",
+  "captured_at": "2026-11-23T11:16:18+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "我不这么认为……我觉得我们可能会在这里看到一个反弹，但在我看来，我看到 $SPX 会按照下面图片所示下降到 $6,321，即 33.3% 八度水平。",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我不这么认为……我觉得我们可能会在这里看到一个反弹，但在我看来，我看到 $SPX 会按照下面图片所示下降到 $6,321，即 33.3% 八度水平。"
+}
