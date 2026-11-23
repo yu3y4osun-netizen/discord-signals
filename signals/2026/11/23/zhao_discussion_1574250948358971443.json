@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574250948358971443",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-23T02:31:14.257000+00:00",
+  "captured_at": "2026-11-23T11:16:18+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ",
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "按这人说法，标普纳指还要再跌10%🙃",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "按这人说法，标普纳指还要再跌10%🙃"
+}
