@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1573925141644054680",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-22T04:56:35.883000+00:00",
+  "captured_at": "2026-11-23T11:16:18+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "BTC"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，比特币反弹到6了，一般来说修复都是比特币会比股票先行动吧，周一下探可能性还大吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，比特币反弹到6了，一般来说修复都是比特币会比股票先行动吧，周一下探可能性还大吗"
+}
