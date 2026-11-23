@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574413840320434297",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-11-23T13:18:30.727000+00:00",
+  "captured_at": "2026-11-23T21:58:30+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "呼叫赵哥",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "呼叫赵哥"
+}
