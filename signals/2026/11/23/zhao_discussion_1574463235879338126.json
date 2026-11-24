@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574463235879338126",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-23T16:34:47.546000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不可能一下子突破新高回本的￼",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "不可能一下子突破新高回本的￼"
+}
