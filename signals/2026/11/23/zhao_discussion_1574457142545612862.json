@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574457142545612862",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hao88",
+  "ts": "2026-11-23T16:10:34.782000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥，是今天才有消息公布政府买了很多英伟达吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，是今天才有消息公布政府买了很多英伟达吗"
+}
