@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574449191843791051",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-23T15:38:59.187000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "周看的话 周五就半天 然后尾盘过节那会可以",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "周看的话 周五就半天 然后尾盘过节那会可以",
+  "attribution": "direct"
+}
