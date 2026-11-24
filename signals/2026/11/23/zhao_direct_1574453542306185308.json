@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574453542306185308",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-23T15:56:16.418000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "不怎么降息了 要看明年7月份",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "不怎么降息了 要看明年7月份",
+  "attribution": "direct"
+}
