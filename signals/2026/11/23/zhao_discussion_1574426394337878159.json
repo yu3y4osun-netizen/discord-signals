@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574426394337878159",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-23T14:08:23.838000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": true,
+    "summary": "周五只买了标普的期货",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "周五只买了标普的期货"
+}
