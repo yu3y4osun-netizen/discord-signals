@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574460193180360766",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-23T16:22:42.110000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个可能按不断短线来 特朗普自己个人账户都在弄短线",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这个可能按不断短线来 特朗普自己个人账户都在弄短线",
+  "attribution": "direct"
+}
