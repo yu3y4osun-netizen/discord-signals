@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574450735209259041",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "skyeli168",
+  "ts": "2026-11-23T15:45:07.154000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥，那现在关于英伟达财报会计审核的问题有披露吗？",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，那现在关于英伟达财报会计审核的问题有披露吗？"
+}
