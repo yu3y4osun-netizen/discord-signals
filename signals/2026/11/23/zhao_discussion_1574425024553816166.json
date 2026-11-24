@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574425024553816166",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-23T14:02:57.256000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "黄仁勋退出英伟达的时候股价是多少",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "黄仁勋退出英伟达的时候股价是多少"
+}
