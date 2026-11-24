@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574440545567117393",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-23T15:04:37.754000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在就是到12月6日是反弹段",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "现在就是到12月6日是反弹段",
+  "attribution": "direct"
+}
