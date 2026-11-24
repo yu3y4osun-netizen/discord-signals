@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574440690396430367",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-23T15:05:12.284000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq647站上就是 675 700两个关口",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "qqq647站上就是 675 700两个关口",
+  "attribution": "direct"
+}
