@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574451853171892338",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-23T15:49:33.697000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "上周五有点 因为一直问英伟达要不要止损 加上出调查了 崩了点 后面都加指数去了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "上周五有点 因为一直问英伟达要不要止损 加上出调查了 崩了点 后面都加指数去了",
+  "attribution": "direct"
+}
