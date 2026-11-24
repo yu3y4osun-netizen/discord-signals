@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574436309119008978",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-23T14:47:47.706000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "对，之前赵哥讲过，突然一个暴涨，单多数天是跌",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "对，之前赵哥讲过，突然一个暴涨，单多数天是跌"
+}
