@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574449502591385641",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-23T15:40:13.275000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "前面抛售太多 很多现金预留出来了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "前面抛售太多 很多现金预留出来了",
+  "attribution": "direct"
+}
