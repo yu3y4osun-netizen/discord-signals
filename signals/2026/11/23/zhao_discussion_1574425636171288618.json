@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574425636171288618",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yinmo888",
+  "ts": "2026-11-23T14:05:23.077000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "8毛买的 call 英伟达150",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "8毛买的 call 英伟达150"
+}
