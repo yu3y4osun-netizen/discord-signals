@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574447370807025695",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-23T15:31:45.018000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥下周加息决议是几号",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥下周加息决议是几号"
+}
