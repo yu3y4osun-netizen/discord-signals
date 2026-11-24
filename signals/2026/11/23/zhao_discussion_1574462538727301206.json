@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574462538727301206",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "kongfu233hahaha",
+  "ts": "2026-11-23T16:32:01.332000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "CRWV",
+      "NBIS"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥 现在还剩2成仓 刚才crwv nbis可以多出一点吗 刚出了10%感觉没回多少资金",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥 现在还剩2成仓 刚才crwv  nbis可以多出一点吗 刚出了10%感觉没回多少资金"
+}
