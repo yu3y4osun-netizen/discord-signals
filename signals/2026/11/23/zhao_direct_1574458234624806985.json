@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574458234624806985",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-23T16:14:55.154000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "对 647站稳可以 指数做做短线 或者后面周五尾盘加",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "对 647站稳可以 指数做做短线  或者后面周五尾盘加",
+  "attribution": "direct"
+}
