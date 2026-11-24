@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574431045535797269",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-23T14:26:52.770000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "上周说的 不是上周五就是周一低开是个回调结束信号",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "上周说的 不是上周五就是周一低开是个回调结束信号",
+  "attribution": "direct"
+}
