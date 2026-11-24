@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574435702970646703",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-23T14:45:23.189000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这是反转，还是反弹呀",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "这是反转，还是反弹呀"
+}
