@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574458188256907305",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hao88",
+  "ts": "2026-11-23T16:14:44.099000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "INTC",
+      "NVDA"
+    ],
+    "is_following_zhao": true,
+    "summary": "赵哥，那是不是意味着他们想把之前英特尔的套路继续用在英伟达身上，先经过国会洗白，然后说政府入股英伟达，为了国家安全，然后就名正言顺了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥，那是不是意味着他们想把之前英特尔的套路继续用在英伟达身上，先经过国会洗白，然后说政府入股英伟达，为了国家安全，然后就名正言顺了"
+}
