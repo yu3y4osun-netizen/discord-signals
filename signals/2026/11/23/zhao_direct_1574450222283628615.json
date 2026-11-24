@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574450222283628615",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-23T15:43:04.863000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他就是搞单边 让韩国 A股港是低开不得不加量或者救市",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "他就是搞单边 让韩国 A股港是低开不得不加量或者救市",
+  "attribution": "direct"
+}
