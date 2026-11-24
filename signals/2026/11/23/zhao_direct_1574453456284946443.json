@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574453456284946443",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-23T15:55:55.909000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "然后就是阴跌6-7天的 跌幅 一下反弹会给你收回来",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后就是阴跌6-7天的 跌幅  一下反弹会给你收回来",
+  "attribution": "direct"
+}
