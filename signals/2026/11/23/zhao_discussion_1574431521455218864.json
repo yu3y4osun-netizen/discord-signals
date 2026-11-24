@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574431521455218864",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "corrineq",
+  "ts": "2026-11-23T14:28:46.238000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 感恩节后会打伊朗吗？",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 感恩节后会打伊朗吗？"
+}
