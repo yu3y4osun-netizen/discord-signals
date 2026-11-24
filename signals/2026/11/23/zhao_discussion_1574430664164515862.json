@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574430664164515862",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "allenlove",
+  "ts": "2026-11-23T14:25:21.844000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥 后面看涨吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥 后面看涨吗"
+}
