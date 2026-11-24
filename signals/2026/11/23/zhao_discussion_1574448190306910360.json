@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574448190306910360",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-23T15:35:00.402000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，空仓的人，建议是盘后买么，目前看647站得稳稳",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，空仓的人，建议是盘后买么，目前看647站得稳稳"
+}
