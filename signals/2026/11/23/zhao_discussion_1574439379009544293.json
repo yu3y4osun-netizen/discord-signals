@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574439379009544293",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-23T14:59:59.625000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天还会有可能继续冲新高吗，我在考虑刚才回踩低位接回来的要不要挂今天高点止盈",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "今天还会有可能继续冲新高吗，我在考虑刚才回踩低位接回来的要不要挂今天高点止盈"
+}
