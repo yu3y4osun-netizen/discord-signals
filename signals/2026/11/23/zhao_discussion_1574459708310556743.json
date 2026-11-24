@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574459708310556743",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hao88",
+  "ts": "2026-11-23T16:20:46.508000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "所以现在任何ai方面围绕的都是英伟达，美国政府控制了英伟达就控制整个产业链了，这招跟东大学的吧🤣",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "所以现在任何ai方面围绕的都是英伟达，美国政府控制了英伟达就控制整个产业链了，这招跟东大学的吧🤣"
+}
