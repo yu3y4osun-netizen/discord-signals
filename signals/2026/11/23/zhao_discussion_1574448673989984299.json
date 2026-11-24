@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574448673989984299",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-23T15:36:55.721000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": true,
+    "summary": "赵哥，今天如果盘中没有利空的话，理想加仓点位在哪块合适",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，今天如果盘中没有利空的话，理想加仓点位在哪块合适"
+}
