@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574450967439613954",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-23T15:46:02.522000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没有还会调查 后面再看看 急跌机会",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "没有还会调查 后面再看看 急跌机会",
+  "attribution": "direct"
+}
