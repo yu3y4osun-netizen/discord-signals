@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574463662226276486",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-23T16:36:29.195000+00:00",
+  "captured_at": "2026-11-24T10:33:19+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ",
+      "TQQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "指数就是极端那种情况 tqqq 开盘判断不了要不要单边 先qqq 尾盘有单边了再加tqqq",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "指数就是极端那种情况 tqqq  开盘判断不了要不要单边 先qqq 尾盘有单边了再加tqqq",
+  "attribution": "direct"
+}
