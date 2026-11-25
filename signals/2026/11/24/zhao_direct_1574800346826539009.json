@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574800346826539009",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-24T14:54:21.059000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "只要看当天均线就可以了 现在量低就是看均线是不是站在",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "只要看当天均线就可以了 现在量低就是看均线是不是站在",
+  "attribution": "direct"
+}
