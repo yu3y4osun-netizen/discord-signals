@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575135649374412901",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T13:06:43.416000+00:00",
+  "captured_at": "2026-11-25T22:18:08+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "然后盘前都在均线下 盘中又大多数时间均线下缩量就注意那天仅仅盘后看看 盘后还不怎么升 亚洲也要跌",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后盘前都在均线下 盘中又大多数时间均线下缩量就注意那天仅仅盘后看看 盘后还不怎么升 亚洲也要跌",
+  "attribution": "direct"
+}
