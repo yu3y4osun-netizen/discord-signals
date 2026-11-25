@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574775916805103778",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-24T13:17:16.488000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "以往利空一般当天不会跌太狠，让人觉得安全了，后面连续暴击",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "以往利空一般当天不会跌太狠，让人觉得安全了，后面连续暴击"
+}
