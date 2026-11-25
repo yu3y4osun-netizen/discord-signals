@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574764900386078822",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-24T12:33:29.969000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "然后等下听证会 英伟达还会有次140-150机会",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "然后等下听证会 英伟达还会有次140-150机会",
+  "attribution": "direct"
+}
