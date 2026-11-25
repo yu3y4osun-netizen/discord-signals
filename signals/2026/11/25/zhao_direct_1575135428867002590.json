@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575135428867002590",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T13:05:50.843000+00:00",
+  "captured_at": "2026-11-25T22:18:08+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是625是周一均线 跌破就看606",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是625是周一均线 跌破就看606",
+  "attribution": "direct"
+}
