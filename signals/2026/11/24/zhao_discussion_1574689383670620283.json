@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574689383670620283",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "chitang006cc",
+  "ts": "2026-11-24T07:33:25.381000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "只是感觉老黄会回来 我以为是12月听证会后 没想到是昨天 川子还是nb",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "只是感觉老黄会回来 我以为是12月听证会后 没想到是昨天 川子还是nb"
+}
