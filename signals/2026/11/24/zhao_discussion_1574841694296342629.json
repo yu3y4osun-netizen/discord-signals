@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574841694296342629",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-11-24T17:38:39.064000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "消费股一直在创新高",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "消费股一直在创新高"
+}
