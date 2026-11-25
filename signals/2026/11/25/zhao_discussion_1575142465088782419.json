@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575142465088782419",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yinmo888",
+  "ts": "2026-11-25T13:33:48.409000+00:00",
+  "captured_at": "2026-11-25T22:18:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "看涨跌就晓得了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "看涨跌就晓得了"
+}
