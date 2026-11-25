@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574807329583530226",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-24T15:22:05.878000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没用的，成本越来越低，扛不住跌这么多",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "没用的，成本越来越低，扛不住跌这么多"
+}
