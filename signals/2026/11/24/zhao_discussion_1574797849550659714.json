@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574797849550659714",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-24T14:44:25.662000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "拉的让你感觉盘前的利空是你自己的错觉",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "拉的让你感觉盘前的利空是你自己的错觉"
+}
