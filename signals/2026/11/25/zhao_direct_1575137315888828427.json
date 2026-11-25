@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575137315888828427",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T13:13:20.744000+00:00",
+  "captured_at": "2026-11-25T22:18:08+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "但是关税插足进来前 本来就有今天pce和节后听证会",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "但是关税插足进来前 本来就有今天pce和节后听证会",
+  "attribution": "direct"
+}
