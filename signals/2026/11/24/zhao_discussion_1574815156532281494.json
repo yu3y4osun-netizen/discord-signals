@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574815156532281494",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-24T15:53:11.968000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "到底是什么人能拿得住半导体，真牛逼",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "到底是什么人能拿得住半导体，真牛逼"
+}
