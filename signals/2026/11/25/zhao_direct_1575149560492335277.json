@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575149560492335277",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T14:02:00.085000+00:00",
+  "captured_at": "2026-11-25T22:18:08+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "低价要增量 现在是低价低量 量没进来就会一直水下 昨天636均价在水下 可能位置高 今天均价在625附近了还是三个时间段水下 没上穿就是 这个位置还没到他触发那个点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "低价要增量   现在是低价低量 量没进来就会一直水下  昨天636均价在水下 可能位置高  今天均价在625附近了还是三个时间段水下 没上穿就是 这个位置还没到他触发那个点",
+  "attribution": "direct"
+}
