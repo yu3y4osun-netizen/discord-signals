@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575136220919627817",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T13:08:59.683000+00:00",
+  "captured_at": "2026-11-25T22:18:08+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "周一透支了后面几天量都没有一直水下就会还回去 在确认那个底部 太快机构也没吃多少 就会在回踩 再来一次",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "周一透支了后面几天量都没有一直水下就会还回去 在确认那个底部 太快机构也没吃多少 就会在回踩 再来一次",
+  "attribution": "direct"
+}
