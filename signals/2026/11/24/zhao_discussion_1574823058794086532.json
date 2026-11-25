@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574823058794086532",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-24T16:24:36.014000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": false,
+    "summary": "我印象里soxl30多到300一次没买过，140多倒开始做了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "我印象里soxl30多到300一次没买过，140多倒开始做了"
+}
