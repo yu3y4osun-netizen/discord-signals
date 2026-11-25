@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574799763566624850",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-24T14:52:01.999000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "看SPY是不是快红了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "看SPY是不是快红了"
+}
