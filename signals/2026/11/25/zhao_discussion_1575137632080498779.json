@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575137632080498779",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hellogwh",
+  "ts": "2026-11-25T13:14:36.130000+00:00",
+  "captured_at": "2026-11-25T22:18:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "606怕是半导体还要跌20个点",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "606怕是半导体还要跌20个点"
+}
