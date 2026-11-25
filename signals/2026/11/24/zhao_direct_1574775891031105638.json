@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574775891031105638",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-24T13:17:10.343000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他主要就是权利被全面限制前 会都使用下",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "他主要就是权利被全面限制前 会都使用下",
+  "attribution": "direct"
+}
