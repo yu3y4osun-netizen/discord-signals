@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574703525148229643",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-24T08:29:36.972000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "上次币崩了也是他背锅",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "上次币崩了也是他背锅"
+}
