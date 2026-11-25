@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574815343501643807",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-24T15:53:56.545000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "其实半导体不加杠杆长远来看还真能拿住",
+    "filter_reason": "position_action",
+    "sectors_mentioned": [
+      "半导体"
+    ]
+  },
+  "raw_text": "其实半导体不加杠杆长远来看还真能拿住"
+}
