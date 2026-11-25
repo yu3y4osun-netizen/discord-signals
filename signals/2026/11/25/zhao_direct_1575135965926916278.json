@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575135965926916278",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T13:07:58.888000+00:00",
+  "captured_at": "2026-11-25T22:18:08+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一直水下 今天均价627这个量都冲不上就是在规避",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "一直水下 今天均价627这个量都冲不上就是在规避",
+  "attribution": "direct"
+}
