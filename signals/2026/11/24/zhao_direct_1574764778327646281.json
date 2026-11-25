@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574764778327646281",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-24T12:33:00.868000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ"
+    ],
+    "is_following_zhao": false,
+    "summary": "qqq一直均线下就是等上穿和尾盘的模式",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "qqq一直均线下就是等上穿和尾盘的模式",
+  "attribution": "direct"
+}
