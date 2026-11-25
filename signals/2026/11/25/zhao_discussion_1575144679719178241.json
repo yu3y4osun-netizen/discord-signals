@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575144679719178241",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mursame",
+  "ts": "2026-11-25T13:42:36.418000+00:00",
+  "captured_at": "2026-11-25T22:18:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NBIS"
+    ],
+    "is_following_zhao": false,
+    "summary": "10月初nbis 235现在80",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "10月初nbis 235现在80"
+}
