@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574765653137555517",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-24T12:36:29.439000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是偏稳定 但是像昨天反弹弹性也没其他大",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是偏稳定 但是像昨天反弹弹性也没其他大",
+  "attribution": "direct"
+}
