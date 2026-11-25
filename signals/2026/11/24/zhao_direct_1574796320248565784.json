@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574796320248565784",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-24T14:38:21.048000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "一直在均线下就尾盘就可以了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "一直在均线下就尾盘就可以了",
+  "attribution": "direct"
+}
