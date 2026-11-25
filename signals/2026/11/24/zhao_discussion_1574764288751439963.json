@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574764288751439963",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-24T12:31:04.144000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "回踩双底应该不会了吧",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "回踩双底应该不会了吧"
+}
