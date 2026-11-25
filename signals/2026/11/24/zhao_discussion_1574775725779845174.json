@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574775725779845174",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "liyli",
+  "ts": "2026-11-24T13:16:30.944000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "收到这个推送一键清仓😂",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "收到这个推送一键清仓😂"
+}
