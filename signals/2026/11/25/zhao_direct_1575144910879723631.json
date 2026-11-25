@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575144910879723631",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T13:43:31.531000+00:00",
+  "captured_at": "2026-11-25T22:18:08+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在都是尾盘 在看看盘中的图 水下时间长 没怎么超过均线 量柱不大 基本就当天没买盘了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "现在都是尾盘 在看看盘中的图 水下时间长 没怎么超过均线 量柱不大 基本就当天没买盘了",
+  "attribution": "direct"
+}
