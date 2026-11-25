@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574829355052433539",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-24T16:49:37.159000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "盘中量不是很大 带止损可以试那个小波段 尾盘再看看",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "盘中量不是很大 带止损可以试那个小波段 尾盘再看看",
+  "attribution": "direct"
+}
