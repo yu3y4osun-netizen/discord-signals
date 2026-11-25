@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575144620126371881",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-25T13:42:22.210000+00:00",
+  "captured_at": "2026-11-25T22:18:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥，我今天看了一个华尔街的访问，￼他们说AI板块在昨晚的基础上跌25%到35才是底部￼",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，我今天看了一个华尔街的访问，￼他们说AI板块在昨晚的基础上跌25%到35才是底部￼"
+}
