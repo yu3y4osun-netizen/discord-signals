@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575096252817743875",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "c8641",
+  "ts": "2026-11-25T10:30:10.545000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "存储也是跌的爹妈都不认识了",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "存储"
+    ]
+  },
+  "raw_text": "存储也是跌的爹妈都不认识了"
+}
