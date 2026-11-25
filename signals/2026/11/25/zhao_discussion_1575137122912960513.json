@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575137122912960513",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "skyeli168",
+  "ts": "2026-11-25T13:12:34.735000+00:00",
+  "captured_at": "2026-11-25T22:18:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个关税就是 之前赵哥说的 11 月 12 月出现的没听过的事件，用来回调的吗",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "这个关税就是 之前赵哥说的 11 月 12 月出现的没听过的事件，用来回调的吗"
+}
