@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1574789310224273493",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hooghgi",
+  "ts": "2026-11-24T14:10:29.728000+00:00",
+  "captured_at": "2026-11-25T18:54:23+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": true,
+    "summary": "英伟达期权都得赚疯了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "英伟达期权都得赚疯了"
+}
