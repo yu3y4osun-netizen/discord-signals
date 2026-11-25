@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575135937095278701",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "souyue",
+  "ts": "2026-11-25T13:07:52.014000+00:00",
+  "captured_at": "2026-11-25T22:18:08+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "GOOGL",
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "谷歌快摸到上周五的264了，英伟达如果不是黄回归，应该也到130以下了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "谷歌快摸到上周五的264了，英伟达如果不是黄回归，应该也到130以下了"
+}
