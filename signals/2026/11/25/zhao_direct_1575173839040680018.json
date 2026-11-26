@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575173839040680018",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T15:38:28.542000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "周一拉升前 就特朗普发过文说要老黄回归 还有就是贝森特说 外部寻找ceo老黄现在就是外部人士了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "周一拉升前 就特朗普发过文说要老黄回归 还有就是贝森特说 外部寻找ceo老黄现在就是外部人士了",
+  "attribution": "direct"
+}
