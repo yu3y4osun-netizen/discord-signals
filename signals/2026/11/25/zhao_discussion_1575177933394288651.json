@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575177933394288651",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "cthylla",
+  "ts": "2026-11-25T15:54:44.712000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "新云半导体这些深套的仓位，死拿一年还能解套吗？",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云",
+      "半导体"
+    ]
+  },
+  "raw_text": "新云半导体这些深套的仓位，死拿一年还能解套吗？"
+}
