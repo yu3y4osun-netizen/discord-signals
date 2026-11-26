@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575159604705501285",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "souyue",
+  "ts": "2026-11-25T14:41:54.812000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "别损在最低点，反弹了自己看着跑",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "别损在最低点，反弹了自己看着跑"
+}
