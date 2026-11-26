@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575210790691278869",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-25T18:05:18.502000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那就是提前消化了利好，一旦有点利空12月1日又会砸咯",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那就是提前消化了利好，一旦有点利空12月1日又会砸咯"
+}
