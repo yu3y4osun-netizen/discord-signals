@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575210026853732615",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-11-25T18:02:16.389000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "没做反该有多开心，我还补仓了p",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "没做反该有多开心，我还补仓了p"
+}
