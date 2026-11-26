@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575172734147633384",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T15:34:05.115000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [
+      "LITE"
+    ],
+    "is_following_zhao": false,
+    "summary": "lite那个1070就是盘后那会收购出来拉升 成为了最高点",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "lite那个1070就是盘后那会收购出来拉升 成为了最高点",
+  "attribution": "direct"
+}
