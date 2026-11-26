@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575224948648050760",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T19:01:34.022000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有些机构 今天没有买卖量",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "有些机构 今天没有买卖量",
+  "attribution": "direct"
+}
