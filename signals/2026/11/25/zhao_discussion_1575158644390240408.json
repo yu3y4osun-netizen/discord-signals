@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575158644390240408",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-25T14:38:05.855000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "指数每天5%的阴跌",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "指数每天5%的阴跌"
+}
