@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575172106579091540",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T15:31:35.491000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是周一那个突然急速的暴涨 就一部分人吃到 和加密之前特朗普政府单独吃那会一样",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是周一那个突然急速的暴涨 就一部分人吃到  和加密之前特朗普政府单独吃那会一样",
+  "attribution": "direct"
+}
