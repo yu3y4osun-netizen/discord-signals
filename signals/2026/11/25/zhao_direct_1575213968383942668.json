@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575213968383942668",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T18:17:56.123000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "今天这个情报披露时候量逐步进来了 要维持下就可以",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "今天这个情报披露时候量逐步进来了 要维持下就可以",
+  "attribution": "direct"
+}
