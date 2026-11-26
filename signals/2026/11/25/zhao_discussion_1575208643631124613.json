@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575208643631124613",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-11-25T17:56:46.603000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在油价也涨了啊",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "现在油价也涨了啊"
+}
