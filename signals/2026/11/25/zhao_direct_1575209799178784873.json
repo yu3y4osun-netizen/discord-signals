@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575209799178784873",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T18:01:22.107000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "明天不开后天半天",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "明天不开后天半天",
+  "attribution": "direct"
+}
