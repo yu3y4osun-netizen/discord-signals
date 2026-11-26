@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575160455607877703",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "souyue",
+  "ts": "2026-11-25T14:45:17.683000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "608已经算进入熊市了",
+    "filter_reason": "market_call"
+  },
+  "raw_text": "608已经算进入熊市了"
+}
