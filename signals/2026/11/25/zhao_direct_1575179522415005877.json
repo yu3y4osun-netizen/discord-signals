@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575179522415005877",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T16:01:03.564000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "+30%整体减持 然后事件跌了 先换指数 个股等低点又企稳才去",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "+30%整体减持  然后事件跌了 先换指数  个股等低点又企稳才去",
+  "attribution": "direct"
+}
