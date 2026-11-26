@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575166004336791685",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T15:07:20.603000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "涨10-20%出个10-20%仓位 在等利空事件的尾盘上和卖出跌幅有-20差距均线才买回",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "涨10-20%出个10-20%仓位 在等利空事件的尾盘上和卖出跌幅有-20差距均线才买回",
+  "attribution": "direct"
+}
