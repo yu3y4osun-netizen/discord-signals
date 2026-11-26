@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575168686170316904",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T15:18:00.002000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他要上均线时间长点就是会站稳攀升 不然就是只做成交额昨天那种反复上下穿",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "他要上均线时间长点就是会站稳攀升 不然就是只做成交额昨天那种反复上下穿",
+  "attribution": "direct"
+}
