@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575213873387016274",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T18:17:33.474000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "算事件差个听证会 利空披露就是特朗普是否和英伟达有内幕交易",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "算事件差个听证会  利空披露就是特朗普是否和英伟达有内幕交易",
+  "attribution": "direct"
+}
