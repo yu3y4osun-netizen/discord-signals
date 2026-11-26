@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575210511593771099",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-11-25T18:04:11.960000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "那我现在还能到手做多吗",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "那我现在还能到手做多吗"
+}
