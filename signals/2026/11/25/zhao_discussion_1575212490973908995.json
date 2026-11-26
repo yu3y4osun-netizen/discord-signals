@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575212490973908995",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-11-25T18:12:03.881000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我不行了，赵哥，能不能帮我玩一下我的账户",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "我不行了，赵哥，能不能帮我玩一下我的账户"
+}
