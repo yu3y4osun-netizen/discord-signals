@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575181884340830305",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T16:10:26.691000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在大多数ai个股都是这个幅度了 个股现在做的风险高",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "现在大多数ai个股都是这个幅度了 个股现在做的风险高",
+  "attribution": "direct"
+}
