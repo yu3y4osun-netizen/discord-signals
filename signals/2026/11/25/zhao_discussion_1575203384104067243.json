@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575203384104067243",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-11-25T17:35:52.634000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AMD"
+    ],
+    "is_following_zhao": false,
+    "summary": "赵哥帮看下AMD",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "赵哥帮看下AMD"
+}
