@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575197067679375442",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T17:10:46.681000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "嗯 国债拍卖和部分老黄调查有利好",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "嗯 国债拍卖和部分老黄调查有利好",
+  "attribution": "direct"
+}
