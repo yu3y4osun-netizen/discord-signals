@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575218369454407822",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T18:35:25.420000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "还是属于事件 就是pce这个事件后压606那个低点 然后调查局发官方 那个不是间谍又事件上去",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "还是属于事件  就是pce这个事件后压606那个低点 然后调查局发官方 那个不是间谍又事件上去",
+  "attribution": "direct"
+}
