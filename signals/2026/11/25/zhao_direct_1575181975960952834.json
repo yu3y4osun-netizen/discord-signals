@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575181975960952834",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T16:10:48.535000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "只能利空事件结束还是 指数起手",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "只能利空事件结束还是 指数起手",
+  "attribution": "direct"
+}
