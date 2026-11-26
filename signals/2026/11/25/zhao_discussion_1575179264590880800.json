@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575179264590880800",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-11-25T16:00:02.094000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我的意思是 那暴跌的时候也不会精准能买到低价的筹码啊， 整体不还是要亏",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我的意思是 那暴跌的时候也不会精准能买到低价的筹码啊， 整体不还是要亏"
+}
