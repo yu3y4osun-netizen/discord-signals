@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575165472939319378",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-25T15:05:13.908000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "如果持续1-2小时，是不是就企稳了",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "如果持续1-2小时，是不是就企稳了"
+}
