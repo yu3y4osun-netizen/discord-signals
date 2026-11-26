@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575197260088615075",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T17:11:32.555000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "突发：美国官员称，美国情报机构发现“没有证据”表明与黄仁勋有婚外情的女子Alice Huang是受中国情报机构指使对他进行间谍活动。 事实上，现有证据表明Alice Huang与黄仁勋的关系可能是恋情关系。 特朗普总统还向英伟达（$NVDA...",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "突发：美国官员称，美国情报机构发现“没有证据”表明与黄仁勋有婚外情的女子Alice Huang是受中国情报机构指使对他进行间谍活动。\n\n事实上，现有证据表明Alice Huang与黄仁勋的关系可能是恋情关系。\n\n特朗普总统还向英伟达（$NVDA）保证，黄仁勋不构成国家安全威胁。",
+  "attribution": "direct"
+}
