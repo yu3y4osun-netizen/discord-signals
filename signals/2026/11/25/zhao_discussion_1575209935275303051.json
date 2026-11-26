@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575209935275303051",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-11-25T18:01:54.555000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "AAPL"
+    ],
+    "is_following_zhao": false,
+    "summary": "这该死的苹果，真是就是不跌，为啥不跌啊",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "这该死的苹果，真是就是不跌，为啥不跌啊"
+}
