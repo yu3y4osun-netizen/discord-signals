@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575177498658996305",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T15:53:01.063000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是和关税那时候 有些暴涨加隔天又加关税跌回去一样",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是和关税那时候 有些暴涨加隔天又加关税跌回去一样",
+  "attribution": "direct"
+}
