@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575217514273579402",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "filmyatticc4",
+  "ts": "2026-11-25T18:32:01.529000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "NVDA"
+    ],
+    "is_following_zhao": false,
+    "summary": "美国参议员布克致信英伟达(NVDA.O)董事会主席琼斯，就特朗普的干预一事向英伟达提出质询。 (来自金十数据APP)",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "美国参议员布克致信英伟达(NVDA.O)董事会主席琼斯，就特朗普的干预一事向英伟达提出质询。\n(来自金十数据APP)"
+}
