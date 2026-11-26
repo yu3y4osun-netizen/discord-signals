@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575167991975248016",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T15:15:14.493000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "低价低量（价格再跌很多了 但是一直在均线下） 就要等时间段尾盘确认去看一天水下时间多还是均线上时间多",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "低价低量（价格再跌很多了 但是一直在均线下）   就要等时间段尾盘确认去看一天水下时间多还是均线上时间多",
+  "attribution": "direct"
+}
