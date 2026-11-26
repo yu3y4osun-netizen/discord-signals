@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575169567297118302",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lzz1080",
+  "ts": "2026-11-25T15:21:30.079000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥现在这样大波动的行情￼，开等值的￼call和put会不会是比较好的盈利方法？￼",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥现在这样大波动的行情￼，开等值的￼call和put会不会是比较好的盈利方法？￼"
+}
