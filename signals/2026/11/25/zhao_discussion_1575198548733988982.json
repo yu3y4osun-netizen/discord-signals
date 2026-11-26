@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575198548733988982",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "yanta-",
+  "ts": "2026-11-25T17:16:39.792000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [
+      "SPX"
+    ],
+    "is_following_zhao": false,
+    "summary": "大盘不考虑关税的利空了吗",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "大盘不考虑关税的利空了吗"
+}
