@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575184046093246706",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T16:19:02.093000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他一开始就往下没有转圜余地 就是开盘他就低开接近606 盘中买就不安全 因为下半场量能不计就会在新低只能尾盘确认安全点 上穿也就5分钟这种就是不牢靠昨天那种",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "他一开始就往下没有转圜余地 就是开盘他就低开接近606 盘中买就不安全 因为下半场量能不计就会在新低只能尾盘确认安全点  上穿也就5分钟这种就是不牢靠昨天那种",
+  "attribution": "direct"
+}
