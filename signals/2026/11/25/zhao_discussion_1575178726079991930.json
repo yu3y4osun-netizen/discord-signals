@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575178726079991930",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-11-25T15:57:53.703000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "我有个疑问，要大涨幅才出点，但是总体都已经高位跌下那么多了，就算当时在跌幅中止损也不会亏这么多啊，比如40到30，不出，然后12反弹到15出点，那后面 再6反弹...",
+    "filter_reason": "emotion"
+  },
+  "raw_text": "我有个疑问，要大涨幅才出点，但是总体都已经高位跌下那么多了，就算当时在跌幅中止损也不会亏这么多啊，比如40到30，不出，然后12反弹到15出点，那后面 再6反弹到8出点，这样有意义吗？"
+}
