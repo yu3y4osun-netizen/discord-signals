@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575160665830727831",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "t1d3c6e",
+  "ts": "2026-11-25T14:46:07.804000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "SOXL"
+    ],
+    "is_following_zhao": true,
+    "summary": "今天抄底了soxl 亏了一万刀割了",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "今天抄底了soxl 亏了一万刀割了"
+}
