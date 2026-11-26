@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575161875447025816",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T14:50:56.199000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "收盘再看看 安全点 最好听证会快结束时候",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "收盘再看看 安全点 最好听证会快结束时候",
+  "attribution": "direct"
+}
