@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575172396451889194",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T15:32:44.602000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "有啊 很多不是出来说要严查 夜盘周二 A股为啥高开低走就是了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "有啊 很多不是出来说要严查 夜盘周二 A股为啥高开低走就是了",
+  "attribution": "direct"
+}
