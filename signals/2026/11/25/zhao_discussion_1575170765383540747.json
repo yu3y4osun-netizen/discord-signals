@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575170765383540747",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-25T15:26:15.725000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "赵哥， 明天美股休息，这条也使用么",
+    "filter_reason": "zhao_discuss"
+  },
+  "raw_text": "赵哥，\n明天美股休息，这条也使用么"
+}
