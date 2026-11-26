@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575174443645272166",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T15:40:52.691000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "阴跌市场就是涨幅时间短 那天涨幅大 要当天减持点或 然后隔天缩量了就在等回调事件结束",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "阴跌市场就是涨幅时间短  那天涨幅大  要当天减持点或   然后隔天缩量了就在等回调事件结束",
+  "attribution": "direct"
+}
