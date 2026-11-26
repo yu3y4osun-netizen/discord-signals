@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575174995137532025",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T15:43:04.177000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "confidence",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是 低价了量能周一那天暴涨是测试了资金量就是资金量这块没问题",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是 低价了量能周一那天暴涨是测试了资金量就是资金量这块没问题",
+  "attribution": "direct"
+}
