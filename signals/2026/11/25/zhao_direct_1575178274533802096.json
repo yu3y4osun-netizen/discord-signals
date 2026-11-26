@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575178274533802096",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T15:56:06.046000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ",
+      "VOO"
+    ],
+    "is_following_zhao": false,
+    "summary": "要每次像周一那种涨幅出点 跌事件结束换qqq或者voo那种 等股票量能失衡结束再去换别的再买回本身",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "要每次像周一那种涨幅出点 跌事件结束换qqq或者voo那种 等股票量能失衡结束再去换别的再买回本身",
+  "attribution": "direct"
+}
