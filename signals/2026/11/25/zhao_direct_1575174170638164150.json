@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575174170638164150",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T15:39:47.601000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这会就是 这次 周一暴涨的 后面几个事件回调阴跌",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "这会就是 这次 周一暴涨的 后面几个事件回调阴跌",
+  "attribution": "direct"
+}
