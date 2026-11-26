@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575335397750210613",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lbh123",
+  "ts": "2026-11-26T02:20:27.140000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [
+      "QQQ",
+      "SPY"
+    ],
+    "is_following_zhao": false,
+    "summary": "只有qqq回踩了，spy没有",
+    "filter_reason": "ticker"
+  },
+  "raw_text": "只有qqq回踩了，spy没有"
+}
