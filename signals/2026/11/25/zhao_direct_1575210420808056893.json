@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575210420808056893",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T18:03:50.315000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "你看了当天的 那前面跌的量他不会变化",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "你看了当天的 那前面跌的量他不会变化",
+  "attribution": "direct"
+}
