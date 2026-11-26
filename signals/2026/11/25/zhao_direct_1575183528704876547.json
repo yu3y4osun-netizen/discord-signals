@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575183528704876547",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T16:16:58.738000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "之前单边下跌 上半场和中午都是平稳的 还会有小V 陷进去都是后半场持续水下 就往下",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "之前单边下跌 上半场和中午都是平稳的 还会有小V 陷进去都是后半场持续水下 就往下",
+  "attribution": "direct"
+}
