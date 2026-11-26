@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575176590227144806",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T15:49:24.476000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是上面别人说的 听证会不是要等很久 其实去掉节日和周末也就下周二开始听证会了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是上面别人说的 听证会不是要等很久 其实去掉节日和周末也就下周二开始听证会了",
+  "attribution": "direct"
+}
