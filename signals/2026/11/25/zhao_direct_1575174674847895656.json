@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575174674847895656",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T15:41:47.814000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他结束阴跌有主升的时候 就是利空事件的时间线上会减少或者没有 反弹时间要3天持续量上面",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "他结束阴跌有主升的时候 就是利空事件的时间线上会减少或者没有 反弹时间要3天持续量上面",
+  "attribution": "direct"
+}
