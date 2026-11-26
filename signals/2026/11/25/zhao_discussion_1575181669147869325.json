@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575181669147869325",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "lesliegogo",
+  "ts": "2026-11-25T16:09:35.385000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这个云主要亏的太多了 普遍都是-60%+了",
+    "filter_reason": "sector_view",
+    "sectors_mentioned": [
+      "云"
+    ]
+  },
+  "raw_text": "这个云主要亏的太多了 普遍都是-60%+了"
+}
