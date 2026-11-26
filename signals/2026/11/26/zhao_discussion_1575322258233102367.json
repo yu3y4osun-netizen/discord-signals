@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575322258233102367",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "mrzhoulucky",
+  "ts": "2026-11-26T01:28:14.435000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "现在每天基本就干等 群友大部分也不会做t 你让他们怎么回本呢",
+    "filter_reason": "position_action"
+  },
+  "raw_text": "现在每天基本就干等 群友大部分也不会做t 你让他们怎么回本呢"
+}
