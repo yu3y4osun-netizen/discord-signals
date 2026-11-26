@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575181423424307251",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T16:08:36.800000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是周一有些不是+30% 后面不是利空一堆事件就是看这个30%会跌回去",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是周一有些不是+30% 后面不是利空一堆事件就是看这个30%会跌回去",
+  "attribution": "direct"
+}
