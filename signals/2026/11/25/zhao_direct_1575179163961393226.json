@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575179163961393226",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T15:59:38.102000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "他走阴跌 多暴涨路线就是 时不时有个脉冲 脉冲那天他就算好了跌幅",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "他走阴跌 多暴涨路线就是 时不时有个脉冲 脉冲那天他就算好了跌幅",
+  "attribution": "direct"
+}
