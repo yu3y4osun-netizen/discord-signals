@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575217903219773623",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "xiaozhaolucky",
+  "ts": "2026-11-25T18:33:34.261000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "kol_direct",
+  "payload": {
+    "mood": "neutral",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "就是是不是特朗普低位买了 然后让董事会回聘这个没披露了",
+    "filter_reason": "kol_direct",
+    "attribution": "direct"
+  },
+  "raw_text": "就是是不是特朗普低位买了 然后让董事会回聘这个没披露了",
+  "attribution": "direct"
+}
