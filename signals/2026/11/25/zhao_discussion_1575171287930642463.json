@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.2",
+  "message_id": "1575171287930642463",
+  "channel_key": "zhao_discussion",
+  "channel_name": "赵哥讨论区",
+  "author": "hdhmc",
+  "ts": "2026-11-25T15:28:20.310000+00:00",
+  "captured_at": "2026-11-26T10:43:50+08:00",
+  "signal_type": "community",
+  "payload": {
+    "mood": "fear",
+    "tickers_mentioned": [],
+    "is_following_zhao": false,
+    "summary": "这盘面，干脆来个超大跌，才能引起政府救市，一直阴跌太难",
+    "filter_reason": "emotion",
+    "sectors_mentioned": [
+      "A股政策"
+    ]
+  },
+  "raw_text": "这盘面，干脆来个超大跌，才能引起政府救市，一直阴跌太难"
+}
